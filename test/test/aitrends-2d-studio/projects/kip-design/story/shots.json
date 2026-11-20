@@ -1,0 +1,78 @@
+{
+ "title": "Kip design sheet",
+ "duration": 12.0,
+ "shots": [
+  {
+   "id": "k1",
+   "start": 0.0,
+   "end": 2.0,
+   "line": "",
+   "scene": "Close-up: new Kip front, big eyes smile, teal head glow, bolt logo",
+   "set": "park",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "k2",
+   "start": 2.0,
+   "end": 4.0,
+   "line": "",
+   "scene": "Full body 3/4: Kip waves, watch on right wrist",
+   "set": "suburb",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "k3",
+   "start": 4.0,
+   "end": 6.0,
+   "line": "",
+   "scene": "Night glow test: Kip scared in the burning street",
+   "set": "fireStreet",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "k4",
+   "start": 6.0,
+   "end": 8.0,
+   "line": "",
+   "scene": "Kip Survives variant: backpack, bandage, plaster, dirt",
+   "set": "fireStreet",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "k5",
+   "start": 8.0,
+   "end": 10.0,
+   "line": "",
+   "scene": "Thumbnail face: Kip shocked close-up",
+   "set": "park",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "k6",
+   "start": 10.0,
+   "end": 12.0,
+   "line": "",
+   "scene": "Old hero (left) vs new Kip (right) side by side",
+   "set": "park",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  }
+ ]
+}

@@ -1,0 +1,2051 @@
+{
+ "title": "What If You Felt Zero Pain",
+ "duration": 395.68,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 4.35,
+   "line": "You stub your toe against a solid steel bed frame. Hard.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s002",
+   "start": 4.35,
+   "end": 10.99,
+   "line": "You brace for the agonizing sting. Nothing. Absolutely nothing.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s003",
+   "start": 10.99,
+   "end": 12.19,
+   "line": "You do it again...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s004",
+   "start": 12.19,
+   "end": 15.15,
+   "line": "harder this time. No pain.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s005",
+   "start": 15.15,
+   "end": 17.53,
+   "line": "You step on a Lego brick barefoot.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s006",
+   "start": 17.53,
+   "end": 19.59,
+   "line": "Zero flinch.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s007",
+   "start": 19.59,
+   "end": 23.31,
+   "line": "You grab a boiling hot pan right off the stove.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s008",
+   "start": 23.31,
+   "end": 24.71,
+   "line": "Your hand sizzles...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s009",
+   "start": 24.71,
+   "end": 27.47,
+   "line": "but you feel zero pain. Bro!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s010",
+   "start": 27.47,
+   "end": 28.69,
+   "line": "Drop the pan!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s011",
+   "start": 28.69,
+   "end": 31.57,
+   "line": "Jay screams from the kitchen doorway. What?",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s012",
+   "start": 31.57,
+   "end": 32.83,
+   "line": "It does not hurt!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s013",
+   "start": 32.83,
+   "end": 34.03,
+   "line": "Look at your palm...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s014",
+   "start": 34.03,
+   "end": 35.33,
+   "line": "it is turning red!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s015",
+   "start": 35.33,
+   "end": 39.55,
+   "line": "A normal human brain receives pain signals in ten milliseconds.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s016",
+   "start": 39.55,
+   "end": 43.27,
+   "line": "Pain is your body's emergency siren. You?",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s017",
+   "start": 43.27,
+   "end": 44.63,
+   "line": "Zero sirens.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s018",
+   "start": 44.63,
+   "end": 47.55,
+   "line": "Your pain receptors are completely dead.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s019",
+   "start": 47.55,
+   "end": 51.65,
+   "line": "But your body follows one brutal rule. Pain is gone...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s020",
+   "start": 51.65,
+   "end": 55.15,
+   "line": "but physical damage remains one hundred percent real.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s021",
+   "start": 55.15,
+   "end": 57.05,
+   "line": "You do not feel the damage...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s022",
+   "start": 57.05,
+   "end": 58.93,
+   "line": "until your body collapses.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s023",
+   "start": 58.93,
+   "end": 61.51,
+   "line": "So what if you felt zero pain?",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s024",
+   "start": 61.51,
+   "end": 62.91,
+   "line": "At first...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s025",
+   "start": 62.91,
+   "end": 64.87,
+   "line": "it feels like you are invincible.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s026",
+   "start": 64.87,
+   "end": 67.19,
+   "line": "You play dodgeball in gym class.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s027",
+   "start": 67.19,
+   "end": 70.97,
+   "line": "A fifty kilometer an hour throw hits you square in the face.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s028",
+   "start": 70.97,
+   "end": 72.69,
+   "line": "You do not even blink.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s029",
+   "start": 72.69,
+   "end": 75.37,
+   "line": "You just smile and throw it back.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s030",
+   "start": 75.37,
+   "end": 79.07,
+   "line": "You win thirty arm-wrestling matches in a row. How?",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s031",
+   "start": 79.07,
+   "end": 80.83,
+   "line": "Because when your muscles tear...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s032",
+   "start": 80.83,
+   "end": 83.65,
+   "line": "your brain does not force you to quit.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s033",
+   "start": 83.65,
+   "end": 87.45,
+   "line": "You let your arm bend backward without flinching. Stop!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s034",
+   "start": 87.45,
+   "end": 90.31,
+   "line": "You are going to snap your elbow! Jay yells...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s035",
+   "start": 90.31,
+   "end": 94.89,
+   "line": "hiding his eyes. Relax... I am fine! Plus:",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s036",
+   "start": 94.89,
+   "end": 96.17,
+   "line": "zero fear.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s037",
+   "start": 96.17,
+   "end": 98.97,
+   "line": "Pain causes fear. Without pain...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s038",
+   "start": 98.97,
+   "end": 100.27,
+   "line": "you are fearless.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s039",
+   "start": 100.27,
+   "end": 103.69,
+   "line": "You jump off a three-meter wall without hesitating.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s040",
+   "start": 103.69,
+   "end": 107.47,
+   "line": "You walk through a patch of stinging nettles like it is soft grass.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s041",
+   "start": 107.47,
+   "end": 110.79,
+   "line": "You eat the hottest ghost pepper in the world.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s042",
+   "start": 110.79,
+   "end": 112.09,
+   "line": "Your eyes water...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s043",
+   "start": 112.09,
+   "end": 113.85,
+   "line": "but you do not feel the burn.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s044",
+   "start": 113.85,
+   "end": 115.53,
+   "line": "Is this spicy?",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s045",
+   "start": 115.53,
+   "end": 118.45,
+   "line": "Jay stares at you in sheer horror.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s046",
+   "start": 118.45,
+   "end": 120.65,
+   "line": "You are a monster! Minus:",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s047",
+   "start": 120.65,
+   "end": 123.21,
+   "line": "the silent biological nightmare.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s048",
+   "start": 123.21,
+   "end": 125.11,
+   "line": "Pain is not your enemy...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s049",
+   "start": 125.11,
+   "end": 127.99,
+   "line": "pain is your protector. Without pain...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s050",
+   "start": 127.99,
+   "end": 130.87,
+   "line": "you become your own worst enemy.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s051",
+   "start": 130.87,
+   "end": 132.19,
+   "line": "While eating pizza...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s052",
+   "start": 132.19,
+   "end": 135.19,
+   "line": "you accidentally chew straight through your inner cheek.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s053",
+   "start": 135.19,
+   "end": 136.41,
+   "line": "You do not notice...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s054",
+   "start": 136.41,
+   "end": 142.37,
+   "line": "until Jay points at the blood dripping onto your shirt. Mate! Stop chewing!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s055",
+   "start": 142.37,
+   "end": 147.05,
+   "line": "You walk around on a fractured heel bone for four days. Why?",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s056",
+   "start": 147.05,
+   "end": 149.47,
+   "line": "Because you thought your shoe was just tight.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s057",
+   "start": 149.47,
+   "end": 152.31,
+   "line": "You do not notice your appendix is about to burst...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s058",
+   "start": 152.31,
+   "end": 155.51,
+   "line": "until you faint on the kitchen floor from internal shock.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s059",
+   "start": 155.51,
+   "end": 157.91,
+   "line": "Your body is screaming for help...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s060",
+   "start": 157.91,
+   "end": 162.31,
+   "line": "but the alarm system is disconnected. Even worse:",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s061",
+   "start": 162.31,
+   "end": 163.87,
+   "line": "thermal destruction.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s062",
+   "start": 163.87,
+   "end": 166.23,
+   "line": "You sit near a campfire in the winter.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s063",
+   "start": 166.23,
+   "end": 168.83,
+   "line": "Your legs feel nice and warm.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s064",
+   "start": 168.83,
+   "end": 172.77,
+   "line": "But your skin is quietly suffering third-degree burns.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s065",
+   "start": 172.77,
+   "end": 176.57,
+   "line": "You do not smell the smoke until your pants start charring.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s066",
+   "start": 176.57,
+   "end": 179.23,
+   "line": "You cannot tell if water is warm or boiling.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s067",
+   "start": 179.23,
+   "end": 183.21,
+   "line": "You cannot tell if ice is cold or freezing your cells to death.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s068",
+   "start": 183.21,
+   "end": 185.15,
+   "line": "Your skin fights a war...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s069",
+   "start": 185.15,
+   "end": 186.75,
+   "line": "with zero warnings.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s070",
+   "start": 186.75,
+   "end": 190.89,
+   "line": "Your best friend Jay realizes you are a walking hazard.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s071",
+   "start": 190.89,
+   "end": 193.85,
+   "line": "He becomes your full-time human sensor.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s072",
+   "start": 193.85,
+   "end": 196.53,
+   "line": "He buys a medical flashlight and a mirror.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s073",
+   "start": 196.53,
+   "end": 198.97,
+   "line": "Every single night at eight o'clock...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s074",
+   "start": 198.97,
+   "end": 205.29,
+   "line": "Jay conducts a full-body inspection. Turn around. Show me your elbows. Check your heels.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s075",
+   "start": 205.29,
+   "end": 207.77,
+   "line": "Jay writes down every scratch...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s076",
+   "start": 207.77,
+   "end": 209.17,
+   "line": "every bruise...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s077",
+   "start": 209.17,
+   "end": 211.11,
+   "line": "and every burn in a notebook.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s078",
+   "start": 211.11,
+   "end": 216.07,
+   "line": "He makes a custom leather band for your wrist with four words stamped into it:",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s079",
+   "start": 216.07,
+   "end": 218.09,
+   "line": "Keep Check Your Skin, Leo.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s080",
+   "start": 218.09,
+   "end": 220.15,
+   "line": "Your name is Leo.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s081",
+   "start": 220.15,
+   "end": 222.33,
+   "line": "You wear that wristband everywhere.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s082",
+   "start": 222.33,
+   "end": 226.07,
+   "line": "You make a joke out of it. What are you... my mom?",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s083",
+   "start": 226.07,
+   "end": 229.03,
+   "line": "Someone has to keep you from accidentally blowing up your own body!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s084",
+   "start": 229.03,
+   "end": 232.07,
+   "line": "Then comes a freezing Thursday evening.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s085",
+   "start": 232.07,
+   "end": 235.47,
+   "line": "You and Jay walk past an abandoned apartment building.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s086",
+   "start": 235.47,
+   "end": 238.41,
+   "line": "Black smoke pours from the second floor.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s087",
+   "start": 238.41,
+   "end": 240.71,
+   "line": "A mother screams from the sidewalk.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s088",
+   "start": 240.71,
+   "end": 243.23,
+   "line": "My baby is inside!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s089",
+   "start": 243.23,
+   "end": 244.89,
+   "line": "Firefighters are five minutes away.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s090",
+   "start": 244.89,
+   "end": 248.09,
+   "line": "The wooden staircase is already collapsing in flames.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s091",
+   "start": 248.09,
+   "end": 249.91,
+   "line": "You do not hesitate.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s092",
+   "start": 249.91,
+   "end": 253.47,
+   "line": "You sprint into the burning building. Leo! Stop!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s093",
+   "start": 253.47,
+   "end": 255.63,
+   "line": "You do not have super healing!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s094",
+   "start": 255.63,
+   "end": 257.11,
+   "line": "Jay shouts from the street.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s095",
+   "start": 257.11,
+   "end": 258.97,
+   "line": "But you do not feel fear...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s096",
+   "start": 258.97,
+   "end": 261.31,
+   "line": "because you do not feel pain.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s097",
+   "start": 261.31,
+   "end": 263.47,
+   "line": "You crash through a burning door.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s098",
+   "start": 263.47,
+   "end": 265.67,
+   "line": "Intense heat surrounds you.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s099",
+   "start": 265.67,
+   "end": 268.07,
+   "line": "Toxic smoke fills your lungs.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s100",
+   "start": 268.07,
+   "end": 272.35,
+   "line": "Normal humans would fall to their knees from the searing pain. You?",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s101",
+   "start": 272.35,
+   "end": 275.03,
+   "line": "You walk straight through the inferno.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s102",
+   "start": 275.03,
+   "end": 277.63,
+   "line": "You find the little girl hiding under a bed.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s103",
+   "start": 277.63,
+   "end": 279.61,
+   "line": "You wrap her in a wet blanket.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s104",
+   "start": 279.61,
+   "end": 282.59,
+   "line": "Flaming timber crashes onto your back. CRACK!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s105",
+   "start": 282.59,
+   "end": 284.33,
+   "line": "Your jacket catches fire.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s106",
+   "start": 284.33,
+   "end": 286.57,
+   "line": "Your skin blisters instantly.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s107",
+   "start": 286.57,
+   "end": 287.91,
+   "line": "You feel nothing.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s108",
+   "start": 287.91,
+   "end": 289.27,
+   "line": "Zero pain.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s109",
+   "start": 289.27,
+   "end": 292.93,
+   "line": "But your heart races at one hundred and ninety beats per minute.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s110",
+   "start": 292.93,
+   "end": 295.87,
+   "line": "Your body is going into silent thermal shock.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s111",
+   "start": 295.87,
+   "end": 298.93,
+   "line": "You burst through the front door into the icy night air!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s112",
+   "start": 298.93,
+   "end": 300.65,
+   "line": "You hand the child to her mother.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s113",
+   "start": 300.65,
+   "end": 303.37,
+   "line": "You collapse onto the freezing grass.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s114",
+   "start": 303.37,
+   "end": 305.91,
+   "line": "Jay rushes over with a fire extinguisher.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s115",
+   "start": 305.91,
+   "end": 307.17,
+   "line": "He sprays your back.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s116",
+   "start": 307.17,
+   "end": 311.15,
+   "line": "He checks your pulse. Leo! Stay awake! Look at me!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s117",
+   "start": 311.15,
+   "end": 313.19,
+   "line": "I do not feel anything...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s118",
+   "start": 313.19,
+   "end": 314.55,
+   "line": "That is the problem!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s119",
+   "start": 314.55,
+   "end": 315.95,
+   "line": "You are burning up!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s120",
+   "start": 315.95,
+   "end": 321.23,
+   "line": "Jay wraps you in emergency blankets and pours ice water over your shoulders.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s121",
+   "start": 321.23,
+   "end": 322.47,
+   "line": "You survive...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s122",
+   "start": 322.47,
+   "end": 326.23,
+   "line": "because Jay checked your body before shock took your life.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s123",
+   "start": 326.23,
+   "end": 329.31,
+   "line": "Is any of this real? Yes.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s124",
+   "start": 329.31,
+   "end": 332.49,
+   "line": "This real-world medical condition exists.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s125",
+   "start": 332.49,
+   "end": 335.29,
+   "line": "It is called Congenital Insensitivity to Pain...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s126",
+   "start": 335.29,
+   "end": 337.09,
+   "line": "or C-I-P.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s127",
+   "start": 337.09,
+   "end": 343.37,
+   "line": "People born with mutations in the S-C-N-nine-A gene produce zero pain signals.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s128",
+   "start": 343.37,
+   "end": 346.93,
+   "line": "Children with C-I-P often bite their own tongues...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s129",
+   "start": 346.93,
+   "end": 348.85,
+   "line": "fracture bones without knowing...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s130",
+   "start": 348.85,
+   "end": 352.09,
+   "line": "and must wear protective goggles to prevent eye damage.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s131",
+   "start": 352.09,
+   "end": 353.93,
+   "line": "Pain is not a curse...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s132",
+   "start": 353.93,
+   "end": 357.33,
+   "line": "it is human survival. That night...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s133",
+   "start": 357.33,
+   "end": 359.87,
+   "line": "you sit on your bed covered in bandages.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s134",
+   "start": 359.87,
+   "end": 361.53,
+   "line": "Your phone vibrates.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s135",
+   "start": 361.53,
+   "end": 362.93,
+   "line": "A video clip plays.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s136",
+   "start": 362.93,
+   "end": 365.81,
+   "line": "A black van sits under your streetlight.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s137",
+   "start": 365.81,
+   "end": 369.23,
+   "line": "A woman in a gray coat looks straight into the camera.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s138",
+   "start": 369.23,
+   "end": 371.51,
+   "line": "We have a boy who stops time.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s139",
+   "start": 371.51,
+   "end": 373.43,
+   "line": "We have a boy who teleports.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s140",
+   "start": 373.43,
+   "end": 376.03,
+   "line": "We have a boy who heals in minutes.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s141",
+   "start": 376.03,
+   "end": 380.05,
+   "line": "But we need someone who can walk through fire without flinching.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s142",
+   "start": 380.05,
+   "end": 382.81,
+   "line": "Welcome to Project I-F.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s143",
+   "start": 382.81,
+   "end": 385.83,
+   "line": "So what would you do if you felt zero pain?",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s144",
+   "start": 385.83,
+   "end": 387.37,
+   "line": "Tell us in the comments below.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s145",
+   "start": 387.37,
+   "end": 391.05,
+   "line": "Which superpower should we do next? Hit like...",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s146",
+   "start": 391.05,
+   "end": 395.68,
+   "line": "and subscribe for Part Two of Project I-F!",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  }
+ ],
+ "music": []
+}

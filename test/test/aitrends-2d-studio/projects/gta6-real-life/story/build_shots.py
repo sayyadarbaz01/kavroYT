@@ -1,0 +1,92 @@
+"""story/build_shots.py: writes story/shots.json for the full GTA 6 video (cuts land on sentence starts)."""
+import json, os
+H = os.path.dirname(os.path.abspath(__file__))
+S = lambda at, name, gain=-12, **k: {"at": at, "name": name, "gain": gain, **k}
+A = lambda name, gain=-26: {"name": name, "gain": gain}
+# (id, start, scene, set, sfx, ambience)  end = next start
+CUTS = [
+ ("k01", 0.0, "Walks out of Miami General holding a long hospital bill", "miami", [S(0.1, "whoosh", -14), S(2.1, "pop", -10)], A("city", -24)),
+ ("k02", 3.7, "Flashback: a city bus at 40 mph, red flash, flatline", "miami", [S(0, "carpass", -10, dur=2.4), S(2.0, "impact", -6), S(2.05, "flash", -8)], None),
+ ("k03", 7.35, "Close-up: not a scratch, Kip pats his chest", "miami", [S(1.6, "pop")], A("city")),
+ ("k04", 10.66, "The nurse in the hospital doorway, arms crossed, deadpan", "miami", [], A("city", -28)),
+ ("k05", 14.85, "POV: minimap in the corner of your eye, health bar refilling", "miami", [S(0.75, "blip", -10), S(3.1, "powerup", -14)], A("city")),
+ ("k06", 20.15, "Low angle: five wanted stars pop over Kip's head, then quiet", "miami", [S(0.4 + 0.22 * k, "ding", -16, pitch=1 + 0.06 * k) for k in range(5)] + [S(3.4, "heartbeat", -12, dur=2.2)], None),
+ ("k07", 25.9, "Title: drone descends over Miami at sunset", "miami", [S(0.05, "stinger", -8), S(0, "whoosh", -14, dur=1.2)], None),
+ ("k08", 29.35, "Day 1: Monday morning, Kip sits up on the edge of his bed", "bedroom", [S(0.3, "tick")], A("roomtone")),
+ ("k09", 32.0, "POV in the bedroom: minimap, health bar, money counter $312", "bedroom", [S(0.2, "blip", -10), S(2.4, "powerup", -16), S(3.6, "counter")], A("roomtone")),
+ ("k10", 40.4, "Close-up: deadpan, RUDE.", "bedroom", [S(0.25, "pop")], None),
+ ("a01", 41.3, "Kitchen: Mom at the table with her crossword, Kip walks in", "kitchen", [S(0.2, "footstep", -16)], A("roomtone")),
+ ("a02", 45.2, "Close: Mom doesn't look up from the crossword", "kitchen", [], A("roomtone")),
+ ("a03", 48.1, "Kip smirks: she has no idea (HUD in the corner)", "kitchen", [S(0.2, "blip", -14)], A("roomtone")),
+ ("a04", 49.7, "Biscayne Blvd: Kip crosses against the light, DING, one star", "miami", [S(3.5, "ding", -10)], A("city")),
+ ("a05", 53.7, "The star over his head; a cop car turns the corner", "miami", [S(2.0, "carpass", -12, dur=2.5)], A("city")),
+ ("a06", 57.5, "Kip ducks behind a Cuban coffee truck, the star blinks", "miami", [S(0.1, "whoosh", -14), S(1.6, "blip", -14)], A("city")),
+ ("a07", 61.3, "The star is gone, the cop drives right past", "miami", [S(0.2, "carpass", -10, dur=2.2)], A("city")),
+ ("a08", 63.9, "Dev with two coffees: Bro, what are you doing?", "miami", [], A("city")),
+ ("a09", 65.45, "That's Dev, best friend since second grade", "miami", [S(0.2, "pop", -14)], A("city")),
+ ("a10", 68.1, "Close-up: Science.", "miami", [S(0.1, "pop", -12)], A("city")),
+ ("a11", 69.1, "Card: the rules have fine print", "card", [S(1.6, "hit", -10)], None),
+ ("a12", 72.6, "Card: Rule 1, health comes back but only halfway", "card", [S(0.1, "whoosh", -14), S(2.3, "hit", -12)], None),
+ ("a13", 79.1, "Tuesday: Kip trips down the school stairs", "hallway", [S(0.7, "whoosh", -12), S(1.3, "impact", -10)], A("roomtone")),
+ ("a14", 82.4, "Card: 10 seconds later, the bone is half healed", "card", [S(0.4, "powerup", -14)], None),
+ ("a15", 84.3, "Card: the other half is real life, 6-8 weeks", "card", [S(0.8, "hit", -12)], None),
+ ("a16", 88.0, "Hospital: a cast on a half-broken arm, the doctor stares", "hospital", [], A("roomtone")),
+ ("a17", 92.0, "Card: the chart says ???", "card", [S(0.6, "pop", -10)], None),
+ ("a18", 94.7, "Card: Rule 2, if you die you respawn at the closest hospital", "card", [S(0.4, "hit", -12), S(2.6, "whoosh", -14)], None),
+ ("a19", 100.6, "Flashback: chasing an ice cream truck. Don't ask.", "miami", [S(3.0, "pop", -12)], A("city")),
+ ("a20", 104.3, "Card: real life has no respawn, brain without oxygen ~5 min", "card", [S(0, "heartbeat", -12, dur=4)], None),
+ ("a21", 109.7, "Kip walks out of the hospital two minutes later, full health", "miami", [S(0.2, "powerup", -16)], A("city")),
+ ("a22", 113.6, "Card: in GTA the hospital bill is up to $5,000", "card", [S(1.8, "counter", -14)], None),
+ ("a23", 118.5, "Card: in real life an average stay is over $10,000", "card", [S(1.4, "counter", -12)], None),
+ ("b01", 123.9, "Card: Rule 3, stars: one star one cop, five stars helicopters", "card", [S(0.4 + 0.5 * k, "ding", -16, pitch=1 + 0.06 * k) for k in range(5)], None),
+ ("b02", 132.1, "Kip hides out of sight; the stars fade away", "miami", [S(0.5, "whoosh", -16)], A("city")),
+ ("b03", 136.1, "Close-up whisper: remember that rule", "miami", [S(0, "heartbeat", -14, dur=3)], None),
+ ("b04", 140.4, "Wednesday: skipping school on the beach", "beach", [], A("wind", -26)),
+ ("b05", 142.8, "Phone: Dev texts 'hey who is this lol'", "card", [S(1.0, "phonebuzz", -10)], A("wind", -30)),
+ ("b06", 146.4, "Kip laughs it off on the beach", "beach", [], A("wind", -26)),
+ ("b07", 149.3, "Card: how real is any of this?", "card", [S(0.3, "whoosh", -14)], None),
+ ("b08", 154.1, "Card: 1885, Hermann Ebbinghaus memorizes nonsense words", "card", [S(0.3, "tick", -14)], None),
+ ("b09", 164.6, "Card: the forgetting curve, out of sight out of mind", "card", [S(0.4, "whoosh", -14)], None),
+ ("b10", 168.8, "Real cops: license plate reader camera scanning cars", "miami", [S(1.5, "blip", -12), S(3.2, "blip", -12)], A("city")),
+ ("b11", 177.0, "In your world it does: Kip looks up, ominous", "miami", [S(2.5, "riser", -12, dur=2)], A("city", -30)),
+ ("c01", 181.7, "Thursday: drone over Brickell parking garages", "miami", [S(0, "whoosh", -14, dur=1.2)], A("city")),
+ ("c02", 184.1, "Dirt bike jump between two parking garages", "miami", [S(0.2, "riser", -12, dur=2)], A("wind", -28)),
+ ("c03", 187.1, "Miss. Respawn.", "miami", [S(0.1, "impact", -10), S(0.4, "glitch", -12)], None),
+ ("c04", 188.4, "Second try: he lands it", "miami", [S(0.9, "hit", -10), S(1.0, "cheer", -18)], A("wind", -28)),
+ ("c05", 190.2, "Jet ski across Biscayne Bay, three stars, hide under a pier", "beach", [S(0, "carpass", -14, dur=3), S(3.5, "ding", -16)], A("wind", -26)),
+ ("c06", 196.9, "Golf cart onto the field at Dolphins practice, two stars", "field", [S(0.6, "whistle", -12), S(3.4, "ding", -16)], A("cheer", -30)),
+ ("c07", 202.6, "Every respawn comes with a bill: $41,000", "miami", [S(2.3, "counter", -12)], A("city")),
+ ("c08", 208.0, "The nurse: That's not how hospitals work, sweetie", "miami", [], A("city", -28)),
+ ("c09", 211.5, "Phone: the clip goes viral, 40 million views", "card", [S(0.3, "phonebuzz", -12), S(1.5, "counter", -12)], None),
+ ("c10", 215.8, "Night: a white Lamborghini outside Kip's house, Tank", "suburbNight", [S(0.3, "carpass", -12, dur=2.5)], A("wind", -30)),
+ ("c11", 222.9, "Tank: fifty grand, one stream, five stars live", "suburbNight", [S(0.4, "counter", -14)], A("wind", -30)),
+ ("c12", 227.2, "Fifty grand pays the hospital. Kip nods yes", "suburbNight", [], A("wind", -30)),
+ ("c13", 230.6, "Police briefing: don't lose sight of that kid", "classroom", [S(0.3, "murmur", -24, dur=6)], A("roomtone")),
+ ("d01", 238.4, "Friday night: live stream, five stars on I-95", "miamiNight", [S(0, "carpass", -10, dur=3), S(0.5, "stinger", -10)], A("city", -24)),
+ ("d02", 244.4, "Four helicopters, twenty cop cars", "miamiNight", [S(0, "wind", -18, dur=3)], A("city", -24)),
+ ("d03", 247.4, "Close-up: for the first time, you're scared", "miamiNight", [S(0, "heartbeat", -10, dur=5)], None),
+ ("d04", 252.5, "Phone: Mom: Where are you? Come home. Screen off.", "card", [S(0.2, "phonebuzz", -10)], None),
+ ("d05", 257.9, "Storage unit: the roll-up door slams down", "storage", [S(3.0, "impact", -10)], A("roomtone")),
+ ("d06", 264.0, "Three days in a storage unit, beef jerky, the stars blink out", "storage", [S(2.0, "tick", -16), S(4.0, "tick", -16), S(7.0, "ding", -18)], A("roomtone")),
+ ("d07", 272.6, "Monday morning: Kip walks home grinning", "suburb", [S(0.2, "footstep", -16)], A("wind", -30)),
+ ("d08", 275.4, "Mom opens the door and looks right at him", "suburb", [], A("wind", -32)),
+ ("d09", 278.3, "Mom: Hi. Can I help you?", "suburb", [], None),
+ ("d10", 279.8, "That's when it hits you", "suburb", [S(0, "heartbeat", -10, dur=1.5)], None),
+ ("d11", 281.1, "Card: rule three never said cops, it said THEY", "card", [S(0.4, "hit", -10), S(2.6, "hit", -10)], None),
+ ("d12", 287.4, "Card: Dev after one day, teachers, Mom after three", "card", [S(0.3, "pop", -14), S(1.6, "pop", -14), S(3.2, "pop", -14)], None),
+ ("e01", 292.4, "Split choice: hide and be free, or be remembered", "card", [S(0.3, "whoosh", -14)], None),
+ ("e02", 305.0, "Kitchen table: Kip across from Mom, not leaving her sight", "kitchen", [S(0.5, "clock", -18, dur=5)], A("roomtone")),
+ ("e03", 312.1, "Mom tilts her head: Kip?", "kitchen", [], A("roomtone")),
+ ("e04", 314.3, "Sirens getting closer. You don't run.", "kitchen", [S(0, "buzz", -24, dur=3)], A("roomtone")),
+ ("e05", 317.8, "Kip looks at the viewer: real life has no respawn", "kitchen", [], A("roomtone")),
+ ("e06", 322.3, "End card: HIDE or TURN IN?", "card", [S(0.2, "stinger", -10)], None),
+]
+END = 328.3
+shots = []
+for i, (sid, a, scene, st, sfx, amb) in enumerate(CUTS):
+    b = CUTS[i + 1][1] if i + 1 < len(CUTS) else END
+    d = {"id": sid, "start": a, "end": b, "line": "", "scene": scene, "set": st, "bars": None, "in": {"type": "fade", "dur": 0.4} if i == 0 else {"type": "cut"}, "sfx": sfx, "params": {}, "notes": ""}
+    if amb: d["amb"] = amb
+    shots.append(d)
+json.dump({"title": "What If GTA 6 Rules Were Real Life?", "duration": END, "shots": shots}, open(os.path.join(H, "shots.json"), "w", encoding="utf-8"), indent=1)
+print(len(shots), "shots, duration", END)

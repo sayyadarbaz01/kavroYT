@@ -1,0 +1,23 @@
+{
+ "title": "What If GTA 6 Rules Were Real Life?",
+ "aspect": "16:9",
+ "resolution": "1080p",
+ "fps": 24,
+ "style": "cinema",
+ "voiceover": "input/voiceover.mp3",
+ "script": "input/script.txt",
+ "duration": 328.281,
+ "captions": false,
+ "bars": "none",
+ "fadeIn": 0.5,
+ "fadeOut": 0.8,
+ "music": {
+  "enabled": true,
+  "gainDb": -22
+ },
+ "sfx": {
+  "enabled": true,
+  "gainDb": -6
+ },
+ "loudness": -14
+}

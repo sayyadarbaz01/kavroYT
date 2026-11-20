@@ -1,0 +1,23 @@
+{
+ "title": "What If You Felt Zero Pain",
+ "aspect": "16:9",
+ "resolution": "1080p",
+ "fps": 24,
+ "style": "bright",
+ "voiceover": "input/voiceover.mp3",
+ "script": "input/script.txt",
+ "duration": 394.684,
+ "captions": false,
+ "bars": "none",
+ "fadeIn": 0.5,
+ "fadeOut": 0.8,
+ "music": {
+  "enabled": true,
+  "gainDb": -22
+ },
+ "sfx": {
+  "enabled": true,
+  "gainDb": -6
+ },
+ "loudness": -14
+}

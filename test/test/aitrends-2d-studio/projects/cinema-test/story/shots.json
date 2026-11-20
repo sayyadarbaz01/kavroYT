@@ -1,0 +1,150 @@
+{
+ "title": "Cinema look test",
+ "duration": 36.0,
+ "shots": [
+  {
+   "id": "c01",
+   "start": 0.0,
+   "end": 3.0,
+   "line": "",
+   "scene": "Day close-up: Kip smiles in the park (depth of field)",
+   "set": "park",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "c02",
+   "start": 3.0,
+   "end": 6.0,
+   "line": "",
+   "scene": "Day wide: Kip walks down the suburb street",
+   "set": "suburb",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "c03",
+   "start": 6.0,
+   "end": 9.0,
+   "line": "",
+   "scene": "Drone descend over the suburb onto Kip",
+   "set": "suburb",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "c04",
+   "start": 9.0,
+   "end": 12.0,
+   "line": "",
+   "scene": "Night: Kip under the streetlight, black van",
+   "set": "suburbNight",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "c05",
+   "start": 12.0,
+   "end": 15.0,
+   "line": "",
+   "scene": "Night: Kip scared in the burning street",
+   "set": "fireStreet",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "c06",
+   "start": 15.0,
+   "end": 18.0,
+   "line": "",
+   "scene": "Dusk: Kip in the park at sunset",
+   "set": "park",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "c07",
+   "start": 18.0,
+   "end": 21.0,
+   "line": "",
+   "scene": "Indoor: Kip in the kitchen",
+   "set": "kitchen",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "c08",
+   "start": 21.0,
+   "end": 24.0,
+   "line": "",
+   "scene": "Dusk: Kip cheers on the sunset beach",
+   "set": "beach",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "c09",
+   "start": 24.0,
+   "end": 27.0,
+   "line": "",
+   "scene": "Night: Kip at the winter campfire",
+   "set": "winterCamp",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "c10",
+   "start": 27.0,
+   "end": 30.0,
+   "line": "",
+   "scene": "Drone reveal rising over the park",
+   "set": "park",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "c11",
+   "start": 30.0,
+   "end": 33.0,
+   "line": "",
+   "scene": "Indoor: Kip in the hospital",
+   "set": "hospital",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "c12",
+   "start": 33.0,
+   "end": 36.0,
+   "line": "",
+   "scene": "Drone top-down over the suburb",
+   "set": "suburb",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  }
+ ]
+}

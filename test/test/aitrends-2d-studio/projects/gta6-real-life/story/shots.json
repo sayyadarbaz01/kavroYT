@@ -1,0 +1,1887 @@
+{
+ "title": "What If GTA 6 Rules Were Real Life?",
+ "duration": 328.3,
+ "shots": [
+  {
+   "id": "k01",
+   "start": 0.0,
+   "end": 3.7,
+   "line": "",
+   "scene": "Walks out of Miami General holding a long hospital bill",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.1,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "k02",
+   "start": 3.7,
+   "end": 7.35,
+   "line": "",
+   "scene": "Flashback: a city bus at 40 mph, red flash, flatline",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "carpass",
+     "gain": -10,
+     "dur": 2.4
+    },
+    {
+     "at": 2.0,
+     "name": "impact",
+     "gain": -6
+    },
+    {
+     "at": 2.05,
+     "name": "flash",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "k03",
+   "start": 7.35,
+   "end": 10.66,
+   "line": "",
+   "scene": "Close-up: not a scratch, Kip pats his chest",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "k04",
+   "start": 10.66,
+   "end": 14.85,
+   "line": "",
+   "scene": "The nurse in the hospital doorway, arms crossed, deadpan",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "k05",
+   "start": 14.85,
+   "end": 20.15,
+   "line": "",
+   "scene": "POV: minimap in the corner of your eye, health bar refilling",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.75,
+     "name": "blip",
+     "gain": -10
+    },
+    {
+     "at": 3.1,
+     "name": "powerup",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "k06",
+   "start": 20.15,
+   "end": 25.9,
+   "line": "",
+   "scene": "Low angle: five wanted stars pop over Kip's head, then quiet",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -16,
+     "pitch": 1.0
+    },
+    {
+     "at": 0.62,
+     "name": "ding",
+     "gain": -16,
+     "pitch": 1.06
+    },
+    {
+     "at": 0.8400000000000001,
+     "name": "ding",
+     "gain": -16,
+     "pitch": 1.12
+    },
+    {
+     "at": 1.06,
+     "name": "ding",
+     "gain": -16,
+     "pitch": 1.18
+    },
+    {
+     "at": 1.28,
+     "name": "ding",
+     "gain": -16,
+     "pitch": 1.24
+    },
+    {
+     "at": 3.4,
+     "name": "heartbeat",
+     "gain": -12,
+     "dur": 2.2
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "k07",
+   "start": 25.9,
+   "end": 29.35,
+   "line": "",
+   "scene": "Title: drone descends over Miami at sunset",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "stinger",
+     "gain": -8
+    },
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -14,
+     "dur": 1.2
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "k08",
+   "start": 29.35,
+   "end": 32.0,
+   "line": "",
+   "scene": "Day 1: Monday morning, Kip sits up on the edge of his bed",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "k09",
+   "start": 32.0,
+   "end": 40.4,
+   "line": "",
+   "scene": "POV in the bedroom: minimap, health bar, money counter $312",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -10
+    },
+    {
+     "at": 2.4,
+     "name": "powerup",
+     "gain": -16
+    },
+    {
+     "at": 3.6,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "k10",
+   "start": 40.4,
+   "end": 41.3,
+   "line": "",
+   "scene": "Close-up: deadpan, RUDE.",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.25,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a01",
+   "start": 41.3,
+   "end": 45.2,
+   "line": "",
+   "scene": "Kitchen: Mom at the table with her crossword, Kip walks in",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a02",
+   "start": 45.2,
+   "end": 48.1,
+   "line": "",
+   "scene": "Close: Mom doesn't look up from the crossword",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a03",
+   "start": 48.1,
+   "end": 49.7,
+   "line": "",
+   "scene": "Kip smirks: she has no idea (HUD in the corner)",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a04",
+   "start": 49.7,
+   "end": 53.7,
+   "line": "",
+   "scene": "Biscayne Blvd: Kip crosses against the light, DING, one star",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.5,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a05",
+   "start": 53.7,
+   "end": 57.5,
+   "line": "",
+   "scene": "The star over his head; a cop car turns the corner",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "carpass",
+     "gain": -12,
+     "dur": 2.5
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a06",
+   "start": 57.5,
+   "end": 61.3,
+   "line": "",
+   "scene": "Kip ducks behind a Cuban coffee truck, the star blinks",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.6,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a07",
+   "start": 61.3,
+   "end": 63.9,
+   "line": "",
+   "scene": "The star is gone, the cop drives right past",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "carpass",
+     "gain": -10,
+     "dur": 2.2
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a08",
+   "start": 63.9,
+   "end": 65.45,
+   "line": "",
+   "scene": "Dev with two coffees: Bro, what are you doing?",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a09",
+   "start": 65.45,
+   "end": 68.1,
+   "line": "",
+   "scene": "That's Dev, best friend since second grade",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a10",
+   "start": 68.1,
+   "end": 69.1,
+   "line": "",
+   "scene": "Close-up: Science.",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a11",
+   "start": 69.1,
+   "end": 72.6,
+   "line": "",
+   "scene": "Card: the rules have fine print",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a12",
+   "start": 72.6,
+   "end": 79.1,
+   "line": "",
+   "scene": "Card: Rule 1, health comes back but only halfway",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.3,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a13",
+   "start": 79.1,
+   "end": 82.4,
+   "line": "",
+   "scene": "Tuesday: Kip trips down the school stairs",
+   "set": "hallway",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.7,
+     "name": "whoosh",
+     "gain": -12
+    },
+    {
+     "at": 1.3,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a14",
+   "start": 82.4,
+   "end": 84.3,
+   "line": "",
+   "scene": "Card: 10 seconds later, the bone is half healed",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "powerup",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a15",
+   "start": 84.3,
+   "end": 88.0,
+   "line": "",
+   "scene": "Card: the other half is real life, 6-8 weeks",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a16",
+   "start": 88.0,
+   "end": 92.0,
+   "line": "",
+   "scene": "Hospital: a cast on a half-broken arm, the doctor stares",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a17",
+   "start": 92.0,
+   "end": 94.7,
+   "line": "",
+   "scene": "Card: the chart says ???",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a18",
+   "start": 94.7,
+   "end": 100.6,
+   "line": "",
+   "scene": "Card: Rule 2, if you die you respawn at the closest hospital",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 2.6,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a19",
+   "start": 100.6,
+   "end": 104.3,
+   "line": "",
+   "scene": "Flashback: chasing an ice cream truck. Don't ask.",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.0,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a20",
+   "start": 104.3,
+   "end": 109.7,
+   "line": "",
+   "scene": "Card: real life has no respawn, brain without oxygen ~5 min",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "heartbeat",
+     "gain": -12,
+     "dur": 4
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a21",
+   "start": 109.7,
+   "end": 113.6,
+   "line": "",
+   "scene": "Kip walks out of the hospital two minutes later, full health",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "powerup",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "a22",
+   "start": 113.6,
+   "end": 118.5,
+   "line": "",
+   "scene": "Card: in GTA the hospital bill is up to $5,000",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a23",
+   "start": 118.5,
+   "end": 123.9,
+   "line": "",
+   "scene": "Card: in real life an average stay is over $10,000",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "b01",
+   "start": 123.9,
+   "end": 132.1,
+   "line": "",
+   "scene": "Card: Rule 3, stars: one star one cop, five stars helicopters",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "ding",
+     "gain": -16,
+     "pitch": 1.0
+    },
+    {
+     "at": 0.9,
+     "name": "ding",
+     "gain": -16,
+     "pitch": 1.06
+    },
+    {
+     "at": 1.4,
+     "name": "ding",
+     "gain": -16,
+     "pitch": 1.12
+    },
+    {
+     "at": 1.9,
+     "name": "ding",
+     "gain": -16,
+     "pitch": 1.18
+    },
+    {
+     "at": 2.4,
+     "name": "ding",
+     "gain": -16,
+     "pitch": 1.24
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "b02",
+   "start": 132.1,
+   "end": 136.1,
+   "line": "",
+   "scene": "Kip hides out of sight; the stars fade away",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "b03",
+   "start": 136.1,
+   "end": 140.4,
+   "line": "",
+   "scene": "Close-up whisper: remember that rule",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "heartbeat",
+     "gain": -14,
+     "dur": 3
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "b04",
+   "start": 140.4,
+   "end": 142.8,
+   "line": "",
+   "scene": "Wednesday: skipping school on the beach",
+   "set": "beach",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "b05",
+   "start": 142.8,
+   "end": 146.4,
+   "line": "",
+   "scene": "Phone: Dev texts 'hey who is this lol'",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "phonebuzz",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "b06",
+   "start": 146.4,
+   "end": 149.3,
+   "line": "",
+   "scene": "Kip laughs it off on the beach",
+   "set": "beach",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "b07",
+   "start": 149.3,
+   "end": 154.1,
+   "line": "",
+   "scene": "Card: how real is any of this?",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "b08",
+   "start": 154.1,
+   "end": 164.6,
+   "line": "",
+   "scene": "Card: 1885, Hermann Ebbinghaus memorizes nonsense words",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "b09",
+   "start": 164.6,
+   "end": 168.8,
+   "line": "",
+   "scene": "Card: the forgetting curve, out of sight out of mind",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "b10",
+   "start": 168.8,
+   "end": 177.0,
+   "line": "",
+   "scene": "Real cops: license plate reader camera scanning cars",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 3.2,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "b11",
+   "start": 177.0,
+   "end": 181.7,
+   "line": "",
+   "scene": "In your world it does: Kip looks up, ominous",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.5,
+     "name": "riser",
+     "gain": -12,
+     "dur": 2
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c01",
+   "start": 181.7,
+   "end": 184.1,
+   "line": "",
+   "scene": "Thursday: drone over Brickell parking garages",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -14,
+     "dur": 1.2
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "c02",
+   "start": 184.1,
+   "end": 187.1,
+   "line": "",
+   "scene": "Dirt bike jump between two parking garages",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -12,
+     "dur": 2
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "c03",
+   "start": 187.1,
+   "end": 188.4,
+   "line": "",
+   "scene": "Miss. Respawn.",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -10
+    },
+    {
+     "at": 0.4,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "c04",
+   "start": 188.4,
+   "end": 190.2,
+   "line": "",
+   "scene": "Second try: he lands it",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -10
+    },
+    {
+     "at": 1.0,
+     "name": "cheer",
+     "gain": -18
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "c05",
+   "start": 190.2,
+   "end": 196.9,
+   "line": "",
+   "scene": "Jet ski across Biscayne Bay, three stars, hide under a pier",
+   "set": "beach",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "carpass",
+     "gain": -14,
+     "dur": 3
+    },
+    {
+     "at": 3.5,
+     "name": "ding",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "c06",
+   "start": 196.9,
+   "end": 202.6,
+   "line": "",
+   "scene": "Golf cart onto the field at Dolphins practice, two stars",
+   "set": "field",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "whistle",
+     "gain": -12
+    },
+    {
+     "at": 3.4,
+     "name": "ding",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "cheer",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c07",
+   "start": 202.6,
+   "end": 208.0,
+   "line": "",
+   "scene": "Every respawn comes with a bill: $41,000",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.3,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "c08",
+   "start": 208.0,
+   "end": 211.5,
+   "line": "",
+   "scene": "The nurse: That's not how hospitals work, sweetie",
+   "set": "miami",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "c09",
+   "start": 211.5,
+   "end": 215.8,
+   "line": "",
+   "scene": "Phone: the clip goes viral, 40 million views",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "phonebuzz",
+     "gain": -12
+    },
+    {
+     "at": 1.5,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "c10",
+   "start": 215.8,
+   "end": 222.9,
+   "line": "",
+   "scene": "Night: a white Lamborghini outside Kip's house, Tank",
+   "set": "suburbNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "carpass",
+     "gain": -12,
+     "dur": 2.5
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c11",
+   "start": 222.9,
+   "end": 227.2,
+   "line": "",
+   "scene": "Tank: fifty grand, one stream, five stars live",
+   "set": "suburbNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c12",
+   "start": 227.2,
+   "end": 230.6,
+   "line": "",
+   "scene": "Fifty grand pays the hospital. Kip nods yes",
+   "set": "suburbNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c13",
+   "start": 230.6,
+   "end": 238.4,
+   "line": "",
+   "scene": "Police briefing: don't lose sight of that kid",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "murmur",
+     "gain": -24,
+     "dur": 6
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "d01",
+   "start": 238.4,
+   "end": 244.4,
+   "line": "",
+   "scene": "Friday night: live stream, five stars on I-95",
+   "set": "miamiNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "carpass",
+     "gain": -10,
+     "dur": 3
+    },
+    {
+     "at": 0.5,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "d02",
+   "start": 244.4,
+   "end": 247.4,
+   "line": "",
+   "scene": "Four helicopters, twenty cop cars",
+   "set": "miamiNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "wind",
+     "gain": -18,
+     "dur": 3
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "d03",
+   "start": 247.4,
+   "end": 252.5,
+   "line": "",
+   "scene": "Close-up: for the first time, you're scared",
+   "set": "miamiNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "heartbeat",
+     "gain": -10,
+     "dur": 5
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d04",
+   "start": 252.5,
+   "end": 257.9,
+   "line": "",
+   "scene": "Phone: Mom: Where are you? Come home. Screen off.",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "phonebuzz",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d05",
+   "start": 257.9,
+   "end": 264.0,
+   "line": "",
+   "scene": "Storage unit: the roll-up door slams down",
+   "set": "storage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.0,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "d06",
+   "start": 264.0,
+   "end": 272.6,
+   "line": "",
+   "scene": "Three days in a storage unit, beef jerky, the stars blink out",
+   "set": "storage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "tick",
+     "gain": -16
+    },
+    {
+     "at": 4.0,
+     "name": "tick",
+     "gain": -16
+    },
+    {
+     "at": 7.0,
+     "name": "ding",
+     "gain": -18
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "d07",
+   "start": 272.6,
+   "end": 275.4,
+   "line": "",
+   "scene": "Monday morning: Kip walks home grinning",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "footstep",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d08",
+   "start": 275.4,
+   "end": 278.3,
+   "line": "",
+   "scene": "Mom opens the door and looks right at him",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "d09",
+   "start": 278.3,
+   "end": 279.8,
+   "line": "",
+   "scene": "Mom: Hi. Can I help you?",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d10",
+   "start": 279.8,
+   "end": 281.1,
+   "line": "",
+   "scene": "That's when it hits you",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "heartbeat",
+     "gain": -10,
+     "dur": 1.5
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d11",
+   "start": 281.1,
+   "end": 287.4,
+   "line": "",
+   "scene": "Card: rule three never said cops, it said THEY",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -10
+    },
+    {
+     "at": 2.6,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d12",
+   "start": 287.4,
+   "end": 292.4,
+   "line": "",
+   "scene": "Card: Dev after one day, teachers, Mom after three",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 3.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "e01",
+   "start": 292.4,
+   "end": 305.0,
+   "line": "",
+   "scene": "Split choice: hide and be free, or be remembered",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "e02",
+   "start": 305.0,
+   "end": 312.1,
+   "line": "",
+   "scene": "Kitchen table: Kip across from Mom, not leaving her sight",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "clock",
+     "gain": -18,
+     "dur": 5
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "e03",
+   "start": 312.1,
+   "end": 314.3,
+   "line": "",
+   "scene": "Mom tilts her head: Kip?",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "e04",
+   "start": 314.3,
+   "end": 317.8,
+   "line": "",
+   "scene": "Sirens getting closer. You don't run.",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "buzz",
+     "gain": -24,
+     "dur": 3
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "e05",
+   "start": 317.8,
+   "end": 322.3,
+   "line": "",
+   "scene": "Kip looks at the viewer: real life has no respawn",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "e06",
+   "start": 322.3,
+   "end": 328.3,
+   "line": "",
+   "scene": "End card: HIDE or TURN IN?",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  }
+ ]
+}

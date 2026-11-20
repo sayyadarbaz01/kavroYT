@@ -1,0 +1,3235 @@
+{
+ "title": "What If You Felt Zero Pain",
+ "duration": 394.684,
+ "music": [
+  {
+   "start": 0,
+   "end": 59.0,
+   "mood": "playful",
+   "intensity": 0.65
+  },
+  {
+   "start": 59.0,
+   "end": 119.9,
+   "mood": "playful",
+   "intensity": 0.7
+  },
+  {
+   "start": 119.9,
+   "end": 161.3,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 161.3,
+   "end": 186.8,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 186.8,
+   "end": 229.1,
+   "mood": "playful",
+   "intensity": 0.5
+  },
+  {
+   "start": 229.1,
+   "end": 296.0,
+   "mood": "epic",
+   "intensity": 0.7
+  },
+  {
+   "start": 296.0,
+   "end": 326.3,
+   "mood": "tension",
+   "intensity": 0.6
+  },
+  {
+   "start": 326.3,
+   "end": 356.5,
+   "mood": "wonder",
+   "intensity": 0.5
+  },
+  {
+   "start": 356.5,
+   "end": 394.684,
+   "mood": "tension",
+   "intensity": 0.55
+  }
+ ],
+ "sfx": [],
+ "shots": [
+  {
+   "id": "p01",
+   "start": 0,
+   "end": 3.55,
+   "line": "",
+   "scene": "Wide sunny bedroom: the hero walks barefoot and kicks his toe into the steel bed frame",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 3.2,
+     "name": "hit",
+     "gain": -6
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "p02",
+   "start": 3.55,
+   "end": 4.45,
+   "line": "",
+   "scene": "Insert: bare toe smashes the steel bed post, comic impact star, HARD.",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "p03",
+   "start": 4.45,
+   "end": 7.45,
+   "line": "",
+   "scene": "Close-up: the hero squeezes his eyes shut, bracing for the sting",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "p04",
+   "start": 7.45,
+   "end": 9.2,
+   "line": "",
+   "scene": "Close-up: blank calm face, pain meter reads 0",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "p05",
+   "start": 9.2,
+   "end": 11.05,
+   "line": "",
+   "scene": "Close-up: confused, the hero looks down at his foot",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "p06",
+   "start": 11.05,
+   "end": 15.2,
+   "line": "",
+   "scene": "Medium: the hero kicks the steel frame again, harder, NO PAIN",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.25,
+     "name": "hit",
+     "gain": -6
+    },
+    {
+     "at": 2.7,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "p07",
+   "start": 15.2,
+   "end": 17.6,
+   "line": "",
+   "scene": "Insert floor: bare foot steps down onto a red Lego brick",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "kick",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "p08",
+   "start": 17.6,
+   "end": 19.65,
+   "line": "",
+   "scene": "Close-up: the hero shrugs with a smirk, ZERO FLINCH",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "p09",
+   "start": 19.65,
+   "end": 23.35,
+   "line": "",
+   "scene": "Kitchen wide: the hero grabs a boiling hot pan off the stove bare-handed",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "swish",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "p10",
+   "start": 23.35,
+   "end": 26.75,
+   "line": "",
+   "scene": "Insert: the hero's hand on the hot pan sizzles with steam, PAIN 0%",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "rain",
+     "gain": -14,
+     "dur": 3.0,
+     "heavy": 1.0
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "p11",
+   "start": 26.75,
+   "end": 28.8,
+   "line": "",
+   "scene": "Jay (orange hoodie) bursts in at the kitchen doorway, screaming BRO! DROP THE PAN!",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "p12",
+   "start": 28.8,
+   "end": 33.0,
+   "line": "",
+   "scene": "Two-shot: Jay screams from the doorway, the hero turns holding the pan: What? It does not hurt!",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "a01",
+   "start": 33.0,
+   "end": 35.4,
+   "line": "",
+   "scene": "Close-up: Leo raises his palm; it glows angry red while he smiles",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "a02",
+   "start": 35.4,
+   "end": 39.6,
+   "line": "",
+   "scene": "Infographic: a pain signal races from the fingertip up the nerve to the brain in 10 ms",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 2.4,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a03",
+   "start": 39.6,
+   "end": 42.6,
+   "line": "",
+   "scene": "Infographic: a flashing red emergency siren, PAIN = YOUR BODY'S SIREN",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "buzz",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a04",
+   "start": 42.6,
+   "end": 44.7,
+   "line": "",
+   "scene": "Close-up: Leo grins; siren icon over him gets crossed out, ZERO SIRENS",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "a05",
+   "start": 44.7,
+   "end": 47.6,
+   "line": "",
+   "scene": "Infographic: skin cross-section, pain receptors go grey and dead, RECEPTORS OFFLINE",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "glitch",
+     "gain": -12
+    },
+    {
+     "at": 1.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a06",
+   "start": 47.6,
+   "end": 50.7,
+   "line": "",
+   "scene": "Red card: ONE BRUTAL RULE stamped",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a07",
+   "start": 50.7,
+   "end": 55.2,
+   "line": "",
+   "scene": "Bars: PAIN 0% vs DAMAGE 100% climbing",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "riser",
+     "gain": -12
+    },
+    {
+     "at": 3.4,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "a08",
+   "start": 55.2,
+   "end": 59.0,
+   "line": "",
+   "scene": "Wide suburb: Leo strolls happily, then suddenly collapses flat on the sidewalk",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "a09",
+   "start": 59.0,
+   "end": 61.6,
+   "line": "",
+   "scene": "Title card WHAT IF YOU FELT ZERO PAIN? over the suburb",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -8
+    },
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "a10",
+   "start": 61.6,
+   "end": 65.0,
+   "line": "",
+   "scene": "Low angle: Leo strikes a superhero pose, golden glow, INVINCIBLE?",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "powerup",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "b01",
+   "start": 65.0,
+   "end": 67.3,
+   "line": "",
+   "scene": "Gym wide: dodgeball match, kids on both sides of the centre line, Leo in the middle",
+   "set": "gym",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whistle",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "b02",
+   "start": 67.3,
+   "end": 71.0,
+   "line": "",
+   "scene": "A kid hurls a dodgeball at 50 KM/H; it smacks Leo square in the face",
+   "set": "gym",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "whoosh",
+     "gain": -8
+    },
+    {
+     "at": 2.9,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "b03",
+   "start": 71.0,
+   "end": 72.8,
+   "line": "",
+   "scene": "Close-up: ball bounces off, Leo doesn't even blink, BLINKS: 0",
+   "set": "gym",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "b04",
+   "start": 72.8,
+   "end": 75.4,
+   "line": "",
+   "scene": "Leo smiles and fires the ball back, the thrower gets knocked over",
+   "set": "gym",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "whoosh",
+     "gain": -8
+    },
+    {
+     "at": 1.5,
+     "name": "hit",
+     "gain": -8
+    },
+    {
+     "at": 1.8,
+     "name": "cheer",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "b05",
+   "start": 75.4,
+   "end": 78.5,
+   "line": "",
+   "scene": "Arm-wrestling table in the gym: Leo slams opponent after opponent, WINS counter to 30",
+   "set": "gym",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -10
+    },
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -10
+    },
+    {
+     "at": 2.0,
+     "name": "hit",
+     "gain": -10
+    },
+    {
+     "at": 2.4,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "b06",
+   "start": 78.5,
+   "end": 80.9,
+   "line": "",
+   "scene": "Infographic: muscle fibres tearing apart, HOW?",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "glitch",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "b07",
+   "start": 80.9,
+   "end": 83.7,
+   "line": "",
+   "scene": "Infographic: brain's QUIT signal crossed out",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "buzz",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "b08",
+   "start": 83.7,
+   "end": 87.0,
+   "line": "",
+   "scene": "Close: Leo's arm bends backward past the elbow while he smiles, opponent horrified",
+   "set": "gym",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "slowmo",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "b09",
+   "start": 87.0,
+   "end": 90.4,
+   "line": "",
+   "scene": "Jay yells STOP! YOU'RE GOING TO SNAP YOUR ELBOW!",
+   "set": "gym",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "b10",
+   "start": 90.4,
+   "end": 92.3,
+   "line": "",
+   "scene": "Jay hides his eyes behind both hands",
+   "set": "gym",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "b11",
+   "start": 92.3,
+   "end": 94.2,
+   "line": "",
+   "scene": "Leo relaxed thumbs-up: RELAX... I AM FINE!",
+   "set": "gym",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "c01",
+   "start": 94.2,
+   "end": 98.0,
+   "line": "",
+   "scene": "Card: PLUS: ZERO FEAR \u2014 pain arrow feeds fear, both crossed out",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -12
+    },
+    {
+     "at": 2.4,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "c02",
+   "start": 98.0,
+   "end": 100.4,
+   "line": "",
+   "scene": "Close-up: Leo fearless, determined smirk, FEARLESS",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "powerup",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c03",
+   "start": 100.4,
+   "end": 103.8,
+   "line": "",
+   "scene": "Park: Leo leaps off a three-metre wall without hesitating and lands",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "whoosh",
+     "gain": -8
+    },
+    {
+     "at": 1.6,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c04",
+   "start": 103.8,
+   "end": 107.6,
+   "line": "",
+   "scene": "Park: Leo strolls through a patch of stinging nettles like soft grass",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 1.4,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 2.4,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "c05",
+   "start": 107.6,
+   "end": 110.9,
+   "line": "",
+   "scene": "Kitchen: Leo eats the world's hottest ghost pepper, 1,000,000+ SHU",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "c06",
+   "start": 110.9,
+   "end": 114.0,
+   "line": "",
+   "scene": "Close-up: eyes streaming tears, Leo still calm",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "c07",
+   "start": 114.0,
+   "end": 115.6,
+   "line": "",
+   "scene": "Leo shrugs: IS THIS SPICY?",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "c08",
+   "start": 115.6,
+   "end": 119.9,
+   "line": "",
+   "scene": "Jay stares in sheer horror: YOU ARE A MONSTER!",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.0,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d01",
+   "start": 119.9,
+   "end": 123.3,
+   "line": "",
+   "scene": "Dark red card: MINUS: THE SILENT BIOLOGICAL NIGHTMARE",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d02",
+   "start": 123.3,
+   "end": 127.0,
+   "line": "",
+   "scene": "Card: PAIN = PROTECTOR, the enemy label crossed out, a shield appears",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d03",
+   "start": 127.0,
+   "end": 130.9,
+   "line": "",
+   "scene": "Dim bedroom close-up: Leo, unaware, smiling; red vignette, YOUR OWN WORST ENEMY",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d04",
+   "start": 130.9,
+   "end": 135.3,
+   "line": "",
+   "scene": "Kitchen table: Leo chomps pizza, accidentally biting through his inner cheek",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d05",
+   "start": 135.3,
+   "end": 139.8,
+   "line": "",
+   "scene": "Jay points in shock at blood dripping onto Leo's shirt",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.3,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d06",
+   "start": 139.8,
+   "end": 142.4,
+   "line": "",
+   "scene": "Jay shouts MATE! STOP CHEWING!",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d07",
+   "start": 142.4,
+   "end": 146.5,
+   "line": "",
+   "scene": "Leo limps down the street on a fractured heel, X-ray crack, DAY 1\u21924",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 1.4,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 2.4,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 3.2,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d08",
+   "start": 146.5,
+   "end": 149.6,
+   "line": "",
+   "scene": "Close: Leo looks at his shoe and shrugs, the shoe is just tight",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d09",
+   "start": 149.6,
+   "end": 152.4,
+   "line": "",
+   "scene": "Body diagram: the appendix swells, glowing red, ABOUT TO BURST",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d10",
+   "start": 152.4,
+   "end": 155.6,
+   "line": "",
+   "scene": "Leo faints onto the kitchen floor, INTERNAL SHOCK",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d11",
+   "start": 155.6,
+   "end": 158.0,
+   "line": "",
+   "scene": "Body silhouette sends HELP! alarm waves",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "buzz",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d12",
+   "start": 158.0,
+   "end": 161.3,
+   "line": "",
+   "scene": "An alarm bell with its plug pulled out: ALARM DISCONNECTED",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "glitch",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "e01",
+   "start": 161.3,
+   "end": 163.9,
+   "line": "",
+   "scene": "Card: EVEN WORSE: THERMAL DESTRUCTION \u2014 fire and ice",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "e02",
+   "start": 163.9,
+   "end": 166.3,
+   "line": "",
+   "scene": "Snowy winter night: Leo sits on a log right by the campfire",
+   "set": "winterCamp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "wind",
+     "gain": -18,
+     "dur": 2.4
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "e03",
+   "start": 166.3,
+   "end": 168.9,
+   "line": "",
+   "scene": "Close-up: Leo cozy, smiling, NICE AND WARM",
+   "set": "winterCamp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "e04",
+   "start": 168.9,
+   "end": 172.8,
+   "line": "",
+   "scene": "Insert legs inches from the flames, thermometer climbs, 3RD-DEGREE BURNS",
+   "set": "winterCamp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "riser",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "e05",
+   "start": 172.8,
+   "end": 176.6,
+   "line": "",
+   "scene": "Smoke curls off Leo's pants as they start charring; he finally sniffs and jumps",
+   "set": "winterCamp",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.9,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "e06",
+   "start": 176.6,
+   "end": 179.3,
+   "line": "",
+   "scene": "Two cups: WARM? or BOILING? \u2014 question marks",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "e07",
+   "start": 179.3,
+   "end": 183.3,
+   "line": "",
+   "scene": "Ice cube and cells freezing blue: COLD? or FREEZING?",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "e08",
+   "start": 183.3,
+   "end": 186.8,
+   "line": "",
+   "scene": "Skin under attack from fire and ice, WARNINGS: 0",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "buzz",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "f01",
+   "start": 186.8,
+   "end": 190.9,
+   "line": "",
+   "scene": "Jay looks at Leo with worry, hazard sign: WALKING HAZARD",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "buzz",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "f02",
+   "start": 190.9,
+   "end": 193.9,
+   "line": "",
+   "scene": "Jay salutes, scanner lines, HUMAN SENSOR badge",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "powerup",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "f03",
+   "start": 193.9,
+   "end": 196.6,
+   "line": "",
+   "scene": "Jay shows a medical flashlight and a mirror",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.5,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "f04",
+   "start": 196.6,
+   "end": 199.0,
+   "line": "",
+   "scene": "Night bedroom wall clock hits 8:00, EVERY NIGHT",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "clock",
+     "gain": -12,
+     "dur": 2.0
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "f05",
+   "start": 199.0,
+   "end": 201.9,
+   "line": "",
+   "scene": "Jay sweeps the flashlight over Leo: FULL-BODY INSPECTION",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "f06",
+   "start": 201.9,
+   "end": 205.4,
+   "line": "",
+   "scene": "Leo turns around, shows elbows, heels on command",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -12
+    },
+    {
+     "at": 1.3,
+     "name": "swish",
+     "gain": -12
+    },
+    {
+     "at": 2.4,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "f07",
+   "start": 205.4,
+   "end": 211.2,
+   "line": "",
+   "scene": "Jay writes in a notebook: scratch \u2713 bruise \u2713 burn \u2713",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -12
+    },
+    {
+     "at": 2.5,
+     "name": "tick",
+     "gain": -12
+    },
+    {
+     "at": 3.9,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "f08",
+   "start": 211.2,
+   "end": 218.2,
+   "line": "",
+   "scene": "Leather wristband stamped: KEEP CHECK YOUR SKIN, LEO",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 5.02,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 5.52,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 6.04,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 6.26,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 6.7,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "f09",
+   "start": 218.2,
+   "end": 220.2,
+   "line": "",
+   "scene": "Close-up: Leo smiles, name tag LEO",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "f10",
+   "start": 220.2,
+   "end": 224.1,
+   "line": "",
+   "scene": "Leo walks down the street wearing the wristband everywhere",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "f11",
+   "start": 224.1,
+   "end": 226.1,
+   "line": "",
+   "scene": "Leo smirks at Jay: WHAT ARE YOU... MY MOM?",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "f12",
+   "start": 226.1,
+   "end": 229.1,
+   "line": "",
+   "scene": "Jay crosses his arms, fed up: SOMEONE HAS TO!",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "g01",
+   "start": 229.1,
+   "end": 232.2,
+   "line": "",
+   "scene": "Freezing Thursday evening: snow falls on the dark street, THURSDAY 7:40 PM",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "wind",
+     "gain": -16,
+     "dur": 3.2
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "g02",
+   "start": 232.2,
+   "end": 235.5,
+   "line": "",
+   "scene": "Leo and Jay walk past an abandoned apartment building",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 1.5,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "g03",
+   "start": 235.5,
+   "end": 238.5,
+   "line": "",
+   "scene": "Low angle: black smoke pours from the second-floor windows, flames inside",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "thunder",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "g04",
+   "start": 238.5,
+   "end": 242.4,
+   "line": "",
+   "scene": "A mother screams from the sidewalk: MY BABY IS INSIDE!",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.3,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "g05",
+   "start": 242.4,
+   "end": 245.0,
+   "line": "",
+   "scene": "Card: fire truck siren, FIREFIGHTERS 5:00 MIN AWAY countdown",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "clock",
+     "gain": -12,
+     "dur": 2.4
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "g06",
+   "start": 245.0,
+   "end": 248.2,
+   "line": "",
+   "scene": "Inside: the wooden staircase collapses in flames",
+   "set": "fireRoom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "g07",
+   "start": 248.2,
+   "end": 250.0,
+   "line": "",
+   "scene": "Close-up: Leo's face lit orange, determined, no hesitation",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "g08",
+   "start": 250.0,
+   "end": 252.3,
+   "line": "",
+   "scene": "Leo sprints across the lawn into the burning building",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "g09",
+   "start": 252.3,
+   "end": 255.7,
+   "line": "",
+   "scene": "Jay screams LEO! STOP! YOU DON'T HAVE SUPER HEALING!",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "g10",
+   "start": 255.7,
+   "end": 257.2,
+   "line": "",
+   "scene": "Wide from behind Jay on the street, the building ablaze",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "g11",
+   "start": 257.2,
+   "end": 261.4,
+   "line": "",
+   "scene": "Close-up: Leo calm in the firelight, NO FEAR \u00b7 NO PAIN",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "g12",
+   "start": 261.4,
+   "end": 263.6,
+   "line": "",
+   "scene": "Leo crashes through a burning door",
+   "set": "fireRoom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "g13",
+   "start": 263.6,
+   "end": 265.8,
+   "line": "",
+   "scene": "Intense heat: heat haze and embers surround Leo",
+   "set": "fireRoom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "g14",
+   "start": 265.8,
+   "end": 268.2,
+   "line": "",
+   "scene": "Lungs filling with black smoke: TOXIC SMOKE",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "riser",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "g15",
+   "start": 268.2,
+   "end": 271.8,
+   "line": "",
+   "scene": "A normal person (ghost figure) drops to their knees in pain",
+   "set": "fireRoom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "g16",
+   "start": 271.8,
+   "end": 275.1,
+   "line": "",
+   "scene": "You? Leo walks straight through the inferno",
+   "set": "fireRoom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 2.0,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "g17",
+   "start": 275.1,
+   "end": 277.7,
+   "line": "",
+   "scene": "Leo finds the little girl hiding under the bed",
+   "set": "fireRoom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "g18",
+   "start": 277.7,
+   "end": 279.7,
+   "line": "",
+   "scene": "Leo wraps her in a wet blanket and lifts her",
+   "set": "fireRoom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "g19",
+   "start": 279.7,
+   "end": 282.7,
+   "line": "",
+   "scene": "A flaming timber crashes onto Leo's back: CRACK!",
+   "set": "fireRoom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.3,
+     "name": "impact",
+     "gain": -4
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "g20",
+   "start": 282.7,
+   "end": 286.7,
+   "line": "",
+   "scene": "Leo's jacket catches fire, skin blisters",
+   "set": "fireRoom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "g21",
+   "start": 286.7,
+   "end": 289.4,
+   "line": "",
+   "scene": "Close-up: Leo feels nothing, ZERO PAIN",
+   "set": "fireRoom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "g22",
+   "start": 289.4,
+   "end": 293.0,
+   "line": "",
+   "scene": "Heart + ECG racing to 190 BPM",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "heartbeat",
+     "gain": -8,
+     "dur": 3.6,
+     "bpm": 190
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "g23",
+   "start": 293.0,
+   "end": 296.0,
+   "line": "",
+   "scene": "Body thermometer red-lining: SILENT THERMAL SHOCK",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "riser",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "h01",
+   "start": 296.0,
+   "end": 299.0,
+   "line": "",
+   "scene": "Leo bursts out the front door into the icy night with the girl",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "h02",
+   "start": 299.0,
+   "end": 300.7,
+   "line": "",
+   "scene": "Leo hands the child to her mother",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "h03",
+   "start": 300.7,
+   "end": 303.5,
+   "line": "",
+   "scene": "Leo collapses onto the frozen grass",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "h04",
+   "start": 303.5,
+   "end": 306.0,
+   "line": "",
+   "scene": "Jay rushes over with a red fire extinguisher",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "footstep",
+     "gain": -12
+    },
+    {
+     "at": 1.2,
+     "name": "footstep",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "h05",
+   "start": 306.0,
+   "end": 307.3,
+   "line": "",
+   "scene": "Jay sprays Leo's back with foam",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "wind",
+     "gain": -8,
+     "dur": 1.2
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "h06",
+   "start": 307.3,
+   "end": 308.5,
+   "line": "",
+   "scene": "Jay checks Leo's pulse",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "h07",
+   "start": 308.5,
+   "end": 311.2,
+   "line": "",
+   "scene": "Jay: LEO! STAY AWAKE! LOOK AT ME!",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "h08",
+   "start": 311.2,
+   "end": 313.3,
+   "line": "",
+   "scene": "Leo lying weak: I DO NOT FEEL ANYTHING...",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "h09",
+   "start": 313.3,
+   "end": 316.1,
+   "line": "",
+   "scene": "Jay: THAT IS THE PROBLEM! YOU ARE BURNING UP!",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "h10",
+   "start": 316.1,
+   "end": 321.3,
+   "line": "",
+   "scene": "Jay wraps Leo in gold emergency blankets and pours ice water",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "rain",
+     "gain": -12,
+     "dur": 2.0
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "h11",
+   "start": 321.3,
+   "end": 326.3,
+   "line": "",
+   "scene": "Overhead: Leo wrapped and breathing, Jay relieved, SURVIVED",
+   "set": "fireStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "h12",
+   "start": 326.3,
+   "end": 329.4,
+   "line": "",
+   "scene": "Card: IS ANY OF THIS REAL? \u2192 YES. stamp",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "h13",
+   "start": 329.4,
+   "end": 335.4,
+   "line": "",
+   "scene": "Medical file: CONGENITAL INSENSITIVITY TO PAIN",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 3.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "h14",
+   "start": 335.4,
+   "end": 337.2,
+   "line": "",
+   "scene": "Big letters C-I-P",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -10
+    },
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -10
+    },
+    {
+     "at": 0.9,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "h15",
+   "start": 337.2,
+   "end": 343.5,
+   "line": "",
+   "scene": "DNA helix, SCN9A gene mutation, PAIN SIGNALS 0",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "h16",
+   "start": 343.5,
+   "end": 352.2,
+   "line": "",
+   "scene": "Three icons: bitten tongue, broken bone, protective goggles",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 3.6,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 5.5,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "h17",
+   "start": 352.2,
+   "end": 356.5,
+   "line": "",
+   "scene": "Card: PAIN IS NOT A CURSE \u2192 HUMAN SURVIVAL",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "i01",
+   "start": 356.5,
+   "end": 360.0,
+   "line": "",
+   "scene": "Night bedroom: Leo sits on his bed covered in bandages",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "i02",
+   "start": 360.0,
+   "end": 361.6,
+   "line": "",
+   "scene": "Phone in Leo's hand vibrates",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "phonebuzz",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "i03",
+   "start": 361.6,
+   "end": 363.0,
+   "line": "",
+   "scene": "The phone screen plays a video clip",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "i04",
+   "start": 363.0,
+   "end": 365.9,
+   "line": "",
+   "scene": "A black van parked under Leo's streetlight",
+   "set": "suburbNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hum",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "i05",
+   "start": 365.9,
+   "end": 369.3,
+   "line": "",
+   "scene": "A woman in a grey coat stares straight into the camera",
+   "set": "suburbNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "i06",
+   "start": 369.3,
+   "end": 371.6,
+   "line": "",
+   "scene": "Dossier: A BOY WHO STOPS TIME",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "freeze",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "i07",
+   "start": 371.6,
+   "end": 373.5,
+   "line": "",
+   "scene": "Dossier: A BOY WHO TELEPORTS",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "powerup",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "i08",
+   "start": 373.5,
+   "end": 376.1,
+   "line": "",
+   "scene": "Dossier: A BOY WHO HEALS IN MINUTES",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "i09",
+   "start": 376.1,
+   "end": 380.1,
+   "line": "",
+   "scene": "Dossier: WALKS THROUGH FIRE \u2014 Leo's file, flames",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 2.0,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "i10",
+   "start": 380.1,
+   "end": 382.9,
+   "line": "",
+   "scene": "Logo: WELCOME TO PROJECT I-F",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "i11",
+   "start": 382.9,
+   "end": 387.4,
+   "line": "",
+   "scene": "Leo on his bed looks at the viewer: WHAT WOULD YOU DO? comments icon",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "i12",
+   "start": 387.4,
+   "end": 390.1,
+   "line": "",
+   "scene": "Grid of superpowers: WHICH NEXT?",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 0.8,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 1.3,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "i13",
+   "start": 390.1,
+   "end": 394.684,
+   "line": "",
+   "scene": "End card: LIKE + SUBSCRIBE, PART 2: PROJECT I-F",
+   "set": "",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -10
+    },
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "out": {
+    "type": "fade",
+    "dur": 0.8
+   }
+  }
+ ]
+}

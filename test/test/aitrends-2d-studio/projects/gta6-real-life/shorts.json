@@ -1,0 +1,20 @@
+{
+  "source": "out/What_If_GTA_6_Rules_Were_Real_Life.mp4",
+  "fix": { "Ebinghaus": "Ebbinghaus", "Lull?": "lol?", "moms": "Mom's" },
+  "shorts": [
+    {
+      "id": "short1_respawn_bill",
+      "file": "Short1_GTA6_Respawn_Bill.mp4",
+      "hook": "WHAT IF GTA 6|WAS *REAL LIFE?*",
+      "segments": [[0.0, 14.8], [94.6, 123.8], [202.4, 209.95]],
+      "replace": []
+    },
+    {
+      "id": "short2_mom_forgot",
+      "file": "Short2_GTA6_Mom_Forgot_Me.mp4",
+      "hook": "GTA 6 RULES|*IN REAL LIFE*",
+      "segments": [[275.4, 279.75], [123.8, 136.05], [140.3, 149.15], [279.75, 292.3], [322.2, 328.25]],
+      "replace": [["Lull?", "lol?"]]
+    }
+  ]
+}

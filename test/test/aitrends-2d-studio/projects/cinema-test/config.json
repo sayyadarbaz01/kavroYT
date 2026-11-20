@@ -1,0 +1,1 @@
+{ "title": "Cinema look test", "aspect": "16:9", "resolution": "1080p", "fps": 24, "style": "cinema", "voiceover": "input/silence.wav", "script": null, "duration": 36.0, "captions": false, "bars": "none", "fadeIn": 0, "fadeOut": 0, "music": { "enabled": false }, "sfx": { "enabled": false } }

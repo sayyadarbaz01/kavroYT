@@ -1,0 +1,337 @@
+{
+ "title": "What If You Could Teleport \u2014 hook preview",
+ "duration": 31.0,
+ "shots": [
+  {
+   "id": "h01",
+   "start": 0,
+   "end": 3.2,
+   "line": "",
+   "scene": "7:58 \u2014 the hero sprints down the street, bus ahead",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "footstep",
+     "gain": -14
+    },
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 0.9,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "h02",
+   "start": 3.2,
+   "end": 5.6,
+   "line": "",
+   "scene": "The bus pulls away; the hero stops and points",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "carpass",
+     "gain": -8
+    },
+    {
+     "at": 1.4,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "h03",
+   "start": 5.6,
+   "end": 7.6,
+   "line": "",
+   "scene": "Close-up: shocked, then facepalm \u2014 SCHOOL: 3 KM",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "stinger",
+     "gain": -10
+    },
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "h04",
+   "start": 7.6,
+   "end": 10.6,
+   "line": "",
+   "scene": "Eyes closed, a cyan aura gathers around the head",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -8
+    },
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "h05",
+   "start": 10.6,
+   "end": 12.4,
+   "line": "",
+   "scene": "Wide: the hero vanishes in a cyan burst",
+   "set": "suburb",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "powerup",
+     "gain": -8
+    },
+    {
+     "at": 0.85,
+     "name": "whoosh",
+     "gain": -6
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "h06",
+   "start": 12.4,
+   "end": 15.6,
+   "line": "",
+   "scene": "Classroom: flash, the hero appears at his desk",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "whoosh",
+     "gain": -9
+    },
+    {
+     "at": 0.75,
+     "name": "impact",
+     "gain": -8
+    },
+    {
+     "at": 0.8,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "h07",
+   "start": 15.6,
+   "end": 17.8,
+   "line": "",
+   "scene": "Classmate gasps, juice box drops to the floor",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -10
+    },
+    {
+     "at": 0.95,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "h08",
+   "start": 17.8,
+   "end": 20.4,
+   "line": "",
+   "scene": "Close-up: the hero smirks, bag still swinging",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "h09",
+   "start": 20.4,
+   "end": 24.4,
+   "line": "",
+   "scene": "Orbit: every head turns to the new arrival",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -14
+    },
+    {
+     "at": 0.4,
+     "name": "murmur",
+     "gain": -22
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "h10",
+   "start": 24.4,
+   "end": 31.0,
+   "line": "",
+   "scene": "Title card: WHAT IF YOU COULD TELEPORT?",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -12
+    },
+    {
+     "at": 0.8,
+     "name": "impact",
+     "gain": -5
+    },
+    {
+     "at": 0.82,
+     "name": "shimmer",
+     "gain": -8
+    }
+   ],
+   "params": {},
+   "notes": ""
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 7.6,
+   "mood": "playful",
+   "intensity": 0.7
+  },
+  {
+   "start": 7.6,
+   "end": 12.4,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 12.4,
+   "end": 24.4,
+   "mood": "playful",
+   "intensity": 0.6
+  },
+  {
+   "start": 24.4,
+   "end": 31.0,
+   "mood": "epic",
+   "intensity": 0.6
+  }
+ ],
+ "sfx": []
+}

@@ -1,0 +1,6203 @@
+{
+ "title": "What If You Could Teleport?",
+ "duration": 710.25,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 2.56,
+   "line": "You wake up in the lush city park,",
+   "scene": "Wide park at golden morning, you lie on the grass waking, birds overhead, slow pull-out",
+   "set": "park",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.8
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "park",
+    "cast": [
+     {
+      "w": "you",
+      "x": -120,
+      "pose": "lie",
+      "expr": "sleepy",
+      "rot": -1.5707,
+      "still": 1,
+      "exprs": [
+       [
+        1.6,
+        "neutral"
+       ]
+      ]
+     }
+    ],
+    "size": "wide",
+    "extraBack": "birds",
+    "cam": "pull"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s002",
+   "start": 2.56,
+   "end": 4.04,
+   "line": "birds chirping, and the world",
+   "scene": "Medium: you sit up on the grass, birds chirping in the tree, plant foreground",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "park",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "sit",
+      "expr": "smile",
+      "poses": [
+       [
+        0,
+        "sit"
+       ],
+       [
+        1.2,
+        "sitBack"
+       ]
+      ]
+     }
+    ],
+    "size": "med",
+    "extraBack": "birds",
+    "fg": "plant"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s003",
+   "start": 4.04,
+   "end": 6.44,
+   "line": "around you looks strangely ordinary.",
+   "scene": "Giant face: you look around, the world looks strangely ordinary",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "confused",
+    "loc": "park",
+    "who": "you",
+    "look": [
+     0.6,
+     -0.2
+    ]
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s004",
+   "start": 6.44,
+   "end": 8.52,
+   "line": "Yet today is anything but normal.",
+   "scene": "Giant face: a faint cyan shimmer circles your head, \"anything but normal\"",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "thinking",
+    "loc": "park",
+    "who": "you",
+    "exprs": [
+     [
+      0.6,
+      "surprised"
+     ]
+    ],
+    "sparkles": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s005",
+   "start": 8.52,
+   "end": 10.54,
+   "line": "You feel a strange sensation,",
+   "scene": "Insert: your hand tingles with cyan particles",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "hand",
+    "loc": "park",
+    "glow": 0.6
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s006",
+   "start": 10.54,
+   "end": 12.64,
+   "line": "a tingling that whispers potential.",
+   "scene": "Medium: you stare at your glowing hands, rings of potential pulse",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "park",
+    "cast": [
+     {
+      "w": "you",
+      "x": -40,
+      "pose": "holdFront",
+      "expr": "awe"
+     }
+    ],
+    "size": "med",
+    "extra": "ripple",
+    "rippleX": -40
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s007",
+   "start": 12.64,
+   "end": 14.88,
+   "line": "With a mere thought, you vanish from the park",
+   "scene": "Medium park: with a thought you vanish in a cyan particle burst",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "whoosh",
+     "gain": -9
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "park",
+    "cast": [
+     {
+      "w": "you",
+      "x": -120,
+      "pose": "stand",
+      "expr": "determined",
+      "tp": "out",
+      "at": "vanish"
+     }
+    ],
+    "size": "med"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s008",
+   "start": 14.88,
+   "end": 18.28,
+   "line": "and reappear instantly at the beach miles away.",
+   "scene": "Wide beach at golden hour: you reappear in a column of light, waves behind",
+   "set": "beach",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "beach",
+    "cast": [
+     {
+      "w": "you",
+      "x": -200,
+      "pose": "stand",
+      "expr": "awe",
+      "tp": "in",
+      "at": 0.3
+     }
+    ],
+    "size": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s009",
+   "start": 18.28,
+   "end": 20.2,
+   "line": "The sand is warm under your feet,",
+   "scene": "Insert: bare feet on warm damp sand, the tide washes in",
+   "set": "beach",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "feet",
+    "loc": "beach"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s010",
+   "start": 20.2,
+   "end": 22.54,
+   "line": "still slightly damp from the morning tide.",
+   "scene": "Wide beach: you stand at the water line, the morning tide rolls in",
+   "set": "beach",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "beach",
+    "cast": [
+     {
+      "w": "you",
+      "x": -300,
+      "pose": "relaxed",
+      "expr": "smile"
+     }
+    ],
+    "size": "wide",
+    "cam": "right"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s011",
+   "start": 22.54,
+   "end": 24.96,
+   "line": "Exciting images flash before your eyes of jet,",
+   "scene": "Giant face, awe: a vision bubble flashes images of distant cities",
+   "set": "beach",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "awe",
+    "loc": "beach",
+    "who": "you",
+    "vision": "tokyo"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s012",
+   "start": 24.96,
+   "end": 28.84,
+   "line": "setting across, the globe without ever stepping onto a plane.",
+   "scene": "Blueprint globe: arcs jet across continents, a plane icon gets crossed out",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "globe",
+    "cities": [
+     "BEACH",
+     "HIGHLANDS",
+     "PARIS",
+     "TOKYO"
+    ],
+    "plane": 1
+   },
+   "notes": ""
+  },
+  {
+   "id": "s013",
+   "start": 28.84,
+   "end": 31.16,
+   "line": "One moment you are in bustling Tokyo,",
+   "scene": "Wide Tokyo at night: neon signs, you pop in on the street",
+   "set": "tokyo",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "tokyo",
+    "cast": [
+     {
+      "w": "you",
+      "x": -160,
+      "pose": "stand",
+      "expr": "joy",
+      "tp": "in",
+      "at": 0.2
+     }
+    ],
+    "size": "wide",
+    "cam": "left"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s014",
+   "start": 31.16,
+   "end": 32.32,
+   "line": "and the next moment,",
+   "scene": "Medium: you wave in bustling Tokyo, crowd heads blurred in front",
+   "set": "tokyo",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "tokyo",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "wave",
+      "expr": "happy"
+     }
+    ],
+    "size": "med",
+    "crowdFg": 1,
+    "cheer": 0.1
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s015",
+   "start": 32.32,
+   "end": 36.28,
+   "line": "you're amid the serene fields of the Scottish Highlands.",
+   "scene": "Wide Scottish Highlands: misty hills, standing stones, you appear arms raised",
+   "set": "highlands",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dir": 1
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "highlands",
+    "cast": [
+     {
+      "w": "you",
+      "x": -200,
+      "pose": "cheer",
+      "expr": "joy",
+      "tp": "in",
+      "at": 0.2
+     }
+    ],
+    "size": "wide",
+    "cam": "pull"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s016",
+   "start": 36.28,
+   "end": 39.52,
+   "line": "It's teleportation, pure and simple.",
+   "scene": "Title card over the dusk park, faint cyan particles",
+   "set": null,
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "riser",
+     "gain": -10
+    },
+    {
+     "at": 0,
+     "name": "flash",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "title",
+    "lines": [
+     "WHAT IF",
+     "YOU COULD TELEPORT?"
+    ]
+   },
+   "notes": ""
+  },
+  {
+   "id": "s017",
+   "start": 39.52,
+   "end": 41.96,
+   "line": "Instant travel at the speed of thought.",
+   "scene": "Blueprint: a thought travels brain to pin instantly, TRAVEL TIME 0.000 s",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "speed"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s018",
+   "start": 41.96,
+   "end": 43.22,
+   "line": "Sounds amazing, right?",
+   "scene": "Giant face, grinning: sounds amazing, right?",
+   "set": "highlands",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "joy",
+    "loc": "highlands",
+    "who": "you"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s019",
+   "start": 43.22,
+   "end": 48.08,
+   "line": "Zipping across the globe faster than any commercial aircraft ever could.",
+   "scene": "Blueprint bars: aircraft crawls across the globe, you are instant",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "compare",
+    "rows": [
+     {
+      "label": "AIRCRAFT",
+      "v": 0.92
+     },
+     {
+      "label": "YOU",
+      "v": 0.02
+     }
+    ]
+   },
+   "notes": ""
+  },
+  {
+   "id": "s020",
+   "start": 48.08,
+   "end": 52.16,
+   "line": "But there's much more beneath the surface than you first realized.",
+   "scene": "Wide beach at dusk: you look down at the dark water, much beneath the surface",
+   "set": "beach",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "beach",
+    "cast": [
+     {
+      "w": "you",
+      "x": -100,
+      "pose": "stand",
+      "expr": "worried"
+     }
+    ],
+    "size": "wide",
+    "mood": "dusk",
+    "cam": "push"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s021",
+   "start": 52.16,
+   "end": 55.78,
+   "line": "First, how will your body handle this mind -bending power?",
+   "scene": "Blueprint: your line figure is scanned, labels MIND and BODY",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "scan"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s022",
+   "start": 55.78,
+   "end": 59.3,
+   "line": "How do you keep it all together while disassembling your entire molecular",
+   "scene": "Blueprint: your figure disassembles into a cloud of atoms",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "dis"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s023",
+   "start": 59.3,
+   "end": 63.68,
+   "line": "structure, only to put it back together, in flawless order at the destination?",
+   "scene": "Blueprint: the atoms fly across and reassemble in flawless order",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "re"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s024",
+   "start": 63.68,
+   "end": 67.76,
+   "line": "And what happens if something goes wrong, just a single atom out of place?",
+   "scene": "Blueprint grid: one red atom drifts out of place",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "stinger",
+     "gain": -10
+    },
+    {
+     "at": 0,
+     "name": "flash",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "misplace"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s025",
+   "start": 67.76,
+   "end": 71.42,
+   "line": "Does it even remember where everything was, before it messed it all up?",
+   "scene": "Blueprint grid with question marks: does it remember where everything was?",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "map"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s026",
+   "start": 71.42,
+   "end": 76.6,
+   "line": "How long before the miraculous turns hazardous and, potentially, very personal?",
+   "scene": "Giant face, worried, a first faint glitch: hazardous and personal",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "face",
+    "expr": "worried",
+    "loc": "parkSunset",
+    "who": "you",
+    "glitch": 0.15
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s027",
+   "start": 76.6,
+   "end": 80.72,
+   "line": "What is the cost of this newfound freedom beyond jet lag?",
+   "scene": "Insert: a clock spins wildly, plane crossed out: the cost beyond jet lag",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.3,
+     "name": "clock",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "clock",
+    "loc": "bedroom",
+    "mode": "spin",
+    "plane": 1
+   },
+   "notes": ""
+  },
+  {
+   "id": "s028",
+   "start": 80.72,
+   "end": 82.22,
+   "line": "So here's the deal.",
+   "scene": "Chapter line THE RULES over the blurred park",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "line",
+    "str": "THE RULES",
+    "loc": "park"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s029",
+   "start": 82.22,
+   "end": 85.4,
+   "line": "You can teleport anywhere as long as you can.",
+   "scene": "Giant face eyes closed, a vision of a destination forms",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "sleepy",
+    "loc": "park",
+    "who": "you",
+    "vision": "himalaya"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s030",
+   "start": 85.4,
+   "end": 88.18,
+   "line": "Lock the image of the destination in your mind.",
+   "scene": "Blueprint: the mental picture of the peaks zooms out of your head and locks",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "lock",
+    "vision": "himalaya"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s031",
+   "start": 88.18,
+   "end": 90.82,
+   "line": "Think of the snowy peaks of the Himalayas,",
+   "scene": "Wide Himalayas: snowy peaks, snow blowing, you appear in a light column",
+   "set": "himalaya",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "himalaya",
+    "cast": [
+     {
+      "w": "you",
+      "x": -180,
+      "pose": "stand",
+      "expr": "awe",
+      "tp": "in",
+      "at": 0.3
+     }
+    ],
+    "size": "wide",
+    "cam": "pull"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s032",
+   "start": 90.82,
+   "end": 94.12,
+   "line": "and you're there with wind -chilled oxygen adding to your awe.",
+   "scene": "Giant face in awe, snow drifting, wind-chilled air",
+   "set": "himalaya",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "awe",
+    "loc": "himalaya",
+    "who": "you",
+    "side": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s033",
+   "start": 94.12,
+   "end": 96.0,
+   "line": "This sounds incredible, doesn't it?",
+   "scene": "Medium: you throw your arms up on the summit",
+   "set": "himalaya",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "himalaya",
+    "cast": [
+     {
+      "w": "you",
+      "x": -40,
+      "pose": "cheer",
+      "expr": "joy"
+     }
+    ],
+    "size": "med"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s034",
+   "start": 96.0,
+   "end": 98.54,
+   "line": "But every leap comes with hidden rules.",
+   "scene": "Line EVERY LEAP HAS RULES over the blurred peaks",
+   "set": "himalaya",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "line",
+    "str": "EVERY LEAP HAS RULES",
+    "loc": "himalaya"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s035",
+   "start": 98.54,
+   "end": 101.5,
+   "line": "First off, teleportation demands a colossal amount",
+   "scene": "Blueprint energy meter fills to the red",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "meter",
+    "label": "ENERGY NEEDED"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s036",
+   "start": 101.5,
+   "end": 104.6,
+   "line": "of energy, comparable to a nuclear bomb.",
+   "scene": "Blueprint: a mushroom cloud draws itself, label \u2248 1 NUCLEAR BOMB",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -6
+    },
+    {
+     "at": 0,
+     "name": "flash",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "nuke",
+    "at": "nuclear"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s037",
+   "start": 104.6,
+   "end": 107.64,
+   "line": "Imagine creating that kind of power every time you leap",
+   "scene": "Medium bedroom at sunrise: you step from bed and vanish",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "whoosh",
+     "gain": -9
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "bedroom",
+    "cast": [
+     {
+      "w": "you",
+      "x": -260,
+      "pose": "stand",
+      "expr": "sleepy",
+      "tp": "out",
+      "at": 1.8
+     }
+    ],
+    "size": "med"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s038",
+   "start": 107.64,
+   "end": 109.88,
+   "line": "from your bed to your office desk.",
+   "scene": "Medium office: you land at your desk, a shock ring rolls out",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    },
+    {
+     "at": 0.3,
+     "name": "buzz",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "office",
+    "cast": [
+     {
+      "w": "you",
+      "x": -120,
+      "pose": "stand",
+      "expr": "neutral",
+      "tp": "in",
+      "at": 0.2
+     }
+    ],
+    "size": "med",
+    "extra": "emp",
+    "empAt": 0.3
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s039",
+   "start": 109.88,
+   "end": 112.26,
+   "line": "It's like carrying a sun around with you.",
+   "scene": "Wide street: you walk with a tiny blazing sun hovering beside you",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "street",
+    "cast": [
+     {
+      "w": "you",
+      "x": -500,
+      "pose": "stand",
+      "expr": "smile",
+      "walk": 1
+     }
+    ],
+    "size": "wide",
+    "extra": "sunOrb"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s040",
+   "start": 112.26,
+   "end": 115.1,
+   "line": "See, and that makes precision crucial.",
+   "scene": "Blueprint crosshair: one atom snaps exactly to centre, PRECISION",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "precision"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s041",
+   "start": 115.1,
+   "end": 119.18,
+   "line": "Your body is a symphony of, about 7, 10, 27 atoms.",
+   "scene": "Blueprint: atom figure, big readout 7 \u00d7 10^27 ATOMS IN YOUR BODY",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "count",
+    "at": "7"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s042",
+   "start": 119.18,
+   "end": 123.36,
+   "line": "Atoms each needing to unpack and repack perfectly in your travels.",
+   "scene": "Blueprint: atoms unpack and repack in a loop",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "cycle"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s043",
+   "start": 123.36,
+   "end": 125.36,
+   "line": "Every atom must know its place.",
+   "scene": "Blueprint: atoms fly into their exact grid slots one by one",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "slots"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s044",
+   "start": 125.36,
+   "end": 128.52,
+   "line": "That's more than theoretical. It's practically magic.",
+   "scene": "Giant face, wonder, sparkles: practically magic",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "awe",
+    "loc": "lab",
+    "who": "you",
+    "sparkles": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s045",
+   "start": 128.52,
+   "end": 132.58,
+   "line": "Considering current text says reassembling atoms perfectly is impossible.",
+   "scene": "Blueprint: atoms jitter, red X: IMPOSSIBLE (FOR NOW)",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "impossible"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s046",
+   "start": 132.58,
+   "end": 135.9,
+   "line": "As you pop in and out of places, spare",
+   "scene": "Wide street: you pop in and out of a sidewalk spot",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    },
+    {
+     "at": 1.8,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "street",
+    "cast": [
+     {
+      "w": "you",
+      "x": -300,
+      "pose": "stand",
+      "expr": "smile",
+      "tp": "both",
+      "at": 0.3,
+      "at2": 1.8
+     }
+    ],
+    "size": "wide",
+    "cam": "right"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s047",
+   "start": 135.9,
+   "end": 141.0,
+   "line": "a thought for what remains behind, a flash of energy distorting the fabric around you.",
+   "scene": "Wide street: the empty spot you left ripples, energy distorting the air",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "street",
+    "cast": [],
+    "size": "wide",
+    "extra": "ripple",
+    "cam": "push"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s048",
+   "start": 141.0,
+   "end": 145.18,
+   "line": "Scientists theorize that this could cause molecular disassembly,",
+   "scene": "Medium lab: the scientist points at a rising chart: molecular disassembly",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "lab",
+    "cast": [
+     {
+      "w": "doc",
+      "x": -160,
+      "pose": "point",
+      "expr": "thinking",
+      "facing": 1
+     },
+     {
+      "w": "you",
+      "x": 220,
+      "pose": "stand",
+      "expr": "worried",
+      "facing": -1
+     }
+    ],
+    "size": "med",
+    "extra": "chart",
+    "chartLabel": "MOLECULAR DISASSEMBLY"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s049",
+   "start": 145.18,
+   "end": 149.94,
+   "line": "the kind that risks losing your sense of, self as you hop around the globe,",
+   "scene": "Giant face glitching: losing your sense of self",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "face",
+    "expr": "confused",
+    "loc": "lab",
+    "who": "you",
+    "glitch": 0.3
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s050",
+   "start": 149.94,
+   "end": 153.56,
+   "line": "and don't forget the chaos your leaps cause for anything relying on",
+   "scene": "Wide room of screens: everything that relies on electronics",
+   "set": "electronics",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "electronics",
+    "cast": [
+     {
+      "w": "you",
+      "x": -300,
+      "pose": "stand",
+      "expr": "neutral"
+     }
+    ],
+    "size": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s051",
+   "start": 153.56,
+   "end": 158.02,
+   "line": "electronics, making gadgets go haywire as you vanish into thin air.",
+   "scene": "You vanish and the screens spark and die",
+   "set": "electronics",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "whoosh",
+     "gain": -9
+    },
+    {
+     "at": 1.3,
+     "name": "buzz",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "electronics",
+    "cast": [
+     {
+      "w": "you",
+      "x": -100,
+      "pose": "stand",
+      "expr": "nervous",
+      "tp": "out",
+      "at": 1.2
+     }
+    ],
+    "size": "wide",
+    "extra": "sparks",
+    "sparkAt": 1.3
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s052",
+   "start": 158.02,
+   "end": 160.98,
+   "line": "Visualize this, zipping to Paris for lunch",
+   "scene": "Wide Paris caf\u00e9 street, Eiffel Tower in the distance, you appear for lunch",
+   "set": "paris",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "paris",
+    "cast": [
+     {
+      "w": "you",
+      "x": -260,
+      "pose": "stand",
+      "expr": "smile",
+      "tp": "in",
+      "at": 0.3
+     }
+    ],
+    "size": "wide",
+    "cam": "left"
+   },
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s053",
+   "start": 160.98,
+   "end": 164.34,
+   "line": "only to leave, a trail of sparking laptops behind you.",
+   "scene": "Wide: a row of laptops on caf\u00e9 tables spark in your wake",
+   "set": "paris",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "paris",
+    "cast": [],
+    "size": "wide",
+    "extra": "laptops",
+    "cam": "right"
+   },
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s054",
+   "start": 164.34,
+   "end": 169.16,
+   "line": "And remember, traveling across the world in moments may sound glamorous.",
+   "scene": "Globe: glamorous arcs hop around the world",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "globe",
+    "cities": [
+     "HOME",
+     "PARIS",
+     "TOKYO",
+     "NEW YORK"
+    ]
+   },
+   "notes": ""
+  },
+  {
+   "id": "s055",
+   "start": 169.16,
+   "end": 173.98,
+   "line": "But good luck explaining your time confusion when you show up at awkward hours.",
+   "scene": "Medium night bedroom: you appear at 3 a.m., your friend sits up in bed shocked",
+   "set": "bedroomNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "bedroomNight",
+    "cast": [
+     {
+      "w": "friend",
+      "x": 200,
+      "pose": "sit",
+      "expr": "shocked",
+      "facing": -1,
+      "y": -70
+     },
+     {
+      "w": "you",
+      "x": -260,
+      "pose": "wave",
+      "expr": "smile",
+      "tp": "in",
+      "at": 0.3
+     }
+    ],
+    "size": "med"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s056",
+   "start": 173.98,
+   "end": 177.44,
+   "line": "Because of jet lag sans the jet, even with all eyes focused",
+   "scene": "Insert: clock hands whirl, jet lag without the jet",
+   "set": "bedroomNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.3,
+     "name": "clock",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "clock",
+    "loc": "bedroomNight",
+    "mode": "spin"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s057",
+   "start": 177.44,
+   "end": 180.78,
+   "line": "on you, and the energy coursing through your veins, each",
+   "scene": "Giant face, energy glowing in your veins, camera flashes around you",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "flash",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "face",
+    "expr": "determined",
+    "loc": "streetNight",
+    "who": "you",
+    "veins": 1,
+    "aura": 1,
+    "flashes": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s058",
+   "start": 180.78,
+   "end": 184.24,
+   "line": "jump is a cosmic gamble, ground rules considered.",
+   "scene": "Insert: two glowing atom dice tumble through space: a cosmic gamble",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "dice",
+    "loc": "void"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s059",
+   "start": 184.24,
+   "end": 188.26,
+   "line": "Here's the thing you really need to know. The risks are bigger than they appear.",
+   "scene": "Line THE RISKS ARE BIGGER in red over the dusk park",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "line",
+    "str": "THE RISKS ARE BIGGER",
+    "loc": "parkSunset",
+    "red": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s060",
+   "start": 188.26,
+   "end": 191.18,
+   "line": "You decide to test your new powers right away.",
+   "scene": "Medium bedroom morning: you stretch, ready to test the power",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "bedroom",
+    "cast": [
+     {
+      "w": "you",
+      "x": -80,
+      "pose": "cheer",
+      "expr": "determined"
+     }
+    ],
+    "size": "med"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s061",
+   "start": 191.18,
+   "end": 194.08,
+   "line": "It's a typical Tuesday morning, and traffic is a nightmare.",
+   "scene": "3D: crane down over a gridlocked street of cars",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "t3d",
+    "v": "traffic",
+    "label": "TUESDAY 8:14"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s062",
+   "start": 194.08,
+   "end": 195.82,
+   "line": "But not for you.",
+   "scene": "Giant face, smirk: but not for you",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "smirk",
+    "loc": "street",
+    "who": "you"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s063",
+   "start": 195.82,
+   "end": 199.86,
+   "line": "While others are stuck in gridlock, you picture your friend's living room.",
+   "scene": "Medium: you stand among stuck cars, eyes closed, picturing the living room",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "street",
+    "cast": [
+     {
+      "w": "you",
+      "x": -100,
+      "pose": "think",
+      "expr": "sleepy"
+     }
+    ],
+    "size": "med",
+    "extraBack": "cars",
+    "cam": "push"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s064",
+   "start": 199.86,
+   "end": 204.48,
+   "line": "Room, a blink later, you're there on the couch, much to your friend's surprise.",
+   "scene": "Medium living room: you pop onto the couch, friend jumps in shock",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "living",
+    "cast": [
+     {
+      "w": "you",
+      "x": -160,
+      "pose": "sit",
+      "expr": "smile",
+      "tp": "in",
+      "at": 0.4,
+      "y": -60
+     },
+     {
+      "w": "friend",
+      "x": 260,
+      "pose": "handsOnHead",
+      "expr": "shocked",
+      "facing": -1
+     }
+    ],
+    "size": "med"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s065",
+   "start": 204.48,
+   "end": 208.58,
+   "line": "From now on, you'll always be the first to arrive, no matter what.",
+   "scene": "Medium: you lounge, badge 1ST: always first to arrive",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "living",
+    "cast": [
+     {
+      "w": "you",
+      "x": -160,
+      "pose": "sitBack",
+      "expr": "smirk",
+      "y": -60
+     },
+     {
+      "w": "friend",
+      "x": 260,
+      "pose": "shrug",
+      "expr": "confused",
+      "facing": -1
+     }
+    ],
+    "size": "med",
+    "badge": "1ST",
+    "badgeAt": 1.0
+   },
+   "notes": ""
+  },
+  {
+   "id": "s066",
+   "start": 208.58,
+   "end": 210.18,
+   "line": "Need groceries?",
+   "scene": "Giant face thinking: need groceries?",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "thinking",
+    "loc": "kitchen",
+    "who": "you"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s067",
+   "start": 210.18,
+   "end": 214.48,
+   "line": "Picture the store aisle laden with fresh bread, and vibrant produce.",
+   "scene": "Wide supermarket aisle: shelves of bread and produce, you appear",
+   "set": "grocery",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.75,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 1.0,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "grocery",
+    "cast": [
+     {
+      "w": "you",
+      "x": -200,
+      "pose": "stand",
+      "expr": "happy",
+      "tp": "in",
+      "at": 1.0
+     }
+    ],
+    "size": "wide",
+    "cam": "left"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s068",
+   "start": 214.48,
+   "end": 218.62,
+   "line": "You pop in, and out without the usual weight at the counter.",
+   "scene": "Wide: a queue waits at the counter, you pop in and out past it",
+   "set": "grocery",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    },
+    {
+     "at": 2.8,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "grocery",
+    "cast": [
+     {
+      "w": "plain",
+      "x": 300,
+      "pose": "stand",
+      "expr": "sleepy",
+      "facing": 1
+     },
+     {
+      "w": "plain",
+      "x": 420,
+      "pose": "stand",
+      "expr": "neutral",
+      "facing": 1
+     },
+     {
+      "w": "plain",
+      "x": 540,
+      "pose": "phone",
+      "expr": "neutral",
+      "facing": 1,
+      "prop": "phone"
+     },
+     {
+      "w": "you",
+      "x": -300,
+      "pose": "stand",
+      "expr": "smile",
+      "tp": "both",
+      "at": 0.3,
+      "at2": 2.8
+     }
+    ],
+    "size": "wide"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s069",
+   "start": 218.62,
+   "end": 222.94,
+   "line": "You're getting errands done before most. People even find their car keys.",
+   "scene": "Wide lawn: you arrive with groceries while a neighbour still pats for his car keys",
+   "set": "lawn",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "lawn",
+    "cast": [
+     {
+      "w": "you",
+      "x": -260,
+      "pose": "stand",
+      "expr": "smile",
+      "tp": "in",
+      "at": 0.2
+     },
+     {
+      "w": "plain",
+      "x": 300,
+      "pose": "facepalm",
+      "expr": "confused",
+      "facing": -1
+     }
+    ],
+    "size": "wide",
+    "extra": [
+     "bags",
+     "keys"
+    ],
+    "keysX": 520
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s070",
+   "start": 222.94,
+   "end": 227.74,
+   "line": "And that friend in Paris you've been meaning to visit. You're having lunch with them today.",
+   "scene": "Insert: phone message with the Eiffel Tower: LUNCH?",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "phone",
+    "loc": "living"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s071",
+   "start": 227.74,
+   "end": 232.96,
+   "line": "Aye, you stand in your kitchen. Imagine the Eiffel Tower looming over city streets.",
+   "scene": "Medium kitchen: you stand eyes closed, a vision of the Eiffel Tower forms",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "kitchen",
+    "cast": [
+     {
+      "w": "you",
+      "x": -200,
+      "pose": "think",
+      "expr": "sleepy"
+     }
+    ],
+    "size": "med",
+    "extra": "thought",
+    "vision": "paris"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s072",
+   "start": 232.96,
+   "end": 236.38,
+   "line": "The next second, you're in a quaint Parisian cafe, sipping",
+   "scene": "Medium Paris caf\u00e9: you appear seated across from your friend, Eiffel in view",
+   "set": "paris",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "paris",
+    "cast": [
+     {
+      "w": "you",
+      "x": -200,
+      "pose": "sit",
+      "expr": "happy",
+      "tp": "in",
+      "at": 0.3,
+      "y": -10
+     },
+     {
+      "w": "friend",
+      "x": 220,
+      "pose": "sit",
+      "expr": "joy",
+      "facing": -1
+     }
+    ],
+    "size": "med",
+    "extra": [
+     "chairs",
+     "table"
+    ]
+   },
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s073",
+   "start": 236.38,
+   "end": 239.56,
+   "line": "espresso, the Eiffel Tower in full view.",
+   "scene": "Insert: espresso steams, the Eiffel Tower blurred behind",
+   "set": "paris",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "cup",
+    "loc": "paris"
+   },
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s074",
+   "start": 239.56,
+   "end": 243.68,
+   "line": "It's so easy, it almost feels like cheating reality itself.",
+   "scene": "Medium: you lean back smirking, cheating reality itself",
+   "set": "paris",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "paris",
+    "cast": [
+     {
+      "w": "you",
+      "x": -200,
+      "pose": "sitBack",
+      "expr": "smirk"
+     },
+     {
+      "w": "friend",
+      "x": 220,
+      "pose": "sit",
+      "expr": "happy",
+      "facing": -1
+     }
+    ],
+    "size": "med",
+    "extra": [
+     "chairs",
+     "table"
+    ],
+    "cam": "push"
+   },
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s075",
+   "start": 243.68,
+   "end": 248.3,
+   "line": "Life morphs into a sequence of surprise visits, and swift escapes.",
+   "scene": "Montage: you pop into one place after another, surprise visits and escapes",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "montage",
+    "locs": [
+     "living",
+     "beach",
+     "street",
+     "paris"
+    ],
+    "expr": "joy"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s076",
+   "start": 248.3,
+   "end": 252.9,
+   "line": "Friends in need of an instant. Companion rely on your teleportation magic.",
+   "scene": "Medium living room: your sad friend, then you appear with a wave",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.55,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.8,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "living",
+    "cast": [
+     {
+      "w": "friend",
+      "x": 200,
+      "pose": "sad",
+      "expr": "sad",
+      "facing": -1
+     },
+     {
+      "w": "you",
+      "x": -200,
+      "pose": "wave",
+      "expr": "smile",
+      "tp": "in",
+      "at": 0.8
+     }
+    ],
+    "size": "med"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s077",
+   "start": 252.9,
+   "end": 255.24,
+   "line": "Never again do you have to worry about being late.",
+   "scene": "Insert: clock hands settle and stop: never late again",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.3,
+     "name": "clock",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "clock",
+    "loc": "office",
+    "mode": "stop"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s078",
+   "start": 255.24,
+   "end": 258.32,
+   "line": "The news spreads quickly among your circle.",
+   "scene": "Blueprint: phones light up one by one, the news spreads",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "network"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s079",
+   "start": 258.32,
+   "end": 260.14,
+   "line": "You're the ultimate party guest.",
+   "scene": "Wide party at night: coloured lights, confetti, you in the centre",
+   "set": "party",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "cheer",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "party",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "cheer",
+      "expr": "joy"
+     },
+     {
+      "w": "plain",
+      "x": -460,
+      "pose": "cheer",
+      "expr": "happy",
+      "facing": 1
+     },
+     {
+      "w": "plain",
+      "x": 400,
+      "pose": "cheer",
+      "expr": "happy",
+      "facing": -1
+     }
+    ],
+    "size": "wide",
+    "extra": "confetti",
+    "crowdFg": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s080",
+   "start": 260.14,
+   "end": 264.88,
+   "line": "Weekends transform into global adventures, rather, than lazy afternoons on the couch.",
+   "scene": "Globe: weekend arcs hop across oceans",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "globe",
+    "cities": [
+     "HAWAII",
+     "NEW YORK",
+     "MARRAKECH",
+     "PARIS"
+    ]
+   },
+   "notes": ""
+  },
+  {
+   "id": "s081",
+   "start": 264.88,
+   "end": 268.08,
+   "line": "In the morning, you're swimming with dolphins off Hawaii's coast.",
+   "scene": "Wide ocean: you swim as dolphins leap off the Hawaiian coast",
+   "set": "ocean",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "ocean",
+    "cast": [],
+    "size": "wide",
+    "extra": [
+     "swim",
+     "dolphins"
+    ],
+    "cam": "right"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s082",
+   "start": 268.08,
+   "end": 271.14,
+   "line": "By lunch, you're catching a Broadway show in New York.",
+   "scene": "Wide Broadway at night: marquee lights, you pop in by the crowd",
+   "set": "broadway",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "broadway",
+    "cast": [
+     {
+      "w": "you",
+      "x": -120,
+      "pose": "cheer",
+      "expr": "joy",
+      "tp": "in",
+      "at": 0.2
+     }
+    ],
+    "size": "wide",
+    "crowdFg": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s083",
+   "start": 271.14,
+   "end": 274.16,
+   "line": "How about spending a quiet evening? Taymouse.",
+   "scene": "Giant face, smiling, warm lantern light: a quiet evening?",
+   "set": "marrakech",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "smile",
+    "loc": "marrakech",
+    "who": "you"
+   },
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s084",
+   "start": 274.16,
+   "end": 278.26,
+   "line": "In the exotic markets of Marraketch, you teleport like a casual stroll.",
+   "scene": "Wide Marrakech market at dusk: lanterns glow, you stroll past stalls",
+   "set": "marrakech",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "marrakech",
+    "cast": [
+     {
+      "w": "you",
+      "x": -200,
+      "pose": "stand",
+      "expr": "smile",
+      "walk": 0.8
+     }
+    ],
+    "size": "wide",
+    "cam": "left"
+   },
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s085",
+   "start": 278.26,
+   "end": 282.9,
+   "line": "Aarons, tasks, and visits happen instantaneously.",
+   "scene": "Montage: errands, tasks, visits, instantly",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "montage",
+    "locs": [
+     "grocery",
+     "office",
+     "living"
+    ],
+    "expr": "happy"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s086",
+   "start": 282.9,
+   "end": 287.96,
+   "line": "The world is your playground, and rules about distance lose their hold.",
+   "scene": "You stand on top of a tiny planet: the world is your playground",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "globe",
+    "cities": [
+     "HOME"
+    ],
+    "planet": 1
+   },
+   "notes": ""
+  },
+  {
+   "id": "s087",
+   "start": 287.96,
+   "end": 291.68,
+   "line": "If time is money, you're the new tycoon of hours and minutes.",
+   "scene": "Insert: a golden clock under falling coins: tycoon of hours",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.3,
+     "name": "clock",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "clock",
+    "loc": "office",
+    "mode": "gold"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s088",
+   "start": 291.68,
+   "end": 296.68,
+   "line": "The mundane transforms into marvelous, and magic seems an understatement.",
+   "scene": "Medium park: you laugh with sparkles of power all around",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "park",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "cheer",
+      "expr": "joy"
+     }
+    ],
+    "size": "med",
+    "extra": "ripple",
+    "rippleX": -60
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s089",
+   "start": 296.68,
+   "end": 300.16,
+   "line": "But everyone knows that adventures often change course.",
+   "scene": "Wide park at dusk, clouds gathering: adventures change course",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -200,
+      "pose": "relaxed",
+      "expr": "neutral"
+     }
+    ],
+    "size": "wide",
+    "cam": "pull"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s090",
+   "start": 300.16,
+   "end": 304.76,
+   "line": "Your incredible feats don't go unnoticed. People start asking questions.",
+   "scene": "Wide street: passers-by point and raise phones at you",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "street",
+    "cast": [
+     {
+      "w": "you",
+      "x": -80,
+      "pose": "stand",
+      "expr": "nervous"
+     },
+     {
+      "w": "plain",
+      "x": 260,
+      "pose": "point",
+      "expr": "surprised",
+      "facing": -1
+     },
+     {
+      "w": "plain",
+      "x": 420,
+      "pose": "phone",
+      "expr": "surprised",
+      "facing": -1,
+      "prop": "phone"
+     },
+     {
+      "w": "plain",
+      "x": -420,
+      "pose": "point",
+      "expr": "shocked",
+      "facing": 1
+     }
+    ],
+    "size": "wide"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s091",
+   "start": 304.76,
+   "end": 307.6,
+   "line": "The media catches wind of your exploits.",
+   "scene": "Insert: TV BREAKING NEWS, a silhouette appears from thin air",
+   "set": "living",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "tv",
+    "loc": "living"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s092",
+   "start": 307.6,
+   "end": 310.0,
+   "line": "And soon, you're a fascination.",
+   "scene": "Medium night: camera flashes pop around you",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "flash",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "streetNight",
+    "cast": [
+     {
+      "w": "you",
+      "x": 0,
+      "pose": "stand",
+      "expr": "surprised"
+     }
+    ],
+    "size": "med",
+    "extra": "flashes",
+    "crowdFg": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s093",
+   "start": 310.0,
+   "end": 316.72,
+   "line": "Tabloids, W, the teleporter, and your face, or lack of it, becomes magazine cover material.",
+   "scene": "Insert: magazine cover THE TELEPORTER, a blurred faceless figure",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "magazine",
+    "loc": "office"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s094",
+   "start": 316.72,
+   "end": 318.54,
+   "line": "Fame wraps you up quickly.",
+   "scene": "Medium: red carpet, ropes, flashbulbs: fame wraps you up",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "flash",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "streetNight",
+    "cast": [
+     {
+      "w": "you",
+      "x": -40,
+      "pose": "wave",
+      "expr": "nervous"
+     }
+    ],
+    "size": "med",
+    "extra": [
+     "rope",
+     "flashes"
+    ],
+    "crowdFg": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s095",
+   "start": 318.54,
+   "end": 322.46,
+   "line": "Withdrawn, come perchy, ushering you into the world of celebrity.",
+   "scene": "Wide red carpet: you walk into the world of celebrity",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "flash",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "streetNight",
+    "cast": [
+     {
+      "w": "you",
+      "x": -200,
+      "pose": "wave",
+      "expr": "smile",
+      "walk": 0.5
+     }
+    ],
+    "size": "wide",
+    "extra": [
+     "rope",
+     "flashes"
+    ]
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s096",
+   "start": 322.46,
+   "end": 327.52,
+   "line": "You can see daytime talk shows queue up, wanting to hear about your wild ride.",
+   "scene": "Wide talk show: host gestures, you sit on the couch, audience heads in front",
+   "set": "studio",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "cheer",
+     "gain": -16
+    },
+    {
+     "at": 0.1,
+     "name": "applause",
+     "gain": -18
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "studio",
+    "cast": [
+     {
+      "w": "host",
+      "x": -380,
+      "pose": "explain",
+      "expr": "happy",
+      "facing": 1
+     },
+     {
+      "w": "you",
+      "x": 300,
+      "pose": "sit",
+      "expr": "nervous",
+      "facing": -1,
+      "y": -60
+     }
+    ],
+    "size": "med",
+    "crowdFg": 1,
+    "cheer": 0.8
+   },
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s097",
+   "start": 327.52,
+   "end": 332.94,
+   "line": "Book publishers envision bestsellers as your story promises unprecedented intrigue.",
+   "scene": "Insert: stacks of THE TELEPORTER books, BESTSELLER badge",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "books",
+    "loc": "office"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s098",
+   "start": 332.94,
+   "end": 337.46,
+   "line": "Science journals propose featuring articles on your extraordinary capabilities.",
+   "scene": "Insert: science journal cover with an atom diagram",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "journal",
+    "loc": "lab"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s099",
+   "start": 337.46,
+   "end": 341.16,
+   "line": "You're not just teleporting across the world anymore.",
+   "scene": "Wide: you teleport across the world, flashes in your wake",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    },
+    {
+     "at": 2.6,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.2,
+     "name": "flash",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "streetNight",
+    "cast": [
+     {
+      "w": "you",
+      "x": -160,
+      "pose": "stand",
+      "expr": "smile",
+      "tp": "both",
+      "at": 0.3,
+      "at2": 2.6
+     }
+    ],
+    "size": "wide",
+    "extra": "flashes"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s100",
+   "start": 341.16,
+   "end": 345.14,
+   "line": "You're teleporting through realms of society, from unknown to renowned.",
+   "scene": "Blueprint: your figure jumps step by step from UNKNOWN to RENOWNED",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "stairs"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s101",
+   "start": 345.14,
+   "end": 346.96,
+   "line": "Everybody wants a piece of your story.",
+   "scene": "Giant face, nervous, microphones push in from every side",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "flash",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "face",
+    "expr": "nervous",
+    "loc": "streetNight",
+    "who": "you",
+    "mics": 1,
+    "flashes": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s102",
+   "start": 346.96,
+   "end": 352.84,
+   "line": "Soon, you're not only a visitor between city landscapes, but also a frequenter of laboratories.",
+   "scene": "3D: orbit around a lab, a scanning ring rises around you as the scientist points",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "t3d",
+    "v": "lab"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s103",
+   "start": 352.84,
+   "end": 355.2,
+   "line": "Scientists are eager to study the phenomenon.",
+   "scene": "Medium lab: the scientist with a tablet, eager to study you",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "lab",
+    "cast": [
+     {
+      "w": "doc",
+      "x": -200,
+      "pose": "holdFront",
+      "expr": "smile",
+      "facing": 1,
+      "prop": "tablet"
+     },
+     {
+      "w": "you",
+      "x": 260,
+      "pose": "stand",
+      "expr": "neutral",
+      "facing": -1
+     }
+    ],
+    "size": "med"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s104",
+   "start": 355.2,
+   "end": 359.66,
+   "line": "They put you through a battery of tests, offering theories on your power as,",
+   "scene": "Wide lab: you stand inside the scanner ring, a beam sweeps you",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "lab",
+    "cast": [
+     {
+      "w": "you",
+      "x": 520,
+      "pose": "stand",
+      "expr": "nervous",
+      "x_": 1
+     }
+    ],
+    "size": "wide",
+    "extra": "scanbeam"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s105",
+   "start": 359.66,
+   "end": 362.1,
+   "line": "diverse as the places you visit, while it's",
+   "scene": "Medium: two scientists argue theories in front of a chart",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "lab",
+    "cast": [
+     {
+      "w": "doc",
+      "x": -300,
+      "pose": "explain",
+      "expr": "happy",
+      "facing": 1
+     },
+     {
+      "w": "doc",
+      "x": -560,
+      "pose": "think",
+      "expr": "thinking",
+      "facing": 1
+     },
+     {
+      "w": "you",
+      "x": 240,
+      "pose": "stand",
+      "expr": "confused",
+      "facing": -1
+     }
+    ],
+    "size": "med",
+    "extra": "chart",
+    "chartLabel": "THEORY #47"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s106",
+   "start": 362.1,
+   "end": 364.04,
+   "line": "flattering. It's also a lot.",
+   "scene": "Giant face, nervous: it is also a lot",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "nervous",
+    "loc": "lab",
+    "who": "you"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s107",
+   "start": 364.04,
+   "end": 370.14,
+   "line": "The demands on your time, ironically enough, become a new kind of burden.",
+   "scene": "Insert: a calendar fills up block by block",
+   "set": "hotel",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "calendar",
+    "loc": "hotel"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s108",
+   "start": 370.14,
+   "end": 375.46,
+   "line": "You teleport from interview to experiment, and quickly from lab room to hotel suite.",
+   "scene": "Montage: interview, experiment, hotel suite",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "montage",
+    "locs": [
+     "studio",
+     "lab",
+     "hotel"
+    ],
+    "expr": "neutral"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s109",
+   "start": 375.46,
+   "end": 378.72,
+   "line": "This is exciting, but not without consequence.",
+   "scene": "Medium hotel suite at night: you sit on the bed, tired",
+   "set": "hotel",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "hotel",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "sit",
+      "expr": "sleepy",
+      "y": -60
+     }
+    ],
+    "size": "med"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s110",
+   "start": 378.72,
+   "end": 383.56,
+   "line": "Fame adds pressure, and your once -fun relocation magic starts tightening its grip.",
+   "scene": "Giant face, worried, a cold glitch: the magic tightens its grip",
+   "set": "hotel",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "face",
+    "expr": "worried",
+    "loc": "hotel",
+    "who": "you",
+    "glitch": 0.2,
+    "cool": 0.2
+   },
+   "notes": ""
+  },
+  {
+   "id": "s111",
+   "start": 383.56,
+   "end": 386.26,
+   "line": "The more you teleport, the heavier it feels.",
+   "scene": "Medium: you land from a jump and sink to one knee",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "streetNight",
+    "cast": [
+     {
+      "w": "you",
+      "x": -120,
+      "pose": "kneel",
+      "expr": "sad",
+      "tp": "in",
+      "at": 0.3
+     }
+    ],
+    "size": "med"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s112",
+   "start": 386.26,
+   "end": 391.76,
+   "line": "It's as if each jump taxis, a toll on your being, a subtle shift you can't quite shake off.",
+   "scene": "Blueprint: hairline red cracks spread through your atom figure",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "cracks",
+    "label": "A SUBTLE SHIFT"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s113",
+   "start": 391.76,
+   "end": 398.4,
+   "line": "Scientists warn you of molecular tension, a sign of your atoms pushed to their limits.",
+   "scene": "Medium lab: the scientist warns, chart MOLECULAR TENSION climbs red",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "lab",
+    "cast": [
+     {
+      "w": "doc",
+      "x": -200,
+      "pose": "point",
+      "expr": "worried",
+      "facing": 1
+     },
+     {
+      "w": "you",
+      "x": 240,
+      "pose": "stand",
+      "expr": "worried",
+      "facing": -1
+     }
+    ],
+    "size": "med",
+    "extra": "chart"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s114",
+   "start": 398.4,
+   "end": 401.32,
+   "line": "It's like carrying a hidden weight with each zip.",
+   "scene": "Wide night street: you trudge with a dark weight hanging on you",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "streetNight",
+    "cast": [
+     {
+      "w": "you",
+      "x": -500,
+      "pose": "sad",
+      "expr": "sad",
+      "walk": 0.6
+     }
+    ],
+    "size": "wide",
+    "extra": "weight"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s115",
+   "start": 401.32,
+   "end": 407.78,
+   "line": "There's a growing sense that, despite the limitless feel of your power, there's an unseen mechanism keeping score.",
+   "scene": "Blueprint gears turn, a JUMPS counter climbs: COST ???",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "counter",
+    "at": 0.3
+   },
+   "notes": ""
+  },
+  {
+   "id": "s116",
+   "start": 407.78,
+   "end": 410.08,
+   "line": "This doesn't even account for the subtle glitches.",
+   "scene": "Giant face with a heavy glitch: subtle glitches",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "face",
+    "expr": "nervous",
+    "loc": "streetNight",
+    "who": "you",
+    "glitch": 0.45
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s117",
+   "start": 410.08,
+   "end": 413.46,
+   "line": "A missed atom here or there might seem like roulette.",
+   "scene": "Insert: a roulette wheel spins with a glowing atom ball",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "roulette",
+    "loc": "void"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s118",
+   "start": 413.46,
+   "end": 416.38,
+   "line": "Imagine teleporting to what you think is your kitchen.",
+   "scene": "Wide: your kitchen, the destination you think you are going to",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "kitchen",
+    "cast": [],
+    "size": "wide",
+    "extra": "thought",
+    "vision": "kitchen",
+    "cam": "push"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s119",
+   "start": 416.38,
+   "end": 419.78,
+   "line": "All, only to end up on your neighbor's lawn instead.",
+   "scene": "Wide: you land on the neighbour\u2019s lawn, the neighbour drops the hose",
+   "set": "lawn",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "lawn",
+    "cast": [
+     {
+      "w": "you",
+      "x": -160,
+      "pose": "stand",
+      "expr": "shocked",
+      "tp": "in",
+      "at": 0.2
+     },
+     {
+      "w": "neighbor",
+      "x": 340,
+      "pose": "holdFront",
+      "expr": "shocked",
+      "facing": -1
+     }
+    ],
+    "size": "wide",
+    "extra": "hose"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s120",
+   "start": 419.78,
+   "end": 421.54,
+   "line": "You're still the envy of many.",
+   "scene": "Medium: still smiling for the flashes, the envy of many",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "flash",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "streetNight",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "wave",
+      "expr": "smile"
+     }
+    ],
+    "size": "med",
+    "extra": "flashes"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s121",
+   "start": 421.54,
+   "end": 425.86,
+   "line": "Of many, but there's a nagging thought creeping into the back of your mind.",
+   "scene": "Giant face: the smile fades into a nagging thought",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "thinking",
+    "loc": "streetNight",
+    "who": "you",
+    "exprs": [
+     [
+      1.2,
+      "worried"
+     ]
+    ]
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s122",
+   "start": 425.86,
+   "end": 432.18,
+   "line": "The luxury of teleportation starts to blur, and with it, so does the flawless nature of its execution.",
+   "scene": "Medium park at dusk, the picture blurs and glitches around you",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "stand",
+      "expr": "confused"
+     }
+    ],
+    "size": "med",
+    "glitch": 0.25
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s123",
+   "start": 432.18,
+   "end": 436.9,
+   "line": "The thrill is palpable, yet the tension precedes the calm before the storm.",
+   "scene": "Wide: storm clouds gather over the city, distant lightning: calm before the storm",
+   "set": "storm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "storm",
+    "cast": [
+     {
+      "w": "you",
+      "x": -300,
+      "pose": "stand",
+      "expr": "worried"
+     }
+    ],
+    "size": "wide",
+    "cam": "pull"
+   },
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -18
+   }
+  },
+  {
+   "id": "s124",
+   "start": 436.9,
+   "end": 440.74,
+   "line": "But then, reality rears its inconvenient head.",
+   "scene": "3D: a dark rain-soaked city, camera sinks toward you",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "t3d",
+    "v": "storm",
+    "label": "REALITY CHECK"
+   },
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s125",
+   "start": 440.74,
+   "end": 444.32,
+   "line": "With each teleport, you start to notice something unsettling.",
+   "scene": "Giant face in the rain, scared: something unsettling",
+   "set": "storm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "face",
+    "expr": "scared",
+    "loc": "storm",
+    "who": "you",
+    "glitch": 0.3
+   },
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s126",
+   "start": 444.32,
+   "end": 449.62,
+   "line": "The energy needed to relocate all those atoms. It's starting to weigh on you.",
+   "scene": "Blueprint: your energy battery drains to red",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "drain",
+    "label": "YOUR ENERGY"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s127",
+   "start": 449.62,
+   "end": 454.64,
+   "line": "Imagine the power of a nuclear blast, concentrated every time you teleport.",
+   "scene": "Blueprint: your figure = a nuclear blast, every teleport",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 0.3,
+     "name": "impact",
+     "gain": -6
+    },
+    {
+     "at": 0,
+     "name": "flash",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "nuke",
+    "fig": 1,
+    "at": "nuclear"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s128",
+   "start": 454.64,
+   "end": 457.68,
+   "line": "That's how much energy you're expending, and it's taxing.",
+   "scene": "Medium park: you kneel, exhausted and drained",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "kneel",
+      "expr": "sad"
+     }
+    ],
+    "size": "med",
+    "warn": 0.15
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s129",
+   "start": 457.68,
+   "end": 463.08,
+   "line": "See, your body is made up of roughly 7 billion billion billion atoms. Atoms.",
+   "scene": "Blueprint: 7,000,000,000,000,000,000,000,000,000 types out digit by digit",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "count",
+    "at": "billion",
+    "long": 1
+   },
+   "notes": ""
+  },
+  {
+   "id": "s130",
+   "start": 463.08,
+   "end": 467.86,
+   "line": "Teleportation means precisely moving each one, and frankly, it's exhausting.",
+   "scene": "Blueprint: each atom moved precisely, one by one",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "slots",
+    "label": "ONE BY ONE"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s131",
+   "start": 467.86,
+   "end": 472.32,
+   "line": "What feels effortless brings hidden costs, and your molecular structure knows it.",
+   "scene": "Blueprint: cracks spread: HIDDEN COSTS",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "cracks"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s132",
+   "start": 472.32,
+   "end": 477.08,
+   "line": "The more you jump locations, the more strained your body's delicate balance becomes.",
+   "scene": "Insert: a balance scale tips as the jumps pile up",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "scale",
+    "loc": "void",
+    "left": "JUMPS",
+    "right": "YOU",
+    "tip": 0.3
+   },
+   "notes": ""
+  },
+  {
+   "id": "s133",
+   "start": 477.08,
+   "end": 481.8,
+   "line": "Occasionally, a small glitch occurs. Like an itch you can't scratch.",
+   "scene": "Close: you scratch at a flickering arm, a small glitch",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "facepalm",
+      "expr": "nervous"
+     }
+    ],
+    "size": "close",
+    "glitch": 0.35
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s134",
+   "start": 481.8,
+   "end": 485.18,
+   "line": "And then, there are the electronics.",
+   "scene": "Wide room of screens and desks: and then the electronics",
+   "set": "electronics",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "electronics",
+    "cast": [
+     {
+      "w": "you",
+      "x": -300,
+      "pose": "stand",
+      "expr": "neutral"
+     }
+    ],
+    "size": "wide",
+    "cam": "push"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s135",
+   "start": 485.18,
+   "end": 487.9,
+   "line": "Every teleportation leaves a chaotic wake.",
+   "scene": "You appear: a shock ring, screens spark and crash",
+   "set": "electronics",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    },
+    {
+     "at": 0.4,
+     "name": "buzz",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "electronics",
+    "cast": [
+     {
+      "w": "you",
+      "x": -100,
+      "pose": "stand",
+      "expr": "surprised",
+      "tp": "in",
+      "at": 0.2
+     }
+    ],
+    "size": "wide",
+    "extra": [
+     "emp",
+     "sparks"
+    ],
+    "empAt": 0.3,
+    "sparkAt": 0.4
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s136",
+   "start": 487.9,
+   "end": 489.26,
+   "line": "Phones freeze, computers",
+   "scene": "Insert: a phone screen freezes in coloured static",
+   "set": "electronics",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "phone",
+    "loc": "electronics",
+    "frozen": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s137",
+   "start": 489.26,
+   "end": 491.48,
+   "line": "crash, lights flicker.",
+   "scene": "Medium office: the lights flicker on and off",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "buzz",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "office",
+    "cast": [
+     {
+      "w": "you",
+      "x": -120,
+      "pose": "stand",
+      "expr": "scared"
+     }
+    ],
+    "size": "med",
+    "extra": "sparks",
+    "sparkAt": 0.1
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s138",
+   "start": 491.48,
+   "end": 495.42,
+   "line": "The folks at the lab said it might happen, but they never mention how often.",
+   "scene": "Medium lab: the scientist shrugs, you cross your arms",
+   "set": "lab",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "lab",
+    "cast": [
+     {
+      "w": "doc",
+      "x": -120,
+      "pose": "shrug",
+      "expr": "nervous",
+      "facing": 1
+     },
+     {
+      "w": "you",
+      "x": 260,
+      "pose": "crossArms",
+      "expr": "angry",
+      "facing": -1
+     }
+    ],
+    "size": "med"
+   },
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s139",
+   "start": 495.42,
+   "end": 500.32,
+   "line": "Enter any room after a jump, and expect a short circuit symphony.",
+   "scene": "Office: you enter, a short-circuit symphony of sparks",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    },
+    {
+     "at": 0.3,
+     "name": "buzz",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "office",
+    "cast": [
+     {
+      "w": "you",
+      "x": -100,
+      "pose": "stand",
+      "expr": "nervous",
+      "tp": "in",
+      "at": 0.2
+     }
+    ],
+    "size": "wide",
+    "extra": [
+     "emp",
+     "sparks"
+    ],
+    "empAt": 0.3,
+    "sparkAt": 0.3
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s140",
+   "start": 500.32,
+   "end": 503.48,
+   "line": "Symphony, it's like being a walking imp.",
+   "scene": "Blueprint: EMP rings radiate from your figure, devices spark: WALKING EMP",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "emp"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s141",
+   "start": 503.48,
+   "end": 504.76,
+   "line": "Talk about being disruptive.",
+   "scene": "Giant face, sheepish and sweating: talk about disruptive",
+   "set": "office",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "nervous",
+    "loc": "office",
+    "who": "you"
+   },
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s142",
+   "start": 504.76,
+   "end": 510.18,
+   "line": "Your once -simple escape aids start to feel. More like a heavy burden.",
+   "scene": "Wide: you walk bent under a heavy burden",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "streetNight",
+    "cast": [
+     {
+      "w": "you",
+      "x": -500,
+      "pose": "sad",
+      "expr": "sad",
+      "walk": 0.5
+     }
+    ],
+    "size": "wide",
+    "extra": "weight"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s143",
+   "start": 510.18,
+   "end": 514.9,
+   "line": "Teleportation. Once your ticket to freedom now feels like walking a tightrope.",
+   "scene": "You walk a tightrope high above the night city",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "rope",
+    "expr": "nervous"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s144",
+   "start": 514.9,
+   "end": 517.16,
+   "line": "And here's where the real nightmare creeps in.",
+   "scene": "Giant face, scared, red pulse: the real nightmare creeps in",
+   "set": "storm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "scared",
+    "loc": "storm",
+    "who": "you",
+    "warn": 0.25
+   },
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s145",
+   "start": 517.16,
+   "end": 519.38,
+   "line": "The danger of a miscalculation.",
+   "scene": "Blueprint crosshair: the atom misses centre: MISCALCULATION",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "precision",
+    "off": 1
+   },
+   "notes": ""
+  },
+  {
+   "id": "s146",
+   "start": 519.38,
+   "end": 522.76,
+   "line": "The deeper you go, the darker the shadows loom.",
+   "scene": "Wide dark street: your shadow stretches long, the darker it gets",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "streetNight",
+    "cast": [
+     {
+      "w": "you",
+      "x": -200,
+      "pose": "stand",
+      "expr": "worried"
+     }
+    ],
+    "size": "wide",
+    "extra": "shadows",
+    "cam": "pull"
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s147",
+   "start": 522.76,
+   "end": 526.5,
+   "line": "So as you teleport from place to place, always the star of the",
+   "scene": "Medium: you smile for the cameras, always the star",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "flash",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "streetNight",
+    "cast": [
+     {
+      "w": "you",
+      "x": 0,
+      "pose": "wave",
+      "expr": "smile"
+     }
+    ],
+    "size": "med",
+    "extra": "flashes",
+    "crowdFg": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s148",
+   "start": 526.5,
+   "end": 530.52,
+   "line": "show, that a part of you wonders if you're doing irreparable harm.",
+   "scene": "Giant face, sad, flashes behind: are you doing irreparable harm?",
+   "set": "streetNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "flash",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "face",
+    "expr": "sad",
+    "loc": "streetNight",
+    "who": "you",
+    "flashes": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s149",
+   "start": 530.52,
+   "end": 534.76,
+   "line": "This dream -turned -dreamy life is proving expensive.",
+   "scene": "Medium hotel: you sit alone, the dream turned dreary",
+   "set": "hotel",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "hotel",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "sit",
+      "expr": "sad",
+      "y": -60
+     }
+    ],
+    "size": "med",
+    "cool": 0.2
+   },
+   "notes": ""
+  },
+  {
+   "id": "s150",
+   "start": 534.76,
+   "end": 541.58,
+   "line": "There's no telling. Personally, when or where this risky dance might falter, you can't shake the sense that.",
+   "scene": "Tightrope: the rope sways harder: when might this dance falter?",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "rope",
+    "expr": "scared",
+    "wobble": 3
+   },
+   "notes": ""
+  },
+  {
+   "id": "s151",
+   "start": 541.58,
+   "end": 543.24,
+   "line": "It's spiraling out of control.",
+   "scene": "Blueprint: your atoms spiral inward: OUT OF CONTROL",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "spiral"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s152",
+   "start": 543.24,
+   "end": 546.44,
+   "line": "It's sunset at the park, and things have shifted.",
+   "scene": "Wide park at sunset again, things have shifted",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.8
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -200,
+      "pose": "stand",
+      "expr": "neutral"
+     }
+    ],
+    "size": "wide",
+    "cam": "pull"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s153",
+   "start": 546.44,
+   "end": 550.0,
+   "line": "As you try another hop, a warning pings within you.",
+   "scene": "Medium: you try another hop, the teleport sputters red",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "glitch",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "ready",
+      "expr": "determined",
+      "tp": "fail",
+      "at": 0.6
+     }
+    ],
+    "size": "med",
+    "warn": 0.15
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s154",
+   "start": 550.0,
+   "end": 551.24,
+   "line": "Something's off.",
+   "scene": "Giant face, shocked: something is off",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "face",
+    "expr": "shocked",
+    "loc": "parkSunset",
+    "who": "you",
+    "glitch": 0.25
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s155",
+   "start": 551.24,
+   "end": 555.08,
+   "line": "Your body's beginning to protest in ways you hadn't imagined.",
+   "scene": "Medium: you clutch your chest and drop to a knee, your body protests",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "kneel",
+      "expr": "scared"
+     }
+    ],
+    "size": "med",
+    "glitch": 0.4,
+    "warn": 0.2
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s156",
+   "start": 555.08,
+   "end": 560.96,
+   "line": "Molecular instability, they warned. It's not just a theory anymore. It's your terrifying truth.",
+   "scene": "FREEZE: your body mid-breakup, atoms hanging in the air, badge UNSTABLE",
+   "set": null,
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    },
+    {
+     "at": 0,
+     "name": "freeze",
+     "gain": -5
+    }
+   ],
+   "params": {
+    "tpl": "freeze",
+    "badge": "UNSTABLE",
+    "glitch": 0.15
+   },
+   "notes": ""
+  },
+  {
+   "id": "s157",
+   "start": 560.96,
+   "end": 564.76,
+   "line": "Teleporting has started to scramble your identity at the atomic level.",
+   "scene": "Blueprint: atoms swap places and colours: IDENTITY SCRAMBLED",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "scramble"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s158",
+   "start": 564.76,
+   "end": 568.84,
+   "line": "Those little atoms have rules, and you've been breaking them.",
+   "scene": "Blueprint grid: red atoms break out of their slots: RULES BROKEN",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "rules"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s159",
+   "start": 568.84,
+   "end": 574.1,
+   "line": "Suddenly, it feels like you're losing touch. Not just with reality, but with yourself.",
+   "scene": "Giant face dissolving in glitches: losing touch with yourself",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "face",
+    "expr": "scared",
+    "loc": "void",
+    "who": "you",
+    "glitch": 0.6
+   },
+   "notes": ""
+  },
+  {
+   "id": "s160",
+   "start": 574.1,
+   "end": 580.68,
+   "line": "Every teleport feels like a new threat to who you are. Not only physically, but mentally.",
+   "scene": "Medium: ghost copies trail behind you, a threat to who you are",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "stand",
+      "expr": "scared",
+      "trail": {
+       "count": 4,
+       "dx": -50,
+       "a": 0.3
+      }
+     }
+    ],
+    "size": "med",
+    "glitch": 0.3
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s161",
+   "start": 580.68,
+   "end": 585.02,
+   "line": "When you look in the mirror, your reflection doesn't seem to reflect your identity anymore.",
+   "scene": "Bathroom mirror: your reflection shifts colour and smirks back at you",
+   "set": null,
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "mirror"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s162",
+   "start": 585.02,
+   "end": 589.84,
+   "line": "The science -fiction terror of molecular disassembly isn't fiction for you.",
+   "scene": "FREEZE: your body breaking into particles in the bathroom: not fiction",
+   "set": "bathroom",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "freeze",
+     "gain": -5
+    }
+   ],
+   "params": {
+    "tpl": "freeze",
+    "badge": "DISASSEMBLY",
+    "expr": "cry",
+    "loc": "bathroom"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s163",
+   "start": 589.84,
+   "end": 594.26,
+   "line": "With every jump, your presence seems to shade, morph, subtly twisted.",
+   "scene": "Montage of jumps, your presence twisting, shading",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    },
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "montage",
+    "locs": [
+     "parkSunset",
+     "streetNight",
+     "void"
+    ],
+    "expr": "worried",
+    "glitch": 0.35
+   },
+   "notes": ""
+  },
+  {
+   "id": "s164",
+   "start": 594.26,
+   "end": 597.0,
+   "line": "A body shifting shades with each hop.",
+   "scene": "Medium in the void: your body flickers between shades",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "void",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "stand",
+      "expr": "scared",
+      "tp": "ghost"
+     }
+    ],
+    "size": "med",
+    "glitch": 0.3
+   },
+   "notes": ""
+  },
+  {
+   "id": "s165",
+   "start": 597.0,
+   "end": 600.26,
+   "line": "A self -unstitched sometimes reassembles differently.",
+   "scene": "Blueprint: you reassemble with limbs out of place",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "wrong"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s166",
+   "start": 600.26,
+   "end": 606.54,
+   "line": "They said you could risk erasing yourself. For lack of a better word, from existence.",
+   "scene": "Medium void: you fade toward nothing, risk of erasing yourself",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "void",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "sad",
+      "expr": "cry",
+      "alpha": 0.5
+     }
+    ],
+    "size": "med",
+    "glitch": 0.25,
+    "cool": 0.3
+   },
+   "notes": ""
+  },
+  {
+   "id": "s167",
+   "start": 606.54,
+   "end": 610.5,
+   "line": "The chilling what -if surface. Will you vanish with a misstep?",
+   "scene": "Line WILL YOU VANISH? in the void",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "line",
+    "str": "WILL YOU VANISH?",
+    "loc": "void",
+    "red": 1
+   },
+   "notes": ""
+  },
+  {
+   "id": "s168",
+   "start": 610.5,
+   "end": 612.1,
+   "line": "What makes you, you?",
+   "scene": "Giant face, confused: what makes you, you?",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "face",
+    "expr": "confused",
+    "loc": "void",
+    "who": "you",
+    "glitch": 0.4
+   },
+   "notes": ""
+  },
+  {
+   "id": "s169",
+   "start": 612.1,
+   "end": 617.88,
+   "line": "As these dark questions loom, teleporting seems less like flying, and more like falling.",
+   "scene": "You fall through a dark void, atoms streaming off",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "fall"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s170",
+   "start": 617.88,
+   "end": 625.08,
+   "line": "When all is said and done, despite the fame, and travel. That slumbering terror grows into something primal.",
+   "scene": "Giant face in the storm, primal terror",
+   "set": "storm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "scared",
+    "loc": "storm",
+    "who": "you",
+    "shakeAmp": 6
+   },
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s171",
+   "start": 625.08,
+   "end": 626.98,
+   "line": "It's time to weigh the risks.",
+   "scene": "Insert: the scale: TRAVEL vs EXISTENCE",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "scale",
+    "loc": "void",
+    "left": "TRAVEL",
+    "right": "EXISTENCE",
+    "tip": 0.35
+   },
+   "notes": ""
+  },
+  {
+   "id": "s172",
+   "start": 626.98,
+   "end": 630.96,
+   "line": "Is a life of constant teleportation worth ceasing to exist?",
+   "scene": "Line WORTH CEASING TO EXIST?",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "line",
+    "str": "WORTH CEASING TO EXIST?",
+    "loc": "void",
+    "red": 1
+   },
+   "notes": ""
+  },
+  {
+   "id": "s173",
+   "start": 630.96,
+   "end": 635.48,
+   "line": "Would you continue this power gambit knowing how it could tilt the scales?",
+   "scene": "Insert: the scale tilts the other way: power gambit",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "scale",
+    "loc": "void",
+    "left": "POWER",
+    "right": "YOU",
+    "tip": -0.3
+   },
+   "notes": ""
+  },
+  {
+   "id": "s174",
+   "start": 635.48,
+   "end": 639.42,
+   "line": "Each decision weighs heavier now, shadows lengthen with uncertainty.",
+   "scene": "Wide park at dusk, shadows lengthen",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -200,
+      "pose": "stand",
+      "expr": "sad"
+     }
+    ],
+    "size": "wide",
+    "extra": "shadows",
+    "cam": "pull"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s175",
+   "start": 639.42,
+   "end": 644.48,
+   "line": "As much as you've lived a thousand dreams, these nightmares sparkle with gravity.",
+   "scene": "Darkened montage of every dream: a thousand dreams, nightmares",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "tpl": "montage",
+    "locs": [
+     "tokyo",
+     "paris",
+     "broadway",
+     "marrakech"
+    ],
+    "expr": "smile",
+    "dim": 0.45
+   },
+   "notes": ""
+  },
+  {
+   "id": "s176",
+   "start": 644.48,
+   "end": 648.5,
+   "line": "Has, could you halt this ride before your very self unravels?",
+   "scene": "Giant face: could you halt this ride?",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "determined",
+    "loc": "parkSunset",
+    "who": "you",
+    "exprs": [
+     [
+      2.0,
+      "sad"
+     ]
+    ]
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s177",
+   "start": 648.5,
+   "end": 654.6,
+   "line": "You're back at the park. The sun setting softly as you, take a moment to reflect.",
+   "scene": "3D orbit: you sit on the park bench at sunset",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.8
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "t3d",
+    "v": "park"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s178",
+   "start": 654.6,
+   "end": 658.74,
+   "line": "Wiser now, you can feel the weight of your extraordinary gift.",
+   "scene": "Medium: on the bench, wiser now, plant foreground",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "sit",
+      "expr": "thinking",
+      "y": -60
+     }
+    ],
+    "size": "med",
+    "fg": "plant"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s179",
+   "start": 658.74,
+   "end": 664.22,
+   "line": "Teleportation, once the thrill of your life, has become a perilous gamble.",
+   "scene": "Insert: your hand, its glow flickering: a perilous gamble",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "hand",
+    "loc": "parkSunset",
+    "glow": 0.5,
+    "flicker": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s180",
+   "start": 664.22,
+   "end": 668.94,
+   "line": "Every journey has taken its toll, leaving you a little more tired and uncertain.",
+   "scene": "Giant face, tired and uncertain",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "face",
+    "expr": "sleepy",
+    "loc": "parkSunset",
+    "who": "you"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s181",
+   "start": 668.94,
+   "end": 674.08,
+   "line": "Still, the allure of instant travel lingers, tugging at the corners of your mind.",
+   "scene": "Medium bench: a faint vision of Paris still tugs at your mind",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "sit",
+      "expr": "thinking",
+      "y": -60
+     }
+    ],
+    "size": "med",
+    "extra": "thought",
+    "vision": "paris"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s182",
+   "start": 674.08,
+   "end": 678.94,
+   "line": "But as you sit on the park bench, you ponder the high stakes tied to your ability.",
+   "scene": "Wide bench at sunset: you ponder the high stakes",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -40,
+      "pose": "sit",
+      "expr": "thinking",
+      "y": -60
+     }
+    ],
+    "size": "wide",
+    "cam": "pull"
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s183",
+   "start": 678.94,
+   "end": 681.52,
+   "line": "Sure, being everywhere at once, with the snap",
+   "scene": "Insert: you snap your fingers, rings of power burst",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "insert",
+    "obj": "hand",
+    "loc": "parkSunset",
+    "snap": 0.9,
+    "glow": 1
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "s184",
+   "start": 681.52,
+   "end": 684.36,
+   "line": "of your fingers, sounds amazing.",
+   "scene": "Globe: everywhere at once",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "globe",
+    "cities": [
+     "HOME",
+     "TOKYO",
+     "PARIS",
+     "HAWAII",
+     "NEW YORK"
+    ]
+   },
+   "notes": ""
+  },
+  {
+   "id": "s185",
+   "start": 684.36,
+   "end": 690.28,
+   "line": "Yet you faced firsthand the spooky consequence of every. Jump running the risk of unbalancing your atoms.",
+   "scene": "Blueprint: your atom figure tips off balance",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {
+    "tpl": "bp",
+    "kind": "unbalance"
+   },
+   "notes": ""
+  },
+  {
+   "id": "s186",
+   "start": 690.28,
+   "end": 696.58,
+   "line": "The excitement of teleporting comes clouded with the dark. Shadow of molecular chaos, your own atoms at stake.",
+   "scene": "Medium bench: your hand flickers with molecular chaos",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -60,
+      "pose": "sit",
+      "expr": "worried",
+      "y": -60
+     }
+    ],
+    "size": "med",
+    "glitch": 0.3,
+    "cool": 0.15
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s187",
+   "start": 696.58,
+   "end": 703.48,
+   "line": "In the end, it's less a gift and more of a curse, with a chilling reminder hidden in its shimmering promise.",
+   "scene": "Wide pull-out: you on the bench, small against the shimmering sunset",
+   "set": "parkSunset",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "stage",
+    "loc": "parkSunset",
+    "cast": [
+     {
+      "w": "you",
+      "x": -40,
+      "pose": "sit",
+      "expr": "sad",
+      "y": -60
+     }
+    ],
+    "size": "wide",
+    "cam": "pull",
+    "z": 1.15
+   },
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s188",
+   "start": 703.48,
+   "end": 710.25,
+   "line": "So, knowing all this, would you ever risk it again? What would you do?",
+   "scene": "End screen: the question, comment bubble, subscribe pill, the whole cast",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.8
+   },
+   "sfx": [],
+   "params": {
+    "tpl": "end",
+    "question": "Would you ever risk it again?"
+   },
+   "notes": ""
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 36.2,
+   "mood": "wonder",
+   "intensity": 0.35
+  },
+  {
+   "start": 36.2,
+   "end": 52.1,
+   "mood": "hopeful",
+   "intensity": 0.5
+  },
+  {
+   "start": 52.1,
+   "end": 80.6,
+   "mood": "mystery",
+   "intensity": 0.35
+  },
+  {
+   "start": 80.6,
+   "end": 98.4,
+   "mood": "wonder",
+   "intensity": 0.45
+  },
+  {
+   "start": 98.4,
+   "end": 188.2,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 188.2,
+   "end": 243.7,
+   "mood": "playful",
+   "intensity": 0.55
+  },
+  {
+   "start": 243.7,
+   "end": 296.7,
+   "mood": "triumph",
+   "intensity": 0.6
+  },
+  {
+   "start": 296.7,
+   "end": 347.0,
+   "mood": "action",
+   "intensity": 0.5
+  },
+  {
+   "start": 347.0,
+   "end": 383.6,
+   "mood": "tension",
+   "intensity": 0.35
+  },
+  {
+   "start": 383.6,
+   "end": 436.9,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 436.9,
+   "end": 543.3,
+   "mood": "dark",
+   "intensity": 0.55
+  },
+  {
+   "start": 543.3,
+   "end": 625.1,
+   "mood": "dark",
+   "intensity": 0.75
+  },
+  {
+   "start": 625.1,
+   "end": 648.5,
+   "mood": "sad",
+   "intensity": 0.4
+  },
+  {
+   "start": 648.5,
+   "end": 703.4,
+   "mood": "calm",
+   "intensity": 0.3
+  },
+  {
+   "start": 703.4,
+   "end": 710.25,
+   "mood": "hopeful",
+   "intensity": 0.35
+  }
+ ],
+ "sfx": []
+}

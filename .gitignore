@@ -1,0 +1,75 @@
+# ---- Videos / renders (never push) ----
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+out/
+build/
+renders/
+frames/
+
+# ---- Images / previews / thumbnails (never push) ----
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.psd
+
+# ---- Audio (large; voiceovers, music, mixes) ----
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+*.ogg
+
+# ---- Python / Node environments and caches ----
+.venv*/
+venv*/
+env/
+__pycache__/
+*.pyc
+node_modules/
+.npm/
+.cache/
+
+# ---- AI models / binaries ----
+models/
+*.bin
+*.blob
+*.onnx
+*.safetensors
+*.pt
+*.pth
+*.cl_cache
+*.dll
+*.exe
+*.lib
+*.pyd
+
+# ---- Archives / backups ----
+*.zip
+*.7z
+*.rar
+claude-backup/
+
+# ---- Secrets ----
+.env
+.env.*
+*.pem
+*.key
+*credentials*
+*secret*
+token*.json
+
+# ---- OS / editor ----
+__MACOSX/
+._*
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,9475 @@
+{
+ "source": "whisper:small.en",
+ "words": [
+  {
+   "word": "You",
+   "start": 0.05,
+   "end": 0.51
+  },
+  {
+   "word": "wake",
+   "start": 0.51,
+   "end": 0.69
+  },
+  {
+   "word": "up",
+   "start": 0.69,
+   "end": 0.91
+  },
+  {
+   "word": "in",
+   "start": 0.91,
+   "end": 1.09
+  },
+  {
+   "word": "the",
+   "start": 1.09,
+   "end": 1.23
+  },
+  {
+   "word": "lush",
+   "start": 1.23,
+   "end": 1.43
+  },
+  {
+   "word": "city",
+   "start": 1.43,
+   "end": 1.67
+  },
+  {
+   "word": "park,",
+   "start": 1.67,
+   "end": 2.07
+  },
+  {
+   "word": "birds",
+   "start": 2.71,
+   "end": 2.89
+  },
+  {
+   "word": "chirping,",
+   "start": 2.89,
+   "end": 3.37
+  },
+  {
+   "word": "and",
+   "start": 3.75,
+   "end": 3.95
+  },
+  {
+   "word": "the",
+   "start": 3.95,
+   "end": 4.01
+  },
+  {
+   "word": "world",
+   "start": 4.01,
+   "end": 4.19
+  },
+  {
+   "word": "around",
+   "start": 4.19,
+   "end": 4.51
+  },
+  {
+   "word": "you",
+   "start": 4.51,
+   "end": 4.77
+  },
+  {
+   "word": "looks",
+   "start": 4.77,
+   "end": 4.97
+  },
+  {
+   "word": "strangely",
+   "start": 4.97,
+   "end": 5.41
+  },
+  {
+   "word": "ordinary.",
+   "start": 5.41,
+   "end": 5.93
+  },
+  {
+   "word": "Yet",
+   "start": 6.59,
+   "end": 6.79
+  },
+  {
+   "word": "today",
+   "start": 6.79,
+   "end": 7.03
+  },
+  {
+   "word": "is",
+   "start": 7.03,
+   "end": 7.21
+  },
+  {
+   "word": "anything",
+   "start": 7.21,
+   "end": 7.45
+  },
+  {
+   "word": "but",
+   "start": 7.45,
+   "end": 7.75
+  },
+  {
+   "word": "normal.",
+   "start": 7.75,
+   "end": 8.07
+  },
+  {
+   "word": "You",
+   "start": 8.67,
+   "end": 8.83
+  },
+  {
+   "word": "feel",
+   "start": 8.83,
+   "end": 9.01
+  },
+  {
+   "word": "a",
+   "start": 9.01,
+   "end": 9.19
+  },
+  {
+   "word": "strange",
+   "start": 9.19,
+   "end": 9.51
+  },
+  {
+   "word": "sensation,",
+   "start": 9.51,
+   "end": 10.19
+  },
+  {
+   "word": "a",
+   "start": 10.69,
+   "end": 10.79
+  },
+  {
+   "word": "tingling",
+   "start": 10.79,
+   "end": 11.15
+  },
+  {
+   "word": "that",
+   "start": 11.15,
+   "end": 11.35
+  },
+  {
+   "word": "whispers",
+   "start": 11.35,
+   "end": 11.63
+  },
+  {
+   "word": "potential.",
+   "start": 11.63,
+   "end": 12.17
+  },
+  {
+   "word": "With",
+   "start": 12.79,
+   "end": 13.03
+  },
+  {
+   "word": "a",
+   "start": 13.03,
+   "end": 13.15
+  },
+  {
+   "word": "mere",
+   "start": 13.15,
+   "end": 13.29
+  },
+  {
+   "word": "thought,",
+   "start": 13.29,
+   "end": 13.67
+  },
+  {
+   "word": "you",
+   "start": 14.03,
+   "end": 14.11
+  },
+  {
+   "word": "vanish",
+   "start": 14.11,
+   "end": 14.35
+  },
+  {
+   "word": "from",
+   "start": 14.35,
+   "end": 14.65
+  },
+  {
+   "word": "the",
+   "start": 14.65,
+   "end": 14.79
+  },
+  {
+   "word": "park",
+   "start": 14.79,
+   "end": 15.03
+  },
+  {
+   "word": "and",
+   "start": 15.03,
+   "end": 15.59
+  },
+  {
+   "word": "reappear",
+   "start": 15.59,
+   "end": 16.07
+  },
+  {
+   "word": "instantly",
+   "start": 16.07,
+   "end": 16.47
+  },
+  {
+   "word": "at",
+   "start": 16.47,
+   "end": 16.79
+  },
+  {
+   "word": "the",
+   "start": 16.79,
+   "end": 16.89
+  },
+  {
+   "word": "beach",
+   "start": 16.89,
+   "end": 17.09
+  },
+  {
+   "word": "miles",
+   "start": 17.09,
+   "end": 17.41
+  },
+  {
+   "word": "away.",
+   "start": 17.41,
+   "end": 17.79
+  },
+  {
+   "word": "The",
+   "start": 18.43,
+   "end": 18.55
+  },
+  {
+   "word": "sand",
+   "start": 18.55,
+   "end": 18.77
+  },
+  {
+   "word": "is",
+   "start": 18.77,
+   "end": 18.93
+  },
+  {
+   "word": "warm",
+   "start": 18.93,
+   "end": 19.19
+  },
+  {
+   "word": "under",
+   "start": 19.19,
+   "end": 19.43
+  },
+  {
+   "word": "your",
+   "start": 19.43,
+   "end": 19.59
+  },
+  {
+   "word": "feet,",
+   "start": 19.59,
+   "end": 19.83
+  },
+  {
+   "word": "still",
+   "start": 20.35,
+   "end": 20.55
+  },
+  {
+   "word": "slightly",
+   "start": 20.55,
+   "end": 20.85
+  },
+  {
+   "word": "damp",
+   "start": 20.85,
+   "end": 21.15
+  },
+  {
+   "word": "from",
+   "start": 21.15,
+   "end": 21.35
+  },
+  {
+   "word": "the",
+   "start": 21.35,
+   "end": 21.45
+  },
+  {
+   "word": "morning",
+   "start": 21.45,
+   "end": 21.65
+  },
+  {
+   "word": "tide.",
+   "start": 21.65,
+   "end": 21.97
+  },
+  {
+   "word": "Exciting",
+   "start": 22.69,
+   "end": 23.03
+  },
+  {
+   "word": "images",
+   "start": 23.03,
+   "end": 23.43
+  },
+  {
+   "word": "flash",
+   "start": 23.43,
+   "end": 23.81
+  },
+  {
+   "word": "before",
+   "start": 23.81,
+   "end": 24.19
+  },
+  {
+   "word": "your",
+   "start": 24.19,
+   "end": 24.37
+  },
+  {
+   "word": "eyes",
+   "start": 24.37,
+   "end": 24.55
+  },
+  {
+   "word": "of",
+   "start": 24.55,
+   "end": 24.73
+  },
+  {
+   "word": "jet,",
+   "start": 24.73,
+   "end": 24.93
+  },
+  {
+   "word": "setting",
+   "start": 25.11,
+   "end": 25.33
+  },
+  {
+   "word": "across,",
+   "start": 25.33,
+   "end": 25.71
+  },
+  {
+   "word": "the",
+   "start": 26.19,
+   "end": 26.39
+  },
+  {
+   "word": "globe",
+   "start": 26.39,
+   "end": 26.65
+  },
+  {
+   "word": "without",
+   "start": 26.65,
+   "end": 27.01
+  },
+  {
+   "word": "ever",
+   "start": 27.01,
+   "end": 27.31
+  },
+  {
+   "word": "stepping",
+   "start": 27.31,
+   "end": 27.57
+  },
+  {
+   "word": "onto",
+   "start": 27.57,
+   "end": 27.89
+  },
+  {
+   "word": "a",
+   "start": 27.89,
+   "end": 28.09
+  },
+  {
+   "word": "plane.",
+   "start": 28.09,
+   "end": 28.39
+  },
+  {
+   "word": "One",
+   "start": 28.99,
+   "end": 29.29
+  },
+  {
+   "word": "moment",
+   "start": 29.29,
+   "end": 29.55
+  },
+  {
+   "word": "you",
+   "start": 29.55,
+   "end": 29.73
+  },
+  {
+   "word": "are",
+   "start": 29.73,
+   "end": 29.83
+  },
+  {
+   "word": "in",
+   "start": 29.83,
+   "end": 29.97
+  },
+  {
+   "word": "bustling",
+   "start": 29.97,
+   "end": 30.29
+  },
+  {
+   "word": "Tokyo,",
+   "start": 30.29,
+   "end": 30.83
+  },
+  {
+   "word": "and",
+   "start": 31.31,
+   "end": 31.43
+  },
+  {
+   "word": "the",
+   "start": 31.43,
+   "end": 31.53
+  },
+  {
+   "word": "next",
+   "start": 31.53,
+   "end": 31.77
+  },
+  {
+   "word": "moment,",
+   "start": 31.77,
+   "end": 32.15
+  },
+  {
+   "word": "you're",
+   "start": 32.47,
+   "end": 33.51
+  },
+  {
+   "word": "amid",
+   "start": 33.51,
+   "end": 33.67
+  },
+  {
+   "word": "the",
+   "start": 33.67,
+   "end": 33.91
+  },
+  {
+   "word": "serene",
+   "start": 33.91,
+   "end": 34.21
+  },
+  {
+   "word": "fields",
+   "start": 34.21,
+   "end": 34.59
+  },
+  {
+   "word": "of",
+   "start": 34.59,
+   "end": 34.79
+  },
+  {
+   "word": "the",
+   "start": 34.79,
+   "end": 34.89
+  },
+  {
+   "word": "Scottish",
+   "start": 34.89,
+   "end": 35.19
+  },
+  {
+   "word": "Highlands.",
+   "start": 35.19,
+   "end": 35.55
+  },
+  {
+   "word": "It's",
+   "start": 36.43,
+   "end": 36.53
+  },
+  {
+   "word": "teleportation,",
+   "start": 36.53,
+   "end": 37.11
+  },
+  {
+   "word": "pure",
+   "start": 37.53,
+   "end": 37.75
+  },
+  {
+   "word": "and",
+   "start": 37.75,
+   "end": 38.03
+  },
+  {
+   "word": "simple.",
+   "start": 38.03,
+   "end": 38.39
+  },
+  {
+   "word": "Instant",
+   "start": 39.67,
+   "end": 39.95
+  },
+  {
+   "word": "travel",
+   "start": 39.95,
+   "end": 40.33
+  },
+  {
+   "word": "at",
+   "start": 40.33,
+   "end": 40.63
+  },
+  {
+   "word": "the",
+   "start": 40.63,
+   "end": 40.75
+  },
+  {
+   "word": "speed",
+   "start": 40.75,
+   "end": 40.97
+  },
+  {
+   "word": "of",
+   "start": 40.97,
+   "end": 41.11
+  },
+  {
+   "word": "thought.",
+   "start": 41.11,
+   "end": 41.47
+  },
+  {
+   "word": "Sounds",
+   "start": 42.11,
+   "end": 42.29
+  },
+  {
+   "word": "amazing,",
+   "start": 42.29,
+   "end": 42.59
+  },
+  {
+   "word": "right?",
+   "start": 42.79,
+   "end": 42.89
+  },
+  {
+   "word": "Zipping",
+   "start": 43.37,
+   "end": 43.63
+  },
+  {
+   "word": "across",
+   "start": 43.63,
+   "end": 43.99
+  },
+  {
+   "word": "the",
+   "start": 43.99,
+   "end": 44.23
+  },
+  {
+   "word": "globe",
+   "start": 44.23,
+   "end": 44.53
+  },
+  {
+   "word": "faster",
+   "start": 44.53,
+   "end": 44.91
+  },
+  {
+   "word": "than",
+   "start": 44.91,
+   "end": 45.39
+  },
+  {
+   "word": "any",
+   "start": 45.39,
+   "end": 46.33
+  },
+  {
+   "word": "commercial",
+   "start": 46.33,
+   "end": 46.69
+  },
+  {
+   "word": "aircraft",
+   "start": 46.69,
+   "end": 47.17
+  },
+  {
+   "word": "ever",
+   "start": 47.17,
+   "end": 47.41
+  },
+  {
+   "word": "could.",
+   "start": 47.41,
+   "end": 47.77
+  },
+  {
+   "word": "But",
+   "start": 48.23,
+   "end": 48.45
+  },
+  {
+   "word": "there's",
+   "start": 48.45,
+   "end": 48.65
+  },
+  {
+   "word": "much",
+   "start": 48.65,
+   "end": 48.81
+  },
+  {
+   "word": "more",
+   "start": 48.81,
+   "end": 49.05
+  },
+  {
+   "word": "beneath",
+   "start": 49.05,
+   "end": 49.35
+  },
+  {
+   "word": "the",
+   "start": 49.35,
+   "end": 49.75
+  },
+  {
+   "word": "surface",
+   "start": 49.75,
+   "end": 50.39
+  },
+  {
+   "word": "than",
+   "start": 50.39,
+   "end": 50.71
+  },
+  {
+   "word": "you",
+   "start": 50.71,
+   "end": 50.85
+  },
+  {
+   "word": "first",
+   "start": 50.85,
+   "end": 51.05
+  },
+  {
+   "word": "realized.",
+   "start": 51.05,
+   "end": 51.49
+  },
+  {
+   "word": "First,",
+   "start": 52.31,
+   "end": 52.55
+  },
+  {
+   "word": "how",
+   "start": 52.97,
+   "end": 53.07
+  },
+  {
+   "word": "will",
+   "start": 53.07,
+   "end": 53.21
+  },
+  {
+   "word": "your",
+   "start": 53.21,
+   "end": 53.37
+  },
+  {
+   "word": "body",
+   "start": 53.37,
+   "end": 53.61
+  },
+  {
+   "word": "handle",
+   "start": 53.61,
+   "end": 53.99
+  },
+  {
+   "word": "this",
+   "start": 53.99,
+   "end": 54.19
+  },
+  {
+   "word": "mind",
+   "start": 54.19,
+   "end": 54.55
+  },
+  {
+   "word": "-bending",
+   "start": 54.55,
+   "end": 54.87
+  },
+  {
+   "word": "power?",
+   "start": 54.87,
+   "end": 55.31
+  },
+  {
+   "word": "How",
+   "start": 55.93,
+   "end": 56.19
+  },
+  {
+   "word": "do",
+   "start": 56.19,
+   "end": 56.33
+  },
+  {
+   "word": "you",
+   "start": 56.33,
+   "end": 56.43
+  },
+  {
+   "word": "keep",
+   "start": 56.43,
+   "end": 56.61
+  },
+  {
+   "word": "it",
+   "start": 56.61,
+   "end": 56.75
+  },
+  {
+   "word": "all",
+   "start": 56.75,
+   "end": 56.89
+  },
+  {
+   "word": "together",
+   "start": 56.89,
+   "end": 57.29
+  },
+  {
+   "word": "while",
+   "start": 57.29,
+   "end": 57.69
+  },
+  {
+   "word": "disassembling",
+   "start": 57.69,
+   "end": 58.45
+  },
+  {
+   "word": "your",
+   "start": 58.45,
+   "end": 58.67
+  },
+  {
+   "word": "entire",
+   "start": 58.67,
+   "end": 59.05
+  },
+  {
+   "word": "molecular",
+   "start": 59.05,
+   "end": 59.45
+  },
+  {
+   "word": "structure,",
+   "start": 59.45,
+   "end": 59.97
+  },
+  {
+   "word": "only",
+   "start": 60.21,
+   "end": 60.37
+  },
+  {
+   "word": "to",
+   "start": 60.37,
+   "end": 60.55
+  },
+  {
+   "word": "put",
+   "start": 60.55,
+   "end": 60.67
+  },
+  {
+   "word": "it",
+   "start": 60.67,
+   "end": 60.77
+  },
+  {
+   "word": "back",
+   "start": 60.77,
+   "end": 60.95
+  },
+  {
+   "word": "together,",
+   "start": 60.95,
+   "end": 61.31
+  },
+  {
+   "word": "in",
+   "start": 61.43,
+   "end": 61.73
+  },
+  {
+   "word": "flawless",
+   "start": 61.73,
+   "end": 62.07
+  },
+  {
+   "word": "order",
+   "start": 62.07,
+   "end": 62.47
+  },
+  {
+   "word": "at",
+   "start": 62.47,
+   "end": 62.69
+  },
+  {
+   "word": "the",
+   "start": 62.69,
+   "end": 62.83
+  },
+  {
+   "word": "destination?",
+   "start": 62.83,
+   "end": 63.23
+  },
+  {
+   "word": "And",
+   "start": 63.83,
+   "end": 63.99
+  },
+  {
+   "word": "what",
+   "start": 63.99,
+   "end": 64.11
+  },
+  {
+   "word": "happens",
+   "start": 64.11,
+   "end": 64.43
+  },
+  {
+   "word": "if",
+   "start": 64.43,
+   "end": 64.65
+  },
+  {
+   "word": "something",
+   "start": 64.65,
+   "end": 64.83
+  },
+  {
+   "word": "goes",
+   "start": 64.83,
+   "end": 65.11
+  },
+  {
+   "word": "wrong,",
+   "start": 65.11,
+   "end": 65.43
+  },
+  {
+   "word": "just",
+   "start": 65.81,
+   "end": 65.99
+  },
+  {
+   "word": "a",
+   "start": 65.99,
+   "end": 66.17
+  },
+  {
+   "word": "single",
+   "start": 66.17,
+   "end": 66.45
+  },
+  {
+   "word": "atom",
+   "start": 66.45,
+   "end": 66.77
+  },
+  {
+   "word": "out",
+   "start": 66.77,
+   "end": 66.99
+  },
+  {
+   "word": "of",
+   "start": 66.99,
+   "end": 67.13
+  },
+  {
+   "word": "place?",
+   "start": 67.13,
+   "end": 67.39
+  },
+  {
+   "word": "Does",
+   "start": 67.91,
+   "end": 68.13
+  },
+  {
+   "word": "it",
+   "start": 68.13,
+   "end": 68.23
+  },
+  {
+   "word": "even",
+   "start": 68.23,
+   "end": 68.43
+  },
+  {
+   "word": "remember",
+   "start": 68.43,
+   "end": 68.81
+  },
+  {
+   "word": "where",
+   "start": 68.81,
+   "end": 69.03
+  },
+  {
+   "word": "everything",
+   "start": 69.03,
+   "end": 69.33
+  },
+  {
+   "word": "was,",
+   "start": 69.33,
+   "end": 69.77
+  },
+  {
+   "word": "before",
+   "start": 69.95,
+   "end": 70.35
+  },
+  {
+   "word": "it",
+   "start": 70.35,
+   "end": 70.49
+  },
+  {
+   "word": "messed",
+   "start": 70.49,
+   "end": 70.65
+  },
+  {
+   "word": "it",
+   "start": 70.65,
+   "end": 70.83
+  },
+  {
+   "word": "all",
+   "start": 70.83,
+   "end": 70.97
+  },
+  {
+   "word": "up?",
+   "start": 70.97,
+   "end": 71.21
+  },
+  {
+   "word": "How",
+   "start": 71.57,
+   "end": 71.87
+  },
+  {
+   "word": "long",
+   "start": 71.87,
+   "end": 72.11
+  },
+  {
+   "word": "before",
+   "start": 72.11,
+   "end": 72.45
+  },
+  {
+   "word": "the",
+   "start": 72.45,
+   "end": 72.57
+  },
+  {
+   "word": "miraculous",
+   "start": 72.57,
+   "end": 72.97
+  },
+  {
+   "word": "turns",
+   "start": 72.97,
+   "end": 73.43
+  },
+  {
+   "word": "hazardous",
+   "start": 73.43,
+   "end": 73.85
+  },
+  {
+   "word": "and,",
+   "start": 73.85,
+   "end": 74.45
+  },
+  {
+   "word": "potentially,",
+   "start": 74.69,
+   "end": 75.15
+  },
+  {
+   "word": "very",
+   "start": 75.57,
+   "end": 75.87
+  },
+  {
+   "word": "personal?",
+   "start": 75.87,
+   "end": 76.25
+  },
+  {
+   "word": "What",
+   "start": 76.75,
+   "end": 77.11
+  },
+  {
+   "word": "is",
+   "start": 77.11,
+   "end": 77.23
+  },
+  {
+   "word": "the",
+   "start": 77.23,
+   "end": 77.39
+  },
+  {
+   "word": "cost",
+   "start": 77.39,
+   "end": 77.67
+  },
+  {
+   "word": "of",
+   "start": 77.67,
+   "end": 77.97
+  },
+  {
+   "word": "this",
+   "start": 77.97,
+   "end": 78.13
+  },
+  {
+   "word": "newfound",
+   "start": 78.13,
+   "end": 78.51
+  },
+  {
+   "word": "freedom",
+   "start": 78.51,
+   "end": 78.95
+  },
+  {
+   "word": "beyond",
+   "start": 78.95,
+   "end": 79.81
+  },
+  {
+   "word": "jet",
+   "start": 79.81,
+   "end": 80.07
+  },
+  {
+   "word": "lag?",
+   "start": 80.07,
+   "end": 80.33
+  },
+  {
+   "word": "So",
+   "start": 80.87,
+   "end": 81.05
+  },
+  {
+   "word": "here's",
+   "start": 81.05,
+   "end": 81.31
+  },
+  {
+   "word": "the",
+   "start": 81.31,
+   "end": 81.43
+  },
+  {
+   "word": "deal.",
+   "start": 81.43,
+   "end": 81.65
+  },
+  {
+   "word": "You",
+   "start": 82.37,
+   "end": 82.93
+  },
+  {
+   "word": "can",
+   "start": 82.93,
+   "end": 83.09
+  },
+  {
+   "word": "teleport",
+   "start": 83.09,
+   "end": 83.51
+  },
+  {
+   "word": "anywhere",
+   "start": 83.51,
+   "end": 83.99
+  },
+  {
+   "word": "as",
+   "start": 83.99,
+   "end": 84.29
+  },
+  {
+   "word": "long",
+   "start": 84.29,
+   "end": 84.47
+  },
+  {
+   "word": "as",
+   "start": 84.47,
+   "end": 84.61
+  },
+  {
+   "word": "you",
+   "start": 84.61,
+   "end": 84.73
+  },
+  {
+   "word": "can.",
+   "start": 84.73,
+   "end": 85.09
+  },
+  {
+   "word": "Lock",
+   "start": 85.55,
+   "end": 85.61
+  },
+  {
+   "word": "the",
+   "start": 85.61,
+   "end": 85.87
+  },
+  {
+   "word": "image",
+   "start": 85.87,
+   "end": 86.11
+  },
+  {
+   "word": "of",
+   "start": 86.11,
+   "end": 86.35
+  },
+  {
+   "word": "the",
+   "start": 86.35,
+   "end": 86.49
+  },
+  {
+   "word": "destination",
+   "start": 86.49,
+   "end": 86.87
+  },
+  {
+   "word": "in",
+   "start": 86.87,
+   "end": 87.25
+  },
+  {
+   "word": "your",
+   "start": 87.25,
+   "end": 87.37
+  },
+  {
+   "word": "mind.",
+   "start": 87.37,
+   "end": 87.67
+  },
+  {
+   "word": "Think",
+   "start": 88.33,
+   "end": 88.43
+  },
+  {
+   "word": "of",
+   "start": 88.43,
+   "end": 88.57
+  },
+  {
+   "word": "the",
+   "start": 88.57,
+   "end": 88.75
+  },
+  {
+   "word": "snowy",
+   "start": 88.75,
+   "end": 89.03
+  },
+  {
+   "word": "peaks",
+   "start": 89.03,
+   "end": 89.39
+  },
+  {
+   "word": "of",
+   "start": 89.39,
+   "end": 89.71
+  },
+  {
+   "word": "the",
+   "start": 89.71,
+   "end": 89.81
+  },
+  {
+   "word": "Himalayas,",
+   "start": 89.81,
+   "end": 90.41
+  },
+  {
+   "word": "and",
+   "start": 90.87,
+   "end": 90.97
+  },
+  {
+   "word": "you're",
+   "start": 90.97,
+   "end": 91.17
+  },
+  {
+   "word": "there",
+   "start": 91.17,
+   "end": 91.35
+  },
+  {
+   "word": "with",
+   "start": 91.35,
+   "end": 91.55
+  },
+  {
+   "word": "wind",
+   "start": 91.55,
+   "end": 91.83
+  },
+  {
+   "word": "-chilled",
+   "start": 91.83,
+   "end": 92.15
+  },
+  {
+   "word": "oxygen",
+   "start": 92.15,
+   "end": 92.65
+  },
+  {
+   "word": "adding",
+   "start": 92.65,
+   "end": 93.01
+  },
+  {
+   "word": "to",
+   "start": 93.01,
+   "end": 93.27
+  },
+  {
+   "word": "your",
+   "start": 93.27,
+   "end": 93.41
+  },
+  {
+   "word": "awe.",
+   "start": 93.41,
+   "end": 93.69
+  },
+  {
+   "word": "This",
+   "start": 94.27,
+   "end": 94.43
+  },
+  {
+   "word": "sounds",
+   "start": 94.43,
+   "end": 94.81
+  },
+  {
+   "word": "incredible,",
+   "start": 94.81,
+   "end": 95.31
+  },
+  {
+   "word": "doesn't",
+   "start": 95.45,
+   "end": 95.71
+  },
+  {
+   "word": "it?",
+   "start": 95.71,
+   "end": 95.93
+  },
+  {
+   "word": "But",
+   "start": 96.15,
+   "end": 96.27
+  },
+  {
+   "word": "every",
+   "start": 96.27,
+   "end": 96.63
+  },
+  {
+   "word": "leap",
+   "start": 96.63,
+   "end": 96.87
+  },
+  {
+   "word": "comes",
+   "start": 96.87,
+   "end": 97.19
+  },
+  {
+   "word": "with",
+   "start": 97.19,
+   "end": 97.45
+  },
+  {
+   "word": "hidden",
+   "start": 97.45,
+   "end": 97.61
+  },
+  {
+   "word": "rules.",
+   "start": 97.61,
+   "end": 98.07
+  },
+  {
+   "word": "First",
+   "start": 98.69,
+   "end": 98.81
+  },
+  {
+   "word": "off,",
+   "start": 98.81,
+   "end": 99.23
+  },
+  {
+   "word": "teleportation",
+   "start": 99.73,
+   "end": 100.15
+  },
+  {
+   "word": "demands",
+   "start": 100.15,
+   "end": 100.71
+  },
+  {
+   "word": "a",
+   "start": 100.71,
+   "end": 100.93
+  },
+  {
+   "word": "colossal",
+   "start": 100.93,
+   "end": 101.27
+  },
+  {
+   "word": "amount",
+   "start": 101.27,
+   "end": 101.65
+  },
+  {
+   "word": "of",
+   "start": 101.65,
+   "end": 101.83
+  },
+  {
+   "word": "energy,",
+   "start": 101.83,
+   "end": 102.19
+  },
+  {
+   "word": "comparable",
+   "start": 102.39,
+   "end": 102.79
+  },
+  {
+   "word": "to",
+   "start": 102.79,
+   "end": 103.21
+  },
+  {
+   "word": "a",
+   "start": 103.21,
+   "end": 103.35
+  },
+  {
+   "word": "nuclear",
+   "start": 103.35,
+   "end": 103.67
+  },
+  {
+   "word": "bomb.",
+   "start": 103.67,
+   "end": 104.05
+  },
+  {
+   "word": "Imagine",
+   "start": 104.75,
+   "end": 105.05
+  },
+  {
+   "word": "creating",
+   "start": 105.05,
+   "end": 105.41
+  },
+  {
+   "word": "that",
+   "start": 105.41,
+   "end": 105.67
+  },
+  {
+   "word": "kind",
+   "start": 105.67,
+   "end": 105.87
+  },
+  {
+   "word": "of",
+   "start": 105.87,
+   "end": 106.01
+  },
+  {
+   "word": "power",
+   "start": 106.01,
+   "end": 106.31
+  },
+  {
+   "word": "every",
+   "start": 106.31,
+   "end": 106.61
+  },
+  {
+   "word": "time",
+   "start": 106.61,
+   "end": 106.85
+  },
+  {
+   "word": "you",
+   "start": 106.85,
+   "end": 107.19
+  },
+  {
+   "word": "leap",
+   "start": 107.19,
+   "end": 107.79
+  },
+  {
+   "word": "from",
+   "start": 107.79,
+   "end": 108.05
+  },
+  {
+   "word": "your",
+   "start": 108.05,
+   "end": 108.23
+  },
+  {
+   "word": "bed",
+   "start": 108.23,
+   "end": 108.47
+  },
+  {
+   "word": "to",
+   "start": 108.47,
+   "end": 108.71
+  },
+  {
+   "word": "your",
+   "start": 108.71,
+   "end": 108.83
+  },
+  {
+   "word": "office",
+   "start": 108.83,
+   "end": 109.15
+  },
+  {
+   "word": "desk.",
+   "start": 109.15,
+   "end": 109.47
+  },
+  {
+   "word": "It's",
+   "start": 110.03,
+   "end": 110.33
+  },
+  {
+   "word": "like",
+   "start": 110.33,
+   "end": 110.51
+  },
+  {
+   "word": "carrying",
+   "start": 110.51,
+   "end": 110.91
+  },
+  {
+   "word": "a",
+   "start": 110.91,
+   "end": 111.11
+  },
+  {
+   "word": "sun",
+   "start": 111.11,
+   "end": 111.29
+  },
+  {
+   "word": "around",
+   "start": 111.29,
+   "end": 111.53
+  },
+  {
+   "word": "with",
+   "start": 111.53,
+   "end": 111.75
+  },
+  {
+   "word": "you.",
+   "start": 111.75,
+   "end": 112.15
+  },
+  {
+   "word": "See,",
+   "start": 112.41,
+   "end": 112.73
+  },
+  {
+   "word": "and",
+   "start": 112.97,
+   "end": 113.11
+  },
+  {
+   "word": "that",
+   "start": 113.11,
+   "end": 113.29
+  },
+  {
+   "word": "makes",
+   "start": 113.29,
+   "end": 113.59
+  },
+  {
+   "word": "precision",
+   "start": 113.59,
+   "end": 114.09
+  },
+  {
+   "word": "crucial.",
+   "start": 114.09,
+   "end": 114.47
+  },
+  {
+   "word": "Your",
+   "start": 115.25,
+   "end": 115.35
+  },
+  {
+   "word": "body",
+   "start": 115.35,
+   "end": 115.57
+  },
+  {
+   "word": "is",
+   "start": 115.57,
+   "end": 115.75
+  },
+  {
+   "word": "a",
+   "start": 115.75,
+   "end": 115.89
+  },
+  {
+   "word": "symphony",
+   "start": 115.89,
+   "end": 116.23
+  },
+  {
+   "word": "of,",
+   "start": 116.23,
+   "end": 116.61
+  },
+  {
+   "word": "about",
+   "start": 116.79,
+   "end": 117.09
+  },
+  {
+   "word": "7,",
+   "start": 117.09,
+   "end": 117.47
+  },
+  {
+   "word": "10,",
+   "start": 117.55,
+   "end": 117.73
+  },
+  {
+   "word": "27",
+   "start": 117.75,
+   "end": 118.27
+  },
+  {
+   "word": "atoms.",
+   "start": 118.27,
+   "end": 118.61
+  },
+  {
+   "word": "Atoms",
+   "start": 119.33,
+   "end": 119.71
+  },
+  {
+   "word": "each",
+   "start": 119.71,
+   "end": 120.07
+  },
+  {
+   "word": "needing",
+   "start": 120.07,
+   "end": 120.37
+  },
+  {
+   "word": "to",
+   "start": 120.37,
+   "end": 120.61
+  },
+  {
+   "word": "unpack",
+   "start": 120.61,
+   "end": 121.05
+  },
+  {
+   "word": "and",
+   "start": 121.05,
+   "end": 121.33
+  },
+  {
+   "word": "repack",
+   "start": 121.33,
+   "end": 121.69
+  },
+  {
+   "word": "perfectly",
+   "start": 121.69,
+   "end": 122.09
+  },
+  {
+   "word": "in",
+   "start": 122.09,
+   "end": 122.33
+  },
+  {
+   "word": "your",
+   "start": 122.33,
+   "end": 122.43
+  },
+  {
+   "word": "travels.",
+   "start": 122.43,
+   "end": 122.79
+  },
+  {
+   "word": "Every",
+   "start": 123.51,
+   "end": 123.75
+  },
+  {
+   "word": "atom",
+   "start": 123.75,
+   "end": 124.07
+  },
+  {
+   "word": "must",
+   "start": 124.07,
+   "end": 124.31
+  },
+  {
+   "word": "know",
+   "start": 124.31,
+   "end": 124.55
+  },
+  {
+   "word": "its",
+   "start": 124.55,
+   "end": 124.75
+  },
+  {
+   "word": "place.",
+   "start": 124.75,
+   "end": 125.11
+  },
+  {
+   "word": "That's",
+   "start": 125.51,
+   "end": 125.69
+  },
+  {
+   "word": "more",
+   "start": 125.69,
+   "end": 125.85
+  },
+  {
+   "word": "than",
+   "start": 125.85,
+   "end": 126.03
+  },
+  {
+   "word": "theoretical.",
+   "start": 126.03,
+   "end": 126.41
+  },
+  {
+   "word": "It's",
+   "start": 127.11,
+   "end": 127.33
+  },
+  {
+   "word": "practically",
+   "start": 127.33,
+   "end": 127.73
+  },
+  {
+   "word": "magic.",
+   "start": 127.73,
+   "end": 128.19
+  },
+  {
+   "word": "Considering",
+   "start": 128.67,
+   "end": 129.01
+  },
+  {
+   "word": "current",
+   "start": 129.01,
+   "end": 129.37
+  },
+  {
+   "word": "text",
+   "start": 129.37,
+   "end": 129.63
+  },
+  {
+   "word": "says",
+   "start": 129.63,
+   "end": 129.97
+  },
+  {
+   "word": "reassembling",
+   "start": 129.97,
+   "end": 130.63
+  },
+  {
+   "word": "atoms",
+   "start": 130.63,
+   "end": 130.95
+  },
+  {
+   "word": "perfectly",
+   "start": 130.95,
+   "end": 131.41
+  },
+  {
+   "word": "is",
+   "start": 131.41,
+   "end": 131.75
+  },
+  {
+   "word": "impossible.",
+   "start": 131.75,
+   "end": 132.19
+  },
+  {
+   "word": "As",
+   "start": 132.73,
+   "end": 132.87
+  },
+  {
+   "word": "you",
+   "start": 132.87,
+   "end": 133.03
+  },
+  {
+   "word": "pop",
+   "start": 133.03,
+   "end": 133.21
+  },
+  {
+   "word": "in",
+   "start": 133.21,
+   "end": 133.41
+  },
+  {
+   "word": "and",
+   "start": 133.41,
+   "end": 133.51
+  },
+  {
+   "word": "out",
+   "start": 133.51,
+   "end": 133.67
+  },
+  {
+   "word": "of",
+   "start": 133.67,
+   "end": 133.79
+  },
+  {
+   "word": "places,",
+   "start": 133.79,
+   "end": 134.15
+  },
+  {
+   "word": "spare",
+   "start": 134.91,
+   "end": 136.05
+  },
+  {
+   "word": "a",
+   "start": 136.05,
+   "end": 136.23
+  },
+  {
+   "word": "thought",
+   "start": 136.23,
+   "end": 136.47
+  },
+  {
+   "word": "for",
+   "start": 136.47,
+   "end": 136.69
+  },
+  {
+   "word": "what",
+   "start": 136.69,
+   "end": 136.83
+  },
+  {
+   "word": "remains",
+   "start": 136.83,
+   "end": 137.09
+  },
+  {
+   "word": "behind,",
+   "start": 137.09,
+   "end": 137.57
+  },
+  {
+   "word": "a",
+   "start": 137.93,
+   "end": 138.07
+  },
+  {
+   "word": "flash",
+   "start": 138.07,
+   "end": 138.29
+  },
+  {
+   "word": "of",
+   "start": 138.29,
+   "end": 138.51
+  },
+  {
+   "word": "energy",
+   "start": 138.51,
+   "end": 138.91
+  },
+  {
+   "word": "distorting",
+   "start": 138.91,
+   "end": 139.37
+  },
+  {
+   "word": "the",
+   "start": 139.37,
+   "end": 139.57
+  },
+  {
+   "word": "fabric",
+   "start": 139.57,
+   "end": 139.83
+  },
+  {
+   "word": "around",
+   "start": 139.83,
+   "end": 140.17
+  },
+  {
+   "word": "you.",
+   "start": 140.17,
+   "end": 140.57
+  },
+  {
+   "word": "Scientists",
+   "start": 141.15,
+   "end": 141.47
+  },
+  {
+   "word": "theorize",
+   "start": 141.47,
+   "end": 142.07
+  },
+  {
+   "word": "that",
+   "start": 142.07,
+   "end": 142.29
+  },
+  {
+   "word": "this",
+   "start": 142.29,
+   "end": 142.45
+  },
+  {
+   "word": "could",
+   "start": 142.45,
+   "end": 142.61
+  },
+  {
+   "word": "cause",
+   "start": 142.61,
+   "end": 142.91
+  },
+  {
+   "word": "molecular",
+   "start": 142.91,
+   "end": 143.35
+  },
+  {
+   "word": "disassembly,",
+   "start": 143.35,
+   "end": 144.05
+  },
+  {
+   "word": "the",
+   "start": 145.33,
+   "end": 145.43
+  },
+  {
+   "word": "kind",
+   "start": 145.43,
+   "end": 145.73
+  },
+  {
+   "word": "that",
+   "start": 145.73,
+   "end": 145.97
+  },
+  {
+   "word": "risks",
+   "start": 145.97,
+   "end": 146.23
+  },
+  {
+   "word": "losing",
+   "start": 146.23,
+   "end": 146.71
+  },
+  {
+   "word": "your",
+   "start": 146.71,
+   "end": 146.97
+  },
+  {
+   "word": "sense",
+   "start": 146.97,
+   "end": 147.21
+  },
+  {
+   "word": "of,",
+   "start": 147.21,
+   "end": 147.57
+  },
+  {
+   "word": "self",
+   "start": 147.83,
+   "end": 148.17
+  },
+  {
+   "word": "as",
+   "start": 148.17,
+   "end": 148.37
+  },
+  {
+   "word": "you",
+   "start": 148.37,
+   "end": 148.53
+  },
+  {
+   "word": "hop",
+   "start": 148.53,
+   "end": 148.69
+  },
+  {
+   "word": "around",
+   "start": 148.69,
+   "end": 148.97
+  },
+  {
+   "word": "the",
+   "start": 148.97,
+   "end": 149.13
+  },
+  {
+   "word": "globe,",
+   "start": 149.13,
+   "end": 149.43
+  },
+  {
+   "word": "and",
+   "start": 150.09,
+   "end": 150.19
+  },
+  {
+   "word": "don't",
+   "start": 150.19,
+   "end": 150.39
+  },
+  {
+   "word": "forget",
+   "start": 150.39,
+   "end": 150.67
+  },
+  {
+   "word": "the",
+   "start": 150.67,
+   "end": 150.85
+  },
+  {
+   "word": "chaos",
+   "start": 150.85,
+   "end": 151.15
+  },
+  {
+   "word": "your",
+   "start": 151.15,
+   "end": 151.39
+  },
+  {
+   "word": "leaps",
+   "start": 151.39,
+   "end": 151.61
+  },
+  {
+   "word": "cause",
+   "start": 151.61,
+   "end": 152.47
+  },
+  {
+   "word": "for",
+   "start": 152.47,
+   "end": 152.73
+  },
+  {
+   "word": "anything",
+   "start": 152.73,
+   "end": 153.13
+  },
+  {
+   "word": "relying",
+   "start": 153.13,
+   "end": 153.49
+  },
+  {
+   "word": "on",
+   "start": 153.49,
+   "end": 153.71
+  },
+  {
+   "word": "electronics,",
+   "start": 153.71,
+   "end": 154.25
+  },
+  {
+   "word": "making",
+   "start": 154.71,
+   "end": 154.97
+  },
+  {
+   "word": "gadgets",
+   "start": 154.97,
+   "end": 155.39
+  },
+  {
+   "word": "go",
+   "start": 155.39,
+   "end": 155.63
+  },
+  {
+   "word": "haywire",
+   "start": 155.63,
+   "end": 156.13
+  },
+  {
+   "word": "as",
+   "start": 156.13,
+   "end": 156.31
+  },
+  {
+   "word": "you",
+   "start": 156.31,
+   "end": 156.45
+  },
+  {
+   "word": "vanish",
+   "start": 156.45,
+   "end": 156.73
+  },
+  {
+   "word": "into",
+   "start": 156.73,
+   "end": 156.99
+  },
+  {
+   "word": "thin",
+   "start": 156.99,
+   "end": 157.19
+  },
+  {
+   "word": "air.",
+   "start": 157.19,
+   "end": 157.47
+  },
+  {
+   "word": "Visualize",
+   "start": 158.17,
+   "end": 158.69
+  },
+  {
+   "word": "this,",
+   "start": 158.69,
+   "end": 159.11
+  },
+  {
+   "word": "zipping",
+   "start": 159.69,
+   "end": 160.07
+  },
+  {
+   "word": "to",
+   "start": 160.07,
+   "end": 160.27
+  },
+  {
+   "word": "Paris",
+   "start": 160.27,
+   "end": 160.55
+  },
+  {
+   "word": "for",
+   "start": 160.55,
+   "end": 160.81
+  },
+  {
+   "word": "lunch",
+   "start": 160.81,
+   "end": 161.13
+  },
+  {
+   "word": "only",
+   "start": 161.13,
+   "end": 161.47
+  },
+  {
+   "word": "to",
+   "start": 161.47,
+   "end": 161.75
+  },
+  {
+   "word": "leave,",
+   "start": 161.75,
+   "end": 162.07
+  },
+  {
+   "word": "a",
+   "start": 162.39,
+   "end": 162.51
+  },
+  {
+   "word": "trail",
+   "start": 162.51,
+   "end": 162.75
+  },
+  {
+   "word": "of",
+   "start": 162.75,
+   "end": 162.93
+  },
+  {
+   "word": "sparking",
+   "start": 162.93,
+   "end": 163.29
+  },
+  {
+   "word": "laptops",
+   "start": 163.29,
+   "end": 163.75
+  },
+  {
+   "word": "behind",
+   "start": 163.75,
+   "end": 164.19
+  },
+  {
+   "word": "you.",
+   "start": 164.19,
+   "end": 164.49
+  },
+  {
+   "word": "And",
+   "start": 164.49,
+   "end": 165.11
+  },
+  {
+   "word": "remember,",
+   "start": 165.11,
+   "end": 165.55
+  },
+  {
+   "word": "traveling",
+   "start": 166.17,
+   "end": 166.33
+  },
+  {
+   "word": "across",
+   "start": 166.33,
+   "end": 166.69
+  },
+  {
+   "word": "the",
+   "start": 166.69,
+   "end": 166.89
+  },
+  {
+   "word": "world",
+   "start": 166.89,
+   "end": 167.07
+  },
+  {
+   "word": "in",
+   "start": 167.07,
+   "end": 167.27
+  },
+  {
+   "word": "moments",
+   "start": 167.27,
+   "end": 167.65
+  },
+  {
+   "word": "may",
+   "start": 167.65,
+   "end": 167.99
+  },
+  {
+   "word": "sound",
+   "start": 167.99,
+   "end": 168.29
+  },
+  {
+   "word": "glamorous.",
+   "start": 168.29,
+   "end": 168.77
+  },
+  {
+   "word": "But",
+   "start": 169.31,
+   "end": 169.41
+  },
+  {
+   "word": "good",
+   "start": 169.41,
+   "end": 169.63
+  },
+  {
+   "word": "luck",
+   "start": 169.63,
+   "end": 169.91
+  },
+  {
+   "word": "explaining",
+   "start": 169.91,
+   "end": 170.39
+  },
+  {
+   "word": "your",
+   "start": 170.39,
+   "end": 170.67
+  },
+  {
+   "word": "time",
+   "start": 170.67,
+   "end": 170.93
+  },
+  {
+   "word": "confusion",
+   "start": 170.93,
+   "end": 171.41
+  },
+  {
+   "word": "when",
+   "start": 171.41,
+   "end": 172.11
+  },
+  {
+   "word": "you",
+   "start": 172.11,
+   "end": 172.29
+  },
+  {
+   "word": "show",
+   "start": 172.29,
+   "end": 172.47
+  },
+  {
+   "word": "up",
+   "start": 172.47,
+   "end": 172.65
+  },
+  {
+   "word": "at",
+   "start": 172.65,
+   "end": 172.79
+  },
+  {
+   "word": "awkward",
+   "start": 172.79,
+   "end": 173.17
+  },
+  {
+   "word": "hours.",
+   "start": 173.17,
+   "end": 173.67
+  },
+  {
+   "word": "Because",
+   "start": 174.13,
+   "end": 174.39
+  },
+  {
+   "word": "of",
+   "start": 174.39,
+   "end": 174.55
+  },
+  {
+   "word": "jet",
+   "start": 174.55,
+   "end": 174.77
+  },
+  {
+   "word": "lag",
+   "start": 174.77,
+   "end": 174.99
+  },
+  {
+   "word": "sans",
+   "start": 174.99,
+   "end": 175.31
+  },
+  {
+   "word": "the",
+   "start": 175.31,
+   "end": 175.59
+  },
+  {
+   "word": "jet,",
+   "start": 175.59,
+   "end": 175.87
+  },
+  {
+   "word": "even",
+   "start": 176.39,
+   "end": 176.57
+  },
+  {
+   "word": "with",
+   "start": 176.57,
+   "end": 176.75
+  },
+  {
+   "word": "all",
+   "start": 176.75,
+   "end": 176.95
+  },
+  {
+   "word": "eyes",
+   "start": 176.95,
+   "end": 177.25
+  },
+  {
+   "word": "focused",
+   "start": 177.25,
+   "end": 177.59
+  },
+  {
+   "word": "on",
+   "start": 177.59,
+   "end": 177.87
+  },
+  {
+   "word": "you,",
+   "start": 177.87,
+   "end": 178.13
+  },
+  {
+   "word": "and",
+   "start": 178.53,
+   "end": 178.67
+  },
+  {
+   "word": "the",
+   "start": 178.67,
+   "end": 178.77
+  },
+  {
+   "word": "energy",
+   "start": 178.77,
+   "end": 179.09
+  },
+  {
+   "word": "coursing",
+   "start": 179.09,
+   "end": 179.55
+  },
+  {
+   "word": "through",
+   "start": 179.55,
+   "end": 179.77
+  },
+  {
+   "word": "your",
+   "start": 179.77,
+   "end": 179.93
+  },
+  {
+   "word": "veins,",
+   "start": 179.93,
+   "end": 180.19
+  },
+  {
+   "word": "each",
+   "start": 180.73,
+   "end": 180.93
+  },
+  {
+   "word": "jump",
+   "start": 180.93,
+   "end": 181.25
+  },
+  {
+   "word": "is",
+   "start": 181.25,
+   "end": 181.45
+  },
+  {
+   "word": "a",
+   "start": 181.45,
+   "end": 181.69
+  },
+  {
+   "word": "cosmic",
+   "start": 181.69,
+   "end": 181.97
+  },
+  {
+   "word": "gamble,",
+   "start": 181.97,
+   "end": 182.41
+  },
+  {
+   "word": "ground",
+   "start": 183.11,
+   "end": 183.25
+  },
+  {
+   "word": "rules",
+   "start": 183.25,
+   "end": 183.59
+  },
+  {
+   "word": "considered.",
+   "start": 183.59,
+   "end": 184.11
+  },
+  {
+   "word": "Here's",
+   "start": 184.39,
+   "end": 184.61
+  },
+  {
+   "word": "the",
+   "start": 184.61,
+   "end": 184.75
+  },
+  {
+   "word": "thing",
+   "start": 184.75,
+   "end": 184.93
+  },
+  {
+   "word": "you",
+   "start": 184.93,
+   "end": 185.09
+  },
+  {
+   "word": "really",
+   "start": 185.09,
+   "end": 185.35
+  },
+  {
+   "word": "need",
+   "start": 185.35,
+   "end": 185.53
+  },
+  {
+   "word": "to",
+   "start": 185.53,
+   "end": 185.69
+  },
+  {
+   "word": "know.",
+   "start": 185.69,
+   "end": 185.89
+  },
+  {
+   "word": "The",
+   "start": 186.09,
+   "end": 186.23
+  },
+  {
+   "word": "risks",
+   "start": 186.23,
+   "end": 186.51
+  },
+  {
+   "word": "are",
+   "start": 186.51,
+   "end": 186.81
+  },
+  {
+   "word": "bigger",
+   "start": 186.81,
+   "end": 187.07
+  },
+  {
+   "word": "than",
+   "start": 187.07,
+   "end": 187.29
+  },
+  {
+   "word": "they",
+   "start": 187.29,
+   "end": 187.49
+  },
+  {
+   "word": "appear.",
+   "start": 187.49,
+   "end": 187.85
+  },
+  {
+   "word": "You",
+   "start": 188.41,
+   "end": 188.59
+  },
+  {
+   "word": "decide",
+   "start": 188.59,
+   "end": 188.93
+  },
+  {
+   "word": "to",
+   "start": 188.93,
+   "end": 189.15
+  },
+  {
+   "word": "test",
+   "start": 189.15,
+   "end": 189.37
+  },
+  {
+   "word": "your",
+   "start": 189.37,
+   "end": 189.59
+  },
+  {
+   "word": "new",
+   "start": 189.59,
+   "end": 189.77
+  },
+  {
+   "word": "powers",
+   "start": 189.77,
+   "end": 190.13
+  },
+  {
+   "word": "right",
+   "start": 190.13,
+   "end": 190.39
+  },
+  {
+   "word": "away.",
+   "start": 190.39,
+   "end": 190.71
+  },
+  {
+   "word": "It's",
+   "start": 191.33,
+   "end": 191.55
+  },
+  {
+   "word": "a",
+   "start": 191.55,
+   "end": 191.61
+  },
+  {
+   "word": "typical",
+   "start": 191.61,
+   "end": 191.87
+  },
+  {
+   "word": "Tuesday",
+   "start": 191.87,
+   "end": 192.15
+  },
+  {
+   "word": "morning,",
+   "start": 192.15,
+   "end": 192.51
+  },
+  {
+   "word": "and",
+   "start": 192.81,
+   "end": 192.97
+  },
+  {
+   "word": "traffic",
+   "start": 192.97,
+   "end": 193.19
+  },
+  {
+   "word": "is",
+   "start": 193.19,
+   "end": 193.39
+  },
+  {
+   "word": "a",
+   "start": 193.39,
+   "end": 193.51
+  },
+  {
+   "word": "nightmare.",
+   "start": 193.51,
+   "end": 193.73
+  },
+  {
+   "word": "But",
+   "start": 194.23,
+   "end": 194.49
+  },
+  {
+   "word": "not",
+   "start": 194.49,
+   "end": 194.73
+  },
+  {
+   "word": "for",
+   "start": 194.73,
+   "end": 194.95
+  },
+  {
+   "word": "you.",
+   "start": 194.95,
+   "end": 195.29
+  },
+  {
+   "word": "While",
+   "start": 195.97,
+   "end": 195.99
+  },
+  {
+   "word": "others",
+   "start": 195.99,
+   "end": 196.27
+  },
+  {
+   "word": "are",
+   "start": 196.27,
+   "end": 196.51
+  },
+  {
+   "word": "stuck",
+   "start": 196.51,
+   "end": 196.75
+  },
+  {
+   "word": "in",
+   "start": 196.75,
+   "end": 196.97
+  },
+  {
+   "word": "gridlock,",
+   "start": 196.97,
+   "end": 197.39
+  },
+  {
+   "word": "you",
+   "start": 197.89,
+   "end": 197.97
+  },
+  {
+   "word": "picture",
+   "start": 197.97,
+   "end": 198.17
+  },
+  {
+   "word": "your",
+   "start": 198.17,
+   "end": 198.45
+  },
+  {
+   "word": "friend's",
+   "start": 198.45,
+   "end": 198.83
+  },
+  {
+   "word": "living",
+   "start": 198.83,
+   "end": 198.99
+  },
+  {
+   "word": "room.",
+   "start": 198.99,
+   "end": 199.53
+  },
+  {
+   "word": "Room,",
+   "start": 200.01,
+   "end": 200.07
+  },
+  {
+   "word": "a",
+   "start": 200.41,
+   "end": 200.61
+  },
+  {
+   "word": "blink",
+   "start": 200.61,
+   "end": 200.79
+  },
+  {
+   "word": "later,",
+   "start": 200.79,
+   "end": 201.17
+  },
+  {
+   "word": "you're",
+   "start": 201.45,
+   "end": 201.63
+  },
+  {
+   "word": "there",
+   "start": 201.63,
+   "end": 201.75
+  },
+  {
+   "word": "on",
+   "start": 201.75,
+   "end": 201.89
+  },
+  {
+   "word": "the",
+   "start": 201.89,
+   "end": 202.01
+  },
+  {
+   "word": "couch,",
+   "start": 202.01,
+   "end": 202.31
+  },
+  {
+   "word": "much",
+   "start": 202.71,
+   "end": 202.89
+  },
+  {
+   "word": "to",
+   "start": 202.89,
+   "end": 203.05
+  },
+  {
+   "word": "your",
+   "start": 203.05,
+   "end": 203.17
+  },
+  {
+   "word": "friend's",
+   "start": 203.17,
+   "end": 203.49
+  },
+  {
+   "word": "surprise.",
+   "start": 203.49,
+   "end": 203.89
+  },
+  {
+   "word": "From",
+   "start": 204.63,
+   "end": 204.75
+  },
+  {
+   "word": "now",
+   "start": 204.75,
+   "end": 204.97
+  },
+  {
+   "word": "on,",
+   "start": 204.97,
+   "end": 205.33
+  },
+  {
+   "word": "you'll",
+   "start": 205.59,
+   "end": 205.83
+  },
+  {
+   "word": "always",
+   "start": 205.83,
+   "end": 206.09
+  },
+  {
+   "word": "be",
+   "start": 206.09,
+   "end": 206.25
+  },
+  {
+   "word": "the",
+   "start": 206.25,
+   "end": 206.35
+  },
+  {
+   "word": "first",
+   "start": 206.35,
+   "end": 206.53
+  },
+  {
+   "word": "to",
+   "start": 206.53,
+   "end": 206.73
+  },
+  {
+   "word": "arrive,",
+   "start": 206.73,
+   "end": 207.09
+  },
+  {
+   "word": "no",
+   "start": 207.49,
+   "end": 207.67
+  },
+  {
+   "word": "matter",
+   "start": 207.67,
+   "end": 207.85
+  },
+  {
+   "word": "what.",
+   "start": 207.85,
+   "end": 208.21
+  },
+  {
+   "word": "Need",
+   "start": 208.73,
+   "end": 208.99
+  },
+  {
+   "word": "groceries?",
+   "start": 208.99,
+   "end": 209.45
+  },
+  {
+   "word": "Picture",
+   "start": 210.33,
+   "end": 210.57
+  },
+  {
+   "word": "the",
+   "start": 210.57,
+   "end": 210.79
+  },
+  {
+   "word": "store",
+   "start": 210.79,
+   "end": 211.07
+  },
+  {
+   "word": "aisle",
+   "start": 211.07,
+   "end": 211.41
+  },
+  {
+   "word": "laden",
+   "start": 211.41,
+   "end": 211.81
+  },
+  {
+   "word": "with",
+   "start": 211.81,
+   "end": 211.97
+  },
+  {
+   "word": "fresh",
+   "start": 211.97,
+   "end": 212.25
+  },
+  {
+   "word": "bread,",
+   "start": 212.25,
+   "end": 212.57
+  },
+  {
+   "word": "and",
+   "start": 212.99,
+   "end": 213.11
+  },
+  {
+   "word": "vibrant",
+   "start": 213.11,
+   "end": 213.47
+  },
+  {
+   "word": "produce.",
+   "start": 213.47,
+   "end": 213.95
+  },
+  {
+   "word": "You",
+   "start": 214.63,
+   "end": 214.85
+  },
+  {
+   "word": "pop",
+   "start": 214.85,
+   "end": 215.09
+  },
+  {
+   "word": "in,",
+   "start": 215.09,
+   "end": 215.39
+  },
+  {
+   "word": "and",
+   "start": 215.69,
+   "end": 216.53
+  },
+  {
+   "word": "out",
+   "start": 216.53,
+   "end": 216.73
+  },
+  {
+   "word": "without",
+   "start": 216.73,
+   "end": 216.97
+  },
+  {
+   "word": "the",
+   "start": 216.97,
+   "end": 217.23
+  },
+  {
+   "word": "usual",
+   "start": 217.23,
+   "end": 217.53
+  },
+  {
+   "word": "weight",
+   "start": 217.53,
+   "end": 217.81
+  },
+  {
+   "word": "at",
+   "start": 217.81,
+   "end": 217.95
+  },
+  {
+   "word": "the",
+   "start": 217.95,
+   "end": 218.07
+  },
+  {
+   "word": "counter.",
+   "start": 218.07,
+   "end": 218.39
+  },
+  {
+   "word": "You're",
+   "start": 218.77,
+   "end": 218.99
+  },
+  {
+   "word": "getting",
+   "start": 218.99,
+   "end": 219.19
+  },
+  {
+   "word": "errands",
+   "start": 219.19,
+   "end": 219.63
+  },
+  {
+   "word": "done",
+   "start": 219.63,
+   "end": 219.87
+  },
+  {
+   "word": "before",
+   "start": 219.87,
+   "end": 220.21
+  },
+  {
+   "word": "most.",
+   "start": 220.21,
+   "end": 220.59
+  },
+  {
+   "word": "People",
+   "start": 221.03,
+   "end": 221.21
+  },
+  {
+   "word": "even",
+   "start": 221.21,
+   "end": 221.53
+  },
+  {
+   "word": "find",
+   "start": 221.53,
+   "end": 221.85
+  },
+  {
+   "word": "their",
+   "start": 221.85,
+   "end": 222.05
+  },
+  {
+   "word": "car",
+   "start": 222.05,
+   "end": 222.27
+  },
+  {
+   "word": "keys.",
+   "start": 222.27,
+   "end": 222.53
+  },
+  {
+   "word": "And",
+   "start": 223.09,
+   "end": 223.37
+  },
+  {
+   "word": "that",
+   "start": 223.37,
+   "end": 223.55
+  },
+  {
+   "word": "friend",
+   "start": 223.55,
+   "end": 223.83
+  },
+  {
+   "word": "in",
+   "start": 223.83,
+   "end": 224.03
+  },
+  {
+   "word": "Paris",
+   "start": 224.03,
+   "end": 224.35
+  },
+  {
+   "word": "you've",
+   "start": 224.35,
+   "end": 224.71
+  },
+  {
+   "word": "been",
+   "start": 224.71,
+   "end": 224.81
+  },
+  {
+   "word": "meaning",
+   "start": 224.81,
+   "end": 225.03
+  },
+  {
+   "word": "to",
+   "start": 225.03,
+   "end": 225.23
+  },
+  {
+   "word": "visit.",
+   "start": 225.23,
+   "end": 225.47
+  },
+  {
+   "word": "You're",
+   "start": 226.01,
+   "end": 226.17
+  },
+  {
+   "word": "having",
+   "start": 226.17,
+   "end": 226.35
+  },
+  {
+   "word": "lunch",
+   "start": 226.35,
+   "end": 226.55
+  },
+  {
+   "word": "with",
+   "start": 226.55,
+   "end": 226.73
+  },
+  {
+   "word": "them",
+   "start": 226.73,
+   "end": 226.95
+  },
+  {
+   "word": "today.",
+   "start": 226.95,
+   "end": 227.27
+  },
+  {
+   "word": "Aye,",
+   "start": 227.89,
+   "end": 228.23
+  },
+  {
+   "word": "you",
+   "start": 228.49,
+   "end": 228.75
+  },
+  {
+   "word": "stand",
+   "start": 228.75,
+   "end": 228.99
+  },
+  {
+   "word": "in",
+   "start": 228.99,
+   "end": 229.15
+  },
+  {
+   "word": "your",
+   "start": 229.15,
+   "end": 229.27
+  },
+  {
+   "word": "kitchen.",
+   "start": 229.27,
+   "end": 229.57
+  },
+  {
+   "word": "Imagine",
+   "start": 230.01,
+   "end": 230.39
+  },
+  {
+   "word": "the",
+   "start": 230.39,
+   "end": 230.61
+  },
+  {
+   "word": "Eiffel",
+   "start": 230.61,
+   "end": 230.87
+  },
+  {
+   "word": "Tower",
+   "start": 230.87,
+   "end": 231.21
+  },
+  {
+   "word": "looming",
+   "start": 231.21,
+   "end": 231.49
+  },
+  {
+   "word": "over",
+   "start": 231.49,
+   "end": 231.87
+  },
+  {
+   "word": "city",
+   "start": 231.87,
+   "end": 232.05
+  },
+  {
+   "word": "streets.",
+   "start": 232.05,
+   "end": 232.45
+  },
+  {
+   "word": "The",
+   "start": 233.11,
+   "end": 233.31
+  },
+  {
+   "word": "next",
+   "start": 233.31,
+   "end": 233.49
+  },
+  {
+   "word": "second,",
+   "start": 233.49,
+   "end": 233.89
+  },
+  {
+   "word": "you're",
+   "start": 234.13,
+   "end": 234.29
+  },
+  {
+   "word": "in",
+   "start": 234.29,
+   "end": 234.37
+  },
+  {
+   "word": "a",
+   "start": 234.37,
+   "end": 234.49
+  },
+  {
+   "word": "quaint",
+   "start": 234.49,
+   "end": 234.77
+  },
+  {
+   "word": "Parisian",
+   "start": 234.77,
+   "end": 235.33
+  },
+  {
+   "word": "cafe,",
+   "start": 235.33,
+   "end": 235.63
+  },
+  {
+   "word": "sipping",
+   "start": 236.19,
+   "end": 236.53
+  },
+  {
+   "word": "espresso,",
+   "start": 236.53,
+   "end": 236.93
+  },
+  {
+   "word": "the",
+   "start": 237.57,
+   "end": 237.71
+  },
+  {
+   "word": "Eiffel",
+   "start": 237.71,
+   "end": 238.07
+  },
+  {
+   "word": "Tower",
+   "start": 238.07,
+   "end": 238.39
+  },
+  {
+   "word": "in",
+   "start": 238.39,
+   "end": 238.63
+  },
+  {
+   "word": "full",
+   "start": 238.63,
+   "end": 238.85
+  },
+  {
+   "word": "view.",
+   "start": 238.85,
+   "end": 239.15
+  },
+  {
+   "word": "It's",
+   "start": 239.71,
+   "end": 240.03
+  },
+  {
+   "word": "so",
+   "start": 240.03,
+   "end": 240.27
+  },
+  {
+   "word": "easy,",
+   "start": 240.27,
+   "end": 240.69
+  },
+  {
+   "word": "it",
+   "start": 240.87,
+   "end": 240.95
+  },
+  {
+   "word": "almost",
+   "start": 240.95,
+   "end": 241.19
+  },
+  {
+   "word": "feels",
+   "start": 241.19,
+   "end": 241.51
+  },
+  {
+   "word": "like",
+   "start": 241.51,
+   "end": 241.79
+  },
+  {
+   "word": "cheating",
+   "start": 241.79,
+   "end": 242.07
+  },
+  {
+   "word": "reality",
+   "start": 242.07,
+   "end": 242.59
+  },
+  {
+   "word": "itself.",
+   "start": 242.59,
+   "end": 243.05
+  },
+  {
+   "word": "Life",
+   "start": 243.83,
+   "end": 244.09
+  },
+  {
+   "word": "morphs",
+   "start": 244.09,
+   "end": 244.65
+  },
+  {
+   "word": "into",
+   "start": 244.65,
+   "end": 244.75
+  },
+  {
+   "word": "a",
+   "start": 244.75,
+   "end": 244.93
+  },
+  {
+   "word": "sequence",
+   "start": 244.93,
+   "end": 245.19
+  },
+  {
+   "word": "of",
+   "start": 245.19,
+   "end": 245.43
+  },
+  {
+   "word": "surprise",
+   "start": 245.43,
+   "end": 245.75
+  },
+  {
+   "word": "visits,",
+   "start": 245.75,
+   "end": 246.21
+  },
+  {
+   "word": "and",
+   "start": 246.69,
+   "end": 246.89
+  },
+  {
+   "word": "swift",
+   "start": 246.89,
+   "end": 247.13
+  },
+  {
+   "word": "escapes.",
+   "start": 247.13,
+   "end": 247.55
+  },
+  {
+   "word": "Friends",
+   "start": 248.45,
+   "end": 248.53
+  },
+  {
+   "word": "in",
+   "start": 248.53,
+   "end": 248.71
+  },
+  {
+   "word": "need",
+   "start": 248.71,
+   "end": 248.89
+  },
+  {
+   "word": "of",
+   "start": 248.89,
+   "end": 249.05
+  },
+  {
+   "word": "an",
+   "start": 249.05,
+   "end": 249.15
+  },
+  {
+   "word": "instant.",
+   "start": 249.15,
+   "end": 249.49
+  },
+  {
+   "word": "Companion",
+   "start": 249.49,
+   "end": 250.31
+  },
+  {
+   "word": "rely",
+   "start": 250.31,
+   "end": 250.77
+  },
+  {
+   "word": "on",
+   "start": 250.77,
+   "end": 251.03
+  },
+  {
+   "word": "your",
+   "start": 251.03,
+   "end": 251.17
+  },
+  {
+   "word": "teleportation",
+   "start": 251.17,
+   "end": 251.71
+  },
+  {
+   "word": "magic.",
+   "start": 251.71,
+   "end": 252.27
+  },
+  {
+   "word": "Never",
+   "start": 253.05,
+   "end": 253.15
+  },
+  {
+   "word": "again",
+   "start": 253.15,
+   "end": 253.43
+  },
+  {
+   "word": "do",
+   "start": 253.43,
+   "end": 253.59
+  },
+  {
+   "word": "you",
+   "start": 253.59,
+   "end": 253.65
+  },
+  {
+   "word": "have",
+   "start": 253.65,
+   "end": 253.75
+  },
+  {
+   "word": "to",
+   "start": 253.75,
+   "end": 253.85
+  },
+  {
+   "word": "worry",
+   "start": 253.85,
+   "end": 254.03
+  },
+  {
+   "word": "about",
+   "start": 254.03,
+   "end": 254.27
+  },
+  {
+   "word": "being",
+   "start": 254.27,
+   "end": 254.47
+  },
+  {
+   "word": "late.",
+   "start": 254.47,
+   "end": 254.81
+  },
+  {
+   "word": "The",
+   "start": 255.39,
+   "end": 255.47
+  },
+  {
+   "word": "news",
+   "start": 255.47,
+   "end": 255.73
+  },
+  {
+   "word": "spreads",
+   "start": 255.73,
+   "end": 256.09
+  },
+  {
+   "word": "quickly",
+   "start": 256.09,
+   "end": 256.53
+  },
+  {
+   "word": "among",
+   "start": 256.53,
+   "end": 256.79
+  },
+  {
+   "word": "your",
+   "start": 256.79,
+   "end": 257.19
+  },
+  {
+   "word": "circle.",
+   "start": 257.19,
+   "end": 257.77
+  },
+  {
+   "word": "You're",
+   "start": 258.47,
+   "end": 258.67
+  },
+  {
+   "word": "the",
+   "start": 258.67,
+   "end": 258.75
+  },
+  {
+   "word": "ultimate",
+   "start": 258.75,
+   "end": 259.05
+  },
+  {
+   "word": "party",
+   "start": 259.05,
+   "end": 259.33
+  },
+  {
+   "word": "guest.",
+   "start": 259.33,
+   "end": 259.67
+  },
+  {
+   "word": "Weekends",
+   "start": 260.29,
+   "end": 260.57
+  },
+  {
+   "word": "transform",
+   "start": 260.57,
+   "end": 261.05
+  },
+  {
+   "word": "into",
+   "start": 261.05,
+   "end": 261.31
+  },
+  {
+   "word": "global",
+   "start": 261.31,
+   "end": 261.57
+  },
+  {
+   "word": "adventures,",
+   "start": 261.57,
+   "end": 262.07
+  },
+  {
+   "word": "rather,",
+   "start": 262.31,
+   "end": 262.39
+  },
+  {
+   "word": "than",
+   "start": 262.85,
+   "end": 263.01
+  },
+  {
+   "word": "lazy",
+   "start": 263.01,
+   "end": 263.29
+  },
+  {
+   "word": "afternoons",
+   "start": 263.29,
+   "end": 263.85
+  },
+  {
+   "word": "on",
+   "start": 263.85,
+   "end": 264.03
+  },
+  {
+   "word": "the",
+   "start": 264.03,
+   "end": 264.17
+  },
+  {
+   "word": "couch.",
+   "start": 264.17,
+   "end": 264.39
+  },
+  {
+   "word": "In",
+   "start": 265.03,
+   "end": 265.15
+  },
+  {
+   "word": "the",
+   "start": 265.15,
+   "end": 265.25
+  },
+  {
+   "word": "morning,",
+   "start": 265.25,
+   "end": 265.51
+  },
+  {
+   "word": "you're",
+   "start": 265.83,
+   "end": 265.93
+  },
+  {
+   "word": "swimming",
+   "start": 265.93,
+   "end": 266.15
+  },
+  {
+   "word": "with",
+   "start": 266.15,
+   "end": 266.37
+  },
+  {
+   "word": "dolphins",
+   "start": 266.37,
+   "end": 266.63
+  },
+  {
+   "word": "off",
+   "start": 266.63,
+   "end": 266.89
+  },
+  {
+   "word": "Hawaii's",
+   "start": 266.89,
+   "end": 267.37
+  },
+  {
+   "word": "coast.",
+   "start": 267.37,
+   "end": 267.57
+  },
+  {
+   "word": "By",
+   "start": 268.23,
+   "end": 268.37
+  },
+  {
+   "word": "lunch,",
+   "start": 268.37,
+   "end": 268.65
+  },
+  {
+   "word": "you're",
+   "start": 269.15,
+   "end": 269.35
+  },
+  {
+   "word": "catching",
+   "start": 269.35,
+   "end": 269.51
+  },
+  {
+   "word": "a",
+   "start": 269.51,
+   "end": 269.71
+  },
+  {
+   "word": "Broadway",
+   "start": 269.71,
+   "end": 269.95
+  },
+  {
+   "word": "show",
+   "start": 269.95,
+   "end": 270.27
+  },
+  {
+   "word": "in",
+   "start": 270.27,
+   "end": 270.41
+  },
+  {
+   "word": "New",
+   "start": 270.41,
+   "end": 270.55
+  },
+  {
+   "word": "York.",
+   "start": 270.55,
+   "end": 270.83
+  },
+  {
+   "word": "How",
+   "start": 271.29,
+   "end": 271.41
+  },
+  {
+   "word": "about",
+   "start": 271.41,
+   "end": 271.61
+  },
+  {
+   "word": "spending",
+   "start": 271.61,
+   "end": 271.89
+  },
+  {
+   "word": "a",
+   "start": 271.89,
+   "end": 272.11
+  },
+  {
+   "word": "quiet",
+   "start": 272.11,
+   "end": 272.37
+  },
+  {
+   "word": "evening?",
+   "start": 272.37,
+   "end": 272.81
+  },
+  {
+   "word": "Taymouse.",
+   "start": 273.39,
+   "end": 273.79
+  },
+  {
+   "word": "In",
+   "start": 274.31,
+   "end": 274.47
+  },
+  {
+   "word": "the",
+   "start": 274.47,
+   "end": 274.61
+  },
+  {
+   "word": "exotic",
+   "start": 274.61,
+   "end": 275.01
+  },
+  {
+   "word": "markets",
+   "start": 275.01,
+   "end": 275.45
+  },
+  {
+   "word": "of",
+   "start": 275.45,
+   "end": 275.69
+  },
+  {
+   "word": "Marraketch,",
+   "start": 275.69,
+   "end": 276.17
+  },
+  {
+   "word": "you",
+   "start": 276.65,
+   "end": 276.91
+  },
+  {
+   "word": "teleport",
+   "start": 276.91,
+   "end": 277.27
+  },
+  {
+   "word": "like",
+   "start": 277.27,
+   "end": 277.57
+  },
+  {
+   "word": "a",
+   "start": 277.57,
+   "end": 277.71
+  },
+  {
+   "word": "casual",
+   "start": 277.71,
+   "end": 278.07
+  },
+  {
+   "word": "stroll.",
+   "start": 278.07,
+   "end": 278.41
+  },
+  {
+   "word": "Aarons,",
+   "start": 278.41,
+   "end": 279.35
+  },
+  {
+   "word": "tasks,",
+   "start": 279.79,
+   "end": 280.09
+  },
+  {
+   "word": "and",
+   "start": 280.63,
+   "end": 280.73
+  },
+  {
+   "word": "visits",
+   "start": 280.73,
+   "end": 281.11
+  },
+  {
+   "word": "happen",
+   "start": 281.11,
+   "end": 281.59
+  },
+  {
+   "word": "instantaneously.",
+   "start": 281.59,
+   "end": 282.61
+  },
+  {
+   "word": "The",
+   "start": 283.05,
+   "end": 283.19
+  },
+  {
+   "word": "world",
+   "start": 283.19,
+   "end": 283.47
+  },
+  {
+   "word": "is",
+   "start": 283.47,
+   "end": 283.83
+  },
+  {
+   "word": "your",
+   "start": 283.83,
+   "end": 284.01
+  },
+  {
+   "word": "playground,",
+   "start": 284.01,
+   "end": 284.41
+  },
+  {
+   "word": "and",
+   "start": 285.49,
+   "end": 285.61
+  },
+  {
+   "word": "rules",
+   "start": 285.61,
+   "end": 285.93
+  },
+  {
+   "word": "about",
+   "start": 285.93,
+   "end": 286.25
+  },
+  {
+   "word": "distance",
+   "start": 286.25,
+   "end": 286.73
+  },
+  {
+   "word": "lose",
+   "start": 286.73,
+   "end": 287.03
+  },
+  {
+   "word": "their",
+   "start": 287.03,
+   "end": 287.31
+  },
+  {
+   "word": "hold.",
+   "start": 287.31,
+   "end": 287.59
+  },
+  {
+   "word": "If",
+   "start": 288.11,
+   "end": 288.37
+  },
+  {
+   "word": "time",
+   "start": 288.37,
+   "end": 288.57
+  },
+  {
+   "word": "is",
+   "start": 288.57,
+   "end": 288.75
+  },
+  {
+   "word": "money,",
+   "start": 288.75,
+   "end": 289.05
+  },
+  {
+   "word": "you're",
+   "start": 289.37,
+   "end": 289.55
+  },
+  {
+   "word": "the",
+   "start": 289.55,
+   "end": 289.65
+  },
+  {
+   "word": "new",
+   "start": 289.65,
+   "end": 289.83
+  },
+  {
+   "word": "tycoon",
+   "start": 289.83,
+   "end": 290.25
+  },
+  {
+   "word": "of",
+   "start": 290.25,
+   "end": 290.51
+  },
+  {
+   "word": "hours",
+   "start": 290.51,
+   "end": 290.69
+  },
+  {
+   "word": "and",
+   "start": 290.69,
+   "end": 290.87
+  },
+  {
+   "word": "minutes.",
+   "start": 290.87,
+   "end": 291.19
+  },
+  {
+   "word": "The",
+   "start": 291.83,
+   "end": 292.03
+  },
+  {
+   "word": "mundane",
+   "start": 292.03,
+   "end": 292.45
+  },
+  {
+   "word": "transforms",
+   "start": 292.45,
+   "end": 293.15
+  },
+  {
+   "word": "into",
+   "start": 293.15,
+   "end": 293.51
+  },
+  {
+   "word": "marvelous,",
+   "start": 293.51,
+   "end": 293.93
+  },
+  {
+   "word": "and",
+   "start": 294.51,
+   "end": 294.73
+  },
+  {
+   "word": "magic",
+   "start": 294.73,
+   "end": 295.03
+  },
+  {
+   "word": "seems",
+   "start": 295.03,
+   "end": 295.35
+  },
+  {
+   "word": "an",
+   "start": 295.35,
+   "end": 295.57
+  },
+  {
+   "word": "understatement.",
+   "start": 295.57,
+   "end": 296.03
+  },
+  {
+   "word": "But",
+   "start": 296.83,
+   "end": 296.99
+  },
+  {
+   "word": "everyone",
+   "start": 296.99,
+   "end": 297.37
+  },
+  {
+   "word": "knows",
+   "start": 297.37,
+   "end": 297.71
+  },
+  {
+   "word": "that",
+   "start": 297.71,
+   "end": 297.99
+  },
+  {
+   "word": "adventures",
+   "start": 297.99,
+   "end": 298.43
+  },
+  {
+   "word": "often",
+   "start": 298.43,
+   "end": 298.85
+  },
+  {
+   "word": "change",
+   "start": 298.85,
+   "end": 299.33
+  },
+  {
+   "word": "course.",
+   "start": 299.33,
+   "end": 299.69
+  },
+  {
+   "word": "Your",
+   "start": 300.31,
+   "end": 300.45
+  },
+  {
+   "word": "incredible",
+   "start": 300.45,
+   "end": 300.83
+  },
+  {
+   "word": "feats",
+   "start": 300.83,
+   "end": 301.13
+  },
+  {
+   "word": "don't",
+   "start": 301.13,
+   "end": 301.41
+  },
+  {
+   "word": "go",
+   "start": 301.41,
+   "end": 301.53
+  },
+  {
+   "word": "unnoticed.",
+   "start": 301.53,
+   "end": 301.95
+  },
+  {
+   "word": "People",
+   "start": 302.67,
+   "end": 302.91
+  },
+  {
+   "word": "start",
+   "start": 302.91,
+   "end": 303.19
+  },
+  {
+   "word": "asking",
+   "start": 303.19,
+   "end": 303.59
+  },
+  {
+   "word": "questions.",
+   "start": 303.59,
+   "end": 304.09
+  },
+  {
+   "word": "The",
+   "start": 304.91,
+   "end": 305.05
+  },
+  {
+   "word": "media",
+   "start": 305.05,
+   "end": 305.39
+  },
+  {
+   "word": "catches",
+   "start": 305.39,
+   "end": 305.75
+  },
+  {
+   "word": "wind",
+   "start": 305.75,
+   "end": 306.15
+  },
+  {
+   "word": "of",
+   "start": 306.15,
+   "end": 306.35
+  },
+  {
+   "word": "your",
+   "start": 306.35,
+   "end": 306.47
+  },
+  {
+   "word": "exploits.",
+   "start": 306.47,
+   "end": 306.93
+  },
+  {
+   "word": "And",
+   "start": 307.75,
+   "end": 308.05
+  },
+  {
+   "word": "soon,",
+   "start": 308.05,
+   "end": 308.45
+  },
+  {
+   "word": "you're",
+   "start": 308.65,
+   "end": 308.79
+  },
+  {
+   "word": "a",
+   "start": 308.79,
+   "end": 308.89
+  },
+  {
+   "word": "fascination.",
+   "start": 308.89,
+   "end": 309.45
+  },
+  {
+   "word": "Tabloids,",
+   "start": 310.15,
+   "end": 310.51
+  },
+  {
+   "word": "W,",
+   "start": 310.67,
+   "end": 310.87
+  },
+  {
+   "word": "the",
+   "start": 311.53,
+   "end": 311.69
+  },
+  {
+   "word": "teleporter,",
+   "start": 311.69,
+   "end": 312.13
+  },
+  {
+   "word": "and",
+   "start": 312.39,
+   "end": 312.51
+  },
+  {
+   "word": "your",
+   "start": 312.51,
+   "end": 312.65
+  },
+  {
+   "word": "face,",
+   "start": 312.65,
+   "end": 313.01
+  },
+  {
+   "word": "or",
+   "start": 313.31,
+   "end": 313.41
+  },
+  {
+   "word": "lack",
+   "start": 313.41,
+   "end": 313.67
+  },
+  {
+   "word": "of",
+   "start": 313.67,
+   "end": 313.85
+  },
+  {
+   "word": "it,",
+   "start": 313.85,
+   "end": 314.07
+  },
+  {
+   "word": "becomes",
+   "start": 314.45,
+   "end": 314.79
+  },
+  {
+   "word": "magazine",
+   "start": 314.79,
+   "end": 315.31
+  },
+  {
+   "word": "cover",
+   "start": 315.31,
+   "end": 315.61
+  },
+  {
+   "word": "material.",
+   "start": 315.61,
+   "end": 316.13
+  },
+  {
+   "word": "Fame",
+   "start": 316.87,
+   "end": 316.97
+  },
+  {
+   "word": "wraps",
+   "start": 316.97,
+   "end": 317.25
+  },
+  {
+   "word": "you",
+   "start": 317.25,
+   "end": 317.45
+  },
+  {
+   "word": "up",
+   "start": 317.45,
+   "end": 317.59
+  },
+  {
+   "word": "quickly.",
+   "start": 317.59,
+   "end": 317.95
+  },
+  {
+   "word": "Withdrawn,",
+   "start": 318.69,
+   "end": 319.07
+  },
+  {
+   "word": "come",
+   "start": 319.53,
+   "end": 319.57
+  },
+  {
+   "word": "perchy,",
+   "start": 319.57,
+   "end": 319.99
+  },
+  {
+   "word": "ushering",
+   "start": 320.19,
+   "end": 320.59
+  },
+  {
+   "word": "you",
+   "start": 320.59,
+   "end": 320.79
+  },
+  {
+   "word": "into",
+   "start": 320.79,
+   "end": 321.01
+  },
+  {
+   "word": "the",
+   "start": 321.01,
+   "end": 321.13
+  },
+  {
+   "word": "world",
+   "start": 321.13,
+   "end": 321.35
+  },
+  {
+   "word": "of",
+   "start": 321.35,
+   "end": 321.53
+  },
+  {
+   "word": "celebrity.",
+   "start": 321.53,
+   "end": 321.87
+  },
+  {
+   "word": "You",
+   "start": 322.61,
+   "end": 322.65
+  },
+  {
+   "word": "can",
+   "start": 322.65,
+   "end": 322.81
+  },
+  {
+   "word": "see",
+   "start": 322.81,
+   "end": 323.07
+  },
+  {
+   "word": "daytime",
+   "start": 323.07,
+   "end": 323.65
+  },
+  {
+   "word": "talk",
+   "start": 323.65,
+   "end": 324.03
+  },
+  {
+   "word": "shows",
+   "start": 324.03,
+   "end": 324.33
+  },
+  {
+   "word": "queue",
+   "start": 324.33,
+   "end": 324.57
+  },
+  {
+   "word": "up,",
+   "start": 324.57,
+   "end": 324.83
+  },
+  {
+   "word": "wanting",
+   "start": 325.19,
+   "end": 325.35
+  },
+  {
+   "word": "to",
+   "start": 325.35,
+   "end": 325.61
+  },
+  {
+   "word": "hear",
+   "start": 325.61,
+   "end": 325.79
+  },
+  {
+   "word": "about",
+   "start": 325.79,
+   "end": 326.01
+  },
+  {
+   "word": "your",
+   "start": 326.01,
+   "end": 326.21
+  },
+  {
+   "word": "wild",
+   "start": 326.21,
+   "end": 326.53
+  },
+  {
+   "word": "ride.",
+   "start": 326.53,
+   "end": 326.91
+  },
+  {
+   "word": "Book",
+   "start": 327.67,
+   "end": 327.77
+  },
+  {
+   "word": "publishers",
+   "start": 327.77,
+   "end": 328.27
+  },
+  {
+   "word": "envision",
+   "start": 328.27,
+   "end": 328.73
+  },
+  {
+   "word": "bestsellers",
+   "start": 328.73,
+   "end": 329.43
+  },
+  {
+   "word": "as",
+   "start": 329.43,
+   "end": 329.67
+  },
+  {
+   "word": "your",
+   "start": 329.67,
+   "end": 329.83
+  },
+  {
+   "word": "story",
+   "start": 329.83,
+   "end": 330.15
+  },
+  {
+   "word": "promises",
+   "start": 330.15,
+   "end": 330.67
+  },
+  {
+   "word": "unprecedented",
+   "start": 330.67,
+   "end": 331.47
+  },
+  {
+   "word": "intrigue.",
+   "start": 331.47,
+   "end": 332.07
+  },
+  {
+   "word": "Science",
+   "start": 333.09,
+   "end": 333.09
+  },
+  {
+   "word": "journals",
+   "start": 333.09,
+   "end": 333.37
+  },
+  {
+   "word": "propose",
+   "start": 333.37,
+   "end": 333.87
+  },
+  {
+   "word": "featuring",
+   "start": 333.87,
+   "end": 334.33
+  },
+  {
+   "word": "articles",
+   "start": 334.33,
+   "end": 334.73
+  },
+  {
+   "word": "on",
+   "start": 334.73,
+   "end": 335.01
+  },
+  {
+   "word": "your",
+   "start": 335.01,
+   "end": 335.15
+  },
+  {
+   "word": "extraordinary",
+   "start": 335.15,
+   "end": 335.69
+  },
+  {
+   "word": "capabilities.",
+   "start": 335.69,
+   "end": 336.35
+  },
+  {
+   "word": "You're",
+   "start": 337.61,
+   "end": 338.13
+  },
+  {
+   "word": "not",
+   "start": 338.13,
+   "end": 338.27
+  },
+  {
+   "word": "just",
+   "start": 338.27,
+   "end": 338.51
+  },
+  {
+   "word": "teleporting",
+   "start": 338.51,
+   "end": 339.01
+  },
+  {
+   "word": "across",
+   "start": 339.01,
+   "end": 339.35
+  },
+  {
+   "word": "the",
+   "start": 339.35,
+   "end": 339.57
+  },
+  {
+   "word": "world",
+   "start": 339.57,
+   "end": 339.79
+  },
+  {
+   "word": "anymore.",
+   "start": 339.79,
+   "end": 340.17
+  },
+  {
+   "word": "You're",
+   "start": 341.25,
+   "end": 341.31
+  },
+  {
+   "word": "teleporting",
+   "start": 341.31,
+   "end": 341.81
+  },
+  {
+   "word": "through",
+   "start": 341.81,
+   "end": 342.07
+  },
+  {
+   "word": "realms",
+   "start": 342.07,
+   "end": 342.33
+  },
+  {
+   "word": "of",
+   "start": 342.33,
+   "end": 342.49
+  },
+  {
+   "word": "society,",
+   "start": 342.49,
+   "end": 343.03
+  },
+  {
+   "word": "from",
+   "start": 343.35,
+   "end": 343.47
+  },
+  {
+   "word": "unknown",
+   "start": 343.47,
+   "end": 343.87
+  },
+  {
+   "word": "to",
+   "start": 343.87,
+   "end": 344.15
+  },
+  {
+   "word": "renowned.",
+   "start": 344.15,
+   "end": 344.53
+  },
+  {
+   "word": "Everybody",
+   "start": 345.29,
+   "end": 345.55
+  },
+  {
+   "word": "wants",
+   "start": 345.55,
+   "end": 345.79
+  },
+  {
+   "word": "a",
+   "start": 345.79,
+   "end": 345.95
+  },
+  {
+   "word": "piece",
+   "start": 345.95,
+   "end": 346.03
+  },
+  {
+   "word": "of",
+   "start": 346.03,
+   "end": 346.17
+  },
+  {
+   "word": "your",
+   "start": 346.17,
+   "end": 346.27
+  },
+  {
+   "word": "story.",
+   "start": 346.27,
+   "end": 346.57
+  },
+  {
+   "word": "Soon,",
+   "start": 347.11,
+   "end": 347.33
+  },
+  {
+   "word": "you're",
+   "start": 347.69,
+   "end": 347.81
+  },
+  {
+   "word": "not",
+   "start": 347.81,
+   "end": 347.91
+  },
+  {
+   "word": "only",
+   "start": 347.91,
+   "end": 348.15
+  },
+  {
+   "word": "a",
+   "start": 348.15,
+   "end": 348.27
+  },
+  {
+   "word": "visitor",
+   "start": 348.27,
+   "end": 348.53
+  },
+  {
+   "word": "between",
+   "start": 348.53,
+   "end": 348.89
+  },
+  {
+   "word": "city",
+   "start": 348.89,
+   "end": 349.19
+  },
+  {
+   "word": "landscapes,",
+   "start": 349.19,
+   "end": 349.71
+  },
+  {
+   "word": "but",
+   "start": 350.21,
+   "end": 350.39
+  },
+  {
+   "word": "also",
+   "start": 350.39,
+   "end": 350.69
+  },
+  {
+   "word": "a",
+   "start": 350.69,
+   "end": 350.83
+  },
+  {
+   "word": "frequenter",
+   "start": 350.83,
+   "end": 351.37
+  },
+  {
+   "word": "of",
+   "start": 351.37,
+   "end": 351.51
+  },
+  {
+   "word": "laboratories.",
+   "start": 351.51,
+   "end": 352.03
+  },
+  {
+   "word": "Scientists",
+   "start": 352.99,
+   "end": 353.27
+  },
+  {
+   "word": "are",
+   "start": 353.27,
+   "end": 353.51
+  },
+  {
+   "word": "eager",
+   "start": 353.51,
+   "end": 353.73
+  },
+  {
+   "word": "to",
+   "start": 353.73,
+   "end": 353.97
+  },
+  {
+   "word": "study",
+   "start": 353.97,
+   "end": 354.23
+  },
+  {
+   "word": "the",
+   "start": 354.23,
+   "end": 354.37
+  },
+  {
+   "word": "phenomenon.",
+   "start": 354.37,
+   "end": 354.77
+  },
+  {
+   "word": "They",
+   "start": 355.35,
+   "end": 355.47
+  },
+  {
+   "word": "put",
+   "start": 355.47,
+   "end": 355.65
+  },
+  {
+   "word": "you",
+   "start": 355.65,
+   "end": 355.85
+  },
+  {
+   "word": "through",
+   "start": 355.85,
+   "end": 356.03
+  },
+  {
+   "word": "a",
+   "start": 356.03,
+   "end": 356.19
+  },
+  {
+   "word": "battery",
+   "start": 356.19,
+   "end": 356.45
+  },
+  {
+   "word": "of",
+   "start": 356.45,
+   "end": 356.71
+  },
+  {
+   "word": "tests,",
+   "start": 356.71,
+   "end": 357.23
+  },
+  {
+   "word": "offering",
+   "start": 357.55,
+   "end": 357.85
+  },
+  {
+   "word": "theories",
+   "start": 357.85,
+   "end": 358.29
+  },
+  {
+   "word": "on",
+   "start": 358.29,
+   "end": 358.53
+  },
+  {
+   "word": "your",
+   "start": 358.53,
+   "end": 358.67
+  },
+  {
+   "word": "power",
+   "start": 358.67,
+   "end": 359.01
+  },
+  {
+   "word": "as,",
+   "start": 359.01,
+   "end": 359.37
+  },
+  {
+   "word": "diverse",
+   "start": 359.81,
+   "end": 360.07
+  },
+  {
+   "word": "as",
+   "start": 360.07,
+   "end": 360.33
+  },
+  {
+   "word": "the",
+   "start": 360.33,
+   "end": 360.49
+  },
+  {
+   "word": "places",
+   "start": 360.49,
+   "end": 360.71
+  },
+  {
+   "word": "you",
+   "start": 360.71,
+   "end": 360.97
+  },
+  {
+   "word": "visit,",
+   "start": 360.97,
+   "end": 361.25
+  },
+  {
+   "word": "while",
+   "start": 361.75,
+   "end": 362.01
+  },
+  {
+   "word": "it's",
+   "start": 362.01,
+   "end": 362.25
+  },
+  {
+   "word": "flattering.",
+   "start": 362.25,
+   "end": 362.57
+  },
+  {
+   "word": "It's",
+   "start": 363.31,
+   "end": 363.51
+  },
+  {
+   "word": "also",
+   "start": 363.51,
+   "end": 363.81
+  },
+  {
+   "word": "a",
+   "start": 363.81,
+   "end": 363.99
+  },
+  {
+   "word": "lot.",
+   "start": 363.99,
+   "end": 364.19
+  },
+  {
+   "word": "The",
+   "start": 364.19,
+   "end": 364.85
+  },
+  {
+   "word": "demands",
+   "start": 364.85,
+   "end": 365.17
+  },
+  {
+   "word": "on",
+   "start": 365.17,
+   "end": 365.39
+  },
+  {
+   "word": "your",
+   "start": 365.39,
+   "end": 365.55
+  },
+  {
+   "word": "time,",
+   "start": 365.55,
+   "end": 365.91
+  },
+  {
+   "word": "ironically",
+   "start": 366.21,
+   "end": 366.57
+  },
+  {
+   "word": "enough,",
+   "start": 366.57,
+   "end": 367.07
+  },
+  {
+   "word": "become",
+   "start": 367.51,
+   "end": 367.79
+  },
+  {
+   "word": "a",
+   "start": 367.79,
+   "end": 368.33
+  },
+  {
+   "word": "new",
+   "start": 368.33,
+   "end": 368.55
+  },
+  {
+   "word": "kind",
+   "start": 368.55,
+   "end": 368.81
+  },
+  {
+   "word": "of",
+   "start": 368.81,
+   "end": 369.03
+  },
+  {
+   "word": "burden.",
+   "start": 369.03,
+   "end": 369.31
+  },
+  {
+   "word": "You",
+   "start": 370.29,
+   "end": 370.57
+  },
+  {
+   "word": "teleport",
+   "start": 370.57,
+   "end": 370.99
+  },
+  {
+   "word": "from",
+   "start": 370.99,
+   "end": 371.37
+  },
+  {
+   "word": "interview",
+   "start": 371.37,
+   "end": 371.75
+  },
+  {
+   "word": "to",
+   "start": 371.75,
+   "end": 372.09
+  },
+  {
+   "word": "experiment,",
+   "start": 372.09,
+   "end": 372.63
+  },
+  {
+   "word": "and",
+   "start": 373.09,
+   "end": 373.27
+  },
+  {
+   "word": "quickly",
+   "start": 373.27,
+   "end": 373.47
+  },
+  {
+   "word": "from",
+   "start": 373.47,
+   "end": 373.83
+  },
+  {
+   "word": "lab",
+   "start": 373.83,
+   "end": 374.07
+  },
+  {
+   "word": "room",
+   "start": 374.07,
+   "end": 374.29
+  },
+  {
+   "word": "to",
+   "start": 374.29,
+   "end": 374.47
+  },
+  {
+   "word": "hotel",
+   "start": 374.47,
+   "end": 374.75
+  },
+  {
+   "word": "suite.",
+   "start": 374.75,
+   "end": 375.11
+  },
+  {
+   "word": "This",
+   "start": 375.61,
+   "end": 375.79
+  },
+  {
+   "word": "is",
+   "start": 375.79,
+   "end": 375.97
+  },
+  {
+   "word": "exciting,",
+   "start": 375.97,
+   "end": 376.43
+  },
+  {
+   "word": "but",
+   "start": 376.79,
+   "end": 376.91
+  },
+  {
+   "word": "not",
+   "start": 376.91,
+   "end": 377.13
+  },
+  {
+   "word": "without",
+   "start": 377.13,
+   "end": 377.41
+  },
+  {
+   "word": "consequence.",
+   "start": 377.41,
+   "end": 378.01
+  },
+  {
+   "word": "Fame",
+   "start": 378.87,
+   "end": 378.99
+  },
+  {
+   "word": "adds",
+   "start": 378.99,
+   "end": 379.37
+  },
+  {
+   "word": "pressure,",
+   "start": 379.37,
+   "end": 379.79
+  },
+  {
+   "word": "and",
+   "start": 380.03,
+   "end": 380.15
+  },
+  {
+   "word": "your",
+   "start": 380.15,
+   "end": 380.27
+  },
+  {
+   "word": "once",
+   "start": 380.27,
+   "end": 380.53
+  },
+  {
+   "word": "-fun",
+   "start": 380.53,
+   "end": 380.87
+  },
+  {
+   "word": "relocation",
+   "start": 380.87,
+   "end": 381.53
+  },
+  {
+   "word": "magic",
+   "start": 381.53,
+   "end": 381.95
+  },
+  {
+   "word": "starts",
+   "start": 381.95,
+   "end": 382.31
+  },
+  {
+   "word": "tightening",
+   "start": 382.31,
+   "end": 382.69
+  },
+  {
+   "word": "its",
+   "start": 382.69,
+   "end": 382.99
+  },
+  {
+   "word": "grip.",
+   "start": 382.99,
+   "end": 383.21
+  },
+  {
+   "word": "The",
+   "start": 383.71,
+   "end": 383.89
+  },
+  {
+   "word": "more",
+   "start": 383.89,
+   "end": 384.05
+  },
+  {
+   "word": "you",
+   "start": 384.05,
+   "end": 384.23
+  },
+  {
+   "word": "teleport,",
+   "start": 384.23,
+   "end": 384.69
+  },
+  {
+   "word": "the",
+   "start": 384.95,
+   "end": 385.05
+  },
+  {
+   "word": "heavier",
+   "start": 385.05,
+   "end": 385.29
+  },
+  {
+   "word": "it",
+   "start": 385.29,
+   "end": 385.55
+  },
+  {
+   "word": "feels.",
+   "start": 385.55,
+   "end": 385.87
+  },
+  {
+   "word": "It's",
+   "start": 386.41,
+   "end": 386.73
+  },
+  {
+   "word": "as",
+   "start": 386.73,
+   "end": 386.83
+  },
+  {
+   "word": "if",
+   "start": 386.83,
+   "end": 387.01
+  },
+  {
+   "word": "each",
+   "start": 387.01,
+   "end": 387.23
+  },
+  {
+   "word": "jump",
+   "start": 387.23,
+   "end": 387.55
+  },
+  {
+   "word": "taxis,",
+   "start": 387.55,
+   "end": 388.03
+  },
+  {
+   "word": "a",
+   "start": 388.41,
+   "end": 388.63
+  },
+  {
+   "word": "toll",
+   "start": 388.63,
+   "end": 388.85
+  },
+  {
+   "word": "on",
+   "start": 388.85,
+   "end": 389.09
+  },
+  {
+   "word": "your",
+   "start": 389.09,
+   "end": 389.21
+  },
+  {
+   "word": "being,",
+   "start": 389.21,
+   "end": 389.49
+  },
+  {
+   "word": "a",
+   "start": 389.87,
+   "end": 390.13
+  },
+  {
+   "word": "subtle",
+   "start": 390.13,
+   "end": 390.39
+  },
+  {
+   "word": "shift",
+   "start": 390.39,
+   "end": 390.75
+  },
+  {
+   "word": "you",
+   "start": 390.75,
+   "end": 390.93
+  },
+  {
+   "word": "can't",
+   "start": 390.93,
+   "end": 391.23
+  },
+  {
+   "word": "quite",
+   "start": 391.23,
+   "end": 391.33
+  },
+  {
+   "word": "shake",
+   "start": 391.33,
+   "end": 391.63
+  },
+  {
+   "word": "off.",
+   "start": 391.63,
+   "end": 391.91
+  },
+  {
+   "word": "Scientists",
+   "start": 391.91,
+   "end": 392.81
+  },
+  {
+   "word": "warn",
+   "start": 392.81,
+   "end": 393.25
+  },
+  {
+   "word": "you",
+   "start": 393.25,
+   "end": 393.43
+  },
+  {
+   "word": "of",
+   "start": 393.43,
+   "end": 393.57
+  },
+  {
+   "word": "molecular",
+   "start": 393.57,
+   "end": 393.95
+  },
+  {
+   "word": "tension,",
+   "start": 393.95,
+   "end": 394.49
+  },
+  {
+   "word": "a",
+   "start": 394.93,
+   "end": 395.01
+  },
+  {
+   "word": "sign",
+   "start": 395.01,
+   "end": 395.23
+  },
+  {
+   "word": "of",
+   "start": 395.23,
+   "end": 395.35
+  },
+  {
+   "word": "your",
+   "start": 395.35,
+   "end": 395.47
+  },
+  {
+   "word": "atoms",
+   "start": 395.47,
+   "end": 395.79
+  },
+  {
+   "word": "pushed",
+   "start": 395.79,
+   "end": 396.21
+  },
+  {
+   "word": "to",
+   "start": 396.21,
+   "end": 396.65
+  },
+  {
+   "word": "their",
+   "start": 396.65,
+   "end": 396.79
+  },
+  {
+   "word": "limits.",
+   "start": 396.79,
+   "end": 397.15
+  },
+  {
+   "word": "It's",
+   "start": 398.55,
+   "end": 399.07
+  },
+  {
+   "word": "like",
+   "start": 399.07,
+   "end": 399.25
+  },
+  {
+   "word": "carrying",
+   "start": 399.25,
+   "end": 399.55
+  },
+  {
+   "word": "a",
+   "start": 399.55,
+   "end": 399.77
+  },
+  {
+   "word": "hidden",
+   "start": 399.77,
+   "end": 399.93
+  },
+  {
+   "word": "weight",
+   "start": 399.93,
+   "end": 400.21
+  },
+  {
+   "word": "with",
+   "start": 400.21,
+   "end": 400.43
+  },
+  {
+   "word": "each",
+   "start": 400.43,
+   "end": 400.67
+  },
+  {
+   "word": "zip.",
+   "start": 400.67,
+   "end": 400.97
+  },
+  {
+   "word": "There's",
+   "start": 401.47,
+   "end": 401.69
+  },
+  {
+   "word": "a",
+   "start": 401.69,
+   "end": 401.79
+  },
+  {
+   "word": "growing",
+   "start": 401.79,
+   "end": 402.03
+  },
+  {
+   "word": "sense",
+   "start": 402.03,
+   "end": 402.37
+  },
+  {
+   "word": "that,",
+   "start": 402.37,
+   "end": 402.73
+  },
+  {
+   "word": "despite",
+   "start": 403.05,
+   "end": 403.39
+  },
+  {
+   "word": "the",
+   "start": 403.39,
+   "end": 403.59
+  },
+  {
+   "word": "limitless",
+   "start": 403.59,
+   "end": 403.89
+  },
+  {
+   "word": "feel",
+   "start": 403.89,
+   "end": 404.25
+  },
+  {
+   "word": "of",
+   "start": 404.25,
+   "end": 404.43
+  },
+  {
+   "word": "your",
+   "start": 404.43,
+   "end": 404.55
+  },
+  {
+   "word": "power,",
+   "start": 404.55,
+   "end": 404.89
+  },
+  {
+   "word": "there's",
+   "start": 405.29,
+   "end": 405.53
+  },
+  {
+   "word": "an",
+   "start": 405.53,
+   "end": 405.65
+  },
+  {
+   "word": "unseen",
+   "start": 405.65,
+   "end": 406.09
+  },
+  {
+   "word": "mechanism",
+   "start": 406.09,
+   "end": 406.63
+  },
+  {
+   "word": "keeping",
+   "start": 406.63,
+   "end": 406.93
+  },
+  {
+   "word": "score.",
+   "start": 406.93,
+   "end": 407.33
+  },
+  {
+   "word": "This",
+   "start": 407.93,
+   "end": 408.09
+  },
+  {
+   "word": "doesn't",
+   "start": 408.09,
+   "end": 408.35
+  },
+  {
+   "word": "even",
+   "start": 408.35,
+   "end": 408.49
+  },
+  {
+   "word": "account",
+   "start": 408.49,
+   "end": 408.75
+  },
+  {
+   "word": "for",
+   "start": 408.75,
+   "end": 408.93
+  },
+  {
+   "word": "the",
+   "start": 408.93,
+   "end": 409.03
+  },
+  {
+   "word": "subtle",
+   "start": 409.03,
+   "end": 409.27
+  },
+  {
+   "word": "glitches.",
+   "start": 409.27,
+   "end": 409.57
+  },
+  {
+   "word": "A",
+   "start": 410.23,
+   "end": 410.47
+  },
+  {
+   "word": "missed",
+   "start": 410.47,
+   "end": 410.75
+  },
+  {
+   "word": "atom",
+   "start": 410.75,
+   "end": 411.07
+  },
+  {
+   "word": "here",
+   "start": 411.07,
+   "end": 411.31
+  },
+  {
+   "word": "or",
+   "start": 411.31,
+   "end": 411.45
+  },
+  {
+   "word": "there",
+   "start": 411.45,
+   "end": 411.71
+  },
+  {
+   "word": "might",
+   "start": 411.71,
+   "end": 411.93
+  },
+  {
+   "word": "seem",
+   "start": 411.93,
+   "end": 412.19
+  },
+  {
+   "word": "like",
+   "start": 412.19,
+   "end": 412.41
+  },
+  {
+   "word": "roulette.",
+   "start": 412.41,
+   "end": 412.81
+  },
+  {
+   "word": "Imagine",
+   "start": 413.61,
+   "end": 413.89
+  },
+  {
+   "word": "teleporting",
+   "start": 413.89,
+   "end": 414.47
+  },
+  {
+   "word": "to",
+   "start": 414.47,
+   "end": 414.69
+  },
+  {
+   "word": "what",
+   "start": 414.69,
+   "end": 414.81
+  },
+  {
+   "word": "you",
+   "start": 414.81,
+   "end": 414.95
+  },
+  {
+   "word": "think",
+   "start": 414.95,
+   "end": 415.15
+  },
+  {
+   "word": "is",
+   "start": 415.15,
+   "end": 415.29
+  },
+  {
+   "word": "your",
+   "start": 415.29,
+   "end": 415.47
+  },
+  {
+   "word": "kitchen.",
+   "start": 415.47,
+   "end": 415.79
+  },
+  {
+   "word": "All,",
+   "start": 416.53,
+   "end": 416.93
+  },
+  {
+   "word": "only",
+   "start": 417.39,
+   "end": 417.57
+  },
+  {
+   "word": "to",
+   "start": 417.57,
+   "end": 417.73
+  },
+  {
+   "word": "end",
+   "start": 417.73,
+   "end": 417.91
+  },
+  {
+   "word": "up",
+   "start": 417.91,
+   "end": 418.09
+  },
+  {
+   "word": "on",
+   "start": 418.09,
+   "end": 418.23
+  },
+  {
+   "word": "your",
+   "start": 418.23,
+   "end": 418.37
+  },
+  {
+   "word": "neighbor's",
+   "start": 418.37,
+   "end": 418.69
+  },
+  {
+   "word": "lawn",
+   "start": 418.69,
+   "end": 418.85
+  },
+  {
+   "word": "instead.",
+   "start": 418.85,
+   "end": 419.29
+  },
+  {
+   "word": "You're",
+   "start": 419.93,
+   "end": 420.07
+  },
+  {
+   "word": "still",
+   "start": 420.07,
+   "end": 420.23
+  },
+  {
+   "word": "the",
+   "start": 420.23,
+   "end": 420.37
+  },
+  {
+   "word": "envy",
+   "start": 420.37,
+   "end": 420.63
+  },
+  {
+   "word": "of",
+   "start": 420.63,
+   "end": 420.89
+  },
+  {
+   "word": "many.",
+   "start": 420.89,
+   "end": 421.13
+  },
+  {
+   "word": "Of",
+   "start": 421.69,
+   "end": 422.01
+  },
+  {
+   "word": "many,",
+   "start": 422.01,
+   "end": 422.21
+  },
+  {
+   "word": "but",
+   "start": 422.31,
+   "end": 422.47
+  },
+  {
+   "word": "there's",
+   "start": 422.47,
+   "end": 422.69
+  },
+  {
+   "word": "a",
+   "start": 422.69,
+   "end": 422.81
+  },
+  {
+   "word": "nagging",
+   "start": 422.81,
+   "end": 423.17
+  },
+  {
+   "word": "thought",
+   "start": 423.17,
+   "end": 423.55
+  },
+  {
+   "word": "creeping",
+   "start": 423.55,
+   "end": 423.93
+  },
+  {
+   "word": "into",
+   "start": 423.93,
+   "end": 424.63
+  },
+  {
+   "word": "the",
+   "start": 424.63,
+   "end": 424.75
+  },
+  {
+   "word": "back",
+   "start": 424.75,
+   "end": 424.95
+  },
+  {
+   "word": "of",
+   "start": 424.95,
+   "end": 425.09
+  },
+  {
+   "word": "your",
+   "start": 425.09,
+   "end": 425.19
+  },
+  {
+   "word": "mind.",
+   "start": 425.19,
+   "end": 425.49
+  },
+  {
+   "word": "The",
+   "start": 426.01,
+   "end": 426.23
+  },
+  {
+   "word": "luxury",
+   "start": 426.23,
+   "end": 426.51
+  },
+  {
+   "word": "of",
+   "start": 426.51,
+   "end": 426.75
+  },
+  {
+   "word": "teleportation",
+   "start": 426.75,
+   "end": 427.29
+  },
+  {
+   "word": "starts",
+   "start": 427.29,
+   "end": 427.69
+  },
+  {
+   "word": "to",
+   "start": 427.69,
+   "end": 427.97
+  },
+  {
+   "word": "blur,",
+   "start": 427.97,
+   "end": 428.17
+  },
+  {
+   "word": "and",
+   "start": 428.59,
+   "end": 428.81
+  },
+  {
+   "word": "with",
+   "start": 428.81,
+   "end": 428.97
+  },
+  {
+   "word": "it,",
+   "start": 428.97,
+   "end": 429.25
+  },
+  {
+   "word": "so",
+   "start": 429.51,
+   "end": 429.65
+  },
+  {
+   "word": "does",
+   "start": 429.65,
+   "end": 429.81
+  },
+  {
+   "word": "the",
+   "start": 429.81,
+   "end": 429.99
+  },
+  {
+   "word": "flawless",
+   "start": 429.99,
+   "end": 430.37
+  },
+  {
+   "word": "nature",
+   "start": 430.37,
+   "end": 430.77
+  },
+  {
+   "word": "of",
+   "start": 430.77,
+   "end": 431.07
+  },
+  {
+   "word": "its",
+   "start": 431.07,
+   "end": 431.23
+  },
+  {
+   "word": "execution.",
+   "start": 431.23,
+   "end": 431.73
+  },
+  {
+   "word": "The",
+   "start": 432.33,
+   "end": 432.59
+  },
+  {
+   "word": "thrill",
+   "start": 432.59,
+   "end": 432.83
+  },
+  {
+   "word": "is",
+   "start": 432.83,
+   "end": 433.05
+  },
+  {
+   "word": "palpable,",
+   "start": 433.05,
+   "end": 433.43
+  },
+  {
+   "word": "yet",
+   "start": 433.89,
+   "end": 434.07
+  },
+  {
+   "word": "the",
+   "start": 434.07,
+   "end": 434.23
+  },
+  {
+   "word": "tension",
+   "start": 434.23,
+   "end": 434.53
+  },
+  {
+   "word": "precedes",
+   "start": 434.53,
+   "end": 435.15
+  },
+  {
+   "word": "the",
+   "start": 435.15,
+   "end": 435.51
+  },
+  {
+   "word": "calm",
+   "start": 435.51,
+   "end": 435.61
+  },
+  {
+   "word": "before",
+   "start": 435.61,
+   "end": 435.99
+  },
+  {
+   "word": "the",
+   "start": 435.99,
+   "end": 436.19
+  },
+  {
+   "word": "storm.",
+   "start": 436.19,
+   "end": 436.45
+  },
+  {
+   "word": "But",
+   "start": 437.05,
+   "end": 437.25
+  },
+  {
+   "word": "then,",
+   "start": 437.25,
+   "end": 437.57
+  },
+  {
+   "word": "reality",
+   "start": 438.13,
+   "end": 438.61
+  },
+  {
+   "word": "rears",
+   "start": 438.61,
+   "end": 439.15
+  },
+  {
+   "word": "its",
+   "start": 439.15,
+   "end": 439.37
+  },
+  {
+   "word": "inconvenient",
+   "start": 439.37,
+   "end": 439.89
+  },
+  {
+   "word": "head.",
+   "start": 439.89,
+   "end": 440.31
+  },
+  {
+   "word": "With",
+   "start": 440.89,
+   "end": 441.09
+  },
+  {
+   "word": "each",
+   "start": 441.09,
+   "end": 441.29
+  },
+  {
+   "word": "teleport,",
+   "start": 441.29,
+   "end": 441.75
+  },
+  {
+   "word": "you",
+   "start": 442.21,
+   "end": 442.35
+  },
+  {
+   "word": "start",
+   "start": 442.35,
+   "end": 442.55
+  },
+  {
+   "word": "to",
+   "start": 442.55,
+   "end": 442.71
+  },
+  {
+   "word": "notice",
+   "start": 442.71,
+   "end": 442.95
+  },
+  {
+   "word": "something",
+   "start": 442.95,
+   "end": 443.33
+  },
+  {
+   "word": "unsettling.",
+   "start": 443.33,
+   "end": 443.89
+  },
+  {
+   "word": "The",
+   "start": 444.47,
+   "end": 444.73
+  },
+  {
+   "word": "energy",
+   "start": 444.73,
+   "end": 445.01
+  },
+  {
+   "word": "needed",
+   "start": 445.01,
+   "end": 445.37
+  },
+  {
+   "word": "to",
+   "start": 445.37,
+   "end": 445.55
+  },
+  {
+   "word": "relocate",
+   "start": 445.55,
+   "end": 445.97
+  },
+  {
+   "word": "all",
+   "start": 445.97,
+   "end": 446.37
+  },
+  {
+   "word": "those",
+   "start": 446.37,
+   "end": 446.79
+  },
+  {
+   "word": "atoms.",
+   "start": 446.79,
+   "end": 447.31
+  },
+  {
+   "word": "It's",
+   "start": 447.93,
+   "end": 448.21
+  },
+  {
+   "word": "starting",
+   "start": 448.21,
+   "end": 448.41
+  },
+  {
+   "word": "to",
+   "start": 448.41,
+   "end": 448.59
+  },
+  {
+   "word": "weigh",
+   "start": 448.59,
+   "end": 448.71
+  },
+  {
+   "word": "on",
+   "start": 448.71,
+   "end": 448.87
+  },
+  {
+   "word": "you.",
+   "start": 448.87,
+   "end": 449.03
+  },
+  {
+   "word": "Imagine",
+   "start": 449.77,
+   "end": 450.39
+  },
+  {
+   "word": "the",
+   "start": 450.39,
+   "end": 450.67
+  },
+  {
+   "word": "power",
+   "start": 450.67,
+   "end": 450.97
+  },
+  {
+   "word": "of",
+   "start": 450.97,
+   "end": 451.19
+  },
+  {
+   "word": "a",
+   "start": 451.19,
+   "end": 451.31
+  },
+  {
+   "word": "nuclear",
+   "start": 451.31,
+   "end": 451.59
+  },
+  {
+   "word": "blast,",
+   "start": 451.59,
+   "end": 452.15
+  },
+  {
+   "word": "concentrated",
+   "start": 452.45,
+   "end": 452.89
+  },
+  {
+   "word": "every",
+   "start": 452.89,
+   "end": 453.35
+  },
+  {
+   "word": "time",
+   "start": 453.35,
+   "end": 453.63
+  },
+  {
+   "word": "you",
+   "start": 453.63,
+   "end": 453.87
+  },
+  {
+   "word": "teleport.",
+   "start": 453.87,
+   "end": 454.31
+  },
+  {
+   "word": "That's",
+   "start": 454.79,
+   "end": 455.01
+  },
+  {
+   "word": "how",
+   "start": 455.01,
+   "end": 455.11
+  },
+  {
+   "word": "much",
+   "start": 455.11,
+   "end": 455.25
+  },
+  {
+   "word": "energy",
+   "start": 455.25,
+   "end": 455.53
+  },
+  {
+   "word": "you're",
+   "start": 455.53,
+   "end": 455.79
+  },
+  {
+   "word": "expending,",
+   "start": 455.79,
+   "end": 456.17
+  },
+  {
+   "word": "and",
+   "start": 456.51,
+   "end": 456.59
+  },
+  {
+   "word": "it's",
+   "start": 456.59,
+   "end": 456.75
+  },
+  {
+   "word": "taxing.",
+   "start": 456.75,
+   "end": 457.09
+  },
+  {
+   "word": "See,",
+   "start": 457.83,
+   "end": 458.11
+  },
+  {
+   "word": "your",
+   "start": 458.25,
+   "end": 458.37
+  },
+  {
+   "word": "body",
+   "start": 458.37,
+   "end": 458.61
+  },
+  {
+   "word": "is",
+   "start": 458.61,
+   "end": 458.79
+  },
+  {
+   "word": "made",
+   "start": 458.79,
+   "end": 458.97
+  },
+  {
+   "word": "up",
+   "start": 458.97,
+   "end": 459.19
+  },
+  {
+   "word": "of",
+   "start": 459.19,
+   "end": 459.51
+  },
+  {
+   "word": "roughly",
+   "start": 459.51,
+   "end": 459.97
+  },
+  {
+   "word": "7",
+   "start": 459.97,
+   "end": 460.33
+  },
+  {
+   "word": "billion",
+   "start": 460.33,
+   "end": 460.67
+  },
+  {
+   "word": "billion",
+   "start": 460.67,
+   "end": 461.15
+  },
+  {
+   "word": "billion",
+   "start": 461.15,
+   "end": 461.49
+  },
+  {
+   "word": "atoms.",
+   "start": 461.49,
+   "end": 461.87
+  },
+  {
+   "word": "Atoms.",
+   "start": 462.33,
+   "end": 462.57
+  },
+  {
+   "word": "Teleportation",
+   "start": 463.23,
+   "end": 463.59
+  },
+  {
+   "word": "means",
+   "start": 463.59,
+   "end": 463.95
+  },
+  {
+   "word": "precisely",
+   "start": 463.95,
+   "end": 464.41
+  },
+  {
+   "word": "moving",
+   "start": 464.41,
+   "end": 464.83
+  },
+  {
+   "word": "each",
+   "start": 464.83,
+   "end": 465.11
+  },
+  {
+   "word": "one,",
+   "start": 465.11,
+   "end": 465.45
+  },
+  {
+   "word": "and",
+   "start": 465.71,
+   "end": 465.83
+  },
+  {
+   "word": "frankly,",
+   "start": 465.83,
+   "end": 466.15
+  },
+  {
+   "word": "it's",
+   "start": 466.73,
+   "end": 466.83
+  },
+  {
+   "word": "exhausting.",
+   "start": 466.83,
+   "end": 467.33
+  },
+  {
+   "word": "What",
+   "start": 468.01,
+   "end": 468.17
+  },
+  {
+   "word": "feels",
+   "start": 468.17,
+   "end": 468.55
+  },
+  {
+   "word": "effortless",
+   "start": 468.55,
+   "end": 469.21
+  },
+  {
+   "word": "brings",
+   "start": 469.21,
+   "end": 469.53
+  },
+  {
+   "word": "hidden",
+   "start": 469.53,
+   "end": 469.87
+  },
+  {
+   "word": "costs,",
+   "start": 469.87,
+   "end": 470.31
+  },
+  {
+   "word": "and",
+   "start": 470.67,
+   "end": 470.87
+  },
+  {
+   "word": "your",
+   "start": 470.87,
+   "end": 470.97
+  },
+  {
+   "word": "molecular",
+   "start": 470.97,
+   "end": 471.27
+  },
+  {
+   "word": "structure",
+   "start": 471.27,
+   "end": 471.77
+  },
+  {
+   "word": "knows",
+   "start": 471.77,
+   "end": 472.01
+  },
+  {
+   "word": "it.",
+   "start": 472.01,
+   "end": 472.23
+  },
+  {
+   "word": "The",
+   "start": 472.47,
+   "end": 472.65
+  },
+  {
+   "word": "more",
+   "start": 472.65,
+   "end": 472.79
+  },
+  {
+   "word": "you",
+   "start": 472.79,
+   "end": 472.97
+  },
+  {
+   "word": "jump",
+   "start": 472.97,
+   "end": 473.15
+  },
+  {
+   "word": "locations,",
+   "start": 473.15,
+   "end": 473.73
+  },
+  {
+   "word": "the",
+   "start": 474.29,
+   "end": 474.43
+  },
+  {
+   "word": "more",
+   "start": 474.43,
+   "end": 474.59
+  },
+  {
+   "word": "strained",
+   "start": 474.59,
+   "end": 474.93
+  },
+  {
+   "word": "your",
+   "start": 474.93,
+   "end": 475.11
+  },
+  {
+   "word": "body's",
+   "start": 475.11,
+   "end": 475.47
+  },
+  {
+   "word": "delicate",
+   "start": 475.47,
+   "end": 475.73
+  },
+  {
+   "word": "balance",
+   "start": 475.73,
+   "end": 476.15
+  },
+  {
+   "word": "becomes.",
+   "start": 476.15,
+   "end": 476.67
+  },
+  {
+   "word": "Occasionally,",
+   "start": 477.23,
+   "end": 477.75
+  },
+  {
+   "word": "a",
+   "start": 477.97,
+   "end": 478.03
+  },
+  {
+   "word": "small",
+   "start": 478.03,
+   "end": 478.31
+  },
+  {
+   "word": "glitch",
+   "start": 478.31,
+   "end": 478.61
+  },
+  {
+   "word": "occurs.",
+   "start": 478.61,
+   "end": 479.05
+  },
+  {
+   "word": "Like",
+   "start": 479.67,
+   "end": 480.05
+  },
+  {
+   "word": "an",
+   "start": 480.05,
+   "end": 480.23
+  },
+  {
+   "word": "itch",
+   "start": 480.23,
+   "end": 480.41
+  },
+  {
+   "word": "you",
+   "start": 480.41,
+   "end": 480.61
+  },
+  {
+   "word": "can't",
+   "start": 480.61,
+   "end": 480.99
+  },
+  {
+   "word": "scratch.",
+   "start": 480.99,
+   "end": 481.23
+  },
+  {
+   "word": "And",
+   "start": 481.95,
+   "end": 482.11
+  },
+  {
+   "word": "then,",
+   "start": 482.11,
+   "end": 482.43
+  },
+  {
+   "word": "there",
+   "start": 482.79,
+   "end": 483.03
+  },
+  {
+   "word": "are",
+   "start": 483.03,
+   "end": 483.13
+  },
+  {
+   "word": "the",
+   "start": 483.13,
+   "end": 483.25
+  },
+  {
+   "word": "electronics.",
+   "start": 483.25,
+   "end": 483.77
+  },
+  {
+   "word": "Every",
+   "start": 485.33,
+   "end": 485.59
+  },
+  {
+   "word": "teleportation",
+   "start": 485.59,
+   "end": 486.09
+  },
+  {
+   "word": "leaves",
+   "start": 486.09,
+   "end": 486.53
+  },
+  {
+   "word": "a",
+   "start": 486.53,
+   "end": 486.73
+  },
+  {
+   "word": "chaotic",
+   "start": 486.73,
+   "end": 487.03
+  },
+  {
+   "word": "wake.",
+   "start": 487.03,
+   "end": 487.35
+  },
+  {
+   "word": "Phones",
+   "start": 488.05,
+   "end": 488.29
+  },
+  {
+   "word": "freeze,",
+   "start": 488.29,
+   "end": 488.65
+  },
+  {
+   "word": "computers",
+   "start": 489.15,
+   "end": 489.41
+  },
+  {
+   "word": "crash,",
+   "start": 489.41,
+   "end": 489.95
+  },
+  {
+   "word": "lights",
+   "start": 490.61,
+   "end": 490.81
+  },
+  {
+   "word": "flicker.",
+   "start": 490.81,
+   "end": 491.21
+  },
+  {
+   "word": "The",
+   "start": 491.63,
+   "end": 491.75
+  },
+  {
+   "word": "folks",
+   "start": 491.75,
+   "end": 491.93
+  },
+  {
+   "word": "at",
+   "start": 491.93,
+   "end": 492.15
+  },
+  {
+   "word": "the",
+   "start": 492.15,
+   "end": 492.29
+  },
+  {
+   "word": "lab",
+   "start": 492.29,
+   "end": 492.53
+  },
+  {
+   "word": "said",
+   "start": 492.53,
+   "end": 492.79
+  },
+  {
+   "word": "it",
+   "start": 492.79,
+   "end": 492.93
+  },
+  {
+   "word": "might",
+   "start": 492.93,
+   "end": 493.05
+  },
+  {
+   "word": "happen,",
+   "start": 493.05,
+   "end": 493.45
+  },
+  {
+   "word": "but",
+   "start": 493.73,
+   "end": 493.95
+  },
+  {
+   "word": "they",
+   "start": 493.95,
+   "end": 494.07
+  },
+  {
+   "word": "never",
+   "start": 494.07,
+   "end": 494.31
+  },
+  {
+   "word": "mention",
+   "start": 494.31,
+   "end": 494.61
+  },
+  {
+   "word": "how",
+   "start": 494.61,
+   "end": 494.85
+  },
+  {
+   "word": "often.",
+   "start": 494.85,
+   "end": 495.19
+  },
+  {
+   "word": "Enter",
+   "start": 495.57,
+   "end": 495.81
+  },
+  {
+   "word": "any",
+   "start": 495.81,
+   "end": 496.11
+  },
+  {
+   "word": "room",
+   "start": 496.11,
+   "end": 496.39
+  },
+  {
+   "word": "after",
+   "start": 496.39,
+   "end": 496.73
+  },
+  {
+   "word": "a",
+   "start": 496.73,
+   "end": 496.95
+  },
+  {
+   "word": "jump,",
+   "start": 496.95,
+   "end": 497.15
+  },
+  {
+   "word": "and",
+   "start": 498.07,
+   "end": 498.13
+  },
+  {
+   "word": "expect",
+   "start": 498.13,
+   "end": 498.53
+  },
+  {
+   "word": "a",
+   "start": 498.53,
+   "end": 498.73
+  },
+  {
+   "word": "short",
+   "start": 498.73,
+   "end": 498.97
+  },
+  {
+   "word": "circuit",
+   "start": 498.97,
+   "end": 499.31
+  },
+  {
+   "word": "symphony.",
+   "start": 499.31,
+   "end": 499.87
+  },
+  {
+   "word": "Symphony,",
+   "start": 500.47,
+   "end": 500.93
+  },
+  {
+   "word": "it's",
+   "start": 501.21,
+   "end": 501.53
+  },
+  {
+   "word": "like",
+   "start": 501.53,
+   "end": 501.69
+  },
+  {
+   "word": "being",
+   "start": 501.69,
+   "end": 501.95
+  },
+  {
+   "word": "a",
+   "start": 501.95,
+   "end": 502.15
+  },
+  {
+   "word": "walking",
+   "start": 502.15,
+   "end": 502.47
+  },
+  {
+   "word": "imp.",
+   "start": 502.47,
+   "end": 502.75
+  },
+  {
+   "word": "Talk",
+   "start": 503.63,
+   "end": 503.87
+  },
+  {
+   "word": "about",
+   "start": 503.87,
+   "end": 504.13
+  },
+  {
+   "word": "being",
+   "start": 504.13,
+   "end": 504.39
+  },
+  {
+   "word": "disruptive.",
+   "start": 504.39,
+   "end": 504.91
+  },
+  {
+   "word": "Your",
+   "start": 504.91,
+   "end": 505.71
+  },
+  {
+   "word": "once",
+   "start": 505.71,
+   "end": 506.01
+  },
+  {
+   "word": "-simple",
+   "start": 506.01,
+   "end": 506.71
+  },
+  {
+   "word": "escape",
+   "start": 506.71,
+   "end": 507.05
+  },
+  {
+   "word": "aids",
+   "start": 507.05,
+   "end": 507.33
+  },
+  {
+   "word": "start",
+   "start": 507.33,
+   "end": 507.55
+  },
+  {
+   "word": "to",
+   "start": 507.55,
+   "end": 507.73
+  },
+  {
+   "word": "feel.",
+   "start": 507.73,
+   "end": 507.97
+  },
+  {
+   "word": "More",
+   "start": 508.55,
+   "end": 508.63
+  },
+  {
+   "word": "like",
+   "start": 508.63,
+   "end": 508.83
+  },
+  {
+   "word": "a",
+   "start": 508.83,
+   "end": 508.97
+  },
+  {
+   "word": "heavy",
+   "start": 508.97,
+   "end": 509.13
+  },
+  {
+   "word": "burden.",
+   "start": 509.13,
+   "end": 509.55
+  },
+  {
+   "word": "Teleportation.",
+   "start": 510.33,
+   "end": 510.75
+  },
+  {
+   "word": "Once",
+   "start": 511.53,
+   "end": 511.71
+  },
+  {
+   "word": "your",
+   "start": 511.71,
+   "end": 511.87
+  },
+  {
+   "word": "ticket",
+   "start": 511.87,
+   "end": 512.03
+  },
+  {
+   "word": "to",
+   "start": 512.03,
+   "end": 512.23
+  },
+  {
+   "word": "freedom",
+   "start": 512.23,
+   "end": 512.51
+  },
+  {
+   "word": "now",
+   "start": 512.51,
+   "end": 513.15
+  },
+  {
+   "word": "feels",
+   "start": 513.15,
+   "end": 513.47
+  },
+  {
+   "word": "like",
+   "start": 513.47,
+   "end": 513.75
+  },
+  {
+   "word": "walking",
+   "start": 513.75,
+   "end": 514.07
+  },
+  {
+   "word": "a",
+   "start": 514.07,
+   "end": 514.27
+  },
+  {
+   "word": "tightrope.",
+   "start": 514.27,
+   "end": 514.71
+  },
+  {
+   "word": "And",
+   "start": 515.05,
+   "end": 515.15
+  },
+  {
+   "word": "here's",
+   "start": 515.15,
+   "end": 515.45
+  },
+  {
+   "word": "where",
+   "start": 515.45,
+   "end": 515.59
+  },
+  {
+   "word": "the",
+   "start": 515.59,
+   "end": 515.73
+  },
+  {
+   "word": "real",
+   "start": 515.73,
+   "end": 515.95
+  },
+  {
+   "word": "nightmare",
+   "start": 515.95,
+   "end": 516.29
+  },
+  {
+   "word": "creeps",
+   "start": 516.29,
+   "end": 516.59
+  },
+  {
+   "word": "in.",
+   "start": 516.59,
+   "end": 516.93
+  },
+  {
+   "word": "The",
+   "start": 517.31,
+   "end": 517.45
+  },
+  {
+   "word": "danger",
+   "start": 517.45,
+   "end": 517.73
+  },
+  {
+   "word": "of",
+   "start": 517.73,
+   "end": 518.05
+  },
+  {
+   "word": "a",
+   "start": 518.05,
+   "end": 518.15
+  },
+  {
+   "word": "miscalculation.",
+   "start": 518.15,
+   "end": 518.99
+  },
+  {
+   "word": "The",
+   "start": 519.53,
+   "end": 519.71
+  },
+  {
+   "word": "deeper",
+   "start": 519.71,
+   "end": 519.91
+  },
+  {
+   "word": "you",
+   "start": 519.91,
+   "end": 520.19
+  },
+  {
+   "word": "go,",
+   "start": 520.19,
+   "end": 520.49
+  },
+  {
+   "word": "the",
+   "start": 520.81,
+   "end": 520.99
+  },
+  {
+   "word": "darker",
+   "start": 520.99,
+   "end": 521.29
+  },
+  {
+   "word": "the",
+   "start": 521.29,
+   "end": 521.57
+  },
+  {
+   "word": "shadows",
+   "start": 521.57,
+   "end": 521.89
+  },
+  {
+   "word": "loom.",
+   "start": 521.89,
+   "end": 522.45
+  },
+  {
+   "word": "So",
+   "start": 522.91,
+   "end": 523.11
+  },
+  {
+   "word": "as",
+   "start": 523.11,
+   "end": 523.23
+  },
+  {
+   "word": "you",
+   "start": 523.23,
+   "end": 523.39
+  },
+  {
+   "word": "teleport",
+   "start": 523.39,
+   "end": 523.73
+  },
+  {
+   "word": "from",
+   "start": 523.73,
+   "end": 524.07
+  },
+  {
+   "word": "place",
+   "start": 524.07,
+   "end": 524.27
+  },
+  {
+   "word": "to",
+   "start": 524.27,
+   "end": 524.47
+  },
+  {
+   "word": "place,",
+   "start": 524.47,
+   "end": 524.79
+  },
+  {
+   "word": "always",
+   "start": 525.31,
+   "end": 525.57
+  },
+  {
+   "word": "the",
+   "start": 525.57,
+   "end": 525.83
+  },
+  {
+   "word": "star",
+   "start": 525.83,
+   "end": 526.25
+  },
+  {
+   "word": "of",
+   "start": 526.25,
+   "end": 526.47
+  },
+  {
+   "word": "the",
+   "start": 526.47,
+   "end": 526.65
+  },
+  {
+   "word": "show,",
+   "start": 526.65,
+   "end": 526.95
+  },
+  {
+   "word": "that",
+   "start": 527.55,
+   "end": 527.63
+  },
+  {
+   "word": "a",
+   "start": 527.63,
+   "end": 527.89
+  },
+  {
+   "word": "part",
+   "start": 527.89,
+   "end": 528.09
+  },
+  {
+   "word": "of",
+   "start": 528.09,
+   "end": 528.21
+  },
+  {
+   "word": "you",
+   "start": 528.21,
+   "end": 528.35
+  },
+  {
+   "word": "wonders",
+   "start": 528.35,
+   "end": 528.61
+  },
+  {
+   "word": "if",
+   "start": 528.61,
+   "end": 528.87
+  },
+  {
+   "word": "you're",
+   "start": 528.87,
+   "end": 529.03
+  },
+  {
+   "word": "doing",
+   "start": 529.03,
+   "end": 529.27
+  },
+  {
+   "word": "irreparable",
+   "start": 529.27,
+   "end": 529.71
+  },
+  {
+   "word": "harm.",
+   "start": 529.71,
+   "end": 530.11
+  },
+  {
+   "word": "This",
+   "start": 530.67,
+   "end": 530.99
+  },
+  {
+   "word": "dream",
+   "start": 530.99,
+   "end": 531.33
+  },
+  {
+   "word": "-turned",
+   "start": 531.33,
+   "end": 531.89
+  },
+  {
+   "word": "-dreamy",
+   "start": 531.89,
+   "end": 532.55
+  },
+  {
+   "word": "life",
+   "start": 532.55,
+   "end": 532.83
+  },
+  {
+   "word": "is",
+   "start": 532.83,
+   "end": 533.39
+  },
+  {
+   "word": "proving",
+   "start": 533.39,
+   "end": 533.71
+  },
+  {
+   "word": "expensive.",
+   "start": 533.71,
+   "end": 534.39
+  },
+  {
+   "word": "There's",
+   "start": 534.91,
+   "end": 535.27
+  },
+  {
+   "word": "no",
+   "start": 535.27,
+   "end": 535.41
+  },
+  {
+   "word": "telling.",
+   "start": 535.41,
+   "end": 535.75
+  },
+  {
+   "word": "Personally,",
+   "start": 536.17,
+   "end": 536.41
+  },
+  {
+   "word": "when",
+   "start": 536.69,
+   "end": 536.95
+  },
+  {
+   "word": "or",
+   "start": 536.95,
+   "end": 537.21
+  },
+  {
+   "word": "where",
+   "start": 537.21,
+   "end": 537.51
+  },
+  {
+   "word": "this",
+   "start": 537.51,
+   "end": 537.83
+  },
+  {
+   "word": "risky",
+   "start": 537.83,
+   "end": 538.17
+  },
+  {
+   "word": "dance",
+   "start": 538.17,
+   "end": 538.49
+  },
+  {
+   "word": "might",
+   "start": 538.49,
+   "end": 538.73
+  },
+  {
+   "word": "falter,",
+   "start": 538.73,
+   "end": 539.21
+  },
+  {
+   "word": "you",
+   "start": 539.73,
+   "end": 539.97
+  },
+  {
+   "word": "can't",
+   "start": 539.97,
+   "end": 540.35
+  },
+  {
+   "word": "shake",
+   "start": 540.35,
+   "end": 540.55
+  },
+  {
+   "word": "the",
+   "start": 540.55,
+   "end": 540.75
+  },
+  {
+   "word": "sense",
+   "start": 540.75,
+   "end": 540.99
+  },
+  {
+   "word": "that.",
+   "start": 540.99,
+   "end": 541.29
+  },
+  {
+   "word": "It's",
+   "start": 541.73,
+   "end": 541.83
+  },
+  {
+   "word": "spiraling",
+   "start": 541.83,
+   "end": 542.31
+  },
+  {
+   "word": "out",
+   "start": 542.31,
+   "end": 542.49
+  },
+  {
+   "word": "of",
+   "start": 542.49,
+   "end": 542.61
+  },
+  {
+   "word": "control.",
+   "start": 542.61,
+   "end": 542.99
+  },
+  {
+   "word": "It's",
+   "start": 543.39,
+   "end": 543.67
+  },
+  {
+   "word": "sunset",
+   "start": 543.67,
+   "end": 543.95
+  },
+  {
+   "word": "at",
+   "start": 543.95,
+   "end": 544.35
+  },
+  {
+   "word": "the",
+   "start": 544.35,
+   "end": 544.47
+  },
+  {
+   "word": "park,",
+   "start": 544.47,
+   "end": 544.73
+  },
+  {
+   "word": "and",
+   "start": 545.13,
+   "end": 545.29
+  },
+  {
+   "word": "things",
+   "start": 545.29,
+   "end": 545.55
+  },
+  {
+   "word": "have",
+   "start": 545.55,
+   "end": 545.75
+  },
+  {
+   "word": "shifted.",
+   "start": 545.75,
+   "end": 546.05
+  },
+  {
+   "word": "As",
+   "start": 546.59,
+   "end": 546.85
+  },
+  {
+   "word": "you",
+   "start": 546.85,
+   "end": 546.99
+  },
+  {
+   "word": "try",
+   "start": 546.99,
+   "end": 547.23
+  },
+  {
+   "word": "another",
+   "start": 547.23,
+   "end": 547.55
+  },
+  {
+   "word": "hop,",
+   "start": 547.55,
+   "end": 547.83
+  },
+  {
+   "word": "a",
+   "start": 548.21,
+   "end": 548.31
+  },
+  {
+   "word": "warning",
+   "start": 548.31,
+   "end": 548.59
+  },
+  {
+   "word": "pings",
+   "start": 548.59,
+   "end": 549.01
+  },
+  {
+   "word": "within",
+   "start": 549.01,
+   "end": 549.35
+  },
+  {
+   "word": "you.",
+   "start": 549.35,
+   "end": 549.63
+  },
+  {
+   "word": "Something's",
+   "start": 550.15,
+   "end": 550.59
+  },
+  {
+   "word": "off.",
+   "start": 550.59,
+   "end": 550.83
+  },
+  {
+   "word": "Your",
+   "start": 551.39,
+   "end": 551.53
+  },
+  {
+   "word": "body's",
+   "start": 551.53,
+   "end": 551.87
+  },
+  {
+   "word": "beginning",
+   "start": 551.87,
+   "end": 552.07
+  },
+  {
+   "word": "to",
+   "start": 552.07,
+   "end": 552.29
+  },
+  {
+   "word": "protest",
+   "start": 552.29,
+   "end": 552.63
+  },
+  {
+   "word": "in",
+   "start": 552.63,
+   "end": 552.95
+  },
+  {
+   "word": "ways",
+   "start": 552.95,
+   "end": 553.13
+  },
+  {
+   "word": "you",
+   "start": 553.13,
+   "end": 553.35
+  },
+  {
+   "word": "hadn't",
+   "start": 553.35,
+   "end": 553.63
+  },
+  {
+   "word": "imagined.",
+   "start": 553.63,
+   "end": 554.05
+  },
+  {
+   "word": "Molecular",
+   "start": 555.23,
+   "end": 555.23
+  },
+  {
+   "word": "instability,",
+   "start": 555.23,
+   "end": 555.85
+  },
+  {
+   "word": "they",
+   "start": 556.15,
+   "end": 556.25
+  },
+  {
+   "word": "warned.",
+   "start": 556.25,
+   "end": 556.51
+  },
+  {
+   "word": "It's",
+   "start": 557.09,
+   "end": 557.37
+  },
+  {
+   "word": "not",
+   "start": 557.37,
+   "end": 557.55
+  },
+  {
+   "word": "just",
+   "start": 557.55,
+   "end": 557.75
+  },
+  {
+   "word": "a",
+   "start": 557.75,
+   "end": 557.93
+  },
+  {
+   "word": "theory",
+   "start": 557.93,
+   "end": 558.15
+  },
+  {
+   "word": "anymore.",
+   "start": 558.15,
+   "end": 558.59
+  },
+  {
+   "word": "It's",
+   "start": 559.05,
+   "end": 559.29
+  },
+  {
+   "word": "your",
+   "start": 559.29,
+   "end": 559.45
+  },
+  {
+   "word": "terrifying",
+   "start": 559.45,
+   "end": 559.91
+  },
+  {
+   "word": "truth.",
+   "start": 559.91,
+   "end": 560.37
+  },
+  {
+   "word": "Teleporting",
+   "start": 561.11,
+   "end": 561.43
+  },
+  {
+   "word": "has",
+   "start": 561.43,
+   "end": 561.65
+  },
+  {
+   "word": "started",
+   "start": 561.65,
+   "end": 561.87
+  },
+  {
+   "word": "to",
+   "start": 561.87,
+   "end": 562.09
+  },
+  {
+   "word": "scramble",
+   "start": 562.09,
+   "end": 562.37
+  },
+  {
+   "word": "your",
+   "start": 562.37,
+   "end": 562.75
+  },
+  {
+   "word": "identity",
+   "start": 562.75,
+   "end": 563.45
+  },
+  {
+   "word": "at",
+   "start": 563.45,
+   "end": 563.95
+  },
+  {
+   "word": "the",
+   "start": 563.95,
+   "end": 564.11
+  },
+  {
+   "word": "atomic",
+   "start": 564.11,
+   "end": 564.43
+  },
+  {
+   "word": "level.",
+   "start": 564.43,
+   "end": 564.77
+  },
+  {
+   "word": "Those",
+   "start": 564.91,
+   "end": 565.53
+  },
+  {
+   "word": "little",
+   "start": 565.53,
+   "end": 565.79
+  },
+  {
+   "word": "atoms",
+   "start": 565.79,
+   "end": 566.11
+  },
+  {
+   "word": "have",
+   "start": 566.11,
+   "end": 566.43
+  },
+  {
+   "word": "rules,",
+   "start": 566.43,
+   "end": 566.77
+  },
+  {
+   "word": "and",
+   "start": 567.29,
+   "end": 567.43
+  },
+  {
+   "word": "you've",
+   "start": 567.43,
+   "end": 567.63
+  },
+  {
+   "word": "been",
+   "start": 567.63,
+   "end": 567.75
+  },
+  {
+   "word": "breaking",
+   "start": 567.75,
+   "end": 567.99
+  },
+  {
+   "word": "them.",
+   "start": 567.99,
+   "end": 568.41
+  },
+  {
+   "word": "Suddenly,",
+   "start": 568.99,
+   "end": 569.17
+  },
+  {
+   "word": "it",
+   "start": 569.41,
+   "end": 569.53
+  },
+  {
+   "word": "feels",
+   "start": 569.53,
+   "end": 569.75
+  },
+  {
+   "word": "like",
+   "start": 569.75,
+   "end": 570.01
+  },
+  {
+   "word": "you're",
+   "start": 570.01,
+   "end": 570.17
+  },
+  {
+   "word": "losing",
+   "start": 570.17,
+   "end": 570.43
+  },
+  {
+   "word": "touch.",
+   "start": 570.43,
+   "end": 570.79
+  },
+  {
+   "word": "Not",
+   "start": 571.45,
+   "end": 571.59
+  },
+  {
+   "word": "just",
+   "start": 571.59,
+   "end": 571.81
+  },
+  {
+   "word": "with",
+   "start": 571.81,
+   "end": 572.03
+  },
+  {
+   "word": "reality,",
+   "start": 572.03,
+   "end": 572.37
+  },
+  {
+   "word": "but",
+   "start": 572.95,
+   "end": 573.15
+  },
+  {
+   "word": "with",
+   "start": 573.15,
+   "end": 573.33
+  },
+  {
+   "word": "yourself.",
+   "start": 573.33,
+   "end": 573.73
+  },
+  {
+   "word": "Every",
+   "start": 574.25,
+   "end": 574.45
+  },
+  {
+   "word": "teleport",
+   "start": 574.45,
+   "end": 574.91
+  },
+  {
+   "word": "feels",
+   "start": 574.91,
+   "end": 575.29
+  },
+  {
+   "word": "like",
+   "start": 575.29,
+   "end": 575.57
+  },
+  {
+   "word": "a",
+   "start": 575.57,
+   "end": 575.69
+  },
+  {
+   "word": "new",
+   "start": 575.69,
+   "end": 575.87
+  },
+  {
+   "word": "threat",
+   "start": 575.87,
+   "end": 576.21
+  },
+  {
+   "word": "to",
+   "start": 576.21,
+   "end": 576.77
+  },
+  {
+   "word": "who",
+   "start": 576.77,
+   "end": 576.97
+  },
+  {
+   "word": "you",
+   "start": 576.97,
+   "end": 577.13
+  },
+  {
+   "word": "are.",
+   "start": 577.13,
+   "end": 577.59
+  },
+  {
+   "word": "Not",
+   "start": 578.05,
+   "end": 578.19
+  },
+  {
+   "word": "only",
+   "start": 578.19,
+   "end": 578.49
+  },
+  {
+   "word": "physically,",
+   "start": 578.49,
+   "end": 578.83
+  },
+  {
+   "word": "but",
+   "start": 579.19,
+   "end": 579.25
+  },
+  {
+   "word": "mentally.",
+   "start": 579.25,
+   "end": 579.65
+  },
+  {
+   "word": "When",
+   "start": 580.83,
+   "end": 580.97
+  },
+  {
+   "word": "you",
+   "start": 580.97,
+   "end": 581.11
+  },
+  {
+   "word": "look",
+   "start": 581.11,
+   "end": 581.27
+  },
+  {
+   "word": "in",
+   "start": 581.27,
+   "end": 581.39
+  },
+  {
+   "word": "the",
+   "start": 581.39,
+   "end": 581.49
+  },
+  {
+   "word": "mirror,",
+   "start": 581.49,
+   "end": 581.69
+  },
+  {
+   "word": "your",
+   "start": 581.93,
+   "end": 582.03
+  },
+  {
+   "word": "reflection",
+   "start": 582.03,
+   "end": 582.43
+  },
+  {
+   "word": "doesn't",
+   "start": 582.43,
+   "end": 582.91
+  },
+  {
+   "word": "seem",
+   "start": 582.91,
+   "end": 583.07
+  },
+  {
+   "word": "to",
+   "start": 583.07,
+   "end": 583.23
+  },
+  {
+   "word": "reflect",
+   "start": 583.23,
+   "end": 583.51
+  },
+  {
+   "word": "your",
+   "start": 583.51,
+   "end": 583.71
+  },
+  {
+   "word": "identity",
+   "start": 583.71,
+   "end": 584.11
+  },
+  {
+   "word": "anymore.",
+   "start": 584.11,
+   "end": 584.59
+  },
+  {
+   "word": "The",
+   "start": 585.17,
+   "end": 585.37
+  },
+  {
+   "word": "science",
+   "start": 585.37,
+   "end": 585.79
+  },
+  {
+   "word": "-fiction",
+   "start": 585.79,
+   "end": 586.35
+  },
+  {
+   "word": "terror",
+   "start": 586.35,
+   "end": 586.75
+  },
+  {
+   "word": "of",
+   "start": 586.75,
+   "end": 587.01
+  },
+  {
+   "word": "molecular",
+   "start": 587.01,
+   "end": 587.43
+  },
+  {
+   "word": "disassembly",
+   "start": 587.43,
+   "end": 588.17
+  },
+  {
+   "word": "isn't",
+   "start": 588.17,
+   "end": 588.69
+  },
+  {
+   "word": "fiction",
+   "start": 588.69,
+   "end": 588.97
+  },
+  {
+   "word": "for",
+   "start": 588.97,
+   "end": 589.23
+  },
+  {
+   "word": "you.",
+   "start": 589.23,
+   "end": 589.49
+  },
+  {
+   "word": "With",
+   "start": 589.99,
+   "end": 590.19
+  },
+  {
+   "word": "every",
+   "start": 590.19,
+   "end": 590.43
+  },
+  {
+   "word": "jump,",
+   "start": 590.43,
+   "end": 590.73
+  },
+  {
+   "word": "your",
+   "start": 591.23,
+   "end": 591.35
+  },
+  {
+   "word": "presence",
+   "start": 591.35,
+   "end": 591.63
+  },
+  {
+   "word": "seems",
+   "start": 591.63,
+   "end": 591.93
+  },
+  {
+   "word": "to",
+   "start": 591.93,
+   "end": 592.17
+  },
+  {
+   "word": "shade,",
+   "start": 592.17,
+   "end": 592.45
+  },
+  {
+   "word": "morph,",
+   "start": 592.93,
+   "end": 592.99
+  },
+  {
+   "word": "subtly",
+   "start": 593.39,
+   "end": 593.55
+  },
+  {
+   "word": "twisted.",
+   "start": 593.55,
+   "end": 593.91
+  },
+  {
+   "word": "A",
+   "start": 594.41,
+   "end": 594.71
+  },
+  {
+   "word": "body",
+   "start": 594.71,
+   "end": 595.07
+  },
+  {
+   "word": "shifting",
+   "start": 595.07,
+   "end": 595.51
+  },
+  {
+   "word": "shades",
+   "start": 595.51,
+   "end": 595.95
+  },
+  {
+   "word": "with",
+   "start": 595.95,
+   "end": 596.23
+  },
+  {
+   "word": "each",
+   "start": 596.23,
+   "end": 596.47
+  },
+  {
+   "word": "hop.",
+   "start": 596.47,
+   "end": 596.77
+  },
+  {
+   "word": "A",
+   "start": 597.15,
+   "end": 597.25
+  },
+  {
+   "word": "self",
+   "start": 597.25,
+   "end": 597.53
+  },
+  {
+   "word": "-unstitched",
+   "start": 597.53,
+   "end": 598.21
+  },
+  {
+   "word": "sometimes",
+   "start": 598.21,
+   "end": 598.89
+  },
+  {
+   "word": "reassembles",
+   "start": 598.89,
+   "end": 599.57
+  },
+  {
+   "word": "differently.",
+   "start": 599.57,
+   "end": 599.99
+  },
+  {
+   "word": "They",
+   "start": 600.41,
+   "end": 600.53
+  },
+  {
+   "word": "said",
+   "start": 600.53,
+   "end": 600.71
+  },
+  {
+   "word": "you",
+   "start": 600.71,
+   "end": 600.87
+  },
+  {
+   "word": "could",
+   "start": 600.87,
+   "end": 601.05
+  },
+  {
+   "word": "risk",
+   "start": 601.05,
+   "end": 601.33
+  },
+  {
+   "word": "erasing",
+   "start": 601.33,
+   "end": 601.77
+  },
+  {
+   "word": "yourself.",
+   "start": 601.77,
+   "end": 602.25
+  },
+  {
+   "word": "For",
+   "start": 603.67,
+   "end": 603.81
+  },
+  {
+   "word": "lack",
+   "start": 603.81,
+   "end": 604.03
+  },
+  {
+   "word": "of",
+   "start": 604.03,
+   "end": 604.21
+  },
+  {
+   "word": "a",
+   "start": 604.21,
+   "end": 604.33
+  },
+  {
+   "word": "better",
+   "start": 604.33,
+   "end": 604.51
+  },
+  {
+   "word": "word,",
+   "start": 604.51,
+   "end": 604.89
+  },
+  {
+   "word": "from",
+   "start": 605.17,
+   "end": 605.35
+  },
+  {
+   "word": "existence.",
+   "start": 605.35,
+   "end": 605.81
+  },
+  {
+   "word": "The",
+   "start": 606.69,
+   "end": 606.81
+  },
+  {
+   "word": "chilling",
+   "start": 606.81,
+   "end": 607.17
+  },
+  {
+   "word": "what",
+   "start": 607.17,
+   "end": 607.63
+  },
+  {
+   "word": "-if",
+   "start": 607.63,
+   "end": 607.97
+  },
+  {
+   "word": "surface.",
+   "start": 607.97,
+   "end": 608.61
+  },
+  {
+   "word": "Will",
+   "start": 609.13,
+   "end": 609.25
+  },
+  {
+   "word": "you",
+   "start": 609.25,
+   "end": 609.37
+  },
+  {
+   "word": "vanish",
+   "start": 609.37,
+   "end": 609.63
+  },
+  {
+   "word": "with",
+   "start": 609.63,
+   "end": 609.83
+  },
+  {
+   "word": "a",
+   "start": 609.83,
+   "end": 609.95
+  },
+  {
+   "word": "misstep?",
+   "start": 609.95,
+   "end": 610.31
+  },
+  {
+   "word": "What",
+   "start": 610.65,
+   "end": 610.87
+  },
+  {
+   "word": "makes",
+   "start": 610.87,
+   "end": 611.11
+  },
+  {
+   "word": "you,",
+   "start": 611.11,
+   "end": 611.53
+  },
+  {
+   "word": "you?",
+   "start": 611.83,
+   "end": 612.09
+  },
+  {
+   "word": "As",
+   "start": 612.25,
+   "end": 612.59
+  },
+  {
+   "word": "these",
+   "start": 612.59,
+   "end": 612.85
+  },
+  {
+   "word": "dark",
+   "start": 612.85,
+   "end": 613.13
+  },
+  {
+   "word": "questions",
+   "start": 613.13,
+   "end": 613.61
+  },
+  {
+   "word": "loom,",
+   "start": 613.61,
+   "end": 614.13
+  },
+  {
+   "word": "teleporting",
+   "start": 614.47,
+   "end": 614.91
+  },
+  {
+   "word": "seems",
+   "start": 614.91,
+   "end": 615.21
+  },
+  {
+   "word": "less",
+   "start": 615.21,
+   "end": 615.51
+  },
+  {
+   "word": "like",
+   "start": 615.51,
+   "end": 615.81
+  },
+  {
+   "word": "flying,",
+   "start": 615.81,
+   "end": 616.25
+  },
+  {
+   "word": "and",
+   "start": 616.69,
+   "end": 616.85
+  },
+  {
+   "word": "more",
+   "start": 616.85,
+   "end": 617.01
+  },
+  {
+   "word": "like",
+   "start": 617.01,
+   "end": 617.21
+  },
+  {
+   "word": "falling.",
+   "start": 617.21,
+   "end": 617.59
+  },
+  {
+   "word": "When",
+   "start": 618.03,
+   "end": 618.23
+  },
+  {
+   "word": "all",
+   "start": 618.23,
+   "end": 618.47
+  },
+  {
+   "word": "is",
+   "start": 618.47,
+   "end": 618.69
+  },
+  {
+   "word": "said",
+   "start": 618.69,
+   "end": 618.91
+  },
+  {
+   "word": "and",
+   "start": 618.91,
+   "end": 619.09
+  },
+  {
+   "word": "done,",
+   "start": 619.09,
+   "end": 619.43
+  },
+  {
+   "word": "despite",
+   "start": 619.73,
+   "end": 620.03
+  },
+  {
+   "word": "the",
+   "start": 620.03,
+   "end": 620.25
+  },
+  {
+   "word": "fame,",
+   "start": 620.25,
+   "end": 620.53
+  },
+  {
+   "word": "and",
+   "start": 620.99,
+   "end": 621.13
+  },
+  {
+   "word": "travel.",
+   "start": 621.13,
+   "end": 621.49
+  },
+  {
+   "word": "That",
+   "start": 622.01,
+   "end": 622.31
+  },
+  {
+   "word": "slumbering",
+   "start": 622.31,
+   "end": 622.95
+  },
+  {
+   "word": "terror",
+   "start": 622.95,
+   "end": 623.19
+  },
+  {
+   "word": "grows",
+   "start": 623.19,
+   "end": 623.53
+  },
+  {
+   "word": "into",
+   "start": 623.53,
+   "end": 623.79
+  },
+  {
+   "word": "something",
+   "start": 623.79,
+   "end": 624.11
+  },
+  {
+   "word": "primal.",
+   "start": 624.11,
+   "end": 624.49
+  },
+  {
+   "word": "It's",
+   "start": 625.23,
+   "end": 625.33
+  },
+  {
+   "word": "time",
+   "start": 625.33,
+   "end": 625.51
+  },
+  {
+   "word": "to",
+   "start": 625.51,
+   "end": 625.69
+  },
+  {
+   "word": "weigh",
+   "start": 625.69,
+   "end": 625.81
+  },
+  {
+   "word": "the",
+   "start": 625.81,
+   "end": 625.95
+  },
+  {
+   "word": "risks.",
+   "start": 625.95,
+   "end": 626.27
+  },
+  {
+   "word": "Is",
+   "start": 627.13,
+   "end": 627.15
+  },
+  {
+   "word": "a",
+   "start": 627.15,
+   "end": 627.27
+  },
+  {
+   "word": "life",
+   "start": 627.27,
+   "end": 627.47
+  },
+  {
+   "word": "of",
+   "start": 627.47,
+   "end": 627.75
+  },
+  {
+   "word": "constant",
+   "start": 627.75,
+   "end": 628.11
+  },
+  {
+   "word": "teleportation",
+   "start": 628.11,
+   "end": 628.79
+  },
+  {
+   "word": "worth",
+   "start": 628.79,
+   "end": 629.41
+  },
+  {
+   "word": "ceasing",
+   "start": 629.41,
+   "end": 629.83
+  },
+  {
+   "word": "to",
+   "start": 629.83,
+   "end": 630.03
+  },
+  {
+   "word": "exist?",
+   "start": 630.03,
+   "end": 630.39
+  },
+  {
+   "word": "Would",
+   "start": 631.11,
+   "end": 631.27
+  },
+  {
+   "word": "you",
+   "start": 631.27,
+   "end": 631.45
+  },
+  {
+   "word": "continue",
+   "start": 631.45,
+   "end": 631.85
+  },
+  {
+   "word": "this",
+   "start": 631.85,
+   "end": 632.23
+  },
+  {
+   "word": "power",
+   "start": 632.23,
+   "end": 632.55
+  },
+  {
+   "word": "gambit",
+   "start": 632.55,
+   "end": 632.99
+  },
+  {
+   "word": "knowing",
+   "start": 632.99,
+   "end": 633.33
+  },
+  {
+   "word": "how",
+   "start": 633.33,
+   "end": 633.95
+  },
+  {
+   "word": "it",
+   "start": 633.95,
+   "end": 634.09
+  },
+  {
+   "word": "could",
+   "start": 634.09,
+   "end": 634.23
+  },
+  {
+   "word": "tilt",
+   "start": 634.23,
+   "end": 634.45
+  },
+  {
+   "word": "the",
+   "start": 634.45,
+   "end": 634.61
+  },
+  {
+   "word": "scales?",
+   "start": 634.61,
+   "end": 634.91
+  },
+  {
+   "word": "Each",
+   "start": 635.63,
+   "end": 635.81
+  },
+  {
+   "word": "decision",
+   "start": 635.81,
+   "end": 636.17
+  },
+  {
+   "word": "weighs",
+   "start": 636.17,
+   "end": 636.41
+  },
+  {
+   "word": "heavier",
+   "start": 636.41,
+   "end": 636.75
+  },
+  {
+   "word": "now,",
+   "start": 636.75,
+   "end": 637.11
+  },
+  {
+   "word": "shadows",
+   "start": 637.49,
+   "end": 637.73
+  },
+  {
+   "word": "lengthen",
+   "start": 637.73,
+   "end": 638.15
+  },
+  {
+   "word": "with",
+   "start": 638.15,
+   "end": 638.33
+  },
+  {
+   "word": "uncertainty.",
+   "start": 638.33,
+   "end": 638.89
+  },
+  {
+   "word": "As",
+   "start": 639.57,
+   "end": 639.71
+  },
+  {
+   "word": "much",
+   "start": 639.71,
+   "end": 639.87
+  },
+  {
+   "word": "as",
+   "start": 639.87,
+   "end": 640.07
+  },
+  {
+   "word": "you've",
+   "start": 640.07,
+   "end": 640.31
+  },
+  {
+   "word": "lived",
+   "start": 640.31,
+   "end": 640.55
+  },
+  {
+   "word": "a",
+   "start": 640.55,
+   "end": 640.73
+  },
+  {
+   "word": "thousand",
+   "start": 640.73,
+   "end": 641.07
+  },
+  {
+   "word": "dreams,",
+   "start": 641.07,
+   "end": 641.55
+  },
+  {
+   "word": "these",
+   "start": 642.11,
+   "end": 642.37
+  },
+  {
+   "word": "nightmares",
+   "start": 642.37,
+   "end": 642.79
+  },
+  {
+   "word": "sparkle",
+   "start": 642.79,
+   "end": 643.41
+  },
+  {
+   "word": "with",
+   "start": 643.41,
+   "end": 643.57
+  },
+  {
+   "word": "gravity.",
+   "start": 643.57,
+   "end": 643.97
+  },
+  {
+   "word": "Has,",
+   "start": 644.63,
+   "end": 644.77
+  },
+  {
+   "word": "could",
+   "start": 645.21,
+   "end": 645.43
+  },
+  {
+   "word": "you",
+   "start": 645.43,
+   "end": 645.59
+  },
+  {
+   "word": "halt",
+   "start": 645.59,
+   "end": 645.81
+  },
+  {
+   "word": "this",
+   "start": 645.81,
+   "end": 646.05
+  },
+  {
+   "word": "ride",
+   "start": 646.05,
+   "end": 646.35
+  },
+  {
+   "word": "before",
+   "start": 646.35,
+   "end": 646.67
+  },
+  {
+   "word": "your",
+   "start": 646.67,
+   "end": 646.87
+  },
+  {
+   "word": "very",
+   "start": 646.87,
+   "end": 647.13
+  },
+  {
+   "word": "self",
+   "start": 647.13,
+   "end": 647.45
+  },
+  {
+   "word": "unravels?",
+   "start": 647.45,
+   "end": 648.21
+  },
+  {
+   "word": "You're",
+   "start": 648.65,
+   "end": 648.95
+  },
+  {
+   "word": "back",
+   "start": 648.95,
+   "end": 649.13
+  },
+  {
+   "word": "at",
+   "start": 649.13,
+   "end": 649.29
+  },
+  {
+   "word": "the",
+   "start": 649.29,
+   "end": 649.39
+  },
+  {
+   "word": "park.",
+   "start": 649.39,
+   "end": 649.69
+  },
+  {
+   "word": "The",
+   "start": 650.45,
+   "end": 650.71
+  },
+  {
+   "word": "sun",
+   "start": 650.71,
+   "end": 650.97
+  },
+  {
+   "word": "setting",
+   "start": 650.97,
+   "end": 651.25
+  },
+  {
+   "word": "softly",
+   "start": 651.25,
+   "end": 651.67
+  },
+  {
+   "word": "as",
+   "start": 651.67,
+   "end": 651.93
+  },
+  {
+   "word": "you,",
+   "start": 651.93,
+   "end": 652.17
+  },
+  {
+   "word": "take",
+   "start": 652.55,
+   "end": 652.73
+  },
+  {
+   "word": "a",
+   "start": 652.73,
+   "end": 652.87
+  },
+  {
+   "word": "moment",
+   "start": 652.87,
+   "end": 653.01
+  },
+  {
+   "word": "to",
+   "start": 653.01,
+   "end": 653.23
+  },
+  {
+   "word": "reflect.",
+   "start": 653.23,
+   "end": 653.57
+  },
+  {
+   "word": "Wiser",
+   "start": 654.75,
+   "end": 655.23
+  },
+  {
+   "word": "now,",
+   "start": 655.23,
+   "end": 655.55
+  },
+  {
+   "word": "you",
+   "start": 655.99,
+   "end": 656.11
+  },
+  {
+   "word": "can",
+   "start": 656.11,
+   "end": 656.27
+  },
+  {
+   "word": "feel",
+   "start": 656.27,
+   "end": 656.45
+  },
+  {
+   "word": "the",
+   "start": 656.45,
+   "end": 656.63
+  },
+  {
+   "word": "weight",
+   "start": 656.63,
+   "end": 656.81
+  },
+  {
+   "word": "of",
+   "start": 656.81,
+   "end": 656.99
+  },
+  {
+   "word": "your",
+   "start": 656.99,
+   "end": 657.13
+  },
+  {
+   "word": "extraordinary",
+   "start": 657.13,
+   "end": 657.63
+  },
+  {
+   "word": "gift.",
+   "start": 657.63,
+   "end": 658.09
+  },
+  {
+   "word": "Teleportation,",
+   "start": 658.89,
+   "end": 659.41
+  },
+  {
+   "word": "once",
+   "start": 659.93,
+   "end": 660.21
+  },
+  {
+   "word": "the",
+   "start": 660.21,
+   "end": 660.43
+  },
+  {
+   "word": "thrill",
+   "start": 660.43,
+   "end": 660.61
+  },
+  {
+   "word": "of",
+   "start": 660.61,
+   "end": 660.79
+  },
+  {
+   "word": "your",
+   "start": 660.79,
+   "end": 660.93
+  },
+  {
+   "word": "life,",
+   "start": 660.93,
+   "end": 661.25
+  },
+  {
+   "word": "has",
+   "start": 661.83,
+   "end": 662.45
+  },
+  {
+   "word": "become",
+   "start": 662.45,
+   "end": 662.79
+  },
+  {
+   "word": "a",
+   "start": 662.79,
+   "end": 662.95
+  },
+  {
+   "word": "perilous",
+   "start": 662.95,
+   "end": 663.35
+  },
+  {
+   "word": "gamble.",
+   "start": 663.35,
+   "end": 663.77
+  },
+  {
+   "word": "Every",
+   "start": 664.37,
+   "end": 664.63
+  },
+  {
+   "word": "journey",
+   "start": 664.63,
+   "end": 664.91
+  },
+  {
+   "word": "has",
+   "start": 664.91,
+   "end": 665.21
+  },
+  {
+   "word": "taken",
+   "start": 665.21,
+   "end": 665.45
+  },
+  {
+   "word": "its",
+   "start": 665.45,
+   "end": 665.67
+  },
+  {
+   "word": "toll,",
+   "start": 665.67,
+   "end": 665.99
+  },
+  {
+   "word": "leaving",
+   "start": 666.35,
+   "end": 666.59
+  },
+  {
+   "word": "you",
+   "start": 666.59,
+   "end": 666.87
+  },
+  {
+   "word": "a",
+   "start": 666.87,
+   "end": 666.99
+  },
+  {
+   "word": "little",
+   "start": 666.99,
+   "end": 667.13
+  },
+  {
+   "word": "more",
+   "start": 667.13,
+   "end": 667.37
+  },
+  {
+   "word": "tired",
+   "start": 667.37,
+   "end": 667.71
+  },
+  {
+   "word": "and",
+   "start": 667.71,
+   "end": 667.89
+  },
+  {
+   "word": "uncertain.",
+   "start": 667.89,
+   "end": 668.27
+  },
+  {
+   "word": "Still,",
+   "start": 669.09,
+   "end": 669.31
+  },
+  {
+   "word": "the",
+   "start": 669.93,
+   "end": 670.03
+  },
+  {
+   "word": "allure",
+   "start": 670.03,
+   "end": 670.27
+  },
+  {
+   "word": "of",
+   "start": 670.27,
+   "end": 670.49
+  },
+  {
+   "word": "instant",
+   "start": 670.49,
+   "end": 670.83
+  },
+  {
+   "word": "travel",
+   "start": 670.83,
+   "end": 671.27
+  },
+  {
+   "word": "lingers,",
+   "start": 671.27,
+   "end": 671.81
+  },
+  {
+   "word": "tugging",
+   "start": 672.27,
+   "end": 672.55
+  },
+  {
+   "word": "at",
+   "start": 672.55,
+   "end": 672.65
+  },
+  {
+   "word": "the",
+   "start": 672.65,
+   "end": 672.79
+  },
+  {
+   "word": "corners",
+   "start": 672.79,
+   "end": 673.03
+  },
+  {
+   "word": "of",
+   "start": 673.03,
+   "end": 673.27
+  },
+  {
+   "word": "your",
+   "start": 673.27,
+   "end": 673.39
+  },
+  {
+   "word": "mind.",
+   "start": 673.39,
+   "end": 673.71
+  },
+  {
+   "word": "But",
+   "start": 674.23,
+   "end": 674.43
+  },
+  {
+   "word": "as",
+   "start": 674.43,
+   "end": 674.55
+  },
+  {
+   "word": "you",
+   "start": 674.55,
+   "end": 674.71
+  },
+  {
+   "word": "sit",
+   "start": 674.71,
+   "end": 674.91
+  },
+  {
+   "word": "on",
+   "start": 674.91,
+   "end": 675.11
+  },
+  {
+   "word": "the",
+   "start": 675.11,
+   "end": 675.21
+  },
+  {
+   "word": "park",
+   "start": 675.21,
+   "end": 675.37
+  },
+  {
+   "word": "bench,",
+   "start": 675.37,
+   "end": 675.73
+  },
+  {
+   "word": "you",
+   "start": 676.23,
+   "end": 676.37
+  },
+  {
+   "word": "ponder",
+   "start": 676.37,
+   "end": 676.59
+  },
+  {
+   "word": "the",
+   "start": 676.59,
+   "end": 676.85
+  },
+  {
+   "word": "high",
+   "start": 676.85,
+   "end": 677.03
+  },
+  {
+   "word": "stakes",
+   "start": 677.03,
+   "end": 677.39
+  },
+  {
+   "word": "tied",
+   "start": 677.39,
+   "end": 677.69
+  },
+  {
+   "word": "to",
+   "start": 677.69,
+   "end": 677.93
+  },
+  {
+   "word": "your",
+   "start": 677.93,
+   "end": 678.07
+  },
+  {
+   "word": "ability.",
+   "start": 678.07,
+   "end": 678.45
+  },
+  {
+   "word": "Sure,",
+   "start": 679.09,
+   "end": 679.41
+  },
+  {
+   "word": "being",
+   "start": 679.73,
+   "end": 679.87
+  },
+  {
+   "word": "everywhere",
+   "start": 679.87,
+   "end": 680.31
+  },
+  {
+   "word": "at",
+   "start": 680.31,
+   "end": 680.49
+  },
+  {
+   "word": "once,",
+   "start": 680.49,
+   "end": 680.81
+  },
+  {
+   "word": "with",
+   "start": 681.07,
+   "end": 681.23
+  },
+  {
+   "word": "the",
+   "start": 681.23,
+   "end": 681.41
+  },
+  {
+   "word": "snap",
+   "start": 681.41,
+   "end": 681.67
+  },
+  {
+   "word": "of",
+   "start": 681.67,
+   "end": 681.89
+  },
+  {
+   "word": "your",
+   "start": 681.89,
+   "end": 682.03
+  },
+  {
+   "word": "fingers,",
+   "start": 682.03,
+   "end": 682.33
+  },
+  {
+   "word": "sounds",
+   "start": 683.01,
+   "end": 683.37
+  },
+  {
+   "word": "amazing.",
+   "start": 683.37,
+   "end": 683.89
+  },
+  {
+   "word": "Yet",
+   "start": 684.51,
+   "end": 684.67
+  },
+  {
+   "word": "you",
+   "start": 684.67,
+   "end": 684.85
+  },
+  {
+   "word": "faced",
+   "start": 684.85,
+   "end": 685.13
+  },
+  {
+   "word": "firsthand",
+   "start": 685.13,
+   "end": 685.75
+  },
+  {
+   "word": "the",
+   "start": 685.75,
+   "end": 686.05
+  },
+  {
+   "word": "spooky",
+   "start": 686.05,
+   "end": 686.39
+  },
+  {
+   "word": "consequence",
+   "start": 686.39,
+   "end": 686.87
+  },
+  {
+   "word": "of",
+   "start": 686.87,
+   "end": 687.11
+  },
+  {
+   "word": "every.",
+   "start": 687.11,
+   "end": 687.37
+  },
+  {
+   "word": "Jump",
+   "start": 687.75,
+   "end": 687.99
+  },
+  {
+   "word": "running",
+   "start": 687.99,
+   "end": 688.23
+  },
+  {
+   "word": "the",
+   "start": 688.23,
+   "end": 688.47
+  },
+  {
+   "word": "risk",
+   "start": 688.47,
+   "end": 688.69
+  },
+  {
+   "word": "of",
+   "start": 688.69,
+   "end": 688.89
+  },
+  {
+   "word": "unbalancing",
+   "start": 688.89,
+   "end": 689.43
+  },
+  {
+   "word": "your",
+   "start": 689.43,
+   "end": 689.73
+  },
+  {
+   "word": "atoms.",
+   "start": 689.73,
+   "end": 689.97
+  },
+  {
+   "word": "The",
+   "start": 690.43,
+   "end": 690.67
+  },
+  {
+   "word": "excitement",
+   "start": 690.67,
+   "end": 690.99
+  },
+  {
+   "word": "of",
+   "start": 690.99,
+   "end": 691.23
+  },
+  {
+   "word": "teleporting",
+   "start": 691.23,
+   "end": 691.67
+  },
+  {
+   "word": "comes",
+   "start": 691.67,
+   "end": 691.99
+  },
+  {
+   "word": "clouded",
+   "start": 691.99,
+   "end": 692.49
+  },
+  {
+   "word": "with",
+   "start": 692.49,
+   "end": 692.63
+  },
+  {
+   "word": "the",
+   "start": 692.63,
+   "end": 692.79
+  },
+  {
+   "word": "dark.",
+   "start": 692.79,
+   "end": 692.97
+  },
+  {
+   "word": "Shadow",
+   "start": 693.71,
+   "end": 693.71
+  },
+  {
+   "word": "of",
+   "start": 693.71,
+   "end": 693.93
+  },
+  {
+   "word": "molecular",
+   "start": 693.93,
+   "end": 694.27
+  },
+  {
+   "word": "chaos,",
+   "start": 694.27,
+   "end": 694.83
+  },
+  {
+   "word": "your",
+   "start": 695.15,
+   "end": 695.25
+  },
+  {
+   "word": "own",
+   "start": 695.25,
+   "end": 695.43
+  },
+  {
+   "word": "atoms",
+   "start": 695.43,
+   "end": 695.67
+  },
+  {
+   "word": "at",
+   "start": 695.67,
+   "end": 695.85
+  },
+  {
+   "word": "stake.",
+   "start": 695.85,
+   "end": 696.15
+  },
+  {
+   "word": "In",
+   "start": 696.73,
+   "end": 696.89
+  },
+  {
+   "word": "the",
+   "start": 696.89,
+   "end": 697.01
+  },
+  {
+   "word": "end,",
+   "start": 697.01,
+   "end": 697.33
+  },
+  {
+   "word": "it's",
+   "start": 697.57,
+   "end": 697.77
+  },
+  {
+   "word": "less",
+   "start": 697.77,
+   "end": 697.95
+  },
+  {
+   "word": "a",
+   "start": 697.95,
+   "end": 698.13
+  },
+  {
+   "word": "gift",
+   "start": 698.13,
+   "end": 698.35
+  },
+  {
+   "word": "and",
+   "start": 698.35,
+   "end": 698.95
+  },
+  {
+   "word": "more",
+   "start": 698.95,
+   "end": 699.15
+  },
+  {
+   "word": "of",
+   "start": 699.15,
+   "end": 699.27
+  },
+  {
+   "word": "a",
+   "start": 699.27,
+   "end": 699.33
+  },
+  {
+   "word": "curse,",
+   "start": 699.33,
+   "end": 699.63
+  },
+  {
+   "word": "with",
+   "start": 699.89,
+   "end": 700.23
+  },
+  {
+   "word": "a",
+   "start": 700.23,
+   "end": 700.41
+  },
+  {
+   "word": "chilling",
+   "start": 700.41,
+   "end": 700.59
+  },
+  {
+   "word": "reminder",
+   "start": 700.59,
+   "end": 701.13
+  },
+  {
+   "word": "hidden",
+   "start": 701.13,
+   "end": 701.41
+  },
+  {
+   "word": "in",
+   "start": 701.41,
+   "end": 701.85
+  },
+  {
+   "word": "its",
+   "start": 701.85,
+   "end": 702.03
+  },
+  {
+   "word": "shimmering",
+   "start": 702.03,
+   "end": 702.53
+  },
+  {
+   "word": "promise.",
+   "start": 702.53,
+   "end": 702.79
+  },
+  {
+   "word": "So,",
+   "start": 703.63,
+   "end": 703.95
+  },
+  {
+   "word": "knowing",
+   "start": 704.31,
+   "end": 704.47
+  },
+  {
+   "word": "all",
+   "start": 704.47,
+   "end": 704.71
+  },
+  {
+   "word": "this,",
+   "start": 704.71,
+   "end": 704.97
+  },
+  {
+   "word": "would",
+   "start": 705.41,
+   "end": 705.59
+  },
+  {
+   "word": "you",
+   "start": 705.59,
+   "end": 705.69
+  },
+  {
+   "word": "ever",
+   "start": 705.69,
+   "end": 705.91
+  },
+  {
+   "word": "risk",
+   "start": 705.91,
+   "end": 706.17
+  },
+  {
+   "word": "it",
+   "start": 706.17,
+   "end": 706.33
+  },
+  {
+   "word": "again?",
+   "start": 706.33,
+   "end": 706.59
+  },
+  {
+   "word": "What",
+   "start": 706.91,
+   "end": 707.17
+  },
+  {
+   "word": "would",
+   "start": 707.17,
+   "end": 707.33
+  },
+  {
+   "word": "you",
+   "start": 707.33,
+   "end": 707.45
+  },
+  {
+   "word": "do?",
+   "start": 707.45,
+   "end": 707.71
+  }
+ ]
+}

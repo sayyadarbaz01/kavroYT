@@ -1,0 +1,60 @@
+IF OVERDRIVE - GEMINI PROMPTS (Profile Picture + Banner)
+=========================================================
+
+TIP: Attach Kip's design sheet image to Gemini together with each prompt so he stays on-model.
+YouTube limits: profile picture max 4MB (upload 800x800), banner max 6MB (upload 2560x1440).
+
+
+---------------------------------------------------------
+1) PROFILE PICTURE (800x800, under 4MB)
+---------------------------------------------------------
+
+Create a premium YouTube channel profile picture, square 1:1, 800x800, designed for a circle crop.
+
+SUBJECT: "Kip", an original 3D cartoon character in a polished Pixar/Illumination movie render style. Kip has a smooth round white head (#f6f3ec), large glossy dark oval eyes with bright catch-lights, and a confident, slightly mischievous half-smile. He wears a black six-panel baseball cap (#1b1b20) with a bold white letter "K" on the front, a curved brim with a lighter underside, and a top button. He also wears a black hoodie (#2a2a33) with a glowing gold lightning-bolt logo on the chest (#ffd23f) and a brass wristwatch on his RIGHT wrist (#c8a24a).
+
+POSE: head-and-shoulders, three-quarter view, perfectly centered. His face fills the middle 55% of the frame. He raises his RIGHT fist beside his face so the brass watch catches the light, as if he's about to trigger a power-up.
+
+BACKGROUND: a bold radial glow of electric red (#e8453c) directly behind his head, fading smoothly to solid deep black at the edges. Gold energy sparks and speed lines burst outward from behind him but stay inside the central circle.
+
+COMPOSITION: all of Kip and all effects stay inside a centered circle covering 80% of the canvas. The outer 12% border, and especially all four corners, must be PLAIN SOLID BLACK: completely empty, with no sparks, no light, no detail.
+
+LIGHTING: strong gold and red cinematic rim light on his head and cap, soft key light on his face, high contrast, glossy highlights.
+
+STYLE: ultra-clean 3D toon render, vibrant saturated colors, sharp silhouette, professional YouTube branding. Smooth clean gradients and simple shapes, with no noisy textures, no film grain, no fine dust particles (keeps the file small and crisp).
+
+STRICT NEGATIVES: no watermark, no AI logo, no Gemini logo, no sparkle icon, no star symbol, no four-pointed star, no signature, no stamp, no text, no letters except the "K" on the cap, no border, no frame, no UI elements. Nothing at all in any corner.
+
+
+---------------------------------------------------------
+2) CHANNEL BANNER (2560x1440, under 4MB)
+---------------------------------------------------------
+
+Create a YouTube channel banner, 16:9, 2560x1440.
+
+SAFE ZONE: place ALL important content (character + title) inside a centered horizontal strip that is 60% of the width and 30% of the height (1546x423 area). Everything outside that strip is soft background only.
+
+TITLE TEXT: "IF OVERDRIVE" in huge, bold, chunky 3D letters. "IF" is glossy electric red (#e8453c) and "OVERDRIVE" is bright white with a thick black outline. A gold lightning bolt (#ffd23f) slices diagonally through the letter "O", with motion-blur speed streaks behind the word. Below it, a smaller tagline in clean bold white sans-serif: "WHAT IF? WE FIND OUT." Spell every word exactly as written, with no extra letters.
+
+CHARACTER: "Kip", an original 3D cartoon hero in a polished Pixar-style render, on the LEFT side of the safe zone. White round head (#f6f3ec), large glossy dark eyes, a black cap with a white "K" logo, a black hoodie with a glowing gold lightning-bolt chest logo, dark joggers, red sneakers with white soles (#e8453c), and a brass watch on his RIGHT wrist glowing gold. Dynamic action pose: skidding to a stop mid-run, right fist forward, with an excited "this is about to go crazy" grin.
+
+WORLD BEHIND: one seamless blended scene that hints at three series. Zombie silhouettes in orange fog on a ruined city skyline on the left, a sunny cartoon suburb with a colorful experiment explosion in the middle, and a giant glowing brass pocket-watch face with time-warp ripples on the right. Blend them with red and gold energy streaks into one continuous image.
+
+EDGES: the outer edges fade into deep black-navy. The bottom-right corner and bottom-left corner must be PLAIN DARK, empty background with no objects, sparks, light or detail.
+
+COLOR PALETTE: deep black-navy, electric red, gold, brass. High contrast and saturated.
+
+LIGHTING: cinematic gold and red rim light, volumetric glow around the title, soft lens flare off the watch.
+
+STYLE: premium 3D animated movie poster, bold, clean, readable on a phone. Smooth clean gradients and simple shapes, with no noisy textures, no film grain, no fine dust particles (keeps the file small and crisp).
+
+STRICT NEGATIVES: no watermark, no AI logo, no Gemini logo, no sparkle icon, no star symbol, no four-pointed star, no signature, no stamp, no extra text, no UI elements, no border, no frame. Nothing in any corner.
+
+
+---------------------------------------------------------
+NOTES
+---------------------------------------------------------
+- Gemini's small sparkle stamp is added by the app after generation, so a prompt cannot fully block it.
+  The plain corners above make it easy to crop off without losing any art.
+- A prompt cannot set the file size. If a downloaded image is over 4MB, save it to D:\kavroYT
+  and ask Claude to crop + compress it to the exact size (800x800 / 2560x1440, under 4MB).
