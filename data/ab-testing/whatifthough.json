@@ -1,0 +1,87 @@
+{
+ "channel": "What If Though",
+ "channel_id": "UClqpYrd1IsEnFDZPUVq3T-w",
+ "channel_url": "https://www.youtube.com/channel/UClqpYrd1IsEnFDZPUVq3T-w",
+ "subscribers": null,
+ "description": "",
+ "tags": [],
+ "tab": "videos",
+ "stats": {
+  "sample_size": 5,
+  "median_views": 3,
+  "mean_views": 14,
+  "median_duration_s": 275,
+  "uploads_per_week": null,
+  "uploads_last_30d": 0,
+  "views_last_30d_uploads": 0,
+  "days_since_last_upload": 122,
+  "median_views_per_subscriber": null
+ },
+ "videos": [
+  {
+   "id": "WpT4Vk3XwH0",
+   "url": "https://www.youtube.com/watch?v=WpT4Vk3XwH0",
+   "title": "What If the Wheel Never Existed?",
+   "channel": "What If Though",
+   "channel_url": null,
+   "views": 53,
+   "duration_s": 275,
+   "date": "2026-07-23",
+   "age_days": 122,
+   "views_per_day": 0,
+   "x_median": 17.67
+  },
+  {
+   "id": "qZIDP_FTU2A",
+   "url": "https://www.youtube.com/watch?v=qZIDP_FTU2A",
+   "title": "What If the Internet Disappeared Tomorrow?",
+   "channel": "What If Though",
+   "channel_url": null,
+   "views": 3,
+   "duration_s": 316,
+   "date": "2026-07-23",
+   "age_days": 122,
+   "views_per_day": 0,
+   "x_median": 1.0
+  },
+  {
+   "id": "M55qbx4zZ5k",
+   "url": "https://www.youtube.com/watch?v=M55qbx4zZ5k",
+   "title": "What If Mirrors Never Existed?",
+   "channel": "What If Though",
+   "channel_url": null,
+   "views": 9,
+   "duration_s": 254,
+   "date": "2026-07-23",
+   "age_days": 122,
+   "views_per_day": 0,
+   "x_median": 3.0
+  },
+  {
+   "id": "Wswroke9d2U",
+   "url": "https://www.youtube.com/watch?v=Wswroke9d2U",
+   "title": "What If the Alphabet Never Existed?",
+   "channel": "What If Though",
+   "channel_url": null,
+   "views": 3,
+   "duration_s": 354,
+   "date": "2026-07-23",
+   "age_days": 122,
+   "views_per_day": 0,
+   "x_median": 1.0
+  },
+  {
+   "id": "VjPi-JYvK9A",
+   "url": "https://www.youtube.com/watch?v=VjPi-JYvK9A",
+   "title": "What If You Never Needed Sleep?",
+   "channel": "What If Though",
+   "channel_url": null,
+   "views": 1,
+   "duration_s": 244,
+   "date": "2026-07-23",
+   "age_days": 122,
+   "views_per_day": 0,
+   "x_median": 0.33
+  }
+ ]
+}
