@@ -1,0 +1,2796 @@
+{
+ "title": "What If You and Your Crush Were Stuck in a Time Loop?",
+ "duration": 488.05,
+ "shots": [
+  {
+   "id": "h01",
+   "start": 0.0,
+   "end": 2.48,
+   "line": "",
+   "scene": "Dorm, 7:00 AM: the alarm rings, Kip sits up. LOOP 1",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "glitch",
+     "gain": -14
+    },
+    {
+     "at": 0.2,
+     "name": "phonering",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "h02",
+   "start": 2.48,
+   "end": 5.56,
+   "line": "",
+   "scene": "A clock hits 7:00 and loops back around: EVERY MORNING AT 7",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.6,
+     "name": "clock",
+     "gain": -14
+    },
+    {
+     "at": 2.0,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "h03",
+   "start": 5.56,
+   "end": 8.74,
+   "line": "",
+   "scene": "The quad: Leah crosses with earphones in; Kip frozen. THAT'S LEAH",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16
+    },
+    {
+     "at": 1.2,
+     "name": "heartbeat",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "h04",
+   "start": 8.74,
+   "end": 13.54,
+   "line": "",
+   "scene": "Calendar: LAST DAY OF SENIOR YEAR; TONIGHT: GRADUATION PARTY",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 2.6,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "h05",
+   "start": 13.54,
+   "end": 16.82,
+   "line": "",
+   "scene": "Map of the US: a plane flies coast to coast. SHE MOVES AWAY",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.8,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "h06",
+   "start": 16.82,
+   "end": 19.02,
+   "line": "",
+   "scene": "Kip opens his mouth, a bus roars past, she is gone. YOU DIDN'T.",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "carpass",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "h07",
+   "start": 19.02,
+   "end": 22.67,
+   "line": "",
+   "scene": "Alarm. 7:00 AM again. LOOP 2",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "glitch",
+     "gain": -14
+    },
+    {
+     "at": 0.2,
+     "name": "phonering",
+     "gain": -16
+    },
+    {
+     "at": 1.6,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "h08",
+   "start": 22.67,
+   "end": 31.79,
+   "line": "",
+   "scene": "Promise: the coffee order, LOOP 1,006, what breaks the loop",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 3.9,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 6.4,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "l01",
+   "start": 31.79,
+   "end": 34.75,
+   "line": "",
+   "scene": "Kip bolt upright: IT WAS A DREAM?",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "l02",
+   "start": 34.75,
+   "end": 38.47,
+   "line": "",
+   "scene": "Sam at his desk with cereal says the exact same thing",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "l03",
+   "start": 38.47,
+   "end": 43.33,
+   "line": "",
+   "scene": "Sam: LAST DAY. LAST PARTY. LAST CHANCE. TELL HER OR I WILL.",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 1.4,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 2.4,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "l04",
+   "start": 43.33,
+   "end": 46.39,
+   "line": "",
+   "scene": "Same hoodie, same cereal spill on the same hoodie",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "l05",
+   "start": 46.39,
+   "end": 52.65,
+   "line": "",
+   "scene": "Campus cafe: the radio, 9:14, the cheesy song. REMEMBER THAT SONG",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 4.9,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "l06",
+   "start": 52.65,
+   "end": 58.43,
+   "line": "",
+   "scene": "Leah in line ahead of Kip. LOOP 1 you missed it, LOOP 2 you notice",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "l07",
+   "start": 58.43,
+   "end": 60.97,
+   "line": "",
+   "scene": "Leah turns: OAT LATTE, EXTRA HOT, NO FOAM. RIGHT?",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "l08",
+   "start": 60.97,
+   "end": 66.23,
+   "line": "",
+   "scene": "Kip stunned: YOU HAVEN'T ORDERED YET. NEVER TOLD HER.",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 3.1,
+     "name": "stinger",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "l09",
+   "start": 66.23,
+   "end": 71.45,
+   "line": "",
+   "scene": "LOOPS 3, 4, 5 go badly: trip, spilled coffee",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "glitch",
+     "gain": -14
+    },
+    {
+     "at": 1.0,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 3.0,
+     "name": "impact",
+     "gain": -12
+    },
+    {
+     "at": 4.1,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "l10",
+   "start": 71.45,
+   "end": 74.55,
+   "line": "",
+   "scene": "A frisbee hits Kip in the face mid HEY LEAH",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.1,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "l11",
+   "start": 74.55,
+   "end": 83.55,
+   "line": "",
+   "scene": "Kip shakes Sam by the shoulders: I'M STUCK IN A TIME LOOP",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -16
+    },
+    {
+     "at": 2.6,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "l12",
+   "start": 83.55,
+   "end": 87.65,
+   "line": "",
+   "scene": "Sam: PROVE IT. Kip: IN 10 SECONDS YOU SPILL CEREAL. A pigeon hits the window.",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 3.2,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "l13",
+   "start": 87.65,
+   "end": 91.91,
+   "line": "",
+   "scene": "Sam covered in cereal: OKAY. THAT'S CREEPY.",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "l14",
+   "start": 91.91,
+   "end": 95.59,
+   "line": "",
+   "scene": "IF THE DAY RESETS: ZERO CONSEQUENCES",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "l15",
+   "start": 95.59,
+   "end": 103.87,
+   "line": "",
+   "scene": "LOOPS 6-8: Sam eats a cake, rides a shopping cart, dyes his hair green",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.5,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 4.2,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 6.6,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "l16",
+   "start": 103.87,
+   "end": 108.55,
+   "line": "",
+   "scene": "Sam wakes with no memory; Kip explains it all over again, exhausted",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "phonering",
+     "gain": -20
+    },
+    {
+     "at": 2.4,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "l17",
+   "start": 108.55,
+   "end": 113.15,
+   "line": "",
+   "scene": "LOOP 9: ESCAPE. A bus ticket to a city 4 hours away",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "l18",
+   "start": 113.15,
+   "end": 115.99,
+   "line": "",
+   "scene": "Night bus: Kip at the window, scenery racing past. OUTRUN IT?",
+   "set": "busInside",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hum",
+     "gain": -24
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -36
+   }
+  },
+  {
+   "id": "l19",
+   "start": 115.99,
+   "end": 121.87,
+   "line": "",
+   "scene": "The clock hits 12:00, a white flash",
+   "set": "busInside",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "clock",
+     "gain": -14
+    },
+    {
+     "at": 2.6,
+     "name": "riser",
+     "gain": -14
+    },
+    {
+     "at": 3.3,
+     "name": "flash",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -36
+   }
+  },
+  {
+   "id": "l20",
+   "start": 121.87,
+   "end": 126.37,
+   "line": "",
+   "scene": "Back in the dorm. LOOP 10. IT'S NOT THE PLACE. IT'S THE DAY.",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "glitch",
+     "gain": -14
+    },
+    {
+     "at": 0.2,
+     "name": "phonering",
+     "gain": -16
+    },
+    {
+     "at": 2.3,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "l21",
+   "start": 126.37,
+   "end": 129.23,
+   "line": "",
+   "scene": "YOU'LL HAVE TO WIN IT: a trophy",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.8,
+     "name": "powerup",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "p01",
+   "start": 129.23,
+   "end": 134.53,
+   "line": "",
+   "scene": "LOOP 11: a whiteboard covered in the day's timeline. GET ORGANIZED",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -16
+    },
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p02",
+   "start": 134.53,
+   "end": 139.95,
+   "line": "",
+   "scene": "The rules: RESETS AT 7. ONLY MEMORY CARRIES OVER. UNLIMITED PRACTICE.",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 3.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "p03",
+   "start": 139.95,
+   "end": 147.81,
+   "line": "",
+   "scene": "Leah dossier: band, book, HATES MUSHROOMS (learned on LOOP 12)",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.3,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 2.3,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 5.4,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "p04",
+   "start": 147.81,
+   "end": 151.51,
+   "line": "",
+   "scene": "LOOP 19: Kip writes THE PERFECT SPEECH",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -16
+    },
+    {
+     "at": 2.2,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -32
+   }
+  },
+  {
+   "id": "p05",
+   "start": 151.51,
+   "end": 156.87,
+   "line": "",
+   "scene": "Party: Kip recites the speech; Leah polite",
+   "set": "party",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "p06",
+   "start": 156.87,
+   "end": 159.87,
+   "line": "",
+   "scene": "Leah: DID YOU MEMORIZE THAT?",
+   "set": "party",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "p07",
+   "start": 159.87,
+   "end": 162.99,
+   "line": "",
+   "scene": "LOOP 20: Kip facepalms. IT SOUNDS REHEARSED. BECAUSE IT IS.",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "glitch",
+     "gain": -14
+    },
+    {
+     "at": 0.2,
+     "name": "phonering",
+     "gain": -16
+    },
+    {
+     "at": 1.4,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "p08",
+   "start": 162.99,
+   "end": 171.49,
+   "line": "",
+   "scene": "LOOPS 21-26: masks FUNNY / MYSTERIOUS / CASUAL; 50 versions, same polite smile",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 2.6,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 4.6,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "p09",
+   "start": 171.49,
+   "end": 180.41,
+   "line": "",
+   "scene": "LOOP 27 MYSTERIOUS: sunglasses indoors; Leah offers a glass of water",
+   "set": "party",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -14
+    },
+    {
+     "at": 5.4,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "p10",
+   "start": 180.41,
+   "end": 188.23,
+   "line": "",
+   "scene": "LOOP 33 MUSICAL: one chord, very confidently, four minutes",
+   "set": "party",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.8,
+     "name": "hit",
+     "gain": -14
+    },
+    {
+     "at": 4.6,
+     "name": "hit",
+     "gain": -15
+    },
+    {
+     "at": 5.4,
+     "name": "hit",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "p11",
+   "start": 188.23,
+   "end": 193.85,
+   "line": "",
+   "scene": "LOOP 41 FATE: 5 bump-ins on a campus map in one day",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.9,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 2.4,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 2.9,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 3.4,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 3.9,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "p12",
+   "start": 193.85,
+   "end": 200.07,
+   "line": "",
+   "scene": "Leah worried: ARE YOU... FOLLOWING ME? Kip: NO. THE UNIVERSE IS.",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.6,
+     "name": "stinger",
+     "gain": -18
+    },
+    {
+     "at": 4.4,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "p13",
+   "start": 200.07,
+   "end": 201.91,
+   "line": "",
+   "scene": "LOOP 42: you do not say that again (cringe stamp)",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "glitch",
+     "gain": -14
+    },
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "p14",
+   "start": 201.91,
+   "end": 212.81,
+   "line": "",
+   "scene": "LOOP 50, sunset: Leah alone on the bench in the quad, staring at the sky",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -34
+   }
+  },
+  {
+   "id": "p15",
+   "start": 212.81,
+   "end": 217.33,
+   "line": "",
+   "scene": "Close on Leah on the bench: LIKE SHE'S TIRED",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -34
+   }
+  },
+  {
+   "id": "p16",
+   "start": 217.33,
+   "end": 222.27,
+   "line": "",
+   "scene": "The bench glows: THE MOST IMPORTANT PLACE IN THIS STORY",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "riser",
+     "gain": -16
+    },
+    {
+     "at": 2.2,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "b01",
+   "start": 222.27,
+   "end": 226.73,
+   "line": "",
+   "scene": "LOOP 51: Kip stops trying and watches the day happen",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "b02",
+   "start": 226.73,
+   "end": 236.55,
+   "line": "",
+   "scene": "Unlimited Tuesdays: guitar, cooking (not toast), Japanese from a library book",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.7,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 3.8,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 5.5,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "b03",
+   "start": 236.55,
+   "end": 248.57,
+   "line": "",
+   "scene": "REAL NUMBER: FSI, about 88 weeks, around 2,200 class hours for Japanese",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -16
+    },
+    {
+     "at": 2.2,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 6.0,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "b04",
+   "start": 248.57,
+   "end": 251.47,
+   "line": "",
+   "scene": "In a time loop: a lot of Tuesdays (calendar flips)",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.6,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "b05",
+   "start": 251.47,
+   "end": 258.05,
+   "line": "",
+   "scene": "A bike chain snaps at 11:02, a woman drops her phone at 3:40",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "hit",
+     "gain": -14
+    },
+    {
+     "at": 4.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "b06",
+   "start": 258.05,
+   "end": 261.67,
+   "line": "",
+   "scene": "Kip fixes the bike and returns the phone. EVERY SINGLE LOOP",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -14
+    },
+    {
+     "at": 1.4,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "b07",
+   "start": 261.67,
+   "end": 269.59,
+   "line": "",
+   "scene": "LOOP 300, sunset: Kip sits at the other end of Leah's bench",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -34
+   }
+  },
+  {
+   "id": "b08",
+   "start": 269.59,
+   "end": 277.59,
+   "line": "",
+   "scene": "LONG DAY, HUH? / YOU HAVE NO IDEA. The most real thing in 300 loops",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "shimmer",
+     "gain": -18
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -34
+   }
+  },
+  {
+   "id": "b09",
+   "start": 277.59,
+   "end": 284.25,
+   "line": "",
+   "scene": "LOOPS 301, 302, 303...: the bench every day, hour talks, sky",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 1.3,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 2.5,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 4.4,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "b10",
+   "start": 284.25,
+   "end": 290.91,
+   "line": "",
+   "scene": "She never mentions yesterday, but seems less tired each day",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.7,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -34
+   }
+  },
+  {
+   "id": "b11",
+   "start": 290.91,
+   "end": 296.43,
+   "line": "",
+   "scene": "LOOP 400: Kip hums the song at the cafe",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "b12",
+   "start": 296.43,
+   "end": 301.41,
+   "line": "",
+   "scene": "HUMMING THAT TERRIBLE SONG CHANGES EVERYTHING",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "riser",
+     "gain": -16
+    },
+    {
+     "at": 2.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "t01",
+   "start": 301.41,
+   "end": 307.29,
+   "line": "",
+   "scene": "LOOP 401, 9:14: someone behind Kip is humming too",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 3.6,
+     "name": "heartbeat",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "t02",
+   "start": 307.29,
+   "end": 310.07,
+   "line": "",
+   "scene": "It's Leah, and she knows every word",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "t03",
+   "start": 310.07,
+   "end": 316.45,
+   "line": "",
+   "scene": "YOU KNOW THIS SONG. / IT'S... CATCHY. / NO, IT ISN'T. IT'S TERRIBLE.",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 2.0,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 3.4,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "t04",
+   "start": 316.45,
+   "end": 324.21,
+   "line": "",
+   "scene": "The song: out on a Tuesday, 3 weeks ago, nobody played it again... except at 9:14",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "counter",
+     "gain": -14
+    },
+    {
+     "at": 4.9,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "t05",
+   "start": 324.21,
+   "end": 326.91,
+   "line": "",
+   "scene": "Leah, quiet: HOW MANY LOOPS ARE YOU ON?",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "t06",
+   "start": 326.91,
+   "end": 328.49,
+   "line": "",
+   "scene": "Kip: 401.",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "t07",
+   "start": 328.49,
+   "end": 330.73,
+   "line": "",
+   "scene": "Leah: I'M ON 1,006. The counter flickers.",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "stinger",
+     "gain": -12
+    },
+    {
+     "at": 0.7,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "t08",
+   "start": 330.73,
+   "end": 334.57,
+   "line": "",
+   "scene": "Bars: YOU 401, LEAH 1,006: 600 loops longer",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 2.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "t09",
+   "start": 334.57,
+   "end": 339.41,
+   "line": "",
+   "scene": "The coffee order: she watched you order it 1,000+ times",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 4.0,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "w01",
+   "start": 339.41,
+   "end": 343.01,
+   "line": "",
+   "scene": "NOW THERE ARE TWO OF YOU: two loop counters side by side",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "shimmer",
+     "gain": -14
+    },
+    {
+     "at": 1.3,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "w02",
+   "start": 343.01,
+   "end": 345.17,
+   "line": "",
+   "scene": "Kip and Leah sneak into the rooftop observatory",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -34
+   }
+  },
+  {
+   "id": "w03",
+   "start": 345.17,
+   "end": 348.83,
+   "line": "",
+   "scene": "Every restaurant in town, in one day, 50 times",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 1.0,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 1.5,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 2.0,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 2.6,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "w04",
+   "start": 348.83,
+   "end": 352.53,
+   "line": "",
+   "scene": "Kip teaches her guitar; she teaches him Japanese",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -18
+    },
+    {
+     "at": 1.4,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "w05",
+   "start": 352.53,
+   "end": 362.15,
+   "line": "",
+   "scene": "9:13 countdown, then both sing loudly and badly while the cafe stares",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "tick",
+     "gain": -12
+    },
+    {
+     "at": 2.2,
+     "name": "tick",
+     "gain": -12
+    },
+    {
+     "at": 2.9,
+     "name": "tick",
+     "gain": -12
+    },
+    {
+     "at": 4.0,
+     "name": "cheer",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "w06",
+   "start": 362.15,
+   "end": 369.79,
+   "line": "",
+   "scene": "Her 600 loops alone: juggling, a deer friend in the woods",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.9,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 4.4,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "w07",
+   "start": 369.79,
+   "end": 374.31,
+   "line": "",
+   "scene": "100 loops in a row asleep, too sad to get up",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "slowmo",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "w08",
+   "start": 374.31,
+   "end": 380.41,
+   "line": "",
+   "scene": "Leah on the roof: 600 DAYS OF THE SAME TUESDAY",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -34
+   }
+  },
+  {
+   "id": "w09",
+   "start": 380.41,
+   "end": 390.73,
+   "line": "",
+   "scene": "Sam baffled at the two of them: SINCE WHEN ARE YOU TWO A THING?",
+   "set": "party",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 6.6,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "w10",
+   "start": 390.73,
+   "end": 393.59,
+   "line": "",
+   "scene": "Sam: IT'S BEEN ONE DAY. Leah: SURE, SAM.",
+   "set": "party",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "w11",
+   "start": 393.59,
+   "end": 404.71,
+   "line": "",
+   "scene": "Leah: the first loop I was supposed to tell someone something important",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -34
+   }
+  },
+  {
+   "id": "w12",
+   "start": 404.71,
+   "end": 406.25,
+   "line": "",
+   "scene": "TELL WHO? She doesn't answer.",
+   "set": "rooftop",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -34
+   }
+  },
+  {
+   "id": "w13",
+   "start": 406.25,
+   "end": 416.59,
+   "line": "",
+   "scene": "Every night at 11:58 she leaves: Leah walks out the door",
+   "set": "party",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "clock",
+     "gain": -14
+    },
+    {
+     "at": 3.6,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "c01",
+   "start": 416.59,
+   "end": 423.13,
+   "line": "",
+   "scene": "LOOP 450: Kip reaches the door first. YOU ALWAYS GO AT 11:58. WHY?",
+   "set": "party",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "riser",
+     "gain": -16
+    },
+    {
+     "at": 3.4,
+     "name": "heartbeat",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "c02",
+   "start": 423.13,
+   "end": 431.47,
+   "line": "",
+   "scene": "Leah: at 11:58 I was going to tell you I liked you, and I walked out",
+   "set": "party",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -18
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "c03",
+   "start": 431.47,
+   "end": 438.11,
+   "line": "",
+   "scene": "If you didn't feel the same, I'd live that answer forever",
+   "set": "party",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 5.6,
+     "name": "stinger",
+     "gain": -18
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "c04",
+   "start": 438.11,
+   "end": 443.97,
+   "line": "",
+   "scene": "1,006 loops: the exact same reason as you (two hearts)",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.0,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "c05",
+   "start": 443.97,
+   "end": 447.85,
+   "line": "",
+   "scene": "Kip has no speech; he threw it away 400 loops ago",
+   "set": "party",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.3,
+     "name": "swish",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "c06",
+   "start": 447.85,
+   "end": 456.09,
+   "line": "",
+   "scene": "Flashback, freshman chemistry: goggles upside down, walked into a cabinet",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.2,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 6.0,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "c07",
+   "start": 456.09,
+   "end": 458.17,
+   "line": "",
+   "scene": "Leah laughs: I REMEMBER THE CABINET.",
+   "set": "party",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "c08",
+   "start": 458.17,
+   "end": 462.05,
+   "line": "",
+   "scene": "The clock: 11:59... 12:00... 12:01",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "clock",
+     "gain": -12
+    },
+    {
+     "at": 2.1,
+     "name": "tick",
+     "gain": -10
+    },
+    {
+     "at": 2.4,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "e01",
+   "start": 462.05,
+   "end": 467.25,
+   "line": "",
+   "scene": "7:00 AM. Kip flinches. The calendar: WEDNESDAY. Counter: blank",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "phonering",
+     "gain": -18
+    },
+    {
+     "at": 3.9,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "e02",
+   "start": 467.25,
+   "end": 471.37,
+   "line": "",
+   "scene": "Phone buzz: Leah: OAT LATTE, EXTRA HOT, NO FOAM?",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "phonebuzz",
+     "gain": -14
+    },
+    {
+     "at": 1.8,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "e03",
+   "start": 471.37,
+   "end": 477.53,
+   "line": "",
+   "scene": "Cafe, 9:14: the song comes on, both groan, two coffees",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 3.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "e04",
+   "start": 477.53,
+   "end": 482.01,
+   "line": "",
+   "scene": "Sam still has cereal on his hoodie. Some things don't need a time loop.",
+   "set": "dorm",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 2.4,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "e05",
+   "start": 482.01,
+   "end": 488.05,
+   "line": "",
+   "scene": "Question: TIME LOOP WITH YOUR CRUSH or NEVER A SECOND CHANCE? Tell me in the comments",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.0,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 2.6,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 4.9,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 22.67,
+   "mood": "mystery",
+   "intensity": 0.4
+  },
+  {
+   "start": 22.67,
+   "end": 31.79,
+   "mood": "wonder",
+   "intensity": 0.45
+  },
+  {
+   "start": 31.79,
+   "end": 108.55,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 108.55,
+   "end": 129.23,
+   "mood": "tension",
+   "intensity": 0.45
+  },
+  {
+   "start": 129.23,
+   "end": 201.91,
+   "mood": "playful",
+   "intensity": 0.5
+  },
+  {
+   "start": 201.91,
+   "end": 222.27,
+   "mood": "calm",
+   "intensity": 0.4
+  },
+  {
+   "start": 222.27,
+   "end": 261.67,
+   "mood": "hopeful",
+   "intensity": 0.4
+  },
+  {
+   "start": 261.67,
+   "end": 296.43,
+   "mood": "calm",
+   "intensity": 0.4
+  },
+  {
+   "start": 296.43,
+   "end": 330.73,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 330.73,
+   "end": 339.41,
+   "mood": "wonder",
+   "intensity": 0.45
+  },
+  {
+   "start": 339.41,
+   "end": 374.31,
+   "mood": "playful",
+   "intensity": 0.5
+  },
+  {
+   "start": 374.31,
+   "end": 380.41,
+   "mood": "sad",
+   "intensity": 0.4
+  },
+  {
+   "start": 380.41,
+   "end": 393.59,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 393.59,
+   "end": 416.59,
+   "mood": "mystery",
+   "intensity": 0.4
+  },
+  {
+   "start": 416.59,
+   "end": 458.17,
+   "mood": "sad",
+   "intensity": 0.45
+  },
+  {
+   "start": 458.17,
+   "end": 471.37,
+   "mood": "hopeful",
+   "intensity": 0.45
+  },
+  {
+   "start": 471.37,
+   "end": 488.05,
+   "mood": "triumph",
+   "intensity": 0.45
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "channel": "WhatWouldYouDo",
+ "channel_id": "UCKqEnBgqyHACPgp_7XA3eIA",
+ "channel_url": "https://www.youtube.com/channel/UCKqEnBgqyHACPgp_7XA3eIA",
+ "subscribers": 7380,
+ "description": "",
+ "tags": [],
+ "tab": "videos",
+ "stats": {
+  "sample_size": 4,
+  "median_views": 189000.0,
+  "mean_views": 326250,
+  "median_duration_s": 476.0,
+  "uploads_per_week": 4.2,
+  "uploads_last_30d": 4,
+  "views_last_30d_uploads": 1305000,
+  "days_since_last_upload": 0,
+  "median_views_per_subscriber": 25.61
+ },
+ "videos": [
+  {
+   "id": "FDu7bESwxFU",
+   "url": "https://www.youtube.com/watch?v=FDu7bESwxFU",
+   "title": "Am I Pretty? Don't Say Yes (THE FULL STORY) | What Would You Do?",
+   "channel": "WhatWouldYouDo",
+   "channel_url": null,
+   "views": 164000,
+   "duration_s": 482,
+   "date": "2026-11-22",
+   "age_days": 0,
+   "views_per_day": 164000,
+   "x_median": 0.87
+  },
+  {
+   "id": "UzEo11PkKMA",
+   "url": "https://www.youtube.com/watch?v=UzEo11PkKMA",
+   "title": "Dad, Look At Me: Wait For Six (THE FULL STORY) | What Would You Do?",
+   "channel": "WhatWouldYouDo",
+   "channel_url": null,
+   "views": 133000,
+   "duration_s": 470,
+   "date": "2026-11-20",
+   "age_days": 2,
+   "views_per_day": 66500,
+   "x_median": 0.7
+  },
+  {
+   "id": "4AZPlK7_1Bg",
+   "url": "https://www.youtube.com/watch?v=4AZPlK7_1Bg",
+   "title": "It Followed Me Home: Even If You Know Their Voice… Season 2 (THE FULL STORY) | What Would You Do?",
+   "channel": "WhatWouldYouDo",
+   "channel_url": null,
+   "views": 214000,
+   "duration_s": 430,
+   "date": "2026-11-19",
+   "age_days": 3,
+   "views_per_day": 71333,
+   "x_median": 1.13
+  },
+  {
+   "id": "b2-jXQncA3E",
+   "url": "https://www.youtube.com/watch?v=b2-jXQncA3E",
+   "title": "Lockdown: Even If You Know Their Voice… (THE FULL STORY) | What Would You Do?",
+   "channel": "WhatWouldYouDo",
+   "channel_url": null,
+   "views": 794000,
+   "duration_s": 733,
+   "date": "2026-11-17",
+   "age_days": 5,
+   "views_per_day": 158800,
+   "x_median": 4.2
+  }
+ ]
+}

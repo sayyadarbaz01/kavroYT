@@ -1,0 +1,27 @@
+{
+  "source": "out/What_If_Humans_Never_Invented_Mirrors.mp4",
+  "fix": {},
+  "shorts": [
+    {
+      "id": "short1_no_mirrors",
+      "file": "Short1_No_Mirrors_Ever.mp4",
+      "hook": "WHAT IF MIRRORS|*NEVER EXISTED?*",
+      "segments": [[0.0, 30.3], [141.46, 156.1]],
+      "replace": []
+    },
+    {
+      "id": "short2_gary_eagle",
+      "file": "Short2_Gary_Thinks_He_Is_An_Eagle.mp4",
+      "hook": "THIS PIGEON THINKS|HE'S AN *EAGLE*",
+      "segments": [[25.14, 30.3], [153.38, 156.1], [323.2, 333.6], [511.2, 516.7]],
+      "replace": []
+    },
+    {
+      "id": "short3_flipped_face",
+      "file": "Short3_Why_You_Look_Weird_In_Photos.mp4",
+      "hook": "WHY YOU LOOK|*WEIRD IN PHOTOS*",
+      "segments": [[243.22, 280.9]],
+      "replace": []
+    }
+  ]
+}

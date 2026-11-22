@@ -1,0 +1,2302 @@
+{
+ "title": "What If You Could See Everyone's Rank?",
+ "duration": 499.88,
+ "shots": [
+  {
+   "id": "r01",
+   "start": 0.0,
+   "end": 3.7,
+   "line": "",
+   "scene": "Lecture hall: the guy next to Kip has a green #412 over his head",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r02",
+   "start": 3.7,
+   "end": 9.85,
+   "line": "",
+   "scene": "Wide lecture hall from the front: a rank number over every head, ON EARTH, out of 8 billion",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -16
+    },
+    {
+     "at": 2.9,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 4.4,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r03",
+   "start": 9.85,
+   "end": 13.65,
+   "line": "",
+   "scene": "Close-up: Kip's own red rank counts up to #6,914,377,020",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "counter",
+     "gain": -12,
+     "dur": 1.8
+    },
+    {
+     "at": 3.05,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r04",
+   "start": 13.65,
+   "end": 15.4,
+   "line": "",
+   "scene": "#412 asleep on his desk, drooling on his notes",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "pop",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r05",
+   "start": 15.4,
+   "end": 19.75,
+   "line": "",
+   "scene": "Kip with a tall stack of books, deadpan, then confused: something is wrong",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.3,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r06",
+   "start": 19.75,
+   "end": 23.0,
+   "line": "",
+   "scene": "Promise card 1: what does the number measure? question marks",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.6,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r07",
+   "start": 23.0,
+   "end": 25.75,
+   "line": "",
+   "scene": "Promise card 2: a gold silhouette ranked #3 on the planet",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.95,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r08",
+   "start": 25.75,
+   "end": 29.85,
+   "line": "",
+   "scene": "Promise card 3: one sentence, the rank falls by billions in five seconds",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.7,
+     "name": "whoosh",
+     "gain": -12
+    },
+    {
+     "at": 3.4,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r09",
+   "start": 29.85,
+   "end": 32.86,
+   "line": "",
+   "scene": "Title: drone over the campus park in the morning, WHAT IF YOU COULD SEE EVERYONE'S RANK?",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -12
+    },
+    {
+     "at": 0.6,
+     "name": "stinger",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d01",
+   "start": 32.86,
+   "end": 38.6,
+   "line": "",
+   "scene": "Dorm mirror: Kip brushing his teeth sees a red number over his own head",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.1,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d02",
+   "start": 38.6,
+   "end": 42.66,
+   "line": "",
+   "scene": "Kip waves at the number; it follows his hand like a balloon",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d03",
+   "start": 42.66,
+   "end": 48.02,
+   "line": "",
+   "scene": "Dev walks in eating cereal from the box; his number pops: 2,201,456,088",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.65,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d04",
+   "start": 48.02,
+   "end": 50.68,
+   "line": "",
+   "scene": "Two-shot: Dev asks why Kip is staring at his forehead; no reason",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d05",
+   "start": 50.68,
+   "end": 55.52,
+   "line": "",
+   "scene": "Dorm hallway: everyone has a number; the RA is #788,201,334",
+   "set": "dormHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 2.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d06",
+   "start": 55.52,
+   "end": 59.36,
+   "line": "",
+   "scene": "The girl who plays guitar at 2 a.m.: 3.3 billion",
+   "set": "dormHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 1.9,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d07",
+   "start": 59.36,
+   "end": 62.74,
+   "line": "",
+   "scene": "The campus dog has no number at all; Kip crouches, lucky dog",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 2.6,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d08",
+   "start": 62.74,
+   "end": 67.3,
+   "line": "",
+   "scene": "The vending machine that ate Kip's dollar: #8,000,000,001",
+   "set": "dormHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d09",
+   "start": 67.3,
+   "end": 74.16,
+   "line": "",
+   "scene": "Rule card: #1 best human alive, #8,000,000,000 worst, everyone gets ranked",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d10",
+   "start": 74.16,
+   "end": 78.52,
+   "line": "",
+   "scene": "Campus path: numbers over everyone, nobody else can see them",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 1.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d11",
+   "start": 78.52,
+   "end": 81.28,
+   "line": "",
+   "scene": "Kip thinking: first guess is money, so you test it",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d12",
+   "start": 81.28,
+   "end": 87.24,
+   "line": "",
+   "scene": "The richest kid parks his sports car across two spaces: 1.9 billion",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.4,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 5.6,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d13",
+   "start": 87.24,
+   "end": 91.92,
+   "line": "",
+   "scene": "The woman mopping the dining hall floor: #9,844",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d14",
+   "start": 91.92,
+   "end": 94.78,
+   "line": "",
+   "scene": "Wide dining hall: every student in billions, the cleaner ranked higher",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 0.8,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d15",
+   "start": 94.78,
+   "end": 100.78,
+   "line": "",
+   "scene": "Not money. Kip tries celebrities on his phone: no number",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d16",
+   "start": 100.78,
+   "end": 103.3,
+   "line": "",
+   "scene": "Dev sits down with a tray; Kip tells him everything",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d17",
+   "start": 103.3,
+   "end": 108.0,
+   "line": "",
+   "scene": "Dev: you can see a number over my head? Two point two",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.9,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d18",
+   "start": 108.0,
+   "end": 112.06,
+   "line": "",
+   "scene": "Dev: is that good? Right in the middle. Mid. Cool cool cool",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d19",
+   "start": 112.06,
+   "end": 114.92,
+   "line": "",
+   "scene": "Dev eats a fry: what's yours? Kip doesn't answer",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d20",
+   "start": 114.92,
+   "end": 121.84,
+   "line": "",
+   "scene": "The economics professor with three degrees: 1.45 billion",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 2.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d21",
+   "start": 121.84,
+   "end": 125.54,
+   "line": "",
+   "scene": "Gym: half the athletes are in the billions",
+   "set": "gym",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 1.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d22",
+   "start": 125.54,
+   "end": 129.22,
+   "line": "",
+   "scene": "A guy with spaghetti sauce on his shirt: #80,000",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d23",
+   "start": 129.22,
+   "end": 136.48,
+   "line": "",
+   "scene": "Campus cafe: the barista who remembers your name, #640,000, misspelled cup",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d24",
+   "start": 136.48,
+   "end": 144.2,
+   "line": "",
+   "scene": "Morning bus: loud music guy without headphones, 7.99 billion",
+   "set": "busInside",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 3.0,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d25",
+   "start": 144.2,
+   "end": 149.2,
+   "line": "",
+   "scene": "Dorm: Dev says do me, why am I two point two",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d26",
+   "start": 149.2,
+   "end": 154.48,
+   "line": "",
+   "scene": "Kip: I can see the score but nobody told me the game",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.6,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 4.0,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d27",
+   "start": 154.48,
+   "end": 159.12,
+   "line": "",
+   "scene": "Dev sits up straight: did it go up? No. It's not posture",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.1,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d28",
+   "start": 159.12,
+   "end": 163.76,
+   "line": "",
+   "scene": "Kip walks into the library; the one number he didn't want to see",
+   "set": "library",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d29",
+   "start": 163.76,
+   "end": 170.58,
+   "line": "",
+   "scene": "Maya, third row, same seat every Thursday: #31,207",
+   "set": "library",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 5.0,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d30",
+   "start": 170.58,
+   "end": 180.92,
+   "line": "",
+   "scene": "Split: Maya #31,207 vs Kip #6,914,377,020, way out of your league",
+   "set": "library",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d31",
+   "start": 180.92,
+   "end": 188.2,
+   "line": "",
+   "scene": "Dev whispers: bro, go talk to her",
+   "set": "library",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d32",
+   "start": 188.2,
+   "end": 192.98,
+   "line": "",
+   "scene": "Kip walks over; a freshman drops her pen and he hands it back",
+   "set": "library",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d33",
+   "start": 192.98,
+   "end": 198.8,
+   "line": "",
+   "scene": "Close-up: Kip's number twitches, drops by 22",
+   "set": "library",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 4.8,
+     "name": "counter",
+     "gain": -14,
+     "dur": 0.6
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d34",
+   "start": 198.8,
+   "end": 207.58,
+   "line": "",
+   "scene": "At Maya's table: hi, you're in my econ section? Yes. Section. Econ. Me.",
+   "set": "library",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 6.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d35",
+   "start": 207.58,
+   "end": 213.06,
+   "line": "",
+   "scene": "Kip determined: if the number can move, you can move it",
+   "set": "dormHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.3,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d36",
+   "start": 213.06,
+   "end": 214.96,
+   "line": "",
+   "scene": "Kip lifts at the gym: nothing",
+   "set": "gym",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d37",
+   "start": 214.96,
+   "end": 217.2,
+   "line": "",
+   "scene": "An A on the essay: nothing",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d38",
+   "start": 217.2,
+   "end": 221.72,
+   "line": "",
+   "scene": "New sneakers: nothing; Dev claps anyway",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d39",
+   "start": 221.72,
+   "end": 228.6,
+   "line": "",
+   "scene": "Kip holds the dining hall door for a crowd with trays; number drops 6,000",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 4.8,
+     "name": "counter",
+     "gain": -14,
+     "dur": 1.0
+    },
+    {
+     "at": 5.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d40",
+   "start": 228.6,
+   "end": 234.82,
+   "line": "",
+   "scene": "He holds the door again for nobody: nothing",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.8,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d41",
+   "start": 234.82,
+   "end": 238.48,
+   "line": "",
+   "scene": "Kip runs back to Dev: it moved!",
+   "set": "dormHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d42",
+   "start": 238.48,
+   "end": 243.84,
+   "line": "",
+   "scene": "Kip and Dev: what did you do? I held a door",
+   "set": "dormHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d43",
+   "start": 243.84,
+   "end": 253.14,
+   "line": "",
+   "scene": "Dev holds the door open for nobody for ten minutes while people use the other door",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 3.2,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d44",
+   "start": 253.14,
+   "end": 257.22,
+   "line": "",
+   "scene": "Dev's number doesn't move: it's broken",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d45",
+   "start": 257.22,
+   "end": 260.7,
+   "line": "",
+   "scene": "Kip: it's not broken, you just don't understand it yet",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d46",
+   "start": 260.7,
+   "end": 265.26,
+   "line": "",
+   "scene": "Night: Kip at his desk lamp, he figures it out",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 2.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d47",
+   "start": 265.26,
+   "end": 270.9,
+   "line": "",
+   "scene": "Notebook: the cleaner, the door, the richest kid who never tips",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d48",
+   "start": 270.9,
+   "end": 275.36,
+   "line": "",
+   "scene": "It's measuring what you do for other people",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d49",
+   "start": 275.36,
+   "end": 282.74,
+   "line": "",
+   "scene": "The cleaner hands a lost wallet back to a freshman: thirty years",
+   "set": "diningHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -14
+    },
+    {
+     "at": 4.3,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d50",
+   "start": 282.74,
+   "end": 293.46,
+   "line": "",
+   "scene": "#412 works nights as a hospital orderly, pushing a wheelchair",
+   "set": "hospital",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 2.7,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 7.3,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 8.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d51",
+   "start": 293.46,
+   "end": 301.34,
+   "line": "",
+   "scene": "Maya runs free tutoring for freshmen: #31,207",
+   "set": "library",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 4.0,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 6.0,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d52",
+   "start": 301.34,
+   "end": 309.74,
+   "line": "",
+   "scene": "Night: what have you been doing for nineteen years? #6,914,377,020",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 3.0,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 5.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d53",
+   "start": 309.74,
+   "end": 316.32,
+   "line": "",
+   "scene": "Memory: Kip walks past someone carrying a huge box",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d54",
+   "start": 316.32,
+   "end": 321.58,
+   "line": "",
+   "scene": "Memory: calls from Mom to voicemail, notes never paid back",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.6,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d55",
+   "start": 321.58,
+   "end": 327.84,
+   "line": "",
+   "scene": "Kip sad at the desk: you never did anything at all",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 2.3,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 4.2,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d56",
+   "start": 327.84,
+   "end": 333.08,
+   "line": "",
+   "scene": "Night bus home: the lowest number he has ever seen: #3",
+   "set": "busInside",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 4.5,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d57",
+   "start": 333.08,
+   "end": 337.9,
+   "line": "",
+   "scene": "The bus driver says good morning to everyone by name",
+   "set": "busInside",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d58",
+   "start": 337.9,
+   "end": 345.34,
+   "line": "",
+   "scene": "He waits for a student in the rain and gives away a spare umbrella",
+   "set": "busInside",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 4.7,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d59",
+   "start": 345.34,
+   "end": 352.94,
+   "line": "",
+   "scene": "Driver: rough day, kid? Somebody's gotta make the bus nice",
+   "set": "busInside",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d60",
+   "start": 352.94,
+   "end": 356.86,
+   "line": "",
+   "scene": "The bus drives off into the night: number three on the planet",
+   "set": "suburbNight",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 2.3,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "rain",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d61",
+   "start": 356.86,
+   "end": 361.64,
+   "line": "",
+   "scene": "Kip knows the rule: the most dangerous part",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 1.7,
+     "name": "heartbeat",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d62",
+   "start": 361.64,
+   "end": 367.06,
+   "line": "",
+   "scene": "Gaming it: picking up litter only where people can see",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 3.1,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d63",
+   "start": 367.06,
+   "end": 370.0,
+   "line": "",
+   "scene": "Volunteer one hour, post about it for three",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d64",
+   "start": 370.0,
+   "end": 374.06,
+   "line": "",
+   "scene": "Helping an old man cross the street; he did not want to cross",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d65",
+   "start": 374.06,
+   "end": 378.92,
+   "line": "",
+   "scene": "The number doesn't move. Not once.",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.5,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 2.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d66",
+   "start": 378.92,
+   "end": 390.62,
+   "line": "",
+   "scene": "Dev: you've been weird all week. By yelling you're welcome at strangers?",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 4.7,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d67",
+   "start": 390.62,
+   "end": 402.26,
+   "line": "",
+   "scene": "Group project slide: KIP big, Dev tiny; the professor asks who did the research",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d68",
+   "start": 402.26,
+   "end": 406.88,
+   "line": "",
+   "scene": "Close-up: Kip could take the credit. Except the number would know.",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 1.7,
+     "name": "heartbeat",
+     "gain": -14
+    },
+    {
+     "at": 3.0,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d69",
+   "start": 406.88,
+   "end": 410.62,
+   "line": "",
+   "scene": "Kip: Dev did the research. All of it.",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d70",
+   "start": 410.62,
+   "end": 415.16,
+   "line": "",
+   "scene": "Kip's number falls by billions",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -14,
+     "dur": 4.0
+    },
+    {
+     "at": 3.4,
+     "name": "riser",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d71",
+   "start": 415.16,
+   "end": 426.0,
+   "line": "",
+   "scene": "Every time you could have taken something and gave it away",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "counter",
+     "gain": -14,
+     "dur": 10.6
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d72",
+   "start": 426.0,
+   "end": 432.9,
+   "line": "",
+   "scene": "It stops at 1.2 billion: you know how to change it",
+   "set": "classroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "counter",
+     "gain": -14,
+     "dur": 0.8
+    },
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 2.5,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 3.4,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d73",
+   "start": 432.9,
+   "end": 444.02,
+   "line": "",
+   "scene": "After class Maya invites Kip to tutoring",
+   "set": "dormHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 10.0,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d74",
+   "start": 444.02,
+   "end": 455.72,
+   "line": "",
+   "scene": "Thursday tutoring: Priya, supply and demand with vending machines",
+   "set": "library",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 2.2,
+     "name": "pop",
+     "gain": -14
+    },
+    {
+     "at": 6.8,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 9.5,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d75",
+   "start": 455.72,
+   "end": 465.64,
+   "line": "",
+   "scene": "Priya gets it; Kip forgets his number",
+   "set": "library",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d76",
+   "start": 465.64,
+   "end": 477.26,
+   "line": "",
+   "scene": "Dev brings snacks; his number twitches: it was the snacks",
+   "set": "library",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.1,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 3.4,
+     "name": "counter",
+     "gain": -14,
+     "dur": 0.5
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d77",
+   "start": 477.26,
+   "end": 482.72,
+   "line": "",
+   "scene": "A week later: Kip walks across campus, he stopped checking",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -20
+    },
+    {
+     "at": 2.5,
+     "name": "pop",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "d78",
+   "start": 482.72,
+   "end": 487.54,
+   "line": "",
+   "scene": "Fridge note: DEV 1.9 BILLION",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "swish",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "d79",
+   "start": 487.54,
+   "end": 492.52,
+   "line": "",
+   "scene": "The vending machine is still #8,000,000,001",
+   "set": "dormHall",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "d80",
+   "start": 492.52,
+   "end": 499.88,
+   "line": "",
+   "scene": "Question: would you want to see yours?",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 19.75,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 19.75,
+   "end": 32.86,
+   "mood": "tension",
+   "intensity": 0.6
+  },
+  {
+   "start": 32.86,
+   "end": 159.0,
+   "mood": "playful",
+   "intensity": 0.4
+  },
+  {
+   "start": 159.0,
+   "end": 260.6,
+   "mood": "wonder",
+   "intensity": 0.45
+  },
+  {
+   "start": 260.6,
+   "end": 327.7,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 327.7,
+   "end": 356.7,
+   "mood": "sad",
+   "intensity": 0.4
+  },
+  {
+   "start": 356.7,
+   "end": 402.0,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 402.0,
+   "end": 432.8,
+   "mood": "triumph",
+   "intensity": 0.5
+  },
+  {
+   "start": 432.8,
+   "end": 499.88,
+   "mood": "hopeful",
+   "intensity": 0.45
+  }
+ ]
+}

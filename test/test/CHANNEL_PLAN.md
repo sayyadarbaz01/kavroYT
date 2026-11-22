@@ -1,56 +1,63 @@
-# If Overdrive — Channel Fix + Content Plan (Nov 18 – Dec 31, 2026)
+# If Blaze (@IfBlaze) — Channel Plan
 
-## 1. Where the channel is today (checked Nov 18, 2026)
-| Item | Status |
+Full launch plan (titles, thumbnails, descriptions, shorts, checks): `../../../reports/viral-whatif/launch-plan.md`.
+
+## 1. Channel
+| Item | Value |
 |---|---|
-| Channel | @IfOverdrive, joined Oct 28, 2026, country India |
-| Public videos | **1**: "What If GTA 6 Was Real Life?" (posted Nov 18, 7:30 PM IST) |
-| Dropped | Teleport and Zero Pain: **not uploading** (user decision, Nov 18) |
-| Description | Good: "Kip Tries" and "Kip's Watch" series, "real science + twist" promise |
-| Problem | Hero is called **Kip** on the channel but **Leo** (friend **Jay**) in the shot library and the Zero Pain video. Pick one name and use it everywhere. |
+| Name / handle | **If Blaze**, @IfBlaze (the user's own channel, empty until Day 1) |
+| Audience | US, ages 16 to 30, worldwide English. US English in every script |
+| Hero | **Kip** (design in `aitrends-2d-studio/toon-kit/cast3d.js`, never changed) |
+| Voice | ElevenLabs v3, one narrator voice |
+| Look | 3D toon kit, cinema style, 16:9 1080p 24 fps |
+| Branding | `../../../reports/viral-whatif/branding/` (avatar.png 800×800, banner.png 2560×1440) |
+| Goal | YPP: 1,000 subscribers + 4,000 watch hours. About 320,000 long-form views at the niche median. Review takes about a month after that |
 
-## 2. Fix the channel first (this week)
-1. **Lead with the "See ___" formula** (from the @MikoIf breakdown in `D:\kavroYT\MikoIf_analysis.md`): a hidden number above everyone's head about love, lies, cheating, death or betrayal. Upload at **7:30 PM IST** (9 AM US Eastern), 3 long videos a week.
-2. **One hero name.** The channel, tags and description say Kip, so make the narration and on-screen text say Kip too.
-3. **Three playlists = three series:**
-   - **Kip Tries**: power/body what-ifs (500 IQ, "Trained You for 1 Year")
-   - **Kip Sees** *(new)*: Kip's brass watch shows a hidden number above every head (cheating, thoughts about you, real rating)
-   - **Kip Survives** *(new)*: 100-day zombie and disaster survival movies
-   - **Kip's Watch**: time-travel story
-4. **Write for a US audience.** Use US spelling and words (miles, "dude" not "mate"). Most high-RPM viewers are in the US.
-5. **Packaging:** every title is "What If You…" or "I Survived 100 Days…" and under 60 characters. Thumbnails: Kip's face big, one danger object, 3 words max.
-6. **Shorts:** cut 2–3 Shorts (30–45 s) from every long video, each ending with "full story on the channel".
-7. **Stay monetizable:** original scripts, your own voice, real science facts. Never copy another channel's exact title.
+## 2. Four pillars (one per playlist)
+1. **See Everyone's X**: a number over every head that contradicts status.
+2. **Never Existed**: a "rooms" explainer, each room breaks one system with a social stake and one checked fact.
+3. **Loops and Restarts**: time loop or restart, with a counter as the progress bar.
+4. **Day-Counter With Someone**: survival with a partner, day counter, planted device, twist.
 
-## 3. Content calendar
-Long = 8–15 min main video. Short = vertical clip or quick what-if.
+Plus a **Start Here** playlist with the three launch videos.
 
-| When | Type | Video | Niche / why now | Sets you already have |
-|---|---|---|---|---|
-| Nov 18 | Long | What If GTA 6 Was Real Life? | GTA 6 launch week | **posted 7:30 PM IST** |
-| Nov 19–20 | Short ×2 | Cut 2 Shorts from the GTA 6 video ("full story on the channel") | Rides the GTA 6 launch | reuse GTA shots |
-| Nov 22 | Long | **What If You Could See Who's Cheating on Who?** | "See ___" formula (Miko: Lie Count 939K, Crush 630K) | school, suburb, living, party |
-| Nov 24 | Long | What If You Were Picked for the Hunger Games? | Movie still in theaters | **new: arena** + park, storm |
-| Nov 25 | Long | **What If You Could See How Many Times Someone Thought About You Today?** | "See ___" formula: crush/romance angle | classroom, hallway, street |
-| Nov 26 | Short | Zombie Outbreak During Thanksgiving Dinner | Thanksgiving | kitchen, living |
-| Nov 28 | Long | **Kip Survives: 100 Days Trapped on a Zombie Airplane (Full Movie)** | Zombie 100-day survival in an unused location (cruise ship version got 1.19M) | **new: plane cabin** + storm |
-| Dec 2 | Long | What If You Had 500 IQ in a Zombie Apocalypse? | IQ what-if (1.4M proof) + zombie | lab, suburbNight, fireStreet |
-| Dec 4 | Long | **What If Saitama Trained You for 1 Year?** | "Character trained you" (Miko: Goku 251K in 1 day). Fan-made look-alike + disclaimer | park, mountain, street |
-| Dec 7 | Long | **What If You Could See Everyone's Real Rating of You?** | "See ___" formula: self-worth + betrayal | school, party, living |
-| Dec 5 | Short | 3 Worst Places to Hide in a Zombie Outbreak | "Worst ___ ever" list format | hospital, grocery, office |
-| Dec 9 | Long | Evolution of Kip's Zombie Base | "Evolution of" format (235K proof) | suburb, fireRoom, winterCamp |
-| Dec 12 | Long | Kip Survives: 100 Days in a Frozen Zombie City | Winter season | winterCamp, himalaya, streetNight |
-| Dec 15 | Long | What If You Were Stranded on a Desert Planet for 100 Days? | Dune: Part Three, Dec 18 | **new: desert planet** + void |
-| Dec 17 | Long | What If You Had Every Superhero Power for 24 Hours? | Avengers: Doomsday, Dec 18 | suburb, street, lab |
-| Dec 20 | Long | Zombie Outbreak: Trapped in a Mall on Christmas Eve | Christmas | **new: mall** + grocery, party |
-| Dec 27 | Long | The Worst Ways to Survive a Zombie Apocalypse | List format, holiday binge week | reuse zombie shots |
-| Dec 30 | Long | What If a Zombie Outbreak Started at Midnight on New Year's? | New Year's Eve | party, streetNight, fireStreet |
+## 3. Launch videos (Day 1, all three, UTC)
+| Time | Video | Script | Project |
+|---|---|---|---|
+| 13:00 | What If You Could See Everyone's Rank? (~11.0 min) | `scripts/01-see-everyones-rank.md` | `projects/see-everyones-rank/` |
+| 17:00 | What If Humans Never Invented Mirrors? (~11.0 min) | `scripts/02-mirrors-never-existed.md` | not started |
+| 21:00 | What If You and Your Crush Were Stuck in a Time Loop? (~10.6 min) | `scripts/03-crush-time-loop.md` | not started |
 
-New sets to build: **arena, plane cabin, desert planet, mall**. Add each to `toon-kit/sets3d.js` and the library so later videos can reuse them. A **zombie** character also goes into `cast3d.js` once, then gets reused in every Kip Survives episode.
+Script paths are in `../../../reports/viral-whatif/`. After the third video is live, add end screens and cards to all three.
 
-## 4. Rules that decide whether a video goes viral
-- **First 5 seconds:** open on danger, never on an intro. ("Day 1. The plane door opened at 30,000 feet… and something got in.")
-- **Day counters** in titles and on screen (Day 1, Day 30, Day 100) keep people watching to the end.
-- **Cliffhanger ending** that leads into the next Kip Survives episode, which makes the series binge-able.
-- **Trend videos go up 2–5 days before** the release date, not after.
-- **Check at 48 hours:** if CTR is under 4%, change the thumbnail first, then the title.
+## 4. Days 2 to 14 (one long video a day at 16:00 UTC, shorts at 11:00 and 20:00)
+| Day | Pillar | Working title |
+|---|---|---|
+| 2 | 1 | What If You Could See Everyone's Future Salary? |
+| 3 | 4 | What If You and Your Ex Were Stranded on an Island for 30 Days? |
+| 4 | 2 | What If Humans Couldn't Lie? |
+| 5 | 3 | What If You Woke Up 5 Years Ago With All Your Memories? |
+| 6 | 1 | What If You Could See Everyone's Future Job? |
+| 7 | 4 | What If You and Your Rival Were Trapped in a Bunker for 100 Days? |
+| 8 | 2 | What If Everyone Looked Exactly the Same? |
+| 9 | 3 | What If You Were Stuck in a Time Loop Until You Got Hired? |
+| 10 | 1 | What If You Could See Everyone's Mental Age? |
+| 11 | 4 | What If You and a Stranger Survived 30 Days in Antarctica? |
+| 12 | 2 | What If Humans Never Invented Money? |
+| 13 | Flex | Breakout follow-up, or: What If You Could See How Many People Remember You? |
+| 14 | Flex | Breakout follow-up, or: What If You and Your Roommate Were Snowed In for 30 Days? |
+
+Shorts: three word-for-word cut-downs (30 to 60 s) per launch video, Days 2 to 6, each ending unresolved with "full story on the channel".
+
+## 5. Checks
+- **Day 3 (48 h):** CTR by traffic source, retention at 0:30, AVD, subs per 1,000 views. If retention at 0:30 is 70% or more but CTR is under 4%, swap the thumbnail first. Change the title only 48 h later. One change per video per 48 h.
+- **Day 8 (7 days):** views vs channel median, breakout rule, YPP progress, retention drops sent back to the scripts, pillar weighting for weeks 3 and 4.
+- **Breakout follow-up:** keep the frame, change the variable. Never a reworded remake or a "Part 2".
+
+## 6. Rules
+- Every character is an adult. College, work or adult-life settings only. No high school, no romance with minors.
+- Every thumbnail scene, number and caption must appear in the video. No censor bars, swimwear or suggestive captions.
+- Fact-check every real claim, and list the sources in the description.
+- New premise, fresh script, own jokes and twist every video. Never the same pillar two days in a row.
+- Description keeps the AI line: scripts written with AI assistance, narration is a synthetic voice.
+- Claude does not upload, schedule or post. The user does that in Studio.

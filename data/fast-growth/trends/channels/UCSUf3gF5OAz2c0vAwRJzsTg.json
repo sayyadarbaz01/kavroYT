@@ -1,0 +1,48 @@
+{
+ "channel": "Oddline",
+ "channel_id": "UCSUf3gF5OAz2c0vAwRJzsTg",
+ "channel_url": "https://www.youtube.com/channel/UCSUf3gF5OAz2c0vAwRJzsTg",
+ "subscribers": 293,
+ "description": "What if an ordinary day came with one odd rule? What if a small decision changed everything? What if the person nobody noticed became the one everyone depended on? Through expressive stick figures, a little humor, and plenty of unexpected turns, we explore the stories those questions could become. For anyone who has ever wondered how something works or what would happen if it didn’t. Sometimes you know where it’s going. Sometimes that’s what gets you. Subscribe. There’s always another possibility.\n",
+ "tags": [],
+ "tab": "videos",
+ "stats": {
+  "sample_size": 2,
+  "median_views": 57120.0,
+  "mean_views": 57120,
+  "median_duration_s": 467.0,
+  "uploads_per_week": 0.58,
+  "uploads_last_30d": 2,
+  "views_last_30d_uploads": 114240,
+  "days_since_last_upload": 1,
+  "median_views_per_subscriber": 194.949
+ },
+ "videos": [
+  {
+   "id": "OxdDalYS6XQ",
+   "url": "https://www.youtube.com/watch?v=OxdDalYS6XQ",
+   "title": "What If Everyone Forgot Everything..Except You?",
+   "channel": "Oddline",
+   "channel_url": null,
+   "views": 240,
+   "duration_s": 486,
+   "date": "2026-11-21",
+   "age_days": 1,
+   "views_per_day": 240,
+   "x_median": 0.0
+  },
+  {
+   "id": "vc-T3Y2pqz4",
+   "url": "https://www.youtube.com/watch?v=vc-T3Y2pqz4",
+   "title": "What If You Woke Up 1000 Years in the Future",
+   "channel": "Oddline",
+   "channel_url": null,
+   "views": 114000,
+   "duration_s": 448,
+   "date": "2026-11-09",
+   "age_days": 13,
+   "views_per_day": 8769,
+   "x_median": 2.0
+  }
+ ]
+}

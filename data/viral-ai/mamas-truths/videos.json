@@ -1,0 +1,100 @@
+{
+ "channel": "Mama’s Truths",
+ "channel_id": "UCJfs8cQgzfltwEzVCQCQ3JA",
+ "channel_url": "https://www.youtube.com/channel/UCJfs8cQgzfltwEzVCQCQ3JA",
+ "subscribers": 28100,
+ "description": "⚠️ CONTENT & CREATIVE DISCLOSURE\n- Handcrafted Stories: All our storylines are original fictional scripts written by human creators to share timeless moral values.\n- Creative Production: We incorporate advanced AI tools to assist in visual art production and cinematic voice narration.\n- 100% Original Work: Every video is uniquely scripted, storyboarded, and edited specifically for Mama’s Truths.\n",
+ "tags": [],
+ "tab": "videos",
+ "stats": {
+  "sample_size": 6,
+  "median_views": 375500.0,
+  "mean_views": 1225167,
+  "median_duration_s": 3907.5,
+  "uploads_per_week": 1.84,
+  "uploads_last_30d": 6,
+  "views_last_30d_uploads": 7351000,
+  "days_since_last_upload": 1,
+  "median_views_per_subscriber": 13.363
+ },
+ "videos": [
+  {
+   "id": "I-Nk7iOZogE",
+   "url": "https://www.youtube.com/watch?v=I-Nk7iOZogE",
+   "title": "She Hid a Wounded Mob Boss Behind Her Back Door, Never Knowing He Killed Her Husband 20 Years Ago",
+   "channel": "Mama’s Truths",
+   "channel_url": null,
+   "views": 88000,
+   "duration_s": 3966,
+   "date": "2026-11-20",
+   "age_days": 1,
+   "views_per_day": 88000,
+   "x_median": 0.23
+  },
+  {
+   "id": "HxfdvWW1s94",
+   "url": "https://www.youtube.com/watch?v=HxfdvWW1s94",
+   "title": "Bride's Mother Smashed the Old Cook's Pot — Unaware She's the Groom's Billionaire Grandma",
+   "channel": "Mama’s Truths",
+   "channel_url": null,
+   "views": 112000,
+   "duration_s": 4056,
+   "date": "2026-11-16",
+   "age_days": 5,
+   "views_per_day": 22400,
+   "x_median": 0.3
+  },
+  {
+   "id": "-OqMqlvvCOo",
+   "url": "https://www.youtube.com/watch?v=-OqMqlvvCOo",
+   "title": "\"Serve Us, Houseboy.\" Brother-in-Law Mocks Him at Thanksgiving… He's the Billionaire's Lost Heir",
+   "channel": "Mama’s Truths",
+   "channel_url": null,
+   "views": 313000,
+   "duration_s": 3856,
+   "date": "2026-11-12",
+   "age_days": 9,
+   "views_per_day": 34778,
+   "x_median": 0.83
+  },
+  {
+   "id": "NJHNnsShgg8",
+   "url": "https://www.youtube.com/watch?v=NJHNnsShgg8",
+   "title": "He Left His Crippled Wife In A Storm For His Mistress—She Returns On Her Own Two Feet To Fire Him",
+   "channel": "Mama’s Truths",
+   "channel_url": null,
+   "views": 438000,
+   "duration_s": 3949,
+   "date": "2026-11-08",
+   "age_days": 13,
+   "views_per_day": 33692,
+   "x_median": 1.17
+  },
+  {
+   "id": "73xQi086xwo",
+   "url": "https://www.youtube.com/watch?v=73xQi086xwo",
+   "title": "Tired Nurse Entered The Wrong SUV On Halloween, Unaware Her Silent Driver Owned The Streets",
+   "channel": "Mama’s Truths",
+   "channel_url": null,
+   "views": 2300000,
+   "duration_s": 3706,
+   "date": "2026-11-08",
+   "age_days": 13,
+   "views_per_day": 176923,
+   "x_median": 6.13
+  },
+  {
+   "id": "FgUht16OlTo",
+   "url": "https://www.youtube.com/watch?v=FgUht16OlTo",
+   "title": "Billionaire Bank Owner Poses As A Beggar To Test Grandson’s Bride, Her True Face Shocked Everyone!",
+   "channel": "Mama’s Truths",
+   "channel_url": null,
+   "views": 4100000,
+   "duration_s": 3866,
+   "date": "2026-11-01",
+   "age_days": 20,
+   "views_per_day": 205000,
+   "x_median": 10.92
+  }
+ ]
+}

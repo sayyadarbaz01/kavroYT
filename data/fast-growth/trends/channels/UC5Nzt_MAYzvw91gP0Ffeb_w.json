@@ -1,0 +1,48 @@
+{
+ "channel": "Curious Guy",
+ "channel_id": "UC5Nzt_MAYzvw91gP0Ffeb_w",
+ "channel_url": "https://www.youtube.com/channel/UC5Nzt_MAYzvw91gP0Ffeb_w",
+ "subscribers": 2620,
+ "description": "",
+ "tags": [],
+ "tab": "videos",
+ "stats": {
+  "sample_size": 2,
+  "median_views": 197500.0,
+  "mean_views": 197500,
+  "median_duration_s": 478.5,
+  "uploads_per_week": null,
+  "uploads_last_30d": 2,
+  "views_last_30d_uploads": 395000,
+  "days_since_last_upload": 1,
+  "median_views_per_subscriber": 75.382
+ },
+ "videos": [
+  {
+   "id": "RzOKtiNZRUg",
+   "url": "https://www.youtube.com/watch?v=RzOKtiNZRUg",
+   "title": "What If Your CRUSH Could Feel Everything You Do?!",
+   "channel": "Curious Guy",
+   "channel_url": null,
+   "views": 377000,
+   "duration_s": 509,
+   "date": "2026-11-21",
+   "age_days": 1,
+   "views_per_day": 377000,
+   "x_median": 1.91
+  },
+  {
+   "id": "HjynPrEQXhQ",
+   "url": "https://www.youtube.com/watch?v=HjynPrEQXhQ",
+   "title": "What If You And Your CRUSH Got Trapped In A ZOMBIE APOCALYPSE?!",
+   "channel": "Curious Guy",
+   "channel_url": null,
+   "views": 18000,
+   "duration_s": 448,
+   "date": "2026-11-21",
+   "age_days": 1,
+   "views_per_day": 18000,
+   "x_median": 0.09
+  }
+ ]
+}

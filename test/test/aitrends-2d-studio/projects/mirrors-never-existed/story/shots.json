@@ -1,0 +1,3038 @@
+{
+ "title": "What If Humans Never Invented Mirrors?",
+ "duration": 541.47,
+ "shots": [
+  {
+   "id": "h01",
+   "start": 0.0,
+   "end": 4.62,
+   "line": "",
+   "scene": "Kip walks into the bathroom, stops at the sink: the wall above it is blank",
+   "set": "bathroom",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 2.6,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "h02",
+   "start": 4.62,
+   "end": 6.94,
+   "line": "",
+   "scene": "From the wall: Kip stares at it. NOT BROKEN. NOT MISSING.",
+   "set": "bathroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "h03",
+   "start": 6.94,
+   "end": 11.22,
+   "line": "",
+   "scene": "A mirror outline fades to nothing: NEVER EXISTED. NOBODY INVENTED ONE.",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.0,
+     "name": "glitch",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "h04",
+   "start": 11.22,
+   "end": 16.36,
+   "line": "",
+   "scene": "Kip fixes his cap by touch, pats his head, no idea what it looks like",
+   "set": "bathroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "swish",
+     "gain": -16
+    },
+    {
+     "at": 3.4,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "h05",
+   "start": 16.36,
+   "end": 19.08,
+   "line": "",
+   "scene": "Neither does anyone else: the street wide, messy people walking",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "h06",
+   "start": 19.08,
+   "end": 25.14,
+   "line": "",
+   "scene": "Leaves in hair, clashing clothes: LOST A FIGHT WITH A HEDGE. Nobody minds.",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 3.0,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "h07",
+   "start": 25.14,
+   "end": 30.62,
+   "line": "",
+   "scene": "Except Gary, a pigeon on a bollard, chest out. He thinks he is an eagle.",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -14
+    },
+    {
+     "at": 3.4,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "h08",
+   "start": 30.62,
+   "end": 37.0,
+   "line": "",
+   "scene": "Promise: no space telescopes, much stranger dating",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 3.7,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 5.5,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "h09",
+   "start": 37.0,
+   "end": 44.54,
+   "line": "",
+   "scene": "Promise: the face you think is yours, and people who might be happier",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.8,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 6.2,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "room1",
+   "start": 44.54,
+   "end": 46.88,
+   "line": "",
+   "scene": "ROOM 1 OF 7: THE REWIND, a door opens",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "riser",
+     "gain": -16
+    },
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r102",
+   "start": 46.88,
+   "end": 50.72,
+   "line": "",
+   "scene": "Rewind clock spins back: 8,000 YEARS AGO",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "clock",
+     "gain": -14
+    },
+    {
+     "at": 2.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r103",
+   "start": 50.72,
+   "end": 58.6,
+   "line": "",
+   "scene": "Polished obsidian mirror; map pin: Catalhoyuk, Turkey",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.5,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 5.2,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r104",
+   "start": 58.6,
+   "end": 62.44,
+   "line": "",
+   "scene": "Kip crouches at a still pond: the only way to see your face",
+   "set": "pond",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -18
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r105",
+   "start": 62.44,
+   "end": 70.54,
+   "line": "",
+   "scene": "NOBODY POLISHES THAT ROCK; your face: others see it, you do not",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 4.0,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r106",
+   "start": 70.54,
+   "end": 74.38,
+   "line": "",
+   "scene": "Rare and expensive: a mirror on a price tag",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.6,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r107",
+   "start": 74.38,
+   "end": 79.48,
+   "line": "",
+   "scene": "Murano near Venice, 1500s, glass vases",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.5,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r108",
+   "start": 79.48,
+   "end": 84.16,
+   "line": "",
+   "scene": "Glassworkers barred from leaving: a padlock",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r109",
+   "start": 84.16,
+   "end": 90.42,
+   "line": "",
+   "scene": "Louis XIV walks down the Hall of Mirrors",
+   "set": "versailles",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r110",
+   "start": 90.42,
+   "end": 93.12,
+   "line": "",
+   "scene": "Wide: 357 MIRRORS counter",
+   "set": "versailles",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 1.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r111",
+   "start": 93.12,
+   "end": 99.86,
+   "line": "",
+   "scene": "Louis poses: IT WAS A FLEX, I am so rich",
+   "set": "versailles",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 2.0,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r112",
+   "start": 99.86,
+   "end": 106.02,
+   "line": "",
+   "scene": "In this world: 357 BLANK PANELS, Louis confused",
+   "set": "versailles",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r113",
+   "start": 106.02,
+   "end": 107.56,
+   "line": "",
+   "scene": "Louis in a tower of hats: HATS.",
+   "set": "versailles",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -9
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r114",
+   "start": 107.56,
+   "end": 114.62,
+   "line": "",
+   "scene": "1835: Justus von Liebig coats glass with silver",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.5,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r115",
+   "start": 114.62,
+   "end": 119.32,
+   "line": "",
+   "scene": "The cheap clear mirror; in this world he goes home early: crossed out",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.8,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r116",
+   "start": 119.32,
+   "end": 125.66,
+   "line": "",
+   "scene": "Blank bathroom wall; Kip yawns: until tomorrow morning",
+   "set": "bathroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "swish",
+     "gain": -18
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "room2",
+   "start": 125.66,
+   "end": 127.88,
+   "line": "",
+   "scene": "ROOM 2 OF 7: GETTING READY",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "riser",
+     "gain": -16
+    },
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r202",
+   "start": 127.88,
+   "end": 130.78,
+   "line": "",
+   "scene": "A TEAM SPORT: two people, a whistle",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.0,
+     "name": "whistle",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r203",
+   "start": 130.78,
+   "end": 132.34,
+   "line": "",
+   "scene": "A couple does each other's makeup",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r204",
+   "start": 132.34,
+   "end": 134.66,
+   "line": "",
+   "scene": "Roommates check each other's teeth: SPINACH?",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r205",
+   "start": 134.66,
+   "end": 138.92,
+   "line": "",
+   "scene": "DO I HAVE SOMETHING ON MY FACE? the most common question on Earth",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 2.0,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "r206",
+   "start": 138.92,
+   "end": 141.46,
+   "line": "",
+   "scene": "Kip in the barber chair, scissors: pure trust",
+   "set": "barber",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "swish",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "swish",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r207",
+   "start": 141.46,
+   "end": 148.1,
+   "line": "",
+   "scene": "Kip stands up, cannot see it; barber: TRUST ME. IT'S GREAT.",
+   "set": "barber",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 5.3,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r208",
+   "start": 148.1,
+   "end": 151.36,
+   "line": "",
+   "scene": "Kip's hair is a disaster; friends give thumbs up: LOOKS GREAT",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hit",
+     "gain": -12
+    },
+    {
+     "at": 1.8,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "r209",
+   "start": 151.36,
+   "end": 153.38,
+   "line": "",
+   "scene": "SOCIETY RUNS ON THIS LIE stamp",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.5,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r210",
+   "start": 153.38,
+   "end": 156.3,
+   "line": "",
+   "scene": "Gary puffs his chest: MAJESTIC",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "r211",
+   "start": 156.3,
+   "end": 162.86,
+   "line": "",
+   "scene": "Clothing store, no mirror; Kip steps out of the fitting booth; a describer waits",
+   "set": "store",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -32
+   }
+  },
+  {
+   "id": "r212",
+   "start": 162.86,
+   "end": 168.02,
+   "line": "",
+   "scene": "Describer: THE JACKET SAYS CONFIDENCE. THE PANTS SAY...",
+   "set": "store",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 3.0,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -32
+   }
+  },
+  {
+   "id": "r213",
+   "start": 168.02,
+   "end": 175.54,
+   "line": "",
+   "scene": "Kip needs two honest friends",
+   "set": "store",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -32
+   }
+  },
+  {
+   "id": "r214",
+   "start": 175.54,
+   "end": 180.56,
+   "line": "",
+   "scene": "Beauty industry: lipstick you will never see on yourself",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.0,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r215",
+   "start": 180.56,
+   "end": 187.58,
+   "line": "",
+   "scene": "Ad billboard: YOUR FRIENDS WILL GASP",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 4.0,
+     "name": "cheer",
+     "gain": -18
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r216",
+   "start": 187.58,
+   "end": 193.8,
+   "line": "",
+   "scene": "Gym, no mirror wall: bad form, no mirror selfie",
+   "set": "gym",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "kick",
+     "gain": -14
+    },
+    {
+     "at": 2.4,
+     "name": "kick",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r217",
+   "start": 193.8,
+   "end": 197.68,
+   "line": "",
+   "scene": "Two problems solved, one created: check check cross",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.8,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 1.4,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 2.2,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "room3",
+   "start": 197.68,
+   "end": 200.82,
+   "line": "",
+   "scene": "ROOM 3 OF 7: YOUR HOME FEELS SMALLER",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "riser",
+     "gain": -16
+    },
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r302",
+   "start": 200.82,
+   "end": 207.92,
+   "line": "",
+   "scene": "Designer trick: a big mirror doubles a tiny room; gone",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.6,
+     "name": "shimmer",
+     "gain": -14
+    },
+    {
+     "at": 5.8,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r303",
+   "start": 207.92,
+   "end": 210.98,
+   "line": "",
+   "scene": "Kip in a tiny apartment: JUST TINY",
+   "set": "tiny",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r304",
+   "start": 210.98,
+   "end": 216.96,
+   "line": "",
+   "scene": "Dance studio, blank wall: dancers watch each other",
+   "set": "studio",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -32
+   }
+  },
+  {
+   "id": "r305",
+   "start": 216.96,
+   "end": 219.3,
+   "line": "",
+   "scene": "Teacher yells; YELLING ALREADY HAPPENS",
+   "set": "studio",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whistle",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -32
+   }
+  },
+  {
+   "id": "r306",
+   "start": 219.3,
+   "end": 224.3,
+   "line": "",
+   "scene": "Not your apartment: your LOVE LIFE",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.9,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "room4",
+   "start": 224.3,
+   "end": 226.3,
+   "line": "",
+   "scene": "ROOM 4 OF 7: DATING",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "riser",
+     "gain": -16
+    },
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r402",
+   "start": 226.3,
+   "end": 229.98,
+   "line": "",
+   "scene": "Kip about to leave, cannot check himself",
+   "set": "tiny",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r403",
+   "start": 229.98,
+   "end": 234.42,
+   "line": "",
+   "scene": "Kip walks into the restaurant; his date looks up",
+   "set": "restaurant",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -18
+    },
+    {
+     "at": 3.0,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r404",
+   "start": 234.42,
+   "end": 236.54,
+   "line": "",
+   "scene": "The date's face: GOOD FACE? BAD FACE?",
+   "set": "restaurant",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 1.2,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r405",
+   "start": 236.54,
+   "end": 239.76,
+   "line": "",
+   "scene": "Ketchup on Kip's forehead; YOU WILL NEVER KNOW",
+   "set": "restaurant",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r406",
+   "start": 239.76,
+   "end": 243.22,
+   "line": "",
+   "scene": "REAL SCIENCE: atom",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r407",
+   "start": 243.22,
+   "end": 250.38,
+   "line": "",
+   "scene": "Your mirror face is flipped left to right; nobody else sees it",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.5,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r408",
+   "start": 250.38,
+   "end": 256.44,
+   "line": "",
+   "scene": "1977 study: two photos, true and flipped",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.5,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 3.2,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r409",
+   "start": 256.44,
+   "end": 263.56,
+   "line": "",
+   "scene": "You pick the flipped one, friends pick the true one",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.4,
+     "name": "ding",
+     "gain": -14
+    },
+    {
+     "at": 4.8,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r410",
+   "start": 263.56,
+   "end": 267.44,
+   "line": "",
+   "scene": "MERE-EXPOSURE EFFECT: we like what we know",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r411",
+   "start": 267.44,
+   "end": 274.84,
+   "line": "",
+   "scene": "Kip sees a photo of himself and cringes",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "phonebuzz",
+     "gain": -18
+    },
+    {
+     "at": 3.2,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r412",
+   "start": 274.84,
+   "end": 281.06,
+   "line": "",
+   "scene": "Friends describe Kip to Kip",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.8,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "r413",
+   "start": 281.06,
+   "end": 287.1,
+   "line": "",
+   "scene": "ONE WAY LEFT: a camera",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.9,
+     "name": "flash",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "room5",
+   "start": 287.1,
+   "end": 290.44,
+   "line": "",
+   "scene": "ROOM 5 OF 7: PHOTOGRAPHS BECOME POWER",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "riser",
+     "gain": -16
+    },
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r502",
+   "start": 290.44,
+   "end": 299.22,
+   "line": "",
+   "scene": "Photographer at a tripod, a long queue: MOST POWERFUL PEOPLE ALIVE",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "flash",
+     "gain": -12
+    },
+    {
+     "at": 4.0,
+     "name": "flash",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "r503",
+   "start": 299.22,
+   "end": 310.34,
+   "line": "",
+   "scene": "1839 Robert Cornelius, the first selfie (sepia frame)",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "ding",
+     "gain": -12
+    },
+    {
+     "at": 2.5,
+     "name": "flash",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r504",
+   "start": 310.34,
+   "end": 319.32,
+   "line": "",
+   "scene": "Our world: history book. This world: celebrity, camera flashes",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.3,
+     "name": "flash",
+     "gain": -12
+    },
+    {
+     "at": 2.6,
+     "name": "flash",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r505",
+   "start": 319.32,
+   "end": 323.2,
+   "line": "",
+   "scene": "Front camera launch: BIGGEST PRODUCT LAUNCH IN HISTORY",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.8,
+     "name": "cheer",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r506",
+   "start": 323.2,
+   "end": 326.22,
+   "line": "",
+   "scene": "People see their faces on phones for the first time and cry",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "phonering",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r507",
+   "start": 326.22,
+   "end": 327.8,
+   "line": "",
+   "scene": "Someone screams",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r508",
+   "start": 327.8,
+   "end": 333.72,
+   "line": "",
+   "scene": "Gary sees himself on a phone: NOT AN EAGLE. He takes it badly",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 2.7,
+     "name": "stinger",
+     "gain": -14
+    },
+    {
+     "at": 4.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r509",
+   "start": 333.72,
+   "end": 340.32,
+   "line": "",
+   "scene": "Photo booth glowing like a temple; a queue",
+   "set": "boothStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r510",
+   "start": 340.32,
+   "end": 346.9,
+   "line": "",
+   "scene": "Yearly photo strip: OH. I HAVE A MOLE.",
+   "set": "boothStreet",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "flash",
+     "gain": -12
+    },
+    {
+     "at": 3.4,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r511",
+   "start": 346.9,
+   "end": 357.76,
+   "line": "",
+   "scene": "Dating apps: photo date stamps; older than a year = LYING",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.0,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 8.8,
+     "name": "buzz",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r512",
+   "start": 357.76,
+   "end": 365.08,
+   "line": "",
+   "scene": "Profile photo from 2009 with hair; he is bald now",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.9,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r513",
+   "start": 365.08,
+   "end": 371.5,
+   "line": "",
+   "scene": "Beauty filters make no sense: a filter on a face you know",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.4,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r514",
+   "start": 371.5,
+   "end": 379.28,
+   "line": "",
+   "scene": "First face you ever see is filtered: WHICH ONE IS REAL?",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.0,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 4.6,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r515",
+   "start": 379.28,
+   "end": 386.08,
+   "line": "",
+   "scene": "Kip: THAT'S NOT WHAT I LOOK LIKE. Friend: THAT'S EXACTLY WHAT YOU LOOK LIKE",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 5.4,
+     "name": "hit",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -32
+   }
+  },
+  {
+   "id": "r516",
+   "start": 386.08,
+   "end": 393.18,
+   "line": "",
+   "scene": "Your face is the small stuff; big things stop working",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.6,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "room6",
+   "start": 393.18,
+   "end": 395.79,
+   "line": "",
+   "scene": "ROOM 6 OF 7: THE BIG STUFF BREAKS",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "riser",
+     "gain": -16
+    },
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r602",
+   "start": 395.79,
+   "end": 400.36,
+   "line": "",
+   "scene": "Highway: cars with no rearview mirrors",
+   "set": "highway",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "carpass",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r603",
+   "start": 400.36,
+   "end": 403.9,
+   "line": "",
+   "scene": "Kip in a convertible turns his whole body to change lanes",
+   "set": "highway",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "carpass",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r604",
+   "start": 403.9,
+   "end": 405.92,
+   "line": "",
+   "scene": "EVERY HIGHWAY LOOKS LIKE THIS: cars zigzag",
+   "set": "highway",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "carpass",
+     "gain": -12
+    },
+    {
+     "at": 0.9,
+     "name": "impact",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r605",
+   "start": 405.92,
+   "end": 407.32,
+   "line": "",
+   "scene": "SCIENCE TAKES A HIT",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.4,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r606",
+   "start": 407.32,
+   "end": 415.42,
+   "line": "",
+   "scene": "Newton 1668: reflecting telescope, curved mirror gathers light",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 4.8,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r607",
+   "start": 415.42,
+   "end": 424.06,
+   "line": "",
+   "scene": "JWST: 18 gold mirror segments, galaxies far away",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r608",
+   "start": 424.06,
+   "end": 429.64,
+   "line": "",
+   "scene": "It never launches: the universe stays blurry",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r609",
+   "start": 429.64,
+   "end": 434.06,
+   "line": "",
+   "scene": "Lasers bounce between mirrors: NO LASERS",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 0.6,
+     "name": "buzz",
+     "gain": -16
+    },
+    {
+     "at": 2.9,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r610",
+   "start": 434.06,
+   "end": 437.86,
+   "line": "",
+   "scene": "No laser eye surgery, no barcode scanners",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 1.5,
+     "name": "blip",
+     "gain": -10
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r611",
+   "start": 437.86,
+   "end": 440.18,
+   "line": "",
+   "scene": "Cats have nothing to chase",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r612",
+   "start": 440.18,
+   "end": 443.06,
+   "line": "",
+   "scene": "Dentist loses the tiny mirror on a stick",
+   "set": "dentist",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "swish",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r613",
+   "start": 443.06,
+   "end": 447.34,
+   "line": "",
+   "scene": "Dentist squints into the mouth: HMM.",
+   "set": "dentist",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "tick",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r614",
+   "start": 447.34,
+   "end": 451.36,
+   "line": "",
+   "scene": "The simple periscope: a tube with two mirrors, never exists",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.4,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r615",
+   "start": 451.36,
+   "end": 458.94,
+   "line": "",
+   "scene": "Submarines use prisms: Navy fine; science fair project not",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 3.8,
+     "name": "ding",
+     "gain": -14
+    },
+    {
+     "at": 5.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r616",
+   "start": 458.94,
+   "end": 462.22,
+   "line": "",
+   "scene": "Blind corner in a parking garage: the round safety mirror, GONE",
+   "set": "garage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.6,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "r617",
+   "start": 462.22,
+   "end": 465.14,
+   "line": "",
+   "scene": "Two cars nose to nose at the corner: GAME OF CHICKEN",
+   "set": "garage",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "carpass",
+     "gain": -14
+    },
+    {
+     "at": 1.4,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "room7",
+   "start": 465.14,
+   "end": 467.42,
+   "line": "",
+   "scene": "ROOM 7 OF 7: THE TWIST",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "riser",
+     "gain": -16
+    },
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r702",
+   "start": 467.42,
+   "end": 471.08,
+   "line": "",
+   "scene": "JUST WORSE? ... MAYBE NOT.",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.8,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r703",
+   "start": 471.08,
+   "end": 480.58,
+   "line": "",
+   "scene": "1970 Gordon Gallup: a chimp in front of a mirror",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 5.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r704",
+   "start": 480.58,
+   "end": 484.48,
+   "line": "",
+   "scene": "THE MIRROR TEST for self-recognition",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r705",
+   "start": 484.48,
+   "end": 489.04,
+   "line": "",
+   "scene": "Human timeline: pass it at 18 months to 2 years",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.6,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 3.0,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r706",
+   "start": 489.04,
+   "end": 495.26,
+   "line": "",
+   "scene": "THAT'S ME. ...then worrying what me looks like",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -14
+    },
+    {
+     "at": 3.2,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "r707",
+   "start": 495.26,
+   "end": 501.34,
+   "line": "",
+   "scene": "Puddles and photos: the moment comes rarely",
+   "set": "pond",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r708",
+   "start": 501.34,
+   "end": 506.84,
+   "line": "",
+   "scene": "Looking outward: Kip and friends laughing together",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "cheer",
+     "gain": -22
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r709",
+   "start": 506.84,
+   "end": 511.2,
+   "line": "",
+   "scene": "You judge people by how they act: Kip helps a friend",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "pop",
+     "gain": -11
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "r710",
+   "start": 511.2,
+   "end": 516.78,
+   "line": "",
+   "scene": "Gary with pigeon friends: they call him EAGLE. He goes with it.",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "shimmer",
+     "gain": -14
+    },
+    {
+     "at": 3.0,
+     "name": "cheer",
+     "gain": -20
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "e01",
+   "start": 516.78,
+   "end": 521.92,
+   "line": "",
+   "scene": "Our world: Kip in front of a real mirror, looks a little off",
+   "set": "bathroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -16
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "e02",
+   "start": 521.92,
+   "end": 528.02,
+   "line": "",
+   "scene": "ONE: the flipped version; friends love the true face",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 2.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  },
+  {
+   "id": "e03",
+   "start": 528.02,
+   "end": 534.0,
+   "line": "",
+   "scene": "TWO: Gary struts in the sun, best life of anyone in this video",
+   "set": "park",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "shimmer",
+     "gain": -14
+    }
+   ],
+   "params": {},
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "e04",
+   "start": 534.0,
+   "end": 541.47,
+   "line": "",
+   "scene": "Question: WORLD WITHOUT MIRRORS or SEE WHAT EVERYONE THINKS? Tell me in the comments",
+   "set": "card",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.05,
+     "name": "whoosh",
+     "gain": -14
+    },
+    {
+     "at": 1.0,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 3.4,
+     "name": "pop",
+     "gain": -11
+    },
+    {
+     "at": 6.4,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "params": {},
+   "notes": ""
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 11.22,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 11.22,
+   "end": 44.54,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 44.54,
+   "end": 84.16,
+   "mood": "wonder",
+   "intensity": 0.4
+  },
+  {
+   "start": 84.16,
+   "end": 125.66,
+   "mood": "playful",
+   "intensity": 0.5
+  },
+  {
+   "start": 125.66,
+   "end": 197.68,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 197.68,
+   "end": 239.76,
+   "mood": "calm",
+   "intensity": 0.4
+  },
+  {
+   "start": 239.76,
+   "end": 287.1,
+   "mood": "mystery",
+   "intensity": 0.4
+  },
+  {
+   "start": 287.1,
+   "end": 327.8,
+   "mood": "wonder",
+   "intensity": 0.45
+  },
+  {
+   "start": 327.8,
+   "end": 333.72,
+   "mood": "sad",
+   "intensity": 0.5
+  },
+  {
+   "start": 333.72,
+   "end": 393.18,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 393.18,
+   "end": 405.92,
+   "mood": "action",
+   "intensity": 0.5
+  },
+  {
+   "start": 405.92,
+   "end": 440.18,
+   "mood": "wonder",
+   "intensity": 0.45
+  },
+  {
+   "start": 440.18,
+   "end": 465.14,
+   "mood": "playful",
+   "intensity": 0.45
+  },
+  {
+   "start": 465.14,
+   "end": 495.26,
+   "mood": "mystery",
+   "intensity": 0.4
+  },
+  {
+   "start": 495.26,
+   "end": 528.02,
+   "mood": "hopeful",
+   "intensity": 0.45
+  },
+  {
+   "start": 528.02,
+   "end": 541.47,
+   "mood": "triumph",
+   "intensity": 0.5
+  }
+ ]
+}

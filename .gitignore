@@ -73,3 +73,19 @@ desktop.ini
 .DS_Store
 .vscode/
 .idea/
+
+# Tool logs and scratch output (not code)
+*.err
+*.log
+*.svgpart
+kernel.errors.txt
+/package-lock.json
+
+# Claude Code per-machine settings
+.claude/settings.local.json
+
+# Keep the few binary inputs the code needs to run (voiceovers to re-render,
+# cast refs for thumbnails, the Gemini-mark alpha map)
+!test/test/aitrends-2d-studio/projects/*/input/voiceover.mp3
+!test/test/aitrends-2d-studio/projects/ifblaze-thumbs/ai/refs/*
+!.claude/skills/remove-gemini-mark/scripts/gemini_mark_alpha.png

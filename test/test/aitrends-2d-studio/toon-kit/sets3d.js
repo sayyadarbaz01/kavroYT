@@ -459,3 +459,5 @@ SETS.miamiNight = (st, o = {}) => { const r = SETS.miami(st, o); nightLight(st);
   st.scene.traverse((m) => { if (m.isMesh && m.material?.color && m.geometry?.parameters?.width === 1.2 && m.geometry.parameters.height === 1.1) m.material = new THREE.MeshBasicMaterial({ color: Math.random() < 0.45 ? '#ffd890' : '#1a2238' }); });
   for (const x of [-20, 14, 40]) { const l = new THREE.PointLight('#ffd890', 8, 12, 1.4); l.position.set(x + 0.35, 3.8, 1.0); st.add(l); }
   st.scene.fog = new THREE.Fog(new THREE.Color('#2a3050'), 30, 110); return r; };
+
+export { room, planks, checker, nightLight, rngf };   // used by sets_campus.js

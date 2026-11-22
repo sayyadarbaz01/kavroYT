@@ -1,0 +1,102 @@
+{
+ "channel": "What If Survival",
+ "channel_id": "UC1Jkwn5kYzgLTK-9-Ddxhcw",
+ "channel_url": "https://www.youtube.com/channel/UC1Jkwn5kYzgLTK-9-Ddxhcw",
+ "subscribers": 1960,
+ "description": "You vs the end of the world. New survival story episodes.",
+ "tags": [
+  "survival story",
+  "survival animation",
+  "animated survival series",
+  "what if survival",
+  "365 days until nuclear war",
+  "nuclear war bunker",
+  "building a bunker",
+  "bunker survival",
+  "100 days survival",
+  "island survival",
+  "apocalypse survival",
+  "post apocalyptic story",
+  "desert survival",
+  "survival series full season"
+ ],
+ "tab": "videos",
+ "stats": {
+  "sample_size": 5,
+  "median_views": 9800,
+  "mean_views": 42000,
+  "median_duration_s": 1343,
+  "uploads_per_week": 2.15,
+  "uploads_last_30d": 5,
+  "views_last_30d_uploads": 210000,
+  "days_since_last_upload": 0,
+  "median_views_per_subscriber": 5.0
+ },
+ "videos": [
+  {
+   "id": "7wxrw1nH4m4",
+   "url": "https://www.youtube.com/watch?v=7wxrw1nH4m4",
+   "title": "I Was Snowed In Alone In A Mall For 90 Days - Full Story Part 1 (Ep 1-10)",
+   "channel": "What If Survival",
+   "channel_url": null,
+   "views": 1600,
+   "duration_s": 1178,
+   "date": "2026-11-22",
+   "age_days": 0,
+   "views_per_day": 1600,
+   "x_median": 0.16
+  },
+  {
+   "id": "KOU7En1Jf6c",
+   "url": "https://www.youtube.com/watch?v=KOU7En1Jf6c",
+   "title": "I Was Stuck In 1348 With Nothing But My Brain (Full Season)",
+   "channel": "What If Survival",
+   "channel_url": null,
+   "views": 5600,
+   "duration_s": 2575,
+   "date": "2026-11-19",
+   "age_days": 3,
+   "views_per_day": 1867,
+   "x_median": 0.57
+  },
+  {
+   "id": "ltIbVQFTdNM",
+   "url": "https://www.youtube.com/watch?v=ltIbVQFTdNM",
+   "title": "I Survived 100 Days On An Empty Island (Full Season)",
+   "channel": "What If Survival",
+   "channel_url": null,
+   "views": 9800,
+   "duration_s": 2570,
+   "date": "2026-11-15",
+   "age_days": 7,
+   "views_per_day": 1400,
+   "x_median": 1.0
+  },
+  {
+   "id": "T0oBVmnVJN0",
+   "url": "https://www.youtube.com/watch?v=T0oBVmnVJN0",
+   "title": "They Want Into My Bunker After Nuclear War - Full Story Part 2 (Ep 11-20)",
+   "channel": "What If Survival",
+   "channel_url": null,
+   "views": 56000,
+   "duration_s": 1188,
+   "date": "2026-11-13",
+   "age_days": 9,
+   "views_per_day": 6222,
+   "x_median": 5.71
+  },
+  {
+   "id": "l_5GpgTKslM",
+   "url": "https://www.youtube.com/watch?v=l_5GpgTKslM",
+   "title": "I Had 365 Days to Build a Bunker Before Nuclear War - Full Story Part 1 (Ep 1-10)",
+   "channel": "What If Survival",
+   "channel_url": null,
+   "views": 137000,
+   "duration_s": 1343,
+   "date": "2026-11-09",
+   "age_days": 13,
+   "views_per_day": 10538,
+   "x_median": 13.98
+  }
+ ]
+}

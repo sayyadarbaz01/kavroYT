@@ -1,0 +1,27 @@
+{
+  "source": "out/What_If_You_Could_See_Everyones_Rank.mp4",
+  "fix": {},
+  "shorts": [
+    {
+      "id": "short1_see_rank",
+      "file": "Short1_See_Everyones_Rank.mp4",
+      "hook": "WHAT IF YOU COULD|SEE *EVERYONE'S RANK?*",
+      "segments": [[0.0, 32.86], [62.7, 74.2]],
+      "replace": []
+    },
+    {
+      "id": "short2_bus_driver_3",
+      "file": "Short2_Bus_Driver_Rank_3.mp4",
+      "hook": "THE BUS DRIVER IS|*#3 ON EARTH*",
+      "segments": [[270.9, 275.4], [327.8, 356.9]],
+      "replace": []
+    },
+    {
+      "id": "short3_dev_snacks",
+      "file": "Short3_It_Was_The_Snacks.mp4",
+      "hook": "MY BEST FRIEND IS|*#2.2 BILLION*",
+      "segments": [[100.8, 112.1], [465.6, 477.3], [482.7, 487.5]],
+      "replace": []
+    }
+  ]
+}

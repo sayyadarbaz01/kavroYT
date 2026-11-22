@@ -21,3 +21,14 @@ export const DEV = FRIEND;                                                      
 export const TANK = { top: 'hoodie', color: '#f2f2f2', hair: 'spiky', glasses: true, legs: '#2a2a33' };   // streamer: white hoodie + shades
 export const COP = { top: 'suit', color: '#1d2e5a', cap: true, capColor: '#1d2e5a', legs: '#1d2e5a' };   // Miami police officer
 export const DOCTOR = SCI;                                                               // doctor in a lab coat
+
+// ---- @IfBlaze "See Everyone's Rank" (college) cast ----
+export const MAYA = { top: 'hoodie', color: '#3f8a4a', hair: 'pony', legs: '#2a2a33' };                 // co-lead: high ponytail, green
+export const R412 = { top: 'hoodie', color: '#6b7684', hair: 'curly', legs: '#3a3f4a' };                // tired classmate (#412)
+export const ORDERLY = { ...R412, color: '#5fb0a8', legs: '#5fb0a8' };                                  // same guy in hospital scrubs
+export const CLEANER = { top: 'tee', color: '#5a7a9a', hair: 'bun', legs: '#3a4a5a' };                  // campus cleaner
+export const RICH = { top: 'suit', color: '#e8e2d4', hair: 'spiky', glasses: true, legs: '#c8c0b0' };   // rich kid, cream suit
+export const DRIVER = { top: 'suit', color: '#4a7ac8', hair: 'none', cap: true, capColor: '#2a4a7a', legs: '#1d2e5a' };   // bus driver
+export const OLDMAN = { top: 'cardigan', color: '#8a7a6a', hair: 'none', glasses: true, legs: '#4a4a52' };
+export const PRIYA = { top: 'cardigan', color: '#e8a0c0', hair: 'bun', glasses: true };                 // freshman
+export const RA = { top: 'tee', color: '#e8453c', hair: 'curly', legs: '#2a3a6a' };                     // resident assistant

@@ -1,0 +1,100 @@
+{
+ "channel": "TRZ_FTB",
+ "channel_id": "UC8hvY6Lh7OqQ8T1KYzoEeJw",
+ "channel_url": "https://www.youtube.com/channel/UC8hvY6Lh7OqQ8T1KYzoEeJw",
+ "subscribers": 13500,
+ "description": "Daily what would you do shorts and whole story’s ",
+ "tags": [],
+ "tab": "videos",
+ "stats": {
+  "sample_size": 6,
+  "median_views": 251000.0,
+  "mean_views": 342833,
+  "median_duration_s": 637.0,
+  "uploads_per_week": 5.83,
+  "uploads_last_30d": 6,
+  "views_last_30d_uploads": 2057000,
+  "days_since_last_upload": 0,
+  "median_views_per_subscriber": 18.593
+ },
+ "videos": [
+  {
+   "id": "abU65VHQeL4",
+   "url": "https://www.youtube.com/watch?v=abU65VHQeL4",
+   "title": "16 names on the list. 17 kids on the bus. | HEADCOUNT (Full Story)",
+   "channel": "TRZ_FTB",
+   "channel_url": null,
+   "views": 120000,
+   "duration_s": 790,
+   "date": "2026-11-21",
+   "age_days": 1,
+   "views_per_day": 120000,
+   "x_median": 0.48
+  },
+  {
+   "id": "ls7XePQzFZ4",
+   "url": "https://www.youtube.com/watch?v=ls7XePQzFZ4",
+   "title": "They played truth or dare. Then the door locked. | TRUTH OR DARE (Full Story)",
+   "channel": "TRZ_FTB",
+   "channel_url": null,
+   "views": 165000,
+   "duration_s": 946,
+   "date": "2026-11-22",
+   "age_days": 0,
+   "views_per_day": 165000,
+   "x_median": 0.66
+  },
+  {
+   "id": "f3ydlMvKYKs",
+   "url": "https://www.youtube.com/watch?v=f3ydlMvKYKs",
+   "title": "Five students. One exam. Only four walked out. | THE RETAKE (Full Story)",
+   "channel": "TRZ_FTB",
+   "channel_url": null,
+   "views": 238000,
+   "duration_s": 975,
+   "date": "2026-11-21",
+   "age_days": 1,
+   "views_per_day": 238000,
+   "x_median": 0.95
+  },
+  {
+   "id": "ZuI1OhKjf7s",
+   "url": "https://www.youtube.com/watch?v=ZuI1OhKjf7s",
+   "title": "The Vote: The Full Story (All 5 Parts) | Who Would You Vote For? POV Animation",
+   "channel": "TRZ_FTB",
+   "channel_url": null,
+   "views": 301000,
+   "duration_s": 481,
+   "date": "2026-11-18",
+   "age_days": 4,
+   "views_per_day": 75250,
+   "x_median": 1.2
+  },
+  {
+   "id": "WP6LYc8Zl7o",
+   "url": "https://www.youtube.com/watch?v=WP6LYc8Zl7o",
+   "title": "School Bus: The Full Story (All 6 Parts) | What Would You Do?",
+   "channel": "TRZ_FTB",
+   "channel_url": null,
+   "views": 264000,
+   "duration_s": 396,
+   "date": "2026-11-17",
+   "age_days": 5,
+   "views_per_day": 52800,
+   "x_median": 1.05
+  },
+  {
+   "id": "ct8A5SW-G7I",
+   "url": "https://www.youtube.com/watch?v=ct8A5SW-G7I",
+   "title": "Lockdown: The Full Story (All 6 Parts) | What Would You Do? POV Animation",
+   "channel": "TRZ_FTB",
+   "channel_url": null,
+   "views": 969000,
+   "duration_s": 484,
+   "date": "2026-11-16",
+   "age_days": 6,
+   "views_per_day": 161500,
+   "x_median": 3.86
+  }
+ ]
+}

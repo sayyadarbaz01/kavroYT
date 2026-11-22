@@ -1,13 +1,14 @@
 """Cut vertical 9:16 Shorts from a finished long video, with word-by-word burned captions.
 
 Layout (1080x1920): blurred zoomed copy of the frame as background, the real frame (center-cropped 86%)
-in the middle, a hook banner on top, captions below the frame. Encodes on the GPU (h264_qsv).
+in the middle, a hook banner on top, captions below the frame. Encodes on the GPU (h264_videotoolbox on macOS, h264_qsv elsewhere).
 
 usage: python tools/make_shorts.py --project projects/gta6-real-life --spec projects/gta6-real-life/shorts.json
 """
 import argparse, json, os, re, subprocess, sys
 sys.stdout.reconfigure(encoding='utf-8')
 
+FF = os.environ.get('FFMPEG', 'ffmpeg')   # needs libass (ass filter); Homebrew ffmpeg 9 has none, set FFMPEG to a build that does
 ap = argparse.ArgumentParser()
 ap.add_argument('--project', required=True)
 ap.add_argument('--spec', required=True)
@@ -111,12 +112,12 @@ for short in spec['shorts']:
     outp = os.path.join(P, 'out/shorts', short['file'])
     if a.stills:
         sd = os.path.join(P, 'build/short_stills', short['id']); os.makedirs(sd, exist_ok=True)
-        cmd = ['ffmpeg', '-y', '-hide_banner', '-loglevel', 'error', '-i', src, '-filter_complex', ';'.join(fl), '-map', '[vout]', '-vf', 'fps=1/2', '-s', '360x640', os.path.join(sd, '%02d.jpg')]
+        cmd = [FF, '-y', '-hide_banner', '-loglevel', 'error', '-i', src, '-filter_complex', ';'.join(fl), '-map', '[vout]', '-vf', 'fps=1/2', '-s', '360x640', os.path.join(sd, '%02d.jpg')]
         # -vf can't combine with filter_complex output; render a low-res temp then sample
-        cmd = ['ffmpeg', '-y', '-hide_banner', '-loglevel', 'error', '-i', src, '-filter_complex', ';'.join(fl) + ';[vout]fps=1/2,scale=360:640[st];[aout]anullsink', '-map', '[st]', os.path.join(sd, '%02d.jpg')]
+        cmd = [FF, '-y', '-hide_banner', '-loglevel', 'error', '-i', src, '-filter_complex', ';'.join(fl) + ';[vout]fps=1/2,scale=360:640[st];[aout]anullsink', '-map', '[st]', os.path.join(sd, '%02d.jpg')]
     else:
-        cmd = ['ffmpeg', '-y', '-hide_banner', '-loglevel', 'error', '-i', src, '-filter_complex', ';'.join(fl), '-map', '[vout]', '-map', '[aout]',
-               '-c:v', 'h264_qsv', '-global_quality', '20', '-look_ahead', '1', '-pix_fmt', 'nv12', '-c:a', 'aac', '-b:a', '192k', '-ar', '48000', '-movflags', '+faststart', outp]
+        cmd = [FF, '-y', '-hide_banner', '-loglevel', 'error', '-i', src, '-filter_complex', ';'.join(fl), '-map', '[vout]', '-map', '[aout]',
+               *(['-c:v', 'h264_videotoolbox', '-q:v', '80', '-pix_fmt', 'yuv420p'] if sys.platform == 'darwin' else ['-c:v', 'h264_qsv', '-global_quality', '20', '-look_ahead', '1', '-pix_fmt', 'nv12']), '-c:a', 'aac', '-b:a', '192k', '-ar', '48000', '-movflags', '+faststart', outp]
     print(short['id'], f'{total:.1f}s', '->', outp if not a.stills else 'stills')
     r = subprocess.run(cmd)
     if r.returncode: sys.exit(r.returncode)

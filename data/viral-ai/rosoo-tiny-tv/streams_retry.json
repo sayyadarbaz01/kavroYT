@@ -1,0 +1,74 @@
+{
+ "channel": "Rosoo Tiny TV",
+ "channel_id": "UCVWY3gpmIRZUnFv0QdFgyCg",
+ "channel_url": "https://www.youtube.com/channel/UCVWY3gpmIRZUnFv0QdFgyCg",
+ "subscribers": 11000,
+ "description": "",
+ "tags": [],
+ "tab": "streams",
+ "stats": {
+  "sample_size": 4,
+  "median_views": null,
+  "mean_views": null,
+  "median_duration_s": null,
+  "uploads_per_week": null,
+  "uploads_last_30d": 0,
+  "views_last_30d_uploads": 0,
+  "days_since_last_upload": null,
+  "median_views_per_subscriber": null
+ },
+ "videos": [
+  {
+   "id": "vwL8jYkjWFo",
+   "url": "https://www.youtube.com/watch?v=vwL8jYkjWFo",
+   "title": "Vintage Evening Radio Jazz – 1930s 1940s Smooth Swing & Vinyl Background Music",
+   "channel": "Rosoo Tiny TV",
+   "channel_url": null,
+   "views": null,
+   "duration_s": null,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "x_median": null
+  },
+  {
+   "id": "jSjKxMc1REA",
+   "url": "https://www.youtube.com/watch?v=jSjKxMc1REA",
+   "title": "Relaxing Autumn Jazz for Studying, Work 🍂 Cozy Coffee Shop Ambience & Smooth Jazz Instrumental Music",
+   "channel": "Rosoo Tiny TV",
+   "channel_url": null,
+   "views": null,
+   "duration_s": null,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "x_median": null
+  },
+  {
+   "id": "tsCU-k6pBpQ",
+   "url": "https://www.youtube.com/watch?v=tsCU-k6pBpQ",
+   "title": "Relaxing Autumn Jazz for Studying, Work 🍂 Cozy Coffee Shop Ambience & Smooth Jazz Instrumental Music",
+   "channel": "Rosoo Tiny TV",
+   "channel_url": null,
+   "views": null,
+   "duration_s": null,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "x_median": null
+  },
+  {
+   "id": "Y5N8MV55tsk",
+   "url": "https://www.youtube.com/watch?v=Y5N8MV55tsk",
+   "title": "Vintage Evening Radio Jazz – 1930s 1940s Smooth Swing & Vinyl Background Music",
+   "channel": "Rosoo Tiny TV",
+   "channel_url": null,
+   "views": null,
+   "duration_s": null,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "x_median": null
+  }
+ ]
+}

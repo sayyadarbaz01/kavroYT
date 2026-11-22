@@ -287,6 +287,13 @@ export function toonFigure(outfit = {}, o = {}) {
     legs.B.hp.rotation.set(0, 0, D(P.hipB)); legs.B.kn.rotation.set(0, 0, -D(P.knB));
     return root;
   };
+  // arms only (keeps legs/spine from the current pose): used to hold props while walking
+  root.setArms = (p) => {
+    const P = typeof p === 'string' ? POSE[p] || POSE.stand : { ...Z, ...p };
+    arms.A.sh.rotation.set(-D(P.shA[1]), 0, D(P.shA[0])); arms.A.el.rotation.set(0, 0, D(P.elA));
+    arms.B.sh.rotation.set(D(P.shB[1]), 0, D(P.shB[0])); arms.B.el.rotation.set(0, 0, D(P.elB));
+    return root;
+  };
   let curExpr = null;
   root.setExpr = (name) => { if (name === curExpr) return root; curExpr = name; faceM.map = faceTexture(name, outfit.glasses, outfit.bigEyes, faceFg); faceM.needsUpdate = true; return root; };
   // expression with automatic blinking (period differs per character)

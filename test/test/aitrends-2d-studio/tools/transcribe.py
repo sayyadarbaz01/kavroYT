@@ -50,8 +50,8 @@ def main():
     ap.add_argument("--model", default="small", help="tiny|base|small|medium|large-v3 (bigger = slower, more accurate)")
     ap.add_argument("--lang", default=None, help="e.g. en (auto-detect if omitted)")
     ap.add_argument("--script", help="plain-text script to align (keeps exact wording)")
-    ap.add_argument("--engine", default="openvino", choices=["openvino", "faster"],
-                    help="openvino = Intel GPU via OpenVINO (default, GPU-only rule); faster = faster-whisper (CPU unless NVIDIA)")
+    ap.add_argument("--engine", default="faster" if sys.platform == "darwin" else "openvino", choices=["openvino", "faster"],
+                    help="openvino = Intel GPU via OpenVINO (default on Windows, GPU-only rule); faster = faster-whisper (default on macOS, CPU unless NVIDIA)")
     a = ap.parse_args()
     cfg = load_json(os.path.join(a.project, "config.json"))
     audio_path = a.audio or os.path.join(a.project, cfg["voiceover"])

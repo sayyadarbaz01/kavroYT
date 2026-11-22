@@ -4,7 +4,10 @@
 //   node render.mjs --project P --sheet                               one still per shot -> build/sheets/*.png
 //   node render.mjs --project P --stills 3.5,12,40                    stills at times -> build/stills
 //   node render.mjs --project P --styles dusk,midnight,golden,neon --at 3.5,12,40   style comparison grid
+//   node render.mjs --project P --check [--from A --to B --step 3]   glitch scan of every 3rd frame -> build/glitches.json (exit 1 if any)
+//   A full render runs the glitch scan first and stops if it finds glitches (--force to render anyway).
 // Options: --workers N  --scale K  --style ID  --debug  --format png|jpeg  --crf 18  --gl auto|gpu|swiftshader  --out FILE
+//          --encoder vt|qsv|x264 (default: vt on macOS, qsv elsewhere)  --q 80 (VideoToolbox quality, 1-100)
 import http from 'node:http';
 import fs from 'node:fs';
 import os from 'node:os';
@@ -35,7 +38,14 @@ const LAUNCH = { args: ['--ignore-gpu-blocklist', '--enable-unsafe-swiftshader',
 if (args.preview) { if (!args.scale) args.scale = '0.5'; args.fast = true; }
 // frames go to h264 anyway, so a high-quality JPEG capture looks identical to PNG and is much faster to grab
 const FORMAT = args.format === 'png' ? 'png' : 'jpeg';
-const ENC = args.encoder || 'qsv';   // video encode on the Intel GPU (Quick Sync) by default; --encoder x264 for CPU
+// video encode on the GPU by default: Apple VideoToolbox on macOS, Intel Quick Sync elsewhere; --encoder x264 for CPU
+const ENC = args.encoder || (process.platform === 'darwin' ? 'vt' : 'qsv');
+const ENC_ARGS = {
+  qsv: ['-c:v', 'h264_qsv', '-preset', args.preset || 'medium', '-global_quality', String(args.crf || 20), '-pix_fmt', 'nv12'],
+  vt: ['-c:v', 'h264_videotoolbox', '-q:v', String(args.q || 80), '-pix_fmt', 'yuv420p'],   // q80 is about 8.6 Mbps at 1080p, YouTube's recommended upload rate
+  x264: ['-c:v', 'libx264', '-preset', args.preset || 'medium', '-crf', String(args.crf || 18), '-pix_fmt', 'yuv420p'],
+}[ENC];
+if (!ENC_ARGS) { console.error(`unknown --encoder ${ENC} (use vt, qsv or x264)`); process.exit(1); }
 const CFG = JSON.parse(fs.readFileSync(path.join(PROJECT, 'config.json'), 'utf8'));
 const FPS = CFG.fps || 24;
 
@@ -53,6 +63,25 @@ async function openPlayer(browser, style) {
 const shot = (page, f) => page.evaluate(i => window.renderFrame(i), f).then(() => page.screenshot({ type: FORMAT, ...(FORMAT === 'jpeg' ? { quality: args.preview ? 85 : 95 } : {}) }));
 const fmtT = s => `${Math.floor(s / 60)}m${String(Math.round(s % 60)).padStart(2, '0')}s`;
 
+
+// glitch scan: draws every Nth frame (no capture) and reads window.GLITCHES filled by the shot engine
+async function checkGlitches() {
+  const browser = await chromium.launch(LAUNCH); const page = await openPlayer(browser, null);
+  const total = await page.evaluate('window.TOTAL_FRAMES'), step = Math.max(1, +(args.step || 3));
+  const f0 = Math.max(0, Math.round((+args.from || 0) * FPS)), f1 = Math.min(total, args.to ? Math.round(+args.to * FPS) : total); const t0 = Date.now();
+  console.log(`Glitch scan: frames ${f0}-${f1}, every ${step} frame(s)…`);
+  for (let f = f0; f < f1; f += step) { await page.evaluate(i => window.renderFrame(i), f); if ((f - f0) % (step * 400) === 0 && f > f0) process.stdout.write(`  ${((f - f0) / FPS).toFixed(0)}s scanned\n`); }
+  const gl = await page.evaluate('window.GLITCHES || []'), errs = await page.evaluate('window.ERRORS'); await browser.close();
+  // merge repeats of the same problem into time ranges
+  const groups = new Map(); for (const g of gl) { const key = `${g.id}|${g.kind}|${g.msg.replace(/\(-?[\d.]+, -?[\d.]+\)/, '').replace(/\d+% /, '')}`; const e = groups.get(key); if (e) { e.t1 = Math.max(e.t1, g.t); e.n++; } else groups.set(key, { id: g.id, kind: g.kind, msg: g.msg, t0: g.t, t1: g.t, n: 1 }); }
+  const list = [...groups.values()].sort((a, b) => a.t0 - b.t0); fs.writeFileSync(path.join(BUILD, 'glitches.json'), JSON.stringify(list, null, 1));
+  errs.forEach(e => console.log('  shot error:', e));
+  if (!list.length && !errs.length) { console.log(`No glitches found (${fmtT((Date.now() - t0) / 1000)}).`); return 0; }
+  const mm = t => `${Math.floor(t / 60)}:${(t % 60).toFixed(1).padStart(4, '0')}`;
+  console.log(`\n${list.length} glitch(es):`); list.forEach(g => console.log(`  ${mm(g.t0)}-${mm(g.t1)}  ${g.id}  ${g.kind.padEnd(8)} ${g.msg}`));
+  console.log(`\nwrote ${path.join(BUILD, 'glitches.json')}`); return list.length + errs.length;
+}
+
 async function renderVideo() {
   const b0 = await chromium.launch(LAUNCH); const p0 = await openPlayer(b0);
   const total = await p0.evaluate('window.TOTAL_FRAMES'), fps = FPS;
@@ -67,7 +96,7 @@ async function renderVideo() {
     const a = f0 + k * chunk, b = Math.min(f1, a + chunk); if (a >= b) return null;
     const browser = await chromium.launch(LAUNCH); const page = await openPlayer(browser);
     const out = path.join(partsDir, `part_${String(k).padStart(3, '0')}.mp4`);
-    const ff = spawn('ffmpeg', ['-y', '-v', 'error', '-f', 'image2pipe', '-framerate', String(fps), '-i', '-', ...(ENC === 'qsv' ? ['-c:v', 'h264_qsv', '-preset', args.preset || 'medium', '-global_quality', String(args.crf || 20), '-pix_fmt', 'nv12'] : ['-c:v', 'libx264', '-preset', args.preset || 'medium', '-crf', String(args.crf || 18), '-pix_fmt', 'yuv420p']), '-r', String(fps), out], { stdio: ['pipe', 'inherit', 'inherit'] });
+    const ff = spawn('ffmpeg', ['-y', '-v', 'error', '-f', 'image2pipe', '-framerate', String(fps), '-i', '-', ...ENC_ARGS, '-r', String(fps), out], { stdio: ['pipe', 'inherit', 'inherit'] });
     for (let f = a; f < b; f++) {
       const img = await shot(page, f); if (!ff.stdin.write(img)) await new Promise(r => ff.stdin.once('drain', r)); done++;
       if (done % 48 === 0) { const el = (Date.now() - t0) / 1000, eta = (el / done) * (f1 - f0 - done); process.stdout.write(`  ${done}/${f1 - f0} frames  ${(done / el).toFixed(2)} fps  elapsed ${fmtT(el)}  eta ${fmtT(eta)}\n`); }
@@ -104,6 +133,6 @@ async function renderStills() {
   else { const per = 24; for (let i = 0; i < all.length; i += per) await contactSheet(browser, all.slice(i, i + per), path.join(dir, `sheet_${String(i / per + 1).padStart(2, '0')}.png`), 4, 440); }
   await browser.close(); console.log(`Wrote ${all.length} stills + contact sheet(s) to ${dir}`);
 }
-try { if (args.sheet || args.stills || args.styles) await renderStills(); else await renderVideo(); }
+try { if (args.check) process.exitCode = (await checkGlitches()) ? 1 : 0; else if (args.sheet || args.stills || args.styles) await renderStills(); else { if (!args.force && !(args.from || args.to) && await checkGlitches()) { console.error('\nRENDER STOPPED: fix the glitches above first (or pass --force).'); process.exitCode = 1; } else await renderVideo(); } }
 catch (e) { console.error('RENDER FAILED:', e.message); process.exitCode = 1; }
 finally { server.close(); }

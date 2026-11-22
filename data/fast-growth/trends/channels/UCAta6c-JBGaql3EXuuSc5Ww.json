@@ -1,0 +1,113 @@
+{
+ "channel": "WHATIFORIA",
+ "channel_id": "UCAta6c-JBGaql3EXuuSc5Ww",
+ "channel_url": "https://www.youtube.com/channel/UCAta6c-JBGaql3EXuuSc5Ww",
+ "subscribers": 692,
+ "description": "WHATIFORIA – What if…?\n\nWHATIFORIA turns wild “what if” questions into short animated stick-figure stories, with real science and real numbers behind them.",
+ "tags": [],
+ "tab": "videos",
+ "stats": {
+  "sample_size": 7,
+  "median_views": 1200,
+  "mean_views": 24863,
+  "median_duration_s": 399,
+  "uploads_per_week": 7.0,
+  "uploads_last_30d": 7,
+  "views_last_30d_uploads": 174043,
+  "days_since_last_upload": 0,
+  "median_views_per_subscriber": 1.734
+ },
+ "videos": [
+  {
+   "id": "VX7duig5-XA",
+   "url": "https://www.youtube.com/watch?v=VX7duig5-XA",
+   "title": "What If You Were Invisible Around Your Crush?",
+   "channel": "WHATIFORIA",
+   "channel_url": null,
+   "views": 1200,
+   "duration_s": 615,
+   "date": "2026-11-22",
+   "age_days": 0,
+   "views_per_day": 1200,
+   "x_median": 1.0
+  },
+  {
+   "id": "jwt52KBoY60",
+   "url": "https://www.youtube.com/watch?v=jwt52KBoY60",
+   "title": "What If You and Your Crush Were Stuck in a Sauna ?",
+   "channel": "WHATIFORIA",
+   "channel_url": null,
+   "views": 147000,
+   "duration_s": 645,
+   "date": "2026-11-20",
+   "age_days": 2,
+   "views_per_day": 73500,
+   "x_median": 122.5
+  },
+  {
+   "id": "mdQ0JY3UO5o",
+   "url": "https://www.youtube.com/watch?v=mdQ0JY3UO5o",
+   "title": "What If You Were 100x Faster? (It Costs Your Life)",
+   "channel": "WHATIFORIA",
+   "channel_url": null,
+   "views": 1400,
+   "duration_s": 319,
+   "date": "2026-11-20",
+   "age_days": 2,
+   "views_per_day": 700,
+   "x_median": 1.17
+  },
+  {
+   "id": "AEVe8qWYSK4",
+   "url": "https://www.youtube.com/watch?v=AEVe8qWYSK4",
+   "title": "What If You Were Stuck in a Car With Your Crush? (We Almost Kissed…)",
+   "channel": "WHATIFORIA",
+   "channel_url": null,
+   "views": 22000,
+   "duration_s": 621,
+   "date": "2026-11-19",
+   "age_days": 3,
+   "views_per_day": 7333,
+   "x_median": 18.33
+  },
+  {
+   "id": "cndqIGHu9v8",
+   "url": "https://www.youtube.com/watch?v=cndqIGHu9v8",
+   "title": "What If You Fell Into a Black Hole?",
+   "channel": "WHATIFORIA",
+   "channel_url": null,
+   "views": 640,
+   "duration_s": 399,
+   "date": "2026-11-17",
+   "age_days": 5,
+   "views_per_day": 128,
+   "x_median": 0.53
+  },
+  {
+   "id": "dr_itLkKbKs",
+   "url": "https://www.youtube.com/watch?v=dr_itLkKbKs",
+   "title": "What If You Could See Who Slept With Whom?",
+   "channel": "WHATIFORIA",
+   "channel_url": null,
+   "views": 1100,
+   "duration_s": 392,
+   "date": "2026-11-17",
+   "age_days": 5,
+   "views_per_day": 220,
+   "x_median": 0.92
+  },
+  {
+   "id": "wAsCoi7AV4s",
+   "url": "https://www.youtube.com/watch?v=wAsCoi7AV4s",
+   "title": "What If Your Healing Was 100x Faster?",
+   "channel": "WHATIFORIA",
+   "channel_url": null,
+   "views": 703,
+   "duration_s": 369,
+   "date": "2026-11-16",
+   "age_days": 6,
+   "views_per_day": 117,
+   "x_median": 0.59
+  }
+ ]
+}

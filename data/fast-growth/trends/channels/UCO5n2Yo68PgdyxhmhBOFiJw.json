@@ -1,0 +1,100 @@
+{
+ "channel": "Trapped Alone",
+ "channel_id": "UCO5n2Yo68PgdyxhmhBOFiJw",
+ "channel_url": "https://www.youtube.com/channel/UCO5n2Yo68PgdyxhmhBOFiJw",
+ "subscribers": 959,
+ "description": "Welcome to Trapped Alone.\n\nImagine being trapped in a world where every decision could be your last.\n\nFrom zombie outbreaks and deadly disasters to impossible survival scenarios, we explore what happens when you’re left alone with nowhere to run.\n\nHow long would you survive?\n\nSubscribe and find out.\n",
+ "tags": [],
+ "tab": "videos",
+ "stats": {
+  "sample_size": 6,
+  "median_views": 1086.0,
+  "mean_views": 43571,
+  "median_duration_s": 600.0,
+  "uploads_per_week": 1.94,
+  "uploads_last_30d": 6,
+  "views_last_30d_uploads": 261427,
+  "days_since_last_upload": 2,
+  "median_views_per_subscriber": 1.132
+ },
+ "videos": [
+  {
+   "id": "ESgjkjaPaIs",
+   "url": "https://www.youtube.com/watch?v=ESgjkjaPaIs",
+   "title": "What If You Could See Everyone's Dating Standards? (So Embarrasing)",
+   "channel": "Trapped Alone",
+   "channel_url": null,
+   "views": 972,
+   "duration_s": 864,
+   "date": "2026-11-20",
+   "age_days": 2,
+   "views_per_day": 486,
+   "x_median": 0.9
+  },
+  {
+   "id": "ODpW9v5ArYk",
+   "url": "https://www.youtube.com/watch?v=ODpW9v5ArYk",
+   "title": "What if you could feel everyone's pain?",
+   "channel": "Trapped Alone",
+   "channel_url": null,
+   "views": 1200,
+   "duration_s": 545,
+   "date": "2026-11-20",
+   "age_days": 2,
+   "views_per_day": 600,
+   "x_median": 1.1
+  },
+  {
+   "id": "98uL9TdUQlk",
+   "url": "https://www.youtube.com/watch?v=98uL9TdUQlk",
+   "title": "What If You Woke Up in Your Crush’s Body?",
+   "channel": "Trapped Alone",
+   "channel_url": null,
+   "views": 4700,
+   "duration_s": 522,
+   "date": "2026-11-19",
+   "age_days": 3,
+   "views_per_day": 1567,
+   "x_median": 4.33
+  },
+  {
+   "id": "pGMPBsUb1Js",
+   "url": "https://www.youtube.com/watch?v=pGMPBsUb1Js",
+   "title": "What if you could feel your crush body?",
+   "channel": "Trapped Alone",
+   "channel_url": null,
+   "views": 254000,
+   "duration_s": 546,
+   "date": "2026-11-18",
+   "age_days": 4,
+   "views_per_day": 63500,
+   "x_median": 233.89
+  },
+  {
+   "id": "mGIEXVuUtKc",
+   "url": "https://www.youtube.com/watch?v=mGIEXVuUtKc",
+   "title": "What If You are trapped with your crush and your Ex for in a school for 1 year : Zombie Outbreak",
+   "channel": "Trapped Alone",
+   "channel_url": null,
+   "views": 356,
+   "duration_s": 1037,
+   "date": "2026-11-15",
+   "age_days": 7,
+   "views_per_day": 51,
+   "x_median": 0.33
+  },
+  {
+   "id": "YikGWZtSsvo",
+   "url": "https://www.youtube.com/watch?v=YikGWZtSsvo",
+   "title": "Zombie Outbreak: I’m the Last Guard Locked In With 30 Inmates",
+   "channel": "Trapped Alone",
+   "channel_url": null,
+   "views": 199,
+   "duration_s": 654,
+   "date": "2026-11-02",
+   "age_days": 20,
+   "views_per_day": 10,
+   "x_median": 0.18
+  }
+ ]
+}

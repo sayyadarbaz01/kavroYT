@@ -1,0 +1,6369 @@
+{
+ "sources": {
+  "q01-month": "data/fast-growth/trends/q01-month.json",
+  "q01-week": "data/fast-growth/trends/q01-week.json",
+  "q02-month": "data/fast-growth/trends/q02-month.json",
+  "q02-week": "data/fast-growth/trends/q02-week.json",
+  "q03-month": "data/fast-growth/trends/q03-month.json",
+  "q03-week": "data/fast-growth/trends/q03-week.json",
+  "q04-month": "data/fast-growth/trends/q04-month.json",
+  "q04-week": "data/fast-growth/trends/q04-week.json",
+  "q05-month": "data/fast-growth/trends/q05-month.retry.json",
+  "q05-week": "data/fast-growth/trends/q05-week.json",
+  "q06-month": "data/fast-growth/trends/q06-month.json",
+  "q06-week": "data/fast-growth/trends/q06-week.json",
+  "q07-month": "data/fast-growth/trends/q07-month.json",
+  "q07-week": "data/fast-growth/trends/q07-week.json",
+  "q08-month": "data/fast-growth/trends/q08-month.json",
+  "q08-week": "data/fast-growth/trends/q08-week.retry.json",
+  "q09-month": "data/fast-growth/trends/q09-month.json",
+  "q09-week": "data/fast-growth/trends/q09-week.json",
+  "q10-month": "data/fast-growth/trends/q10-month.json",
+  "q10-week": "data/fast-growth/trends/q10-week.retry.json"
+ },
+ "videos": [
+  {
+   "id": "FSCGy0YaUaE",
+   "url": "https://www.youtube.com/watch?v=FSCGy0YaUaE",
+   "title": "YOU Trolled JJ and Mikey with Infinite Hearts! - Maizen Minecraft Animation",
+   "channel": "MSToons",
+   "channel_url": "https://www.youtube.com/channel/UCc2RL8jvY1rJPuCnJVsIQWw",
+   "views": 9656336,
+   "duration_s": 616,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "x86_c3eeJxs",
+   "url": "https://www.youtube.com/watch?v=x86_c3eeJxs",
+   "title": "My Mom Thinks I'm a Curse",
+   "channel": "MSA",
+   "channel_url": "https://www.youtube.com/channel/UCYzEMRKqrh01-tauv7MYyVQ",
+   "views": 6257109,
+   "duration_s": 3561,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "3pkkFlH7-pU",
+   "url": "https://www.youtube.com/watch?v=3pkkFlH7-pU",
+   "title": "Trapped In Walmart After Closing 1 Year (Full Story)",
+   "channel": "One Year Inside",
+   "channel_url": "https://www.youtube.com/channel/UCWif7N1C2ptpoUOLYCB353A",
+   "views": 3893567,
+   "duration_s": 2928,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q07",
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "wU_PUYMs5Bo",
+   "url": "https://www.youtube.com/watch?v=wU_PUYMs5Bo",
+   "title": "If Your Mom Ever Says Goodnight to You Twice... LOCK YOUR DOOR",
+   "channel": "Lullorin",
+   "channel_url": "https://www.youtube.com/channel/UCdgIMUacfx6cyAGD8miZesw",
+   "views": 3492292,
+   "duration_s": 819,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "pVUgJt1sDmI",
+   "url": "https://www.youtube.com/watch?v=pVUgJt1sDmI",
+   "title": "What If You Were Born as Ghost? | Call of Duty",
+   "channel": "Born in Lore",
+   "channel_url": "https://www.youtube.com/channel/UCBV6H_ZzQHW8O1h7NoiaW_w",
+   "views": 3328193,
+   "duration_s": 798,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "2TsZSQ77E9o",
+   "url": "https://www.youtube.com/watch?v=2TsZSQ77E9o",
+   "title": "What If You Could See Everyone's IQ?",
+   "channel": "ConChaser",
+   "channel_url": "https://www.youtube.com/channel/UCt-GhchW5nGSjr-ETeGab_g",
+   "views": 2936284,
+   "duration_s": 831,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q02",
+    "q09",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "NZ1gZnncHno",
+   "url": "https://www.youtube.com/watch?v=NZ1gZnncHno",
+   "title": "Spider-Man vs X-Men - Fan Animation",
+   "channel": "Theory Guy",
+   "channel_url": "https://www.youtube.com/channel/UCjHYc8tbzXrHrfXHms5UaUQ",
+   "views": 2810830,
+   "duration_s": 795,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "34N0adyKxvY",
+   "url": "https://www.youtube.com/watch?v=34N0adyKxvY",
+   "title": "In This Town / In This World Roblox Story Animation Compilation",
+   "channel": "Braids Reacts",
+   "channel_url": "https://www.youtube.com/channel/UCqz5azvs6eeE_c99UONUncg",
+   "views": 2523325,
+   "duration_s": 1159,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "DK4EOHCrVvM",
+   "url": "https://www.youtube.com/watch?v=DK4EOHCrVvM",
+   "title": "What If You Could See Everyone's Future Wealth?",
+   "channel": "ConChaser",
+   "channel_url": "https://www.youtube.com/channel/UCt-GhchW5nGSjr-ETeGab_g",
+   "views": 2406622,
+   "duration_s": 648,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "aV7_cA_xVXI",
+   "url": "https://www.youtube.com/watch?v=aV7_cA_xVXI",
+   "title": "What IF You Could See Who Has a Crush on You?",
+   "channel": " Jeremy Bearimy",
+   "channel_url": "https://www.youtube.com/channel/UCIHVYxXnwAzTvNU0PE_ZLsg",
+   "views": 2035846,
+   "duration_s": 638,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q02",
+    "q05",
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "6qIJI38aTmE",
+   "url": "https://www.youtube.com/watch?v=6qIJI38aTmE",
+   "title": "Zombie Outbreak: What If YOU Were Patient Zero? (Full Story)",
+   "channel": "IfYou Films",
+   "channel_url": "https://www.youtube.com/channel/UCdvbGznFEcB7E3IS7Wo-F7A",
+   "views": 1994942,
+   "duration_s": 1416,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "9LVdlATk5Zw",
+   "url": "https://www.youtube.com/watch?v=9LVdlATk5Zw",
+   "title": "Zombie Outbreak Survival: Trapped In a Farm Day 1 To Day 100 (Full Movie!)",
+   "channel": "DoodleSurvivals",
+   "channel_url": "https://www.youtube.com/channel/UCXMvwFJxTp-fLF1k6qABrxg",
+   "views": 1962827,
+   "duration_s": 4038,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q07",
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "oxj91T7Li34",
+   "url": "https://www.youtube.com/watch?v=oxj91T7Li34",
+   "title": "Absolute Zero: 100 Hours Survival in a Frozen City",
+   "channel": "Headlamp Guy",
+   "channel_url": "https://www.youtube.com/channel/UCEwbkI91uCLJnbf9Wf67X9w",
+   "views": 1921673,
+   "duration_s": 1011,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07",
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "4fRwFnJ_Yz8",
+   "url": "https://www.youtube.com/watch?v=4fRwFnJ_Yz8",
+   "title": "Star Wars Anime: What If Anakin Never Turned To The Dark Side?",
+   "channel": "Kro",
+   "channel_url": "https://www.youtube.com/channel/UC5BIE4Xd31zJKCLwM_pVQiQ",
+   "views": 1883811,
+   "duration_s": 1107,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "mfDSsRQ5lqE",
+   "url": "https://www.youtube.com/watch?v=mfDSsRQ5lqE",
+   "title": "The Girl Who's Running the Show - Pomni Takeover Pilot | The Amazing Digital Circus",
+   "channel": "\ud835\uddda\ud835\uddff\ud835\uddee\ud835\uddfd\ud835\uddf5\ud835\ude06 and 2 more",
+   "channel_url": null,
+   "views": 1803088,
+   "duration_s": 149,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "2hlKuko01hc",
+   "url": "https://www.youtube.com/watch?v=2hlKuko01hc",
+   "title": "\u0917\u093e\u0901\u0935 \u0915\u093e \u0930\u0939\u0938\u094d\u092f | Gaon Ka Rahasya | Hindi Kahaniya | Animated Stories",
+   "channel": "Dream Toon",
+   "channel_url": "https://www.youtube.com/channel/UCHtrI4TzNgpka8t6WGfgbhQ",
+   "views": 1779099,
+   "duration_s": 1203,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "myAGmeMR_vQ",
+   "url": "https://www.youtube.com/watch?v=myAGmeMR_vQ",
+   "title": "What If You Woke Up 20,000 Years Ago?",
+   "channel": "The Hidden Why",
+   "channel_url": "https://www.youtube.com/channel/UC1amMrfXjUfwfNLaWC4KTsg",
+   "views": 1757103,
+   "duration_s": 676,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "rLCVK9llntQ",
+   "url": "https://www.youtube.com/watch?v=rLCVK9llntQ",
+   "title": "What If The Immortal Snail Chased You and Never Stopped?",
+   "channel": "Ramy Rooma",
+   "channel_url": "https://www.youtube.com/channel/UCKTtLtEM9HUI__uVYPRqb4A",
+   "views": 1649842,
+   "duration_s": 427,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "vZ2eX-tIBDI",
+   "url": "https://www.youtube.com/watch?v=vZ2eX-tIBDI",
+   "title": "What If You Were Born as CJ? | GTA San Andreas",
+   "channel": "Born in Lore",
+   "channel_url": "https://www.youtube.com/channel/UCBV6H_ZzQHW8O1h7NoiaW_w",
+   "views": 1645352,
+   "duration_s": 674,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "r2uxUidsFZk",
+   "url": "https://www.youtube.com/watch?v=r2uxUidsFZk",
+   "title": "What If Naruto and Sasuke Were Reborn With All Their Memories? (Part 1)",
+   "channel": "Shonen Timelines",
+   "channel_url": "https://www.youtube.com/channel/UCpjbL7EjMFlpBwHbLMO-8vQ",
+   "views": 1556844,
+   "duration_s": 2127,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "KOHG4Ik5Hdk",
+   "url": "https://www.youtube.com/watch?v=KOHG4Ik5Hdk",
+   "title": "What If Humans Never Invented Clothes?",
+   "channel": "Hypo Room",
+   "channel_url": "https://www.youtube.com/channel/UCG4Du2Vw0Tj-T8_Pt90qJwg",
+   "views": 1495686,
+   "duration_s": 605,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "i7xw0ZRT-DI",
+   "url": "https://www.youtube.com/watch?v=i7xw0ZRT-DI",
+   "title": "What If You Could See Everyone's Future Height?",
+   "channel": "ConChaser",
+   "channel_url": "https://www.youtube.com/channel/UCt-GhchW5nGSjr-ETeGab_g",
+   "views": 1458761,
+   "duration_s": 1106,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "G63ZpgzmSGo",
+   "url": "https://www.youtube.com/watch?v=G63ZpgzmSGo",
+   "title": "What If You Had 500 Charisma?",
+   "channel": "IFNation",
+   "channel_url": "https://www.youtube.com/channel/UCjXCoo0SOXZD8BFgb5ABlMg",
+   "views": 1454636,
+   "duration_s": 570,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "Dch62c_rCzA",
+   "url": "https://www.youtube.com/watch?v=Dch62c_rCzA",
+   "title": "\ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\udde0\ud835\udde2\ud835\udde0\ud835\uddd8\ud835\udde1\ud835\udde7 \ud835\uddec\ud835\udde2\ud835\udde8 \ud835\udde5\ud835\uddd8\ud835\uddd4\ud835\udddf\ud835\udddc\ud835\udde6\ud835\uddd8 \ud835\udddc\ud835\udde7'\ud835\udde6 \ud835\udde1\ud835\udde2\ud835\udde7 \ud835\uddd4 \ud835\uddd6\ud835\udde5\ud835\udde8\ud835\udde6\ud835\udddb \ud835\uddd4\ud835\udde1\ud835\uddec\ud835\udde0\ud835\udde2\ud835\udde5\ud835\uddd8 \u22c6\u02da\ud835\udf17\ud835\udf1a\u02da\u22c6 #fyp #playlist  #crush ",
+   "channel": "\ud835\ude0e\ud835\ude36\ud835\ude33\ud835\ude2d \ud835\ude38\ud835\ude29\ud835\ude22\ud835\ude35\ud835\ude26\ud835\ude37\ud835\ude26\ud835\ude33\ud835\ude33 \u22c6\u02da\uaa5c\uff61",
+   "channel_url": "https://www.youtube.com/channel/UCPhh_VpIRfO6mazqBcpCUnA",
+   "views": 1406939,
+   "duration_s": 2316,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "zqQZXZ-eUnE",
+   "url": "https://www.youtube.com/watch?v=zqQZXZ-eUnE",
+   "title": "What If Everyone Could Hear Your Thoughts?",
+   "channel": "IFNation",
+   "channel_url": "https://www.youtube.com/channel/UCjXCoo0SOXZD8BFgb5ABlMg",
+   "views": 1363952,
+   "duration_s": 669,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "DS-DsNMWy3s",
+   "url": "https://www.youtube.com/watch?v=DS-DsNMWy3s",
+   "title": "What If You Were Trapped in a Gas Station for 365 Days During a Zombie Outbreak?",
+   "channel": "Ba\u015f\u0131na Gelse\u00bf",
+   "channel_url": "https://www.youtube.com/channel/UC23gOVPn8rSbPx-FGj5PtFA",
+   "views": 1337420,
+   "duration_s": 544,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "OtbLL6OBNE4",
+   "url": "https://www.youtube.com/watch?v=OtbLL6OBNE4",
+   "title": "How to Make Viral Animated Shorts Using Claude (Full Workflow)",
+   "channel": "Mr omi",
+   "channel_url": "https://www.youtube.com/channel/UCRj1ZF-nLuCK5NFFo2Qkzyg",
+   "views": 1304971,
+   "duration_s": 713,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "xdj5PL0t61k",
+   "url": "https://www.youtube.com/watch?v=xdj5PL0t61k",
+   "title": "I Survived 100 Days On A Zombie Cruise Ship. The Final Day Changes Everything. (Full Movie)",
+   "channel": "Kit vs The End",
+   "channel_url": "https://www.youtube.com/channel/UCND-rtZrbxwcyz4qA5Bppkg",
+   "views": 1303298,
+   "duration_s": 4382,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q07",
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "X_wiaDTxSho",
+   "url": "https://www.youtube.com/watch?v=X_wiaDTxSho",
+   "title": "What If You Had Infinite IQ in PRISON?",
+   "channel": "DOOMPERK",
+   "channel_url": "https://www.youtube.com/channel/UCMu5Q7KkH2Ao1oLC_6J7B8Q",
+   "views": 1295564,
+   "duration_s": 961,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "uJbSqDz17qg",
+   "url": "https://www.youtube.com/watch?v=uJbSqDz17qg",
+   "title": "What IF You Saved Your School From a Shooting?",
+   "channel": " Jeremy Bearimy",
+   "channel_url": "https://www.youtube.com/channel/UCIHVYxXnwAzTvNU0PE_ZLsg",
+   "views": 1280221,
+   "duration_s": 640,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q07",
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "a4IxwLQNj-k",
+   "url": "https://www.youtube.com/watch?v=a4IxwLQNj-k",
+   "title": "What If You Were Stuck in a Bunker With Your Crush?",
+   "channel": "Questionverse",
+   "channel_url": "https://www.youtube.com/channel/UCUK7e3Qja5d-muR6b-jiZCw",
+   "views": 1252022,
+   "duration_s": 1263,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q05",
+    "q07",
+    "q08",
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "0qJOQdZ-k6Q",
+   "url": "https://www.youtube.com/watch?v=0qJOQdZ-k6Q",
+   "title": "What If You Could Never Miss? ",
+   "channel": "Lore Tales",
+   "channel_url": "https://www.youtube.com/channel/UCkVZQvDfnQBCJ_UAOVuMMnA",
+   "views": 1228698,
+   "duration_s": 432,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "6gHfaBzK-Nk",
+   "url": "https://www.youtube.com/watch?v=6gHfaBzK-Nk",
+   "title": "If Everyone Is In Debt, Who Has The Money?",
+   "channel": "OBF",
+   "channel_url": "https://www.youtube.com/channel/UCK1XzxcKXB_v_dcw_tflC1A",
+   "views": 1214616,
+   "duration_s": 1708,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "cB5AnPSKXr8",
+   "url": "https://www.youtube.com/watch?v=cB5AnPSKXr8",
+   "title": "What If You Were Born as Kratos? | God of War",
+   "channel": "Born in Lore",
+   "channel_url": "https://www.youtube.com/channel/UCBV6H_ZzQHW8O1h7NoiaW_w",
+   "views": 1205225,
+   "duration_s": 486,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "maZnSPuFGjU",
+   "url": "https://www.youtube.com/watch?v=maZnSPuFGjU",
+   "title": "What IF You Had Infinite Money?",
+   "channel": " Jeremy Bearimy",
+   "channel_url": "https://www.youtube.com/channel/UCIHVYxXnwAzTvNU0PE_ZLsg",
+   "views": 1157371,
+   "duration_s": 637,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "fv0o_tYEeOU",
+   "url": "https://www.youtube.com/watch?v=fv0o_tYEeOU",
+   "title": "Night Explorers | Halloween Detective Story | Police Cartoon for Kids | Sheriff Labrador",
+   "channel": "Sheriff Labrador - Kids Cartoon",
+   "channel_url": "https://www.youtube.com/channel/UCXIvAXVdbUDzIFhVwB9RR-g",
+   "views": 1086400,
+   "duration_s": 2612,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "PgfTx8Kmto4",
+   "url": "https://www.youtube.com/watch?v=PgfTx8Kmto4",
+   "title": "If The Whole Theater Laughs At The Wrong Part... DO NOT LAUGH",
+   "channel": "Final Sight",
+   "channel_url": "https://www.youtube.com/channel/UCXaUIWS6ZoF07bPIf_RxFSA",
+   "views": 1078243,
+   "duration_s": 620,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "SCEGYw2LjG4",
+   "url": "https://www.youtube.com/watch?v=SCEGYw2LjG4",
+   "title": "What IF You Were the ONLY GUY at a Girls Only School?",
+   "channel": " Jeremy Bearimy",
+   "channel_url": "https://www.youtube.com/channel/UCIHVYxXnwAzTvNU0PE_ZLsg",
+   "views": 1028361,
+   "duration_s": 614,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "SeigWp8dGPo",
+   "url": "https://www.youtube.com/watch?v=SeigWp8dGPo",
+   "title": "What If You Aged Backwards?",
+   "channel": "What if U click",
+   "channel_url": "https://www.youtube.com/channel/UC4_ZBxBKeI7EvERl1xOY1jQ",
+   "views": 1013964,
+   "duration_s": 477,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "8vpe0PbAhaM",
+   "url": "https://www.youtube.com/watch?v=8vpe0PbAhaM",
+   "title": "What If Everyone Were Reborn With Their Memories?",
+   "channel": "Yeagerists",
+   "channel_url": "https://www.youtube.com/channel/UCzoWo7ZpqhlhVxhqfFAqHAQ",
+   "views": 999269,
+   "duration_s": 1767,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "3O3t703J6k8",
+   "url": "https://www.youtube.com/watch?v=3O3t703J6k8",
+   "title": "\u092a\u0940\u092a\u0932 \u0915\u0947 \u092a\u0947\u0921\u093c \u092a\u0930 \u092c\u0948\u0920\u093e \u0935\u094b \u0905\u091c\u0940\u092c \u092c\u091a\u094d\u091a\u093e\u2026 \u091c\u094b \u0915\u092d\u0940 \u0928\u0940\u091a\u0947 \u0928\u0939\u0940\u0902 \u0909\u0924\u0930\u0924\u093e \u0925\u093e! | 90s Nostalgia Horror Story",
+   "channel": "Story Baatli",
+   "channel_url": "https://www.youtube.com/channel/UCLOoFHjAfOkIJ6z1iyPjfdw",
+   "views": 998469,
+   "duration_s": 1160,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "XbXiFizyGko",
+   "url": "https://www.youtube.com/watch?v=XbXiFizyGko",
+   "title": "What if You\u2019re The Last Guy on Earth?",
+   "channel": "Awaken",
+   "channel_url": "https://www.youtube.com/channel/UCAGRnC0u-hiBa7eUvrFtFow",
+   "views": 988216,
+   "duration_s": 494,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q05",
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "_lq_xwbcaiU",
+   "url": "https://www.youtube.com/watch?v=_lq_xwbcaiU",
+   "title": "What if humans never invented clothing?",
+   "channel": "WhatIfVerse",
+   "channel_url": "https://www.youtube.com/channel/UCLKGaEpJ4IOE5qQBlgIA_fQ",
+   "views": 976888,
+   "duration_s": 659,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "kLXmB-ctWns",
+   "url": "https://www.youtube.com/watch?v=kLXmB-ctWns",
+   "title": "If Your Sibling Ever Asks What Your Name Is... LIE",
+   "channel": "Lullorin",
+   "channel_url": "https://www.youtube.com/channel/UCdgIMUacfx6cyAGD8miZesw",
+   "views": 970341,
+   "duration_s": 624,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "_4UaoCZFXsQ",
+   "url": "https://www.youtube.com/watch?v=_4UaoCZFXsQ",
+   "title": "What If You Were Born With Infinite IQ?",
+   "channel": "What If Effect",
+   "channel_url": "https://www.youtube.com/channel/UCehx4Krtf9nKlLUjZMRqdvQ",
+   "views": 967548,
+   "duration_s": 597,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q09"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "ct8A5SW-G7I",
+   "url": "https://www.youtube.com/watch?v=ct8A5SW-G7I",
+   "title": "Lockdown: The Full Story (All 6 Parts) | What Would You Do? POV Animation",
+   "channel": "TRZ_FTB",
+   "channel_url": "https://www.youtube.com/channel/UC8hvY6Lh7OqQ8T1KYzoEeJw",
+   "views": 966509,
+   "duration_s": 484,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q07",
+    "q09"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "JzFisAkHx1k",
+   "url": "https://www.youtube.com/watch?v=JzFisAkHx1k",
+   "title": "What If It Never Stopped Raining for 10 Years?",
+   "channel": "Your Other Life",
+   "channel_url": "https://www.youtube.com/channel/UCZw9yuzRJV5itMb60or5bcg",
+   "views": 963275,
+   "duration_s": 1803,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "MGZdDZyQUGg",
+   "url": "https://www.youtube.com/watch?v=MGZdDZyQUGg",
+   "title": "What If You Could See Everyone\u2019s Lie Count?",
+   "channel": "Miko",
+   "channel_url": "https://www.youtube.com/channel/UClyTaG_r431PZoQstNv1uQQ",
+   "views": 962028,
+   "duration_s": 610,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q02",
+    "q09",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "WZkZXfP5ltA",
+   "url": "https://www.youtube.com/watch?v=WZkZXfP5ltA",
+   "title": "In This World / In This Town Roblox Story Animation Compilation",
+   "channel": "Gleeful Reacts",
+   "channel_url": "https://www.youtube.com/channel/UCdGBy5Rb_Z8Ra6spuebCvkQ",
+   "views": 959650,
+   "duration_s": 1052,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "-ohrNzE3upg",
+   "url": "https://www.youtube.com/watch?v=-ohrNzE3upg",
+   "title": "What If You and Your Crush Got Stuck in a Sauna?",
+   "channel": "Hypo Room",
+   "channel_url": "https://www.youtube.com/channel/UCG4Du2Vw0Tj-T8_Pt90qJwg",
+   "views": 941529,
+   "duration_s": 1273,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "3AodXmVNHSg",
+   "url": "https://www.youtube.com/watch?v=3AodXmVNHSg",
+   "title": "What If Humans Lived for 1,000 Years?",
+   "channel": "What if U click",
+   "channel_url": "https://www.youtube.com/channel/UC4_ZBxBKeI7EvERl1xOY1jQ",
+   "views": 925662,
+   "duration_s": 524,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "UtXsABU4Cek",
+   "url": "https://www.youtube.com/watch?v=UtXsABU4Cek",
+   "title": "What If You Were the Only Man on an Island of 100 Amazons?",
+   "channel": "Hypo Room",
+   "channel_url": "https://www.youtube.com/channel/UCG4Du2Vw0Tj-T8_Pt90qJwg",
+   "views": 918156,
+   "duration_s": 735,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q03",
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "tnV2N9XqnqE",
+   "url": "https://www.youtube.com/watch?v=tnV2N9XqnqE",
+   "title": "If The Diver Starts Banging On The Glass... RUN FAST",
+   "channel": "Final Sight",
+   "channel_url": "https://www.youtube.com/channel/UCXaUIWS6ZoF07bPIf_RxFSA",
+   "views": 892634,
+   "duration_s": 805,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "k00lF9AQx0U",
+   "url": "https://www.youtube.com/watch?v=k00lF9AQx0U",
+   "title": "What If You Could See Who Finds You Attractive?",
+   "channel": "ConChaser",
+   "channel_url": "https://www.youtube.com/channel/UCt-GhchW5nGSjr-ETeGab_g",
+   "views": 880335,
+   "duration_s": 962,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q05"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "fFziW8Hgf84",
+   "url": "https://www.youtube.com/watch?v=fFziW8Hgf84",
+   "title": "What if You Were The Last Girl On Earth?",
+   "channel": "Awaken",
+   "channel_url": "https://www.youtube.com/channel/UCAGRnC0u-hiBa7eUvrFtFow",
+   "views": 864421,
+   "duration_s": 489,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q05",
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "f5SN1UFS6VA",
+   "url": "https://www.youtube.com/watch?v=f5SN1UFS6VA",
+   "title": "You Spent 10 Years in a Bunker. You Only Needed 5.",
+   "channel": "Your Other Life",
+   "channel_url": "https://www.youtube.com/channel/UCZw9yuzRJV5itMb60or5bcg",
+   "views": 860891,
+   "duration_s": 1308,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07",
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "9UelDGrWLVc",
+   "url": "https://www.youtube.com/watch?v=9UelDGrWLVc",
+   "title": "Bunker Survival 1 Year (Part 3)",
+   "channel": "Galactic Highway",
+   "channel_url": "https://www.youtube.com/channel/UCyXAbzVT0HzkuhntnxaP1Ow",
+   "views": 830127,
+   "duration_s": 844,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "o4fvtQnEh0k",
+   "url": "https://www.youtube.com/watch?v=o4fvtQnEh0k",
+   "title": "\u0995\u09be\u09b2\u09cb \u0998\u09cb\u09ae\u099f\u09be | Kalo Ghomta | Grambanglar Bhuter Cartoon | Vuter Golpo | Bengali Horror Story",
+   "channel": "\u09ad\u09be\u09b2\u09c1\u0995\u09be\u0987 \u09ac\u09be\u0982\u09b2\u09be",
+   "channel_url": "https://www.youtube.com/channel/UCktcJBt54Wj2fbQ4BqgFoMw",
+   "views": 821769,
+   "duration_s": 1162,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "Q4phfD_oBoY",
+   "url": "https://www.youtube.com/watch?v=Q4phfD_oBoY",
+   "title": "Zombie Outbreak: What If YOU Were Patient Zero?",
+   "channel": "IfYou Films",
+   "channel_url": "https://www.youtube.com/channel/UCdvbGznFEcB7E3IS7Wo-F7A",
+   "views": 813914,
+   "duration_s": 448,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q07",
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "5FUFaGwY_FM",
+   "url": "https://www.youtube.com/watch?v=5FUFaGwY_FM",
+   "title": "Boiling Point: 5 Days Survival",
+   "channel": "Headlamp Guy",
+   "channel_url": "https://www.youtube.com/channel/UCEwbkI91uCLJnbf9Wf67X9w",
+   "views": 812456,
+   "duration_s": 887,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "IABuY-luqPE",
+   "url": "https://www.youtube.com/watch?v=IABuY-luqPE",
+   "title": "BEFORE YOU WAKE | FULL NOLLYWOOD MOVIE  with SOSO & KANAGA ",
+   "channel": "Philomina Moses Tv",
+   "channel_url": "https://www.youtube.com/channel/UC_xz3Zkn5pF-aNIjKqLd2hw",
+   "views": 795093,
+   "duration_s": 4664,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "b2-jXQncA3E",
+   "url": "https://www.youtube.com/watch?v=b2-jXQncA3E",
+   "title": "Lockdown: Even If You Know Their Voice\u2026 (THE FULL STORY) | What Would You Do?",
+   "channel": "WhatWouldYouDo",
+   "channel_url": "https://www.youtube.com/channel/UCKqEnBgqyHACPgp_7XA3eIA",
+   "views": 793143,
+   "duration_s": 733,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "-82aIUOk8ao",
+   "url": "https://www.youtube.com/watch?v=-82aIUOk8ao",
+   "title": "What If You Got $1 Every Time Someone Lied to You?",
+   "channel": "IFNation",
+   "channel_url": "https://www.youtube.com/channel/UCjXCoo0SOXZD8BFgb5ABlMg",
+   "views": 782952,
+   "duration_s": 792,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "qQA3tzgokw8",
+   "url": "https://www.youtube.com/watch?v=qQA3tzgokw8",
+   "title": "If A Hazmat Team Locks You In A Grocery Store... DON'T MOVE",
+   "channel": "Final Sight",
+   "channel_url": "https://www.youtube.com/channel/UCXaUIWS6ZoF07bPIf_RxFSA",
+   "views": 772171,
+   "duration_s": 552,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "y5f3HOkbKCo",
+   "url": "https://www.youtube.com/watch?v=y5f3HOkbKCo",
+   "title": "Why Do You Keep Waking Up at 3AM (The Strange Psychology Behind It)",
+   "channel": "Apex Psychology and Decoder Dex",
+   "channel_url": null,
+   "views": 767947,
+   "duration_s": 914,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "_ko90JwL4vM",
+   "url": "https://www.youtube.com/watch?v=_ko90JwL4vM",
+   "title": "What IF You Found a Settings Menu for Your Body?",
+   "channel": "Mirage and Ifinity",
+   "channel_url": null,
+   "views": 755002,
+   "duration_s": 1274,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "hgTR1eeEeFQ",
+   "url": "https://www.youtube.com/watch?v=hgTR1eeEeFQ",
+   "title": "Bunker Survival - The Explosion {Full Movie}",
+   "channel": "Bunker Days",
+   "channel_url": "https://www.youtube.com/channel/UCxDx8sCdfHWnOa1E_iemtFw",
+   "views": 713101,
+   "duration_s": 4064,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "6AD10o_0Keg",
+   "url": "https://www.youtube.com/watch?v=6AD10o_0Keg",
+   "title": "6 Hours of \"What IF\" Videos to Fall Asleep to",
+   "channel": " Jeremy Bearimy",
+   "channel_url": "https://www.youtube.com/channel/UCIHVYxXnwAzTvNU0PE_ZLsg",
+   "views": 706849,
+   "duration_s": 21366,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "iKZw4OZ6S6E",
+   "url": "https://www.youtube.com/watch?v=iKZw4OZ6S6E",
+   "title": "What If You Could See How Many People Have a Crush on You?",
+   "channel": "ConChaser",
+   "channel_url": "https://www.youtube.com/channel/UCt-GhchW5nGSjr-ETeGab_g",
+   "views": 688138,
+   "duration_s": 809,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q02",
+    "q05",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "y0lMf_kmi6E",
+   "url": "https://www.youtube.com/watch?v=y0lMf_kmi6E",
+   "title": "What If Only Two People Had to Repopulate the Earth?",
+   "channel": "Stick Revival",
+   "channel_url": "https://www.youtube.com/channel/UC7bnFCe4hgxRsymL_aqm_IQ",
+   "views": 676910,
+   "duration_s": 674,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "oX0MtuZYxa0",
+   "url": "https://www.youtube.com/watch?v=oX0MtuZYxa0",
+   "title": "What If Your CRUSH Moved Into Your HOUSE?",
+   "channel": "Zack Mils",
+   "channel_url": "https://www.youtube.com/channel/UCjkE8MzQU_aql0uTmfNjnGg",
+   "views": 671933,
+   "duration_s": 1256,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q05",
+    "q09"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "CQPdTavLD8o",
+   "url": "https://www.youtube.com/watch?v=CQPdTavLD8o",
+   "title": "How to Survive When It Rains for 1 Year",
+   "channel": "Mr. DoomStick",
+   "channel_url": "https://www.youtube.com/channel/UCvo4SkLnD35z_F0a6hFbCtg",
+   "views": 654803,
+   "duration_s": 823,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "fjfrQmDW0dM",
+   "url": "https://www.youtube.com/watch?v=fjfrQmDW0dM",
+   "title": "What If You Could See Everyone's Biggest Secret?",
+   "channel": " Jeremy Bearimy",
+   "channel_url": "https://www.youtube.com/channel/UCIHVYxXnwAzTvNU0PE_ZLsg",
+   "views": 649854,
+   "duration_s": 639,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "JA8MKcAVt-s",
+   "url": "https://www.youtube.com/watch?v=JA8MKcAVt-s",
+   "title": "In This World Roblox Animation Ultimate Stories Compilation",
+   "channel": "Unlucky Guy",
+   "channel_url": "https://www.youtube.com/channel/UCB4H9VsgYNwHuXrcL6F_v5g",
+   "views": 615439,
+   "duration_s": 1305,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "bXSYcV6zW_g",
+   "url": "https://www.youtube.com/watch?v=bXSYcV6zW_g",
+   "title": "What If Goku Trained You for 1 Year?",
+   "channel": "Miko",
+   "channel_url": "https://www.youtube.com/channel/UClyTaG_r431PZoQstNv1uQQ",
+   "views": 604759,
+   "duration_s": 641,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q09"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "GNYhvomRrAs",
+   "url": "https://www.youtube.com/watch?v=GNYhvomRrAs",
+   "title": "What If You Were Reborn as Your Little Sister\u2019s Baby?",
+   "channel": "Real Aside",
+   "channel_url": "https://www.youtube.com/channel/UCJ8NMY8Rdx46uUdu6F10pOA",
+   "views": 600443,
+   "duration_s": 590,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q09"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "Lu9p69RkagA",
+   "url": "https://www.youtube.com/watch?v=Lu9p69RkagA",
+   "title": "What If You Could See How Everyone Rates You 1 to 10?",
+   "channel": "DOOMPERK",
+   "channel_url": "https://www.youtube.com/channel/UCMu5Q7KkH2Ao1oLC_6J7B8Q",
+   "views": 598232,
+   "duration_s": 904,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "ZlqSR6Is7V8",
+   "url": "https://www.youtube.com/watch?v=ZlqSR6Is7V8",
+   "title": "What if you woke up and discovered you were a zombie?",
+   "channel": "\u0633\u0631\u062f\u0648 | Sardo",
+   "channel_url": "https://www.youtube.com/channel/UCI7JmDnOHVAgu7Pe4ye6Z6g",
+   "views": 561279,
+   "duration_s": 1823,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "8QUGyGRY9zs",
+   "url": "https://www.youtube.com/watch?v=8QUGyGRY9zs",
+   "title": "What If Every Girl on Earth Loved You?",
+   "channel": " Jeremy Bearimy",
+   "channel_url": "https://www.youtube.com/channel/UCIHVYxXnwAzTvNU0PE_ZLsg",
+   "views": 558926,
+   "duration_s": 1224,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "9t_J-N2eUHE",
+   "url": "https://www.youtube.com/watch?v=9t_J-N2eUHE",
+   "title": "What If All Electricity Disappeared Tomorrow?",
+   "channel": "What If Tomorrow and What If",
+   "channel_url": null,
+   "views": 556580,
+   "duration_s": 2004,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "SW6AugdgvgA",
+   "url": "https://www.youtube.com/watch?v=SW6AugdgvgA",
+   "title": "Everyone Is Lying To You In The Elizabeth Holmes Doc, Even Nathan Fielder",
+   "channel": "Coffee and Cults",
+   "channel_url": "https://www.youtube.com/channel/UCnpOlzpWAjg03o8sOd6K1xw",
+   "views": 551514,
+   "duration_s": 8629,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "z4-uS-Wslvc",
+   "url": "https://www.youtube.com/watch?v=z4-uS-Wslvc",
+   "title": "If Your Principal Starts Growing Taller During An Assembly... GET OUT",
+   "channel": "Final Sight",
+   "channel_url": "https://www.youtube.com/channel/UCXaUIWS6ZoF07bPIf_RxFSA",
+   "views": 550055,
+   "duration_s": 883,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "W4zEEBGSNQ8",
+   "url": "https://www.youtube.com/watch?v=W4zEEBGSNQ8",
+   "title": "If Your Bed is Ever Already Warm... GET OUT SLOWLY",
+   "channel": "Lullorin",
+   "channel_url": "https://www.youtube.com/channel/UCdgIMUacfx6cyAGD8miZesw",
+   "views": 548600,
+   "duration_s": 575,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "nf8UboltI1g",
+   "url": "https://www.youtube.com/watch?v=nf8UboltI1g",
+   "title": "What If Your CRUSH Become Your TUTOR?",
+   "channel": "Zack Mils",
+   "channel_url": "https://www.youtube.com/channel/UCjkE8MzQU_aql0uTmfNjnGg",
+   "views": 545730,
+   "duration_s": 1003,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q05",
+    "q09"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "LopYosFNpKk",
+   "url": "https://www.youtube.com/watch?v=LopYosFNpKk",
+   "title": "What If You and Your Crush Got Stuck in a Sauna?",
+   "channel": "First Soul",
+   "channel_url": "https://www.youtube.com/channel/UC3pD9PySgNVZ_D75BvSRhQw",
+   "views": 543483,
+   "duration_s": 485,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q05",
+    "q09"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "47lDZlC9etA",
+   "url": "https://www.youtube.com/watch?v=47lDZlC9etA",
+   "title": "If Everyone On Your Flight Closes Their Window... DON'T LOOK OUTSIDE",
+   "channel": "Final Sight",
+   "channel_url": "https://www.youtube.com/channel/UCXaUIWS6ZoF07bPIf_RxFSA",
+   "views": 541810,
+   "duration_s": 660,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "2fP_sqkj5To",
+   "url": "https://www.youtube.com/watch?v=2fP_sqkj5To",
+   "title": "What If You Were Reborn as Your Own Grandchild?",
+   "channel": "Real Aside",
+   "channel_url": "https://www.youtube.com/channel/UCJ8NMY8Rdx46uUdu6F10pOA",
+   "views": 526774,
+   "duration_s": 572,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q09"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "vSuN9MnuLKE",
+   "url": "https://www.youtube.com/watch?v=vSuN9MnuLKE",
+   "title": "What If the Nerd DATED the Head Cheerleader?",
+   "channel": "Zack Mils",
+   "channel_url": "https://www.youtube.com/channel/UCjkE8MzQU_aql0uTmfNjnGg",
+   "views": 526186,
+   "duration_s": 806,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05",
+    "q06"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "d6_f4nmH01c",
+   "url": "https://www.youtube.com/watch?v=d6_f4nmH01c",
+   "title": "What If You Could See Everyone's True Attractiveness?",
+   "channel": "WHATIFFY",
+   "channel_url": "https://www.youtube.com/channel/UCH3GwaC9oc6MIaDsDQgPxNQ",
+   "views": 523052,
+   "duration_s": 753,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "ytHR7RJGj58",
+   "url": "https://www.youtube.com/watch?v=ytHR7RJGj58",
+   "title": "What If You Could See Your Future Wife?",
+   "channel": "DOOMPERK",
+   "channel_url": "https://www.youtube.com/channel/UCMu5Q7KkH2Ao1oLC_6J7B8Q",
+   "views": 516657,
+   "duration_s": 929,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "DaxFZp_S3lo",
+   "url": "https://www.youtube.com/watch?v=DaxFZp_S3lo",
+   "title": "What If You Could See Everyone\u2019s Love Meter?",
+   "channel": "Nick ifverse",
+   "channel_url": "https://www.youtube.com/channel/UCUKrbcnfd21k3BtvBeJV7eQ",
+   "views": 509898,
+   "duration_s": 768,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "jmke1q8lb0E",
+   "url": "https://www.youtube.com/watch?v=jmke1q8lb0E",
+   "title": "What If You Had a Hidden Survival Base?",
+   "channel": "What If Survival",
+   "channel_url": "https://www.youtube.com/channel/UCd3VHT3n-yitIrdCSjGokjw",
+   "views": 501637,
+   "duration_s": 697,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "RsnpKukfvlw",
+   "url": "https://www.youtube.com/watch?v=RsnpKukfvlw",
+   "title": "What If You Turned Into A Girl?",
+   "channel": "Stupid Dupid ",
+   "channel_url": "https://www.youtube.com/channel/UCkMQyMQcjJtKCiT_Rig1xow",
+   "views": 487383,
+   "duration_s": 1271,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "Xj9TSiOhbU0",
+   "url": "https://www.youtube.com/watch?v=Xj9TSiOhbU0",
+   "title": "What If Everyone Could See How Many Kids You\u2019ll Have?",
+   "channel": "What If Hero",
+   "channel_url": "https://www.youtube.com/channel/UCAKHpKPS8gcxnRu_sR7Rl7g",
+   "views": 484868,
+   "duration_s": 428,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "TjdSo6zlbjQ",
+   "url": "https://www.youtube.com/watch?v=TjdSo6zlbjQ",
+   "title": "If Everyone In Your Class Stops Writing... NEVER LOOK UP",
+   "channel": "Final Sight",
+   "channel_url": "https://www.youtube.com/channel/UCXaUIWS6ZoF07bPIf_RxFSA",
+   "views": 456388,
+   "duration_s": 357,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "AY0DR7bvfXY",
+   "url": "https://www.youtube.com/watch?v=AY0DR7bvfXY",
+   "title": "What If You And Your Crush Were Alone On A Desert Island?",
+   "channel": "Questionverse",
+   "channel_url": "https://www.youtube.com/channel/UCUK7e3Qja5d-muR6b-jiZCw",
+   "views": 453055,
+   "duration_s": 1270,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "hTE2L1sZaOo",
+   "url": "https://www.youtube.com/watch?v=hTE2L1sZaOo",
+   "title": "If Your Principal Comes Back With A Different Face... AVOID HIM",
+   "channel": "Final Sight",
+   "channel_url": "https://www.youtube.com/channel/UCXaUIWS6ZoF07bPIf_RxFSA",
+   "views": 451358,
+   "duration_s": 898,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "3qxDlLEtuhQ",
+   "url": "https://www.youtube.com/watch?v=3qxDlLEtuhQ",
+   "title": "What If You Had to Regrow Humanity With the Last Girl Alive?",
+   "channel": "Ifquirky",
+   "channel_url": "https://www.youtube.com/channel/UCXjf_rIQcARIjfCZVNrqOaQ",
+   "views": 450506,
+   "duration_s": 634,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "yvBNf4jZ-44",
+   "url": "https://www.youtube.com/watch?v=yvBNf4jZ-44",
+   "title": "What If You Were Frozen for 1,000 Years?",
+   "channel": "Hypo Room",
+   "channel_url": "https://www.youtube.com/channel/UCG4Du2Vw0Tj-T8_Pt90qJwg",
+   "views": 445977,
+   "duration_s": 586,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "Mfb3LHkFv5g",
+   "url": "https://www.youtube.com/watch?v=Mfb3LHkFv5g",
+   "title": "What IF You Could See 10 Seconds Into the Future?",
+   "channel": "IFOLOGY",
+   "channel_url": "https://www.youtube.com/channel/UCv4DniMRgnBTmfFaxeMTTLA",
+   "views": 444688,
+   "duration_s": 1083,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "UmLhxfuHgkU",
+   "url": "https://www.youtube.com/watch?v=UmLhxfuHgkU",
+   "title": "What If You Could See When Everyone Becomes a Millionaire?",
+   "channel": "Any Minute Now",
+   "channel_url": "https://www.youtube.com/channel/UC4jWQliGX1NHUpifSbxrp3w",
+   "views": 434898,
+   "duration_s": 645,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "WeM0h6NCoQ4",
+   "url": "https://www.youtube.com/watch?v=WeM0h6NCoQ4",
+   "title": "What If You Were Stuck in a Time Loop Until You Beat Prime Magnus Carlsen",
+   "channel": "Nero",
+   "channel_url": "https://www.youtube.com/channel/UC3ME8W-SybqITO4OhitnfaQ",
+   "views": 433601,
+   "duration_s": 568,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "3KU3xNAaVe8",
+   "url": "https://www.youtube.com/watch?v=3KU3xNAaVe8",
+   "title": "What If You Trained in SECRET for 90 Days for Your CRUSH?",
+   "channel": "Gus Maybe",
+   "channel_url": "https://www.youtube.com/channel/UCnFx50TfHHUP0PgvSy494iw",
+   "views": 433030,
+   "duration_s": 937,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q05"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "e7KTkJZ22oI",
+   "url": "https://www.youtube.com/watch?v=e7KTkJZ22oI",
+   "title": "What If a Giganotosaurus Was Born Today?",
+   "channel": "StickMania",
+   "channel_url": "https://www.youtube.com/channel/UCHyBPUGGDkdjZp2UuDAyo0Q",
+   "views": 425028,
+   "duration_s": 632,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "Mbf7EdduVCQ",
+   "url": "https://www.youtube.com/watch?v=Mbf7EdduVCQ",
+   "title": "What If You Woke Up 20,000 Years in the Future?",
+   "channel": "What If Jar and 2 more",
+   "channel_url": null,
+   "views": 420714,
+   "duration_s": 492,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "ECnEJef7vsE",
+   "url": "https://www.youtube.com/watch?v=ECnEJef7vsE",
+   "title": "What If You Were The Only Man On An Island of 100 Native American Girls?",
+   "channel": "Stupid Dupid  and Sdupid Money",
+   "channel_url": null,
+   "views": 419558,
+   "duration_s": 1250,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "TJSAqDzEYtM",
+   "url": "https://www.youtube.com/watch?v=TJSAqDzEYtM",
+   "title": "KAAL CHAKRA | Hindi Horror Stories | Dark Lalten | Animated Stories",
+   "channel": "Dark Lalten",
+   "channel_url": "https://www.youtube.com/channel/UC0IgFbcDleMiEFXXBBgyR7A",
+   "views": 417829,
+   "duration_s": 1242,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "_RvuEBaaVkA",
+   "url": "https://www.youtube.com/watch?v=_RvuEBaaVkA",
+   "title": "You Wake Up in 1950. The Wrong Side Won WW2",
+   "channel": "Previously",
+   "channel_url": "https://www.youtube.com/channel/UCjQB07a9qAxg2SQ2sjq_mkw",
+   "views": 415248,
+   "duration_s": 753,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "X80BzWY4bnA",
+   "url": "https://www.youtube.com/watch?v=X80BzWY4bnA",
+   "title": "If All Crimes Were Legal I Would..\ud83d\ude2d",
+   "channel": "RICHLEV",
+   "channel_url": "https://www.youtube.com/channel/UCiFvJHlhGHgHufH8Qxt0m0w",
+   "views": 404766,
+   "duration_s": 1305,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "VwLl_4M7bY4",
+   "url": "https://www.youtube.com/watch?v=VwLl_4M7bY4",
+   "title": "What If You Were Stuck in a Time Loop Until You Beat Prime Usain Bolt?",
+   "channel": "Nero",
+   "channel_url": "https://www.youtube.com/channel/UC3ME8W-SybqITO4OhitnfaQ",
+   "views": 397473,
+   "duration_s": 611,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "cXqWcScqpqc",
+   "url": "https://www.youtube.com/watch?v=cXqWcScqpqc",
+   "title": "What If It Was -100\u00b0C for 10 Years?",
+   "channel": "Your Other Life",
+   "channel_url": "https://www.youtube.com/channel/UCZw9yuzRJV5itMb60or5bcg",
+   "views": 388044,
+   "duration_s": 2184,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q07",
+    "q09"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "WUyjGJe_q9g",
+   "url": "https://www.youtube.com/watch?v=WUyjGJe_q9g",
+   "title": "Sheru and Aalu\u2019s fierce battle against Bhairav\u2019s gang \ud83d\ude31\ud83d\udd25 | 3D Cartoon Story",
+   "channel": "SabziToon",
+   "channel_url": "https://www.youtube.com/channel/UCPY8u-bJTgdUsgopOpy7sAA",
+   "views": 385558,
+   "duration_s": 379,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "p7Gc28Jzrfk",
+   "url": "https://www.youtube.com/watch?v=p7Gc28Jzrfk",
+   "title": "Imagine If Every Human Woke Up 1 cm Tall",
+   "channel": "Just Imagine if",
+   "channel_url": "https://www.youtube.com/channel/UCaouWN87GqiH5WJJIGS7qJA",
+   "views": 381893,
+   "duration_s": 636,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "y271pfesEYs",
+   "url": "https://www.youtube.com/watch?v=y271pfesEYs",
+   "title": "What If You And Your Crush Were Alone On The Planet?",
+   "channel": "Stupid Dupid ",
+   "channel_url": "https://www.youtube.com/channel/UCkMQyMQcjJtKCiT_Rig1xow",
+   "views": 379422,
+   "duration_s": 1088,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "BGBd1ncx0Sg",
+   "url": "https://www.youtube.com/watch?v=BGBd1ncx0Sg",
+   "title": "\u0926\u093e\u0926\u093e \u0915\u093e \u0922\u093e\u092c\u093e | Dada Ka Dhaba | Hindi Kahaniya | Animated Stories",
+   "channel": "Dream Toon",
+   "channel_url": "https://www.youtube.com/channel/UCHtrI4TzNgpka8t6WGfgbhQ",
+   "views": 372410,
+   "duration_s": 1519,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "exF2H0zAJjg",
+   "url": "https://www.youtube.com/watch?v=exF2H0zAJjg",
+   "title": "What If All Clothes Disappeared Overnight?",
+   "channel": "CurioMundo",
+   "channel_url": "https://www.youtube.com/channel/UCzqds-Acmqocl6Pg-6GIyrw",
+   "views": 371145,
+   "duration_s": 583,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q09"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "W0XEzHIHOlw",
+   "url": "https://www.youtube.com/watch?v=W0XEzHIHOlw",
+   "title": "What If You Were Stuck in a Car With Your Crush?",
+   "channel": "Possiblo",
+   "channel_url": "https://www.youtube.com/channel/UC-QrclM1b36lLkYO-BTfy0Q",
+   "views": 364043,
+   "duration_s": 602,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q05",
+    "q07",
+    "q09"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "RzOKtiNZRUg",
+   "url": "https://www.youtube.com/watch?v=RzOKtiNZRUg",
+   "title": "What If Your CRUSH Could Feel Everything You Do?!",
+   "channel": "Curious Guy",
+   "channel_url": "https://www.youtube.com/channel/UC5Nzt_MAYzvw91gP0Ffeb_w",
+   "views": 363776,
+   "duration_s": 509,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "JyuOmTd2f_w",
+   "url": "https://www.youtube.com/watch?v=JyuOmTd2f_w",
+   "title": "What If You Could See Who Loves You?",
+   "channel": "Hypo Room",
+   "channel_url": "https://www.youtube.com/channel/UCG4Du2Vw0Tj-T8_Pt90qJwg",
+   "views": 361097,
+   "duration_s": 828,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "Wn5H3XIYKac",
+   "url": "https://www.youtube.com/watch?v=Wn5H3XIYKac",
+   "title": "What If You Could See Everyone's Body Count?",
+   "channel": "Miko",
+   "channel_url": "https://www.youtube.com/channel/UClyTaG_r431PZoQstNv1uQQ",
+   "views": 355398,
+   "duration_s": 656,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "B5NdI5Y6GWo",
+   "url": "https://www.youtube.com/watch?v=B5NdI5Y6GWo",
+   "title": "What If Your CRUSH Was Tokyo's DRIFT QUEEN?",
+   "channel": "Zack Mils",
+   "channel_url": "https://www.youtube.com/channel/UCjkE8MzQU_aql0uTmfNjnGg",
+   "views": 355219,
+   "duration_s": 1132,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "ol7h-lKbq14",
+   "url": "https://www.youtube.com/watch?v=ol7h-lKbq14",
+   "title": "What If You Could See Everyone's Dating Standards?",
+   "channel": "ConChaser",
+   "channel_url": "https://www.youtube.com/channel/UCt-GhchW5nGSjr-ETeGab_g",
+   "views": 353348,
+   "duration_s": 846,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "L3PPO4MdLyY",
+   "url": "https://www.youtube.com/watch?v=L3PPO4MdLyY",
+   "title": "What If You Could See How Many Days People Have Left?",
+   "channel": "ConChaser",
+   "channel_url": "https://www.youtube.com/channel/UCt-GhchW5nGSjr-ETeGab_g",
+   "views": 352246,
+   "duration_s": 895,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "PdLevgvh3qs",
+   "url": "https://www.youtube.com/watch?v=PdLevgvh3qs",
+   "title": "What If You and Your Crush Got Snowed In With Only ONE BED?",
+   "channel": "Ifvincible",
+   "channel_url": "https://www.youtube.com/channel/UCr0TE7KEc-OFLgKa_bT0KQA",
+   "views": 350035,
+   "duration_s": 1216,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q05"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "shPeyaG3XUk",
+   "url": "https://www.youtube.com/watch?v=shPeyaG3XUk",
+   "title": "What IF You Could See Who Will Become Famous?",
+   "channel": " Jeremy Bearimy",
+   "channel_url": "https://www.youtube.com/channel/UCIHVYxXnwAzTvNU0PE_ZLsg",
+   "views": 345057,
+   "duration_s": 619,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "UwC2j-YDhjU",
+   "url": "https://www.youtube.com/watch?v=UwC2j-YDhjU",
+   "title": "What If You Were Trapped in a Waterpark for 30 Days With Your Crush?",
+   "channel": "WhatIForaa",
+   "channel_url": "https://www.youtube.com/channel/UCogJ_CvRBZ4JUgTB9MmfFNQ",
+   "views": 342161,
+   "duration_s": 1151,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "QNWwwpcVDHU",
+   "url": "https://www.youtube.com/watch?v=QNWwwpcVDHU",
+   "title": "What If You Could Hear What Everyone Says Behind Your Back?",
+   "channel": "IFNation",
+   "channel_url": "https://www.youtube.com/channel/UCjXCoo0SOXZD8BFgb5ABlMg",
+   "views": 342078,
+   "duration_s": 434,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "jku-yNNfVWg",
+   "url": "https://www.youtube.com/watch?v=jku-yNNfVWg",
+   "title": "What If You Could Hear Your Crush While in a Coma?",
+   "channel": "Puck Pukish",
+   "channel_url": "https://www.youtube.com/channel/UCHYr1fxvoHiXjRTZR8HDppQ",
+   "views": 340302,
+   "duration_s": 463,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "kS222TGe8Nc",
+   "url": "https://www.youtube.com/watch?v=kS222TGe8Nc",
+   "title": "What If You Could See Everyone's Real-Life Rating?",
+   "channel": "Lookif",
+   "channel_url": "https://www.youtube.com/channel/UC90Y33qnVM1Qe7Ay1omcAxg",
+   "views": 338036,
+   "duration_s": 703,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "5qeAULYTPy8",
+   "url": "https://www.youtube.com/watch?v=5qeAULYTPy8",
+   "title": "You Wake Up One Billion Years From Now",
+   "channel": "Sleepy Science ",
+   "channel_url": "https://www.youtube.com/channel/UC9gVubKWjhePy-kgyDRPH6w",
+   "views": 336055,
+   "duration_s": 8788,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "KovDGTW_pp0",
+   "url": "https://www.youtube.com/watch?v=KovDGTW_pp0",
+   "title": "What If Your College Assigned Your CRUSH as Your Wife?",
+   "channel": "Gus Maybe",
+   "channel_url": "https://www.youtube.com/channel/UCnFx50TfHHUP0PgvSy494iw",
+   "views": 333910,
+   "duration_s": 784,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "4mdSlCzkT6o",
+   "url": "https://www.youtube.com/watch?v=4mdSlCzkT6o",
+   "title": "What If You and Your Crush Were the Last Two Humans Alive?",
+   "channel": "Stupid Dupid  and Sdupid Money",
+   "channel_url": null,
+   "views": 329977,
+   "duration_s": 1202,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q05"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "J0pP4q9nOAM",
+   "url": "https://www.youtube.com/watch?v=J0pP4q9nOAM",
+   "title": "What If You Could See Everyone's Biggest Regret?",
+   "channel": "ConChaser",
+   "channel_url": "https://www.youtube.com/channel/UCt-GhchW5nGSjr-ETeGab_g",
+   "views": 329506,
+   "duration_s": 1039,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "dlJ_roZ_fAM",
+   "url": "https://www.youtube.com/watch?v=dlJ_roZ_fAM",
+   "title": "What If You Could See How Many Lives Everyone Has Saved?",
+   "channel": "ConChaser",
+   "channel_url": "https://www.youtube.com/channel/UCt-GhchW5nGSjr-ETeGab_g",
+   "views": 316570,
+   "duration_s": 865,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "vr3bcUUyQnI",
+   "url": "https://www.youtube.com/watch?v=vr3bcUUyQnI",
+   "title": "What If U Could Pick Your Strength Every Morning?",
+   "channel": "What1fy",
+   "channel_url": "https://www.youtube.com/channel/UCGOm49IO4nPkOmBhNPm84IA",
+   "views": 307073,
+   "duration_s": 675,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "PpwYD2pk0rY",
+   "url": "https://www.youtube.com/watch?v=PpwYD2pk0rY",
+   "title": "What If Men and Women Lived on Different Planets?",
+   "channel": "Hypo Room",
+   "channel_url": "https://www.youtube.com/channel/UCG4Du2Vw0Tj-T8_Pt90qJwg",
+   "views": 307041,
+   "duration_s": 1170,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "GrXmMe_dFXY",
+   "url": "https://www.youtube.com/watch?v=GrXmMe_dFXY",
+   "title": "What to Do if Your Ears are Blocked up? | What if You Never Remove Your Earwax? | Dr. Binocs Show",
+   "channel": "Peekaboo Kidz",
+   "channel_url": "https://www.youtube.com/channel/UCxlJ45KjG4XVcQ_hd8j227A",
+   "views": 305837,
+   "duration_s": 379,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "QdaK20aguGc",
+   "url": "https://www.youtube.com/watch?v=QdaK20aguGc",
+   "title": "What If You Slept 10x Longer Every Night?",
+   "channel": "Alternate You ",
+   "channel_url": "https://www.youtube.com/channel/UCtT1wH6Kqbuh_NXJ_AZ_wdg",
+   "views": 305795,
+   "duration_s": 544,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "4JWGUkwnVgs",
+   "url": "https://www.youtube.com/watch?v=4JWGUkwnVgs",
+   "title": "What If You Got Stuck on a Girls Only Island?",
+   "channel": "What If Hero",
+   "channel_url": "https://www.youtube.com/channel/UCAKHpKPS8gcxnRu_sR7Rl7g",
+   "views": 302311,
+   "duration_s": 481,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "HHCZwBQBt6g",
+   "url": "https://www.youtube.com/watch?v=HHCZwBQBt6g",
+   "title": "What If You Lived the Same Day Forever?",
+   "channel": "Iflord",
+   "channel_url": "https://www.youtube.com/channel/UCGq-HJz-z-DCMwqAuRJwQIQ",
+   "views": 302102,
+   "duration_s": 635,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "2cy8FXdrhoI",
+   "url": "https://www.youtube.com/watch?v=2cy8FXdrhoI",
+   "title": "What IF You Turned Into a Girl For a Day?",
+   "channel": "Flowstate Motion",
+   "channel_url": "https://www.youtube.com/channel/UCYbIl0eyQSt3MyaVdmq55Zg",
+   "views": 301606,
+   "duration_s": 563,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "Hyhixgi_1oE",
+   "url": "https://www.youtube.com/watch?v=Hyhixgi_1oE",
+   "title": "What If You Woke Up 10,000 Years Ago With Your Crush?",
+   "channel": "Questionverse",
+   "channel_url": "https://www.youtube.com/channel/UCUK7e3Qja5d-muR6b-jiZCw",
+   "views": 301144,
+   "duration_s": 1419,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05",
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "_6QMfp-vN80",
+   "url": "https://www.youtube.com/watch?v=_6QMfp-vN80",
+   "title": "Your Organs When You Wake Up During Surgery",
+   "channel": "Organ Crew",
+   "channel_url": "https://www.youtube.com/channel/UCzhudEmKGWPXmkR2rvxygdA",
+   "views": 300104,
+   "duration_s": 276,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "QEBi9CI0Ti4",
+   "url": "https://www.youtube.com/watch?v=QEBi9CI0Ti4",
+   "title": "(Full STORY) WHAT IF NARUTO WAS NEGLECTED AND THE SON OF KAGUYA? EP 2",
+   "channel": "\u014cTSUTSUKI UNIVERSE!",
+   "channel_url": "https://www.youtube.com/channel/UCSe87tkei9R3jerP_7BmftA",
+   "views": 296228,
+   "duration_s": 1593,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "kFlMPyKWjx4",
+   "url": "https://www.youtube.com/watch?v=kFlMPyKWjx4",
+   "title": "What If You Were the ONLY GUY in a Girls Only Prison?",
+   "channel": " Jeremy Bearimy",
+   "channel_url": "https://www.youtube.com/channel/UCIHVYxXnwAzTvNU0PE_ZLsg",
+   "views": 293497,
+   "duration_s": 642,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "Cuc0qfq2_jE",
+   "url": "https://www.youtube.com/watch?v=Cuc0qfq2_jE",
+   "title": "What IF You Could See Everyone's Soulmate ?",
+   "channel": "Price of If and The Spiral Card",
+   "channel_url": null,
+   "views": 292335,
+   "duration_s": 840,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "uDNYZAatP08",
+   "url": "https://www.youtube.com/watch?v=uDNYZAatP08",
+   "title": "What If Your Crush Became a Zombie but Still Remembered You?",
+   "channel": "Puck Pukish",
+   "channel_url": "https://www.youtube.com/channel/UCHYr1fxvoHiXjRTZR8HDppQ",
+   "views": 290091,
+   "duration_s": 474,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "r-0WC9rsC0I",
+   "url": "https://www.youtube.com/watch?v=r-0WC9rsC0I",
+   "title": "What If You Were Locked in School for 30 Days With Your Crush?",
+   "channel": "Suddenly You",
+   "channel_url": "https://www.youtube.com/channel/UCE6bbnPEeHaT8WM9wb05mNw",
+   "views": 289121,
+   "duration_s": 671,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "92ibAh-rSLk",
+   "url": "https://www.youtube.com/watch?v=92ibAh-rSLk",
+   "title": "What If You Had the Powers of Ryomen Sukuna?",
+   "channel": "Curious Dude",
+   "channel_url": "https://www.youtube.com/channel/UCU2zagQYdBtZQuyOI3rlkRQ",
+   "views": 285073,
+   "duration_s": 639,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "VfXmpk7RLMI",
+   "url": "https://www.youtube.com/watch?v=VfXmpk7RLMI",
+   "title": "What If You Could See Everyone's Real Mental Age?",
+   "channel": "Ifable",
+   "channel_url": "https://www.youtube.com/channel/UC43D2Q4ngiSWoAE6PdNmvJQ",
+   "views": 281690,
+   "duration_s": 656,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "czu_PeylrSQ",
+   "url": "https://www.youtube.com/watch?v=czu_PeylrSQ",
+   "title": "If You Wake Up In A Discord Mods Room, This Is How You Escape",
+   "channel": "Outwitted",
+   "channel_url": "https://www.youtube.com/channel/UCTGTwTTG4LYwVxfB6Qh5KHQ",
+   "views": 270571,
+   "duration_s": 483,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "pGMPBsUb1Js",
+   "url": "https://www.youtube.com/watch?v=pGMPBsUb1Js",
+   "title": "What if you could feel your crush body?",
+   "channel": "Trapped Alone",
+   "channel_url": "https://www.youtube.com/channel/UCO5n2Yo68PgdyxhmhBOFiJw",
+   "views": 253688,
+   "duration_s": 546,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05",
+    "q09"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "dOYLR7ECXvk",
+   "url": "https://www.youtube.com/watch?v=dOYLR7ECXvk",
+   "title": "What If Everyone on Earth Slept for 1000 Years?",
+   "channel": "IfLoop",
+   "channel_url": "https://www.youtube.com/channel/UCCxRSJyhsjJNpnqf0-5CX2Q",
+   "views": 253651,
+   "duration_s": 630,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "DYYsGuTpBKc",
+   "url": "https://www.youtube.com/watch?v=DYYsGuTpBKc",
+   "title": "What If Clothes Disappeared for a Whole Year?",
+   "channel": "Possiblo",
+   "channel_url": "https://www.youtube.com/channel/UC-QrclM1b36lLkYO-BTfy0Q",
+   "views": 246562,
+   "duration_s": 513,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "hdcgAYz4s1M",
+   "url": "https://www.youtube.com/watch?v=hdcgAYz4s1M",
+   "title": "What If You Had Gojo's Powers in Real Life?",
+   "channel": "Curious Dude",
+   "channel_url": "https://www.youtube.com/channel/UCU2zagQYdBtZQuyOI3rlkRQ",
+   "views": 246483,
+   "duration_s": 592,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "T4zHONJsZrI",
+   "url": "https://www.youtube.com/watch?v=T4zHONJsZrI",
+   "title": "What If You Could See Your Future With Every Girl?",
+   "channel": "What If Hero",
+   "channel_url": "https://www.youtube.com/channel/UCAKHpKPS8gcxnRu_sR7Rl7g",
+   "views": 240401,
+   "duration_s": 483,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "DC9GAu3gUUE",
+   "url": "https://www.youtube.com/watch?v=DC9GAu3gUUE",
+   "title": "What If Naruto Was Reborn with All His Memories and Powers? | Part 2",
+   "channel": "Dragon Ball Super Stories",
+   "channel_url": "https://www.youtube.com/channel/UCHxLwGyyuDP9bBopbvcyUTQ",
+   "views": 238134,
+   "duration_s": 5685,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q09"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "4_kUQhT7G5Y",
+   "url": "https://www.youtube.com/watch?v=4_kUQhT7G5Y",
+   "title": "What If You Became Perfect Whenever Your Crush Was Watching? (41 Fights, 0 Losses)",
+   "channel": "If Catch",
+   "channel_url": "https://www.youtube.com/channel/UChCXSAN08_NWRiQoALY7OMg",
+   "views": 236612,
+   "duration_s": 555,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "6BJXqwUwUxY",
+   "url": "https://www.youtube.com/watch?v=6BJXqwUwUxY",
+   "title": "What If You Had To Share A Body With Your Crush?",
+   "channel": "Mainframe If",
+   "channel_url": "https://www.youtube.com/channel/UCYuHUTnNfm497RgptO_JyLw",
+   "views": 236103,
+   "duration_s": 789,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "zF4oyuZAoJc",
+   "url": "https://www.youtube.com/watch?v=zF4oyuZAoJc",
+   "title": "I Could See Everyone's IQ. The Top Student Had a 91\u2014I Had a 151 and Was Failing Stats",
+   "channel": "Nightfall Drama",
+   "channel_url": "https://www.youtube.com/channel/UCLWaAExPB3GJRgJNW6FdMRw",
+   "views": 226433,
+   "duration_s": 1195,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "c5eHMQdc3mk",
+   "url": "https://www.youtube.com/watch?v=c5eHMQdc3mk",
+   "title": "What If You and Your Crush Got Stuck in Hot Spring?",
+   "channel": "Possiblo",
+   "channel_url": "https://www.youtube.com/channel/UC-QrclM1b36lLkYO-BTfy0Q",
+   "views": 222729,
+   "duration_s": 677,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "Yjsbsp9REL8",
+   "url": "https://www.youtube.com/watch?v=Yjsbsp9REL8",
+   "title": "What If You Were Stuck in a Time Loop Until You Beat Prime Mike Tyson?",
+   "channel": "Nero",
+   "channel_url": "https://www.youtube.com/channel/UC3ME8W-SybqITO4OhitnfaQ",
+   "views": 210760,
+   "duration_s": 646,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "Gu9lO8oqGYU",
+   "url": "https://www.youtube.com/watch?v=Gu9lO8oqGYU",
+   "title": "I Made VIRAL 3D Animation Videos Using ONLY Claude AI (FREE Plugin)",
+   "channel": "Jacksons AI",
+   "channel_url": "https://www.youtube.com/channel/UCKOTiVw2u_e5LK40-YBTVlQ",
+   "views": 207473,
+   "duration_s": 1520,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "c2I076Y8BAc",
+   "url": "https://www.youtube.com/watch?v=c2I076Y8BAc",
+   "title": "What If Your CRUSH Could See Everything You Dreamed About Her?",
+   "channel": "Zack Mils",
+   "channel_url": "https://www.youtube.com/channel/UCjkE8MzQU_aql0uTmfNjnGg",
+   "views": 197679,
+   "duration_s": 632,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "v1dhY9QWMf4",
+   "url": "https://www.youtube.com/watch?v=v1dhY9QWMf4",
+   "title": "What if you woke up and discovered your body was made of rubber?!",
+   "channel": "\u0633\u0631\u062f\u0648 | Sardo",
+   "channel_url": "https://www.youtube.com/channel/UCI7JmDnOHVAgu7Pe4ye6Z6g",
+   "views": 195901,
+   "duration_s": 650,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "FgeBTYaiNmE",
+   "url": "https://www.youtube.com/watch?v=FgeBTYaiNmE",
+   "title": "What If You Were Stuck in a Time Loop Until You Beat Prime LeBron James in a 1v1?",
+   "channel": "Nero",
+   "channel_url": "https://www.youtube.com/channel/UC3ME8W-SybqITO4OhitnfaQ",
+   "views": 195497,
+   "duration_s": 624,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "utMzkAqW6uQ",
+   "url": "https://www.youtube.com/watch?v=utMzkAqW6uQ",
+   "title": "What If You Could See Through Clothes?",
+   "channel": "Hypotethical stories ",
+   "channel_url": "https://www.youtube.com/channel/UCmYNZCsdU0XMhvcgqWv7Oog",
+   "views": 194253,
+   "duration_s": 380,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "TgHpAa_W5-4",
+   "url": "https://www.youtube.com/watch?v=TgHpAa_W5-4",
+   "title": "What If Humans Never Discovered Clothes?",
+   "channel": "Ifcognito",
+   "channel_url": "https://www.youtube.com/channel/UCMD9Hp106ZolgwcoRRhUt0Q",
+   "views": 193550,
+   "duration_s": 275,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "xL1NYQi96VE",
+   "url": "https://www.youtube.com/watch?v=xL1NYQi96VE",
+   "title": "What If the Bullied Girl You Were Nice to Suddenly Became the PRETTIEST GIRL in School?",
+   "channel": "The Theoretical Space",
+   "channel_url": "https://www.youtube.com/channel/UC4zAIVBSgu-r0anpRCM3GRg",
+   "views": 189588,
+   "duration_s": 513,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01",
+    "q06"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "n_BlWAmU1Zk",
+   "url": "https://www.youtube.com/watch?v=n_BlWAmU1Zk",
+   "title": "What If You Were Trapped in a Time Loop?",
+   "channel": "Ifverse",
+   "channel_url": "https://www.youtube.com/channel/UCAapVhc6YLbQXKBoeIpaf9A",
+   "views": 183848,
+   "duration_s": 495,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "nBPkpB3tb9Q",
+   "url": "https://www.youtube.com/watch?v=nBPkpB3tb9Q",
+   "title": "\ud83c\udf0a Village Underwater | A Village Struggles to Survive the Great Flood | Ghibli Style ASMR",
+   "channel": "Ghibli Village Nature",
+   "channel_url": "https://www.youtube.com/channel/UCZWy5OHG93p1MPwcT2BWKvA",
+   "views": 182751,
+   "duration_s": 337,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "1z0ElOtJ6DI",
+   "url": "https://www.youtube.com/watch?v=1z0ElOtJ6DI",
+   "title": "What If Everyone Had 500 IQ Except You?",
+   "channel": "Iffinity Tales",
+   "channel_url": "https://www.youtube.com/channel/UCQbGjmpVRoteFFk7fU-O02w",
+   "views": 181334,
+   "duration_s": 771,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "u2RdiKcZ_MU",
+   "url": "https://www.youtube.com/watch?v=u2RdiKcZ_MU",
+   "title": "What If You Were Invisible Around Your Crush?",
+   "channel": "WhatVerse",
+   "channel_url": "https://www.youtube.com/channel/UCpVMK77BbwFIMqVyIrqRetg",
+   "views": 180691,
+   "duration_s": 623,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "mXainpfYSro",
+   "url": "https://www.youtube.com/watch?v=mXainpfYSro",
+   "title": "Zombie Outbreak: 60 Days Trapped On The Skyscraper",
+   "channel": "DoodleSurvivals",
+   "channel_url": "https://www.youtube.com/channel/UCXMvwFJxTp-fLF1k6qABrxg",
+   "views": 177808,
+   "duration_s": 1564,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "m4POGtjcF3g",
+   "url": "https://www.youtube.com/watch?v=m4POGtjcF3g",
+   "title": "What IF College Assigned Your Crush as YOUR WIFE",
+   "channel": "Stupid Dupid  and Sdupid Money",
+   "channel_url": null,
+   "views": 162838,
+   "duration_s": 1059,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "XYH9MA_49h4",
+   "url": "https://www.youtube.com/watch?v=XYH9MA_49h4",
+   "title": "What If You Could See Everyone for Who They Really Are?",
+   "channel": "Hypothtica",
+   "channel_url": "https://www.youtube.com/channel/UCKFRARe7aPTT7FXjNrPFcbQ",
+   "views": 154250,
+   "duration_s": 538,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "2OFOIirVtDU",
+   "url": "https://www.youtube.com/watch?v=2OFOIirVtDU",
+   "title": "What If You Woke Up 5 Billion Years in the Future?",
+   "channel": "What If",
+   "channel_url": "https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g",
+   "views": 154221,
+   "duration_s": 8149,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "p2JN2nUWFsI",
+   "url": "https://www.youtube.com/watch?v=p2JN2nUWFsI",
+   "title": "What if you had Infinite IQ in the AMAZON RAINFOREST?",
+   "channel": "Darkmere",
+   "channel_url": "https://www.youtube.com/channel/UC3_Yrx00EUz5eqEpGHxQXhg",
+   "views": 148635,
+   "duration_s": 877,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "kuO9S0yHwz4",
+   "url": "https://www.youtube.com/watch?v=kuO9S0yHwz4",
+   "title": "What If You Woke Up 1,000 Times Stronger?",
+   "channel": "\u062a\u062e\u064a\u0651\u0644 \u0644\u0648",
+   "channel_url": "https://www.youtube.com/channel/UCAD1Wynd1h2TqjNdtk0O8Wg",
+   "views": 147527,
+   "duration_s": 922,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "jwt52KBoY60",
+   "url": "https://www.youtube.com/watch?v=jwt52KBoY60",
+   "title": "What If You and Your Crush Were Stuck in a Sauna ?",
+   "channel": "WHATIFSaru",
+   "channel_url": "https://www.youtube.com/channel/UCAta6c-JBGaql3EXuuSc5Ww",
+   "views": 146515,
+   "duration_s": 645,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "l_5GpgTKslM",
+   "url": "https://www.youtube.com/watch?v=l_5GpgTKslM",
+   "title": "I Had 365 Days to Build a Bunker Before Nuclear War - Full Story Part 1 (Ep 1-10)",
+   "channel": "What If Survival",
+   "channel_url": "https://www.youtube.com/channel/UC1Jkwn5kYzgLTK-9-Ddxhcw",
+   "views": 137041,
+   "duration_s": 1343,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "wr1lnAp93ho",
+   "url": "https://www.youtube.com/watch?v=wr1lnAp93ho",
+   "title": "YOU Woke Up in JJ and Mikey\u2019s Village ?!",
+   "channel": "Maizen Adventure",
+   "channel_url": "https://www.youtube.com/channel/UCjQE33HBhZlsFiK82M82FOQ",
+   "views": 136518,
+   "duration_s": 512,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "I-qKqgD2Nok",
+   "url": "https://www.youtube.com/watch?v=I-qKqgD2Nok",
+   "title": "What If You Went Back in Time Every Time You Died?",
+   "channel": "Reality Glitch",
+   "channel_url": "https://www.youtube.com/channel/UCysnejym_zNfgny-Cf6bvVA",
+   "views": 136439,
+   "duration_s": 1078,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "JvorMSW9zDE",
+   "url": "https://www.youtube.com/watch?v=JvorMSW9zDE",
+   "title": "What If You Went Back 10 Years With All Your Memories?",
+   "channel": "ConChaser",
+   "channel_url": "https://www.youtube.com/channel/UCt-GhchW5nGSjr-ETeGab_g",
+   "views": 136410,
+   "duration_s": 748,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "wNvj8kYiD0A",
+   "url": "https://www.youtube.com/watch?v=wNvj8kYiD0A",
+   "title": "Dying in a Time Loop 9 Times to Find the Killer (Time Loop Short Film)",
+   "channel": "Real Lens",
+   "channel_url": "https://www.youtube.com/channel/UCIDRCtKVF7rIrRbX9bpK-bw",
+   "views": 128099,
+   "duration_s": 1339,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "_MRS6ZqidAc",
+   "url": "https://www.youtube.com/watch?v=_MRS6ZqidAc",
+   "title": "What If YOU Woke Up as a CAT?",
+   "channel": "OnePowerAway",
+   "channel_url": "https://www.youtube.com/channel/UCT1YP36K_jEyWmUUB5QMPQA",
+   "views": 126043,
+   "duration_s": 458,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "2L7ixIy-pc8",
+   "url": "https://www.youtube.com/watch?v=2L7ixIy-pc8",
+   "title": "What if your crush became your tutor?",
+   "channel": "\u041a\u043e\u0440\u043e\u0447\u0435 \u0433\u043e\u0432\u043e\u0440\u044f",
+   "channel_url": "https://www.youtube.com/channel/UC1aDG8uh0S6xoHd5NBiI6FA",
+   "views": 121371,
+   "duration_s": 1335,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "RqmMqeh7P08",
+   "url": "https://www.youtube.com/watch?v=RqmMqeh7P08",
+   "title": "What If You Got Caught on the Kiss Cam With Your Crush?",
+   "channel": "Whim Walker",
+   "channel_url": "https://www.youtube.com/channel/UC4JmzSMWOdrbbonnM-HeSjg",
+   "views": 119746,
+   "duration_s": 770,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "xZeuGAGulhg",
+   "url": "https://www.youtube.com/watch?v=xZeuGAGulhg",
+   "title": "What if humans NEVER invented clothes?",
+   "channel": "Daxter RU",
+   "channel_url": "https://www.youtube.com/channel/UC6_zyR82h5ATD7kxJy9glyw",
+   "views": 119203,
+   "duration_s": 628,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "1MzKhm0Xy20",
+   "url": "https://www.youtube.com/watch?v=1MzKhm0Xy20",
+   "title": "What If You Were Stuck in a Time Loop Until You Beat Prime Michael Phelps?",
+   "channel": "Nero",
+   "channel_url": "https://www.youtube.com/channel/UC3ME8W-SybqITO4OhitnfaQ",
+   "views": 116798,
+   "duration_s": 720,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "vc-T3Y2pqz4",
+   "url": "https://www.youtube.com/watch?v=vc-T3Y2pqz4",
+   "title": "What If You Woke Up 1000 Years in the Future",
+   "channel": "Oddline",
+   "channel_url": "https://www.youtube.com/channel/UCSUf3gF5OAz2c0vAwRJzsTg",
+   "views": 114728,
+   "duration_s": 448,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "HwAXTYc21M4",
+   "url": "https://www.youtube.com/watch?v=HwAXTYc21M4",
+   "title": "If You Wake Up In A Reddit Mod's Basement, This Is How You Escape",
+   "channel": "Outwitted",
+   "channel_url": "https://www.youtube.com/channel/UCTGTwTTG4LYwVxfB6Qh5KHQ",
+   "views": 114172,
+   "duration_s": 566,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "ymHAXGlQVXg",
+   "url": "https://www.youtube.com/watch?v=ymHAXGlQVXg",
+   "title": "What If You Could See Who Is Secretly Attracted to You?",
+   "channel": "IFNation",
+   "channel_url": "https://www.youtube.com/channel/UCjXCoo0SOXZD8BFgb5ABlMg",
+   "views": 114005,
+   "duration_s": 742,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "5VxjuLzKXmE",
+   "url": "https://www.youtube.com/watch?v=5VxjuLzKXmE",
+   "title": "What If You Relived One Race Until You Beat Usain Bolt?",
+   "channel": "Dethrone",
+   "channel_url": "https://www.youtube.com/channel/UCTX5VngXyHXzAlrN1PzFDrQ",
+   "views": 112072,
+   "duration_s": 451,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "xhC5Y2HK9Fo",
+   "url": "https://www.youtube.com/watch?v=xhC5Y2HK9Fo",
+   "title": "He Dies Every Night On His Wedding Night | Dhoomakethu Explained in Hindi | CineStory",
+   "channel": "CineStory",
+   "channel_url": "https://www.youtube.com/channel/UCNkE7CzAQZl3-rCRLPdiICA",
+   "views": 110832,
+   "duration_s": 1654,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "6XyDCF0R-Oc",
+   "url": "https://www.youtube.com/watch?v=6XyDCF0R-Oc",
+   "title": "What If You Could See Everyone's Thoughts?",
+   "channel": "ODDJECTORY",
+   "channel_url": "https://www.youtube.com/channel/UCHc_076FqiHqgeIbWMEUJDw",
+   "views": 108506,
+   "duration_s": 571,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "qrWs2APo3D0",
+   "url": "https://www.youtube.com/watch?v=qrWs2APo3D0",
+   "title": "What IF School Assigned Your Crush as YOUR WIFE?",
+   "channel": "IfUnknown",
+   "channel_url": "https://www.youtube.com/channel/UCCEVmcWEhsAG7ac98ZpnJNQ",
+   "views": 91933,
+   "duration_s": 748,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q05"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "EcaDR-rM-4s",
+   "url": "https://www.youtube.com/watch?v=EcaDR-rM-4s",
+   "title": "What IF You Turned Into a Girl For a Week?",
+   "channel": "Flowstate Motion",
+   "channel_url": "https://www.youtube.com/channel/UCYbIl0eyQSt3MyaVdmq55Zg",
+   "views": 90276,
+   "duration_s": 624,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "3WF5ncU9snc",
+   "url": "https://www.youtube.com/watch?v=3WF5ncU9snc",
+   "title": "What if you had an infinite IQ on a deserted island?",
+   "channel": "Daxter RU",
+   "channel_url": "https://www.youtube.com/channel/UC6_zyR82h5ATD7kxJy9glyw",
+   "views": 89501,
+   "duration_s": 565,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "V0hi6FzDjc4",
+   "url": "https://www.youtube.com/watch?v=V0hi6FzDjc4",
+   "title": "What If Humans Never Invented Toilets?",
+   "channel": "Hypo Room",
+   "channel_url": "https://www.youtube.com/channel/UCG4Du2Vw0Tj-T8_Pt90qJwg",
+   "views": 80493,
+   "duration_s": 1198,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "RmOIcfZ9p8M",
+   "url": "https://www.youtube.com/watch?v=RmOIcfZ9p8M",
+   "title": "What would happen if humans had never invented clothing?",
+   "channel": "Se\u00f1or \u00bfY Si?",
+   "channel_url": "https://www.youtube.com/channel/UCI5STT7Z0GbYRlofPl-wqgw",
+   "views": 80439,
+   "duration_s": 947,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "u3qFjhW6kxo",
+   "url": "https://www.youtube.com/watch?v=u3qFjhW6kxo",
+   "title": "If Everyone Has the Same AI, What\u2019s Your Advantage? | TVR Signal Series",
+   "channel": "The Velocity Room",
+   "channel_url": "https://www.youtube.com/channel/UC_oYf3b-GJ5R9CklAiNhUVA",
+   "views": 77395,
+   "duration_s": 85,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "qBXODn7fPOc",
+   "url": "https://www.youtube.com/watch?v=qBXODn7fPOc",
+   "title": "What If You Woke Up With the Rinnegan\u2026 in Real Life?",
+   "channel": "Curious Dude",
+   "channel_url": "https://www.youtube.com/channel/UCU2zagQYdBtZQuyOI3rlkRQ",
+   "views": 71160,
+   "duration_s": 594,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "TwUUwXUMB1o",
+   "url": "https://www.youtube.com/watch?v=TwUUwXUMB1o",
+   "title": "What IF You Lived the Same Day Forever?",
+   "channel": "IFOLOGY",
+   "channel_url": "https://www.youtube.com/channel/UCv4DniMRgnBTmfFaxeMTTLA",
+   "views": 67874,
+   "duration_s": 1205,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "XI1ejUjE92A",
+   "url": "https://www.youtube.com/watch?v=XI1ejUjE92A",
+   "title": "What If You Were Stuck in a Time Loop Until You Beat Prime Cristiano Ronaldo's Team?",
+   "channel": "Nero",
+   "channel_url": "https://www.youtube.com/channel/UC3ME8W-SybqITO4OhitnfaQ",
+   "views": 65900,
+   "duration_s": 753,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "-TobwH3z_7k",
+   "url": "https://www.youtube.com/watch?v=-TobwH3z_7k",
+   "title": "What If Everyone Could Hear Your Thoughts?",
+   "channel": "ConChaser",
+   "channel_url": "https://www.youtube.com/channel/UCt-GhchW5nGSjr-ETeGab_g",
+   "views": 65276,
+   "duration_s": 994,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "pKq5ZjdPUx0",
+   "url": "https://www.youtube.com/watch?v=pKq5ZjdPUx0",
+   "title": "What If Your Crush Was a Yandere?",
+   "channel": "Possiblo",
+   "channel_url": "https://www.youtube.com/channel/UC-QrclM1b36lLkYO-BTfy0Q",
+   "views": 63701,
+   "duration_s": 484,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "hFDmYJAheGo",
+   "url": "https://www.youtube.com/watch?v=hFDmYJAheGo",
+   "title": "10 Experiments That Prove You're Stuck in a Time Loop",
+   "channel": "Professor Burp",
+   "channel_url": "https://www.youtube.com/channel/UCA1aPI-QadCi_ZCbeFYeoRA",
+   "views": 63601,
+   "duration_s": 2928,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "NyECEbdzT7Y",
+   "url": "https://www.youtube.com/watch?v=NyECEbdzT7Y",
+   "title": "What If Your Dad Was Mike Tyson?",
+   "channel": "Hypo Room",
+   "channel_url": "https://www.youtube.com/channel/UCG4Du2Vw0Tj-T8_Pt90qJwg",
+   "views": 63205,
+   "duration_s": 939,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "gKN9FvBDIhU",
+   "url": "https://www.youtube.com/watch?v=gKN9FvBDIhU",
+   "title": "What If Everyone Slept for 1,000 Years?",
+   "channel": "What if U click",
+   "channel_url": "https://www.youtube.com/channel/UC4_ZBxBKeI7EvERl1xOY1jQ",
+   "views": 56459,
+   "duration_s": 482,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "dSGDStqEvso",
+   "url": "https://www.youtube.com/watch?v=dSGDStqEvso",
+   "title": "What If Humans Never Wore Clothes \ud83d\ude33",
+   "channel": "C Daily",
+   "channel_url": "https://www.youtube.com/channel/UCmmlHsRZzocU9UrXM2mcsng",
+   "views": 53632,
+   "duration_s": 1009,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "N6J9ZZa35dQ",
+   "url": "https://www.youtube.com/watch?v=N6J9ZZa35dQ",
+   "title": "What If You Woke Up Married to Your Crush?",
+   "channel": "IFSHIFT",
+   "channel_url": "https://www.youtube.com/channel/UC0otyjh3waIHt6c483KBSEg",
+   "views": 47808,
+   "duration_s": 466,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "wz5KUHUDCNc",
+   "url": "https://www.youtube.com/watch?v=wz5KUHUDCNc",
+   "title": "What If You Turned Into a Girl?",
+   "channel": "Noobie Panda",
+   "channel_url": "https://www.youtube.com/channel/UCYV5eLgiF8MTGWTo5okrTzA",
+   "views": 46829,
+   "duration_s": 315,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "AcLcodKJjb4",
+   "url": "https://www.youtube.com/watch?v=AcLcodKJjb4",
+   "title": "What If You Could See Who Has Hidden Superpowers?",
+   "channel": " Jeremy Bearimy",
+   "channel_url": "https://www.youtube.com/channel/UCIHVYxXnwAzTvNU0PE_ZLsg",
+   "views": 45921,
+   "duration_s": 647,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "IT1tIeBtpzo",
+   "url": "https://www.youtube.com/watch?v=IT1tIeBtpzo",
+   "title": "The Moon Started Falling Toward Earth \u2014 Could You Survive?",
+   "channel": "Brain on a Stick",
+   "channel_url": "https://www.youtube.com/channel/UCkpqDpP-QKmdUmKT1vbbyBw",
+   "views": 44625,
+   "duration_s": 719,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "NNZ6--cJ7S4",
+   "url": "https://www.youtube.com/watch?v=NNZ6--cJ7S4",
+   "title": "WHAT IF YOU WOKE UP DURING THE BLACK DEATH?",
+   "channel": "Entropi",
+   "channel_url": "https://www.youtube.com/channel/UCEWo87opolGWWJ3Xpk68vlQ",
+   "views": 42777,
+   "duration_s": 701,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "q6p22UmMUW8",
+   "url": "https://www.youtube.com/watch?v=q6p22UmMUW8",
+   "title": "What If You Turned Into A Girl Every Time You Lied?",
+   "channel": "Haven Tales",
+   "channel_url": "https://www.youtube.com/channel/UCnylZzr6hnwbNzQ-THG_AZw",
+   "views": 40457,
+   "duration_s": 918,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q01"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "Xhlz0babMNs",
+   "url": "https://www.youtube.com/watch?v=Xhlz0babMNs",
+   "title": "What if you had infinite IQ in a ZOMBIE APOCALYPSE?",
+   "channel": "Darkmere",
+   "channel_url": "https://www.youtube.com/channel/UC3_Yrx00EUz5eqEpGHxQXhg",
+   "views": 39420,
+   "duration_s": 910,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "V0t_OmCIZLc",
+   "url": "https://www.youtube.com/watch?v=V0t_OmCIZLc",
+   "title": "What IF You Were Stuck in a Time Loop With Your Crush?",
+   "channel": " Jeremy Bearimy",
+   "channel_url": "https://www.youtube.com/channel/UCIHVYxXnwAzTvNU0PE_ZLsg",
+   "views": 37732,
+   "duration_s": 676,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "XsGxLAZHxaU",
+   "url": "https://www.youtube.com/watch?v=XsGxLAZHxaU",
+   "title": "What If You Woke Up in a Zoo in the Year 3026?",
+   "channel": "Not an Extra",
+   "channel_url": "https://www.youtube.com/channel/UC9RrkWI7HW-khMjfRKX47Ww",
+   "views": 34806,
+   "duration_s": 445,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "X1Ie7boqQQc",
+   "url": "https://www.youtube.com/watch?v=X1Ie7boqQQc",
+   "title": "What If the Nerd DATED the Most Popular Girl in School?",
+   "channel": "IFbro",
+   "channel_url": "https://www.youtube.com/channel/UCP8VhCK72fNaCdyU5Laajvg",
+   "views": 31741,
+   "duration_s": 948,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "ipnMq8EGzIo",
+   "url": "https://www.youtube.com/watch?v=ipnMq8EGzIo",
+   "title": "What if you could see everyone's STANDARDS?",
+   "channel": "WhatIfVerse",
+   "channel_url": "https://www.youtube.com/channel/UCLKGaEpJ4IOE5qQBlgIA_fQ",
+   "views": 31655,
+   "duration_s": 976,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "013lsJBY56s",
+   "url": "https://www.youtube.com/watch?v=013lsJBY56s",
+   "title": "What If You Woke Up When Your Parents Were Kids?",
+   "channel": "Glowing Hoodie",
+   "channel_url": "https://www.youtube.com/channel/UCAu8TAnTMqN1nObg_Og1qTA",
+   "views": 29994,
+   "duration_s": 609,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "___qHU19Xjg",
+   "url": "https://www.youtube.com/watch?v=___qHU19Xjg",
+   "title": "What If You Lived the Same Day Forever? (And How to Escape the Loop)",
+   "channel": "Evrika!",
+   "channel_url": "https://www.youtube.com/channel/UCJUpnG2nNFR7bYwRpWGeeug",
+   "views": 29951,
+   "duration_s": 590,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "rgNL-mI3WAQ",
+   "url": "https://www.youtube.com/watch?v=rgNL-mI3WAQ",
+   "title": "What If You Relived One Race Until You Beat Michael Phelps?",
+   "channel": "Dethrone",
+   "channel_url": "https://www.youtube.com/channel/UCTX5VngXyHXzAlrN1PzFDrQ",
+   "views": 29189,
+   "duration_s": 394,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "py3THtlptn4",
+   "url": "https://www.youtube.com/watch?v=py3THtlptn4",
+   "title": "Doctor: If You Wake Up at 3AM, Your Body Is Warning You",
+   "channel": "Dr. Vanita Rattan ",
+   "channel_url": "https://www.youtube.com/channel/UC4u0qaMIAgOL8L37RwLcDQA",
+   "views": 28483,
+   "duration_s": 403,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "UDZEJ1QSu3U",
+   "url": "https://www.youtube.com/watch?v=UDZEJ1QSu3U",
+   "title": "What If You Woke Up in the Year 1,000,002,026?",
+   "channel": "O Mundo e Tudo ao Redor and O Mar e Tudo ao Redor",
+   "channel_url": null,
+   "views": 28099,
+   "duration_s": 1056,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "lF5fj1LOXkg",
+   "url": "https://www.youtube.com/watch?v=lF5fj1LOXkg",
+   "title": "What if humans had NEVER invented clothing?",
+   "channel": "Zetta Data",
+   "channel_url": "https://www.youtube.com/channel/UCUPsfuWLpBni9GKbAQfdckQ",
+   "views": 27372,
+   "duration_s": 237,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "-gtzPbCz2tQ",
+   "url": "https://www.youtube.com/watch?v=-gtzPbCz2tQ",
+   "title": "What If You Got Stuck on an Island With Your Enemy?",
+   "channel": "Mightly",
+   "channel_url": "https://www.youtube.com/channel/UCwvNJTsoO0EuYPSYIFFrGQQ",
+   "views": 27094,
+   "duration_s": 690,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "cYyNAd1ENLM",
+   "url": "https://www.youtube.com/watch?v=cYyNAd1ENLM",
+   "title": "If You Wake Up In A Twitch Mods Room, This Is How You Escape",
+   "channel": "Outwitted",
+   "channel_url": "https://www.youtube.com/channel/UCTGTwTTG4LYwVxfB6Qh5KHQ",
+   "views": 26550,
+   "duration_s": 493,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "pxgzlLDUlh4",
+   "url": "https://www.youtube.com/watch?v=pxgzlLDUlh4",
+   "title": "What If You Could See Everyone's Luck",
+   "channel": "IFNation",
+   "channel_url": "https://www.youtube.com/channel/UCjXCoo0SOXZD8BFgb5ABlMg",
+   "views": 25952,
+   "duration_s": 548,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "y_4K3FmGz0Q",
+   "url": "https://www.youtube.com/watch?v=y_4K3FmGz0Q",
+   "title": "What If You Woke Up As The Last Guy On Earth?",
+   "channel": "Suddenly You",
+   "channel_url": "https://www.youtube.com/channel/UCE6bbnPEeHaT8WM9wb05mNw",
+   "views": 25873,
+   "duration_s": 576,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "nEbs1ZsJge0",
+   "url": "https://www.youtube.com/watch?v=nEbs1ZsJge0",
+   "title": "What IF the Nerd Dated the Most Popular Girl in School?",
+   "channel": " Jeremy Bearimy",
+   "channel_url": "https://www.youtube.com/channel/UCIHVYxXnwAzTvNU0PE_ZLsg",
+   "views": 24321,
+   "duration_s": 641,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "mssIm3nm2WQ",
+   "url": "https://www.youtube.com/watch?v=mssIm3nm2WQ",
+   "title": "What If Your Pet Could Evolve in a Zombie Apocalypse? (Part 2)",
+   "channel": "IfDatTrue",
+   "channel_url": "https://www.youtube.com/channel/UCWm5Yzi2JMy7kawnlrF1uiA",
+   "views": 24201,
+   "duration_s": 1020,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "L3kuVgOpVKU",
+   "url": "https://www.youtube.com/watch?v=L3kuVgOpVKU",
+   "title": "What If You Woke Up 66 Million Years Ago?",
+   "channel": "What if U click",
+   "channel_url": "https://www.youtube.com/channel/UC4_ZBxBKeI7EvERl1xOY1jQ",
+   "views": 23768,
+   "duration_s": 533,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "VA8vuL_Db6E",
+   "url": "https://www.youtube.com/watch?v=VA8vuL_Db6E",
+   "title": "How Family Survived Heavy Rain and Massive Flooding Inside an Abandoned Train\ud83d\ude82 |Relaxing Ghibli ASMR",
+   "channel": "Tiandee",
+   "channel_url": "https://www.youtube.com/channel/UCYkAuuwOd27BFtxP5ioxY8g",
+   "views": 23567,
+   "duration_s": 620,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "Ju7CKYU_kP8",
+   "url": "https://www.youtube.com/watch?v=Ju7CKYU_kP8",
+   "title": "What If Everyone Had to Follow Their Own Dating Standards?",
+   "channel": "ConChaser",
+   "channel_url": "https://www.youtube.com/channel/UCt-GhchW5nGSjr-ETeGab_g",
+   "views": 23118,
+   "duration_s": 769,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "7Hb0HEKmp2Y",
+   "url": "https://www.youtube.com/watch?v=7Hb0HEKmp2Y",
+   "title": "What if humans had never invented clothing?",
+   "channel": "Une Vie Impossible",
+   "channel_url": "https://www.youtube.com/channel/UCjaxtChHYb2OSrHuWFWVIPw",
+   "views": 22657,
+   "duration_s": 813,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "fhd2bfVcI8I",
+   "url": "https://www.youtube.com/watch?v=fhd2bfVcI8I",
+   "title": "What If You Relived One Match Until You Stopped Ronaldo's 1,000th Goal?",
+   "channel": "Dethrone",
+   "channel_url": "https://www.youtube.com/channel/UCTX5VngXyHXzAlrN1PzFDrQ",
+   "views": 22620,
+   "duration_s": 350,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "AEVe8qWYSK4",
+   "url": "https://www.youtube.com/watch?v=AEVe8qWYSK4",
+   "title": "What If You Were Stuck in a Car With Your Crush? (We Almost Kissed\u2026)",
+   "channel": "WHATIFSaru",
+   "channel_url": "https://www.youtube.com/channel/UCAta6c-JBGaql3EXuuSc5Ww",
+   "views": 22499,
+   "duration_s": 621,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "pZgh3dkOc18",
+   "url": "https://www.youtube.com/watch?v=pZgh3dkOc18",
+   "title": "What if you woke up in Squid Game! Would you survive?",
+   "channel": "\u0633\u0631\u062f\u0648 | Sardo",
+   "channel_url": "https://www.youtube.com/channel/UCI7JmDnOHVAgu7Pe4ye6Z6g",
+   "views": 21657,
+   "duration_s": 1124,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "NGzreNqLq8c",
+   "url": "https://www.youtube.com/watch?v=NGzreNqLq8c",
+   "title": "What If Humans Never Wore Clothes Again?\ud83d\ude33",
+   "channel": "Chargd",
+   "channel_url": "https://www.youtube.com/channel/UCmOR2H5y74XX0f1nEPJOsog",
+   "views": 21217,
+   "duration_s": 197,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "D4Dn3QGUxm0",
+   "url": "https://www.youtube.com/watch?v=D4Dn3QGUxm0",
+   "title": "What If You Could See Everyones Strength Level",
+   "channel": "Would You Have Lived?",
+   "channel_url": "https://www.youtube.com/channel/UCTw7pjxiMGLSU5EPbDKEyVA",
+   "views": 20345,
+   "duration_s": 566,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "_3AH3ECmCoA",
+   "url": "https://www.youtube.com/watch?v=_3AH3ECmCoA",
+   "title": "What If You Could See What Would Impress Everyone?",
+   "channel": "Hypothtica",
+   "channel_url": "https://www.youtube.com/channel/UCKFRARe7aPTT7FXjNrPFcbQ",
+   "views": 20240,
+   "duration_s": 617,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "GL4Pi6iSgi4",
+   "url": "https://www.youtube.com/watch?v=GL4Pi6iSgi4",
+   "title": "\u091f\u093e\u0907\u092e \u0932\u0942\u092a \u092e\u0947\u0902 \u090f\u0915 \u0939\u0940 \u0926\u093f\u0928 \u0915\u094b \u0939\u091c\u093c\u093e\u0930\u094b\u0902 \u092c\u093e\u0930 \u091c\u0940\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u091c\u092c \u0915\u092a\u0932 \u0917\u0941\u092b\u093e \u092e\u0947\u0902 \u0918\u0941\u0938\u093e \u0924\u094b Movie Explained In Hindi",
+   "channel": "Factifi",
+   "channel_url": "https://www.youtube.com/channel/UCQSJxAvmTzvapPo3EF4LgWg",
+   "views": 19936,
+   "duration_s": 1027,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "8caeXwdCODo",
+   "url": "https://www.youtube.com/watch?v=8caeXwdCODo",
+   "title": "What If You Woke Up as a Mongol Warrior?",
+   "channel": "Mundo Curioso S2",
+   "channel_url": "https://www.youtube.com/channel/UCx9j9v9eCLqVg2agC_ocMOg",
+   "views": 19055,
+   "duration_s": 394,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "ZoKT_BOeND0",
+   "url": "https://www.youtube.com/watch?v=ZoKT_BOeND0",
+   "title": "I Woke Up as Kurama Inside Naruto \u2014 Now Konoha Knows What a Jinchuriki Really Is!",
+   "channel": "Reborn Shinobi",
+   "channel_url": "https://www.youtube.com/channel/UCsE-sx1fahL2rQzHVmWIFhQ",
+   "views": 18741,
+   "duration_s": 3837,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "DIgL7I9MQVA",
+   "url": "https://www.youtube.com/watch?v=DIgL7I9MQVA",
+   "title": "What If the Middle East Had A Battle Royale? #1",
+   "channel": "Chat Geography",
+   "channel_url": "https://www.youtube.com/channel/UC5eLFiCnc60SoTb0h6K1c0w",
+   "views": 17773,
+   "duration_s": 775,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "HYeALEkhBGE",
+   "url": "https://www.youtube.com/watch?v=HYeALEkhBGE",
+   "title": "Power Outage Survival: 30 Days Alone In A House",
+   "channel": "Last Dave Standing",
+   "channel_url": "https://www.youtube.com/channel/UCP9M7FUHQ6JSxtvrHAlg6YQ",
+   "views": 16928,
+   "duration_s": 756,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "UADcWc6tFE4",
+   "url": "https://www.youtube.com/watch?v=UADcWc6tFE4",
+   "title": "What IF the Nerd DATED the Most Popular Girl",
+   "channel": "Ray Asked",
+   "channel_url": "https://www.youtube.com/channel/UCM26_K-fVQIwAjno-c0u5XQ",
+   "views": 16605,
+   "duration_s": 279,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "T6j44uCyQQw",
+   "url": "https://www.youtube.com/watch?v=T6j44uCyQQw",
+   "title": "If You Wake Up On An Island Of Anime Waifus, This Is How You Escape",
+   "channel": "Outwitted",
+   "channel_url": "https://www.youtube.com/channel/UCTGTwTTG4LYwVxfB6Qh5KHQ",
+   "views": 16568,
+   "duration_s": 490,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "dojTgBbCsT0",
+   "url": "https://www.youtube.com/watch?v=dojTgBbCsT0",
+   "title": "What If Your Crush Could Control Everyone Except You?",
+   "channel": "Nicoroni",
+   "channel_url": "https://www.youtube.com/channel/UCIjauBSo6XGuHTpxuBmqR9g",
+   "views": 16455,
+   "duration_s": 1032,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "-JDtX9GgP8Q",
+   "url": "https://www.youtube.com/watch?v=-JDtX9GgP8Q",
+   "title": "What If Humans Never Invented Clothes?",
+   "channel": "What If Space",
+   "channel_url": "https://www.youtube.com/channel/UCB4OwSilgR7NXfaylHHoMug",
+   "views": 16412,
+   "duration_s": 554,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "qQegVNDDxEo",
+   "url": "https://www.youtube.com/watch?v=qQegVNDDxEo",
+   "title": "What If the School Queen Fell for the Biggest Loser?",
+   "channel": "ifstudioalikh",
+   "channel_url": "https://www.youtube.com/channel/UCQTgVoiORLiN6KO0wtXoOiQ",
+   "views": 15861,
+   "duration_s": 467,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "1xM-WX0FBtg",
+   "url": "https://www.youtube.com/watch?v=1xM-WX0FBtg",
+   "title": "What If Humans Never Invented Clothes?",
+   "channel": "SON Another Life",
+   "channel_url": "https://www.youtube.com/channel/UCfnPFuvVC_hiOZ29BNkgXlw",
+   "views": 15779,
+   "duration_s": 652,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "VWJZhz2QO6M",
+   "url": "https://www.youtube.com/watch?v=VWJZhz2QO6M",
+   "title": "What If Humans Never Invented Clothes?",
+   "channel": "Alphora",
+   "channel_url": "https://www.youtube.com/channel/UC5CI-7D_tFURSmUHPYtw5zg",
+   "views": 15767,
+   "duration_s": 435,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03",
+    "q07"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "Bj-4DOOKFzY",
+   "url": "https://www.youtube.com/watch?v=Bj-4DOOKFzY",
+   "title": "What If You Woke Up as a Gay Ancient Human?",
+   "channel": "stick figurist",
+   "channel_url": "https://www.youtube.com/channel/UC-zAkTO8TC34Z-TQUmu-RrQ",
+   "views": 15381,
+   "duration_s": 796,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "MiYp5ZPGES4",
+   "url": "https://www.youtube.com/watch?v=MiYp5ZPGES4",
+   "title": "What If You Woke Up 9 Feet Tall?",
+   "channel": "Noobie Panda",
+   "channel_url": "https://www.youtube.com/channel/UCYV5eLgiF8MTGWTo5okrTzA",
+   "views": 15177,
+   "duration_s": 431,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "8i8jZsavEKo",
+   "url": "https://www.youtube.com/watch?v=8i8jZsavEKo",
+   "title": "What If Everyone\u2019s Clothes Disappeared at 12 PM Every Day?",
+   "channel": "What If Space",
+   "channel_url": "https://www.youtube.com/channel/UCB4OwSilgR7NXfaylHHoMug",
+   "views": 14928,
+   "duration_s": 493,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "wi3ec_R6e5Y",
+   "url": "https://www.youtube.com/watch?v=wi3ec_R6e5Y",
+   "title": "What If YOU Woke Up as a DOG?",
+   "channel": "OnePowerAway",
+   "channel_url": "https://www.youtube.com/channel/UCT1YP36K_jEyWmUUB5QMPQA",
+   "views": 14911,
+   "duration_s": 507,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "_BlNQBkPWN4",
+   "url": "https://www.youtube.com/watch?v=_BlNQBkPWN4",
+   "title": "What if All Might Got The Quirks Of The Past Users Of OFA?",
+   "channel": "Wrathful Hero",
+   "channel_url": "https://www.youtube.com/channel/UCej1Jzy8scbSjgUKfeTYW7g",
+   "views": 14743,
+   "duration_s": 1105,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "BK7PuYk8nGk",
+   "url": "https://www.youtube.com/watch?v=BK7PuYk8nGk",
+   "title": "What If You Could See Everyones Biggest Trauma?",
+   "channel": "Hypothtica",
+   "channel_url": "https://www.youtube.com/channel/UCKFRARe7aPTT7FXjNrPFcbQ",
+   "views": 13955,
+   "duration_s": 424,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "6vDziNxYvA0",
+   "url": "https://www.youtube.com/watch?v=6vDziNxYvA0",
+   "title": "How to Survive a Tsunami",
+   "channel": "NTreze Animates",
+   "channel_url": "https://www.youtube.com/channel/UCm0d9YYoRx7O0xoqoPX8orA",
+   "views": 13866,
+   "duration_s": 507,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "cetHiCzAfXU",
+   "url": "https://www.youtube.com/watch?v=cetHiCzAfXU",
+   "title": "Fog Apocalypse: I Survived 90 Days Inside the Deadly Fog (Full Movie)",
+   "channel": "Decido",
+   "channel_url": "https://www.youtube.com/channel/UCUacJCRtZ1qoA8jHO3nSrLQ",
+   "views": 13653,
+   "duration_s": 4233,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q07"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "o9drxAU_0dI",
+   "url": "https://www.youtube.com/watch?v=o9drxAU_0dI",
+   "title": "What if You Could See Everyone's Real-Life Rating? Part3",
+   "channel": "Lookif",
+   "channel_url": "https://www.youtube.com/channel/UC90Y33qnVM1Qe7Ay1omcAxg",
+   "views": 13033,
+   "duration_s": 677,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "WmssV2zLUUA",
+   "url": "https://www.youtube.com/watch?v=WmssV2zLUUA",
+   "title": "What If Everyone Could Hear Your Thoughts?",
+   "channel": "Imagine si\u2026 ?",
+   "channel_url": "https://www.youtube.com/channel/UCw3rFmmsniVXdoELIHQABfQ",
+   "views": 12013,
+   "duration_s": 688,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "8VcwO5XPszs",
+   "url": "https://www.youtube.com/watch?v=8VcwO5XPszs",
+   "title": "And if you could see everyone's mental age",
+   "channel": "Mille et Si and Mille et Si shorts",
+   "channel_url": null,
+   "views": 12002,
+   "duration_s": 554,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "3Q1--1uVL5k",
+   "url": "https://www.youtube.com/watch?v=3Q1--1uVL5k",
+   "title": "What If You Could See Everyone's Potential?",
+   "channel": "Lookif",
+   "channel_url": "https://www.youtube.com/channel/UC90Y33qnVM1Qe7Ay1omcAxg",
+   "views": 11832,
+   "duration_s": 562,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "OHtfq7clrNQ",
+   "url": "https://www.youtube.com/watch?v=OHtfq7clrNQ",
+   "title": "What If You Could STOP Time for Everyone But You?",
+   "channel": "Hypothetical Humans",
+   "channel_url": "https://www.youtube.com/channel/UC0WEIZF6zGm4HAVZjZEbhfA",
+   "views": 11550,
+   "duration_s": 470,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "2QKa0bbxH2Q",
+   "url": "https://www.youtube.com/watch?v=2QKa0bbxH2Q",
+   "title": "What if Everyone Started with 1 BILLION GOLD? | OpenFront.io",
+   "channel": "TheBiff",
+   "channel_url": "https://www.youtube.com/channel/UCOEr4L4ZRIinsoeAtvZdmXA",
+   "views": 11313,
+   "duration_s": 1324,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "YVNiaFic9_A",
+   "url": "https://www.youtube.com/watch?v=YVNiaFic9_A",
+   "title": "What If Humans Never Discovered Clothes?",
+   "channel": "Iftales",
+   "channel_url": "https://www.youtube.com/channel/UCw20ZYSS_SgPAuUFPl1bnAQ",
+   "views": 10649,
+   "duration_s": 617,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "sosJVE0Y91M",
+   "url": "https://www.youtube.com/watch?v=sosJVE0Y91M",
+   "title": "What If You Woke Up 100,000 Years Ago?",
+   "channel": "Humnix",
+   "channel_url": "https://www.youtube.com/channel/UCo5U9TPNuKNwYtEqjwY7CDg",
+   "views": 10622,
+   "duration_s": 342,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "gzxL9dq0C2c",
+   "url": "https://www.youtube.com/watch?v=gzxL9dq0C2c",
+   "title": "What If You Could See Everyone's Future Soulmate?",
+   "channel": "Hyporia",
+   "channel_url": "https://www.youtube.com/channel/UCYkQ3tVjSBAQzinDaQlAgrA",
+   "views": 10470,
+   "duration_s": 661,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "q33xkAtwRHg",
+   "url": "https://www.youtube.com/watch?v=q33xkAtwRHg",
+   "title": "What If Everyone Could See Through Clothes?",
+   "channel": "Hypotethical stories ",
+   "channel_url": "https://www.youtube.com/channel/UCmYNZCsdU0XMhvcgqWv7Oog",
+   "views": 10228,
+   "duration_s": 25206,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "7vnsB4uKi5g",
+   "url": "https://www.youtube.com/watch?v=7vnsB4uKi5g",
+   "title": "What If You Could Read Everyone's LAST Text Message?",
+   "channel": "DOOMPERK",
+   "channel_url": "https://www.youtube.com/channel/UCMu5Q7KkH2Ao1oLC_6J7B8Q",
+   "views": 10073,
+   "duration_s": 855,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "t_c5x_1SttU",
+   "url": "https://www.youtube.com/watch?v=t_c5x_1SttU",
+   "title": "What If You Became President?",
+   "channel": "Hypo Room",
+   "channel_url": "https://www.youtube.com/channel/UCG4Du2Vw0Tj-T8_Pt90qJwg",
+   "views": 9605,
+   "duration_s": 1181,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "mL0LcI-kBqU",
+   "url": "https://www.youtube.com/watch?v=mL0LcI-kBqU",
+   "title": "What If You Became the Most Famous GTA 6 Streamer?",
+   "channel": "Hypo Room",
+   "channel_url": "https://www.youtube.com/channel/UCG4Du2Vw0Tj-T8_Pt90qJwg",
+   "views": 9581,
+   "duration_s": 1256,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "jiThaPVAZqY",
+   "url": "https://www.youtube.com/watch?v=jiThaPVAZqY",
+   "title": "The Basement: Julia Mossbridge | Time Loops, Cosmic Consciousness, and Psychic Children",
+   "channel": "The Why Files: Operation Podcast",
+   "channel_url": "https://www.youtube.com/channel/UCEC5BMJVqK5uV0rA_-UU4FA",
+   "views": 9218,
+   "duration_s": 12490,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "VhuavhNEihQ",
+   "url": "https://www.youtube.com/watch?v=VhuavhNEihQ",
+   "title": "What If You And Your Crush Were Stuck in a Time Loop?",
+   "channel": "SenseDecoded",
+   "channel_url": "https://www.youtube.com/channel/UCV47ntrkBDjZ07lFlK29KkQ",
+   "views": 9176,
+   "duration_s": 907,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "TY2on-Tzaj8",
+   "url": "https://www.youtube.com/watch?v=TY2on-Tzaj8",
+   "title": "What If You Could See Everyone's Dating Minimum?",
+   "channel": "Miko",
+   "channel_url": "https://www.youtube.com/channel/UClyTaG_r431PZoQstNv1uQQ",
+   "views": 8732,
+   "duration_s": 608,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "UZI1T4uniRg",
+   "url": "https://www.youtube.com/watch?v=UZI1T4uniRg",
+   "title": "What If Humans NEVER Wore Clothes?",
+   "channel": "Probably Impossible",
+   "channel_url": "https://www.youtube.com/channel/UCtn-RF_KD4V6aAwXgXYyp5A",
+   "views": 8622,
+   "duration_s": 599,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "-41AP0uLg4k",
+   "url": "https://www.youtube.com/watch?v=-41AP0uLg4k",
+   "title": "What If Humans NEVER Invented Clothes?",
+   "channel": "WhatIForaa",
+   "channel_url": "https://www.youtube.com/channel/UCogJ_CvRBZ4JUgTB9MmfFNQ",
+   "views": 8424,
+   "duration_s": 482,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "nqckXDUtGNY",
+   "url": "https://www.youtube.com/watch?v=nqckXDUtGNY",
+   "title": "What If Humans Never Invented Clothes?",
+   "channel": "POV:PAST LIFE HISTORY ",
+   "channel_url": "https://www.youtube.com/channel/UCMduq47TytrhVto-p8f5-2Q",
+   "views": 8259,
+   "duration_s": 419,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "5vPlapc4PqQ",
+   "url": "https://www.youtube.com/watch?v=5vPlapc4PqQ",
+   "title": "What If You Could See How Scared Everyone Is of You?",
+   "channel": "StuckMilo",
+   "channel_url": "https://www.youtube.com/channel/UCG7cawgGdTFAeuN0j1JBTgw",
+   "views": 7935,
+   "duration_s": 784,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02",
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "BrTKdi6q4ZI",
+   "url": "https://www.youtube.com/watch?v=BrTKdi6q4ZI",
+   "title": "What If Humans Never Invented Clothes?",
+   "channel": "Ifpossible",
+   "channel_url": "https://www.youtube.com/channel/UCslXXjKBoOEzLZMsAH2Og_Q",
+   "views": 7781,
+   "duration_s": 612,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "VbX6fSNYszM",
+   "url": "https://www.youtube.com/watch?v=VbX6fSNYszM",
+   "title": "What If You Could See Everyone\u2019s IQ?",
+   "channel": "What If Effect",
+   "channel_url": "https://www.youtube.com/channel/UCehx4Krtf9nKlLUjZMRqdvQ",
+   "views": 7763,
+   "duration_s": 644,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "wM3MG6BL0zg",
+   "url": "https://www.youtube.com/watch?v=wM3MG6BL0zg",
+   "title": "What If You Could See Everyone's Real Mental Age?",
+   "channel": "Primer Nivel",
+   "channel_url": "https://www.youtube.com/channel/UCnzSXbpG6itN2ABKs-QRyVA",
+   "views": 7088,
+   "duration_s": 739,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "rVFOPIXLiXM",
+   "url": "https://www.youtube.com/watch?v=rVFOPIXLiXM",
+   "title": "What IF You Woke Up the Most Hated Kid in School?",
+   "channel": "IFOLOGY",
+   "channel_url": "https://www.youtube.com/channel/UCv4DniMRgnBTmfFaxeMTTLA",
+   "views": 7017,
+   "duration_s": 640,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "8XqLpvvnSZM",
+   "url": "https://www.youtube.com/watch?v=8XqLpvvnSZM",
+   "title": "What If Humans NEVER INVENTED CLOTHES?",
+   "channel": "Ifnice",
+   "channel_url": "https://www.youtube.com/channel/UCBW42aANDs0OzQGnW1h1Lgw",
+   "views": 6724,
+   "duration_s": 859,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "Rph9AJ4klsU",
+   "url": "https://www.youtube.com/watch?v=Rph9AJ4klsU",
+   "title": "What If You Were Stuck in a Time Loop Until Your Crush Said Yes",
+   "channel": "Ifique",
+   "channel_url": "https://www.youtube.com/channel/UCZCIDMFJ5HY5Wc0-sz2eA2w",
+   "views": 6627,
+   "duration_s": 411,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "U422XhYQ0VI",
+   "url": "https://www.youtube.com/watch?v=U422XhYQ0VI",
+   "title": "What If Humans Never Invented Clothes",
+   "channel": "Oliver Zigzagoon ",
+   "channel_url": "https://www.youtube.com/channel/UC73BwUs4zaJtt1jrTF8OAQA",
+   "views": 6593,
+   "duration_s": 377,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "soezy48SZZI",
+   "url": "https://www.youtube.com/watch?v=soezy48SZZI",
+   "title": "What If Everyone Who Ever Died Came Back to Life?",
+   "channel": "YOUniverse",
+   "channel_url": "https://www.youtube.com/channel/UCuOT9ctMFLXM3T1vaJfblIQ",
+   "views": 6451,
+   "duration_s": 402,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "rIQ1H-qMXY4",
+   "url": "https://www.youtube.com/watch?v=rIQ1H-qMXY4",
+   "title": "What If You Woke Up the Only Man Among 300 Vampires in a Castle?",
+   "channel": "Story Wick",
+   "channel_url": "https://www.youtube.com/channel/UC8tY_pHuddEORymnJjL6yhg",
+   "views": 6213,
+   "duration_s": 728,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "1JaQd46Zn_Y",
+   "url": "https://www.youtube.com/watch?v=1JaQd46Zn_Y",
+   "title": "What If Clothes Had NEVER Been Invented? \ud83d\ude31",
+   "channel": "Que pasaria si?",
+   "channel_url": "https://www.youtube.com/channel/UCZERPaX_OQ1wxmXF5xsRmrQ",
+   "views": 5724,
+   "duration_s": 465,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "iZcLgynqfXo",
+   "url": "https://www.youtube.com/watch?v=iZcLgynqfXo",
+   "title": "Timeloop Puzzle | Co-op Puzzle Game | We Were Here Tomorrow\u200b | 6",
+   "channel": "Retromation",
+   "channel_url": "https://www.youtube.com/channel/UC4Xj6emHTXnKHUq8btUuN6A",
+   "views": 5662,
+   "duration_s": 2821,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "6Ph-xABaSFA",
+   "url": "https://www.youtube.com/watch?v=6Ph-xABaSFA",
+   "title": "What If Humans Had to Live Without Clothes Forever?",
+   "channel": "Suppose What If",
+   "channel_url": "https://www.youtube.com/channel/UCjX_YjqIRtVZ2usfZtAa_0A",
+   "views": 5540,
+   "duration_s": 413,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "ZQekt_U05pA",
+   "url": "https://www.youtube.com/watch?v=ZQekt_U05pA",
+   "title": "What If the School Queen Fell for the Loser?",
+   "channel": "ifstudioalikh",
+   "channel_url": "https://www.youtube.com/channel/UCQTgVoiORLiN6KO0wtXoOiQ",
+   "views": 5324,
+   "duration_s": 475,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "3bmFwKzrJII",
+   "url": "https://www.youtube.com/watch?v=3bmFwKzrJII",
+   "title": "What If Humans Never Created Clothes?",
+   "channel": "Eonstick",
+   "channel_url": "https://www.youtube.com/channel/UCo5mVOiMNI3t_3_LhLjF4-g",
+   "views": 5216,
+   "duration_s": 628,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "s0NNFEEFHbg",
+   "url": "https://www.youtube.com/watch?v=s0NNFEEFHbg",
+   "title": "What If Humans Never Invented Doors?",
+   "channel": "The What-If Hall",
+   "channel_url": "https://www.youtube.com/channel/UC-o7w637C_H2IHB92YGeYOg",
+   "views": 5006,
+   "duration_s": 550,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "3jVR97RajTM",
+   "url": "https://www.youtube.com/watch?v=3jVR97RajTM",
+   "title": "The Chess Skill Gap Is NOT What You Think",
+   "channel": "Curly SportsIf",
+   "channel_url": "https://www.youtube.com/channel/UC3DsG8yqeMGGrCfQ6j4Equw",
+   "views": 4964,
+   "duration_s": 623,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "NI_nEx1Fajg",
+   "url": "https://www.youtube.com/watch?v=NI_nEx1Fajg",
+   "title": "What If You Were Stuck in a Time Loop Until You Beat Prime Bruce Lee?",
+   "channel": "Suddenly You",
+   "channel_url": "https://www.youtube.com/channel/UCE6bbnPEeHaT8WM9wb05mNw",
+   "views": 4943,
+   "duration_s": 596,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "98uL9TdUQlk",
+   "url": "https://www.youtube.com/watch?v=98uL9TdUQlk",
+   "title": "What If You Woke Up in Your Crush\u2019s Body?",
+   "channel": "Trapped Alone",
+   "channel_url": "https://www.youtube.com/channel/UCO5n2Yo68PgdyxhmhBOFiJw",
+   "views": 4724,
+   "duration_s": 522,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q08"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "xvz-gS4jtjE",
+   "url": "https://www.youtube.com/watch?v=xvz-gS4jtjE",
+   "title": "What If Evolution Never Invented Old Age? (Your Body Would Do Something Terrifying).",
+   "channel": "PANACEA and Apefully",
+   "channel_url": null,
+   "views": 4704,
+   "duration_s": 938,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "JGsB0Prt1SU",
+   "url": "https://www.youtube.com/watch?v=JGsB0Prt1SU",
+   "title": "What If You Could See Everyone's Body Count",
+   "channel": "Iftoons",
+   "channel_url": "https://www.youtube.com/channel/UCsansxCbn_Skvv87g6MZ7vQ",
+   "views": 4468,
+   "duration_s": 925,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q02"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "BVY8iS6hrOA",
+   "url": "https://www.youtube.com/watch?v=BVY8iS6hrOA",
+   "title": "What If the Nerd DATED the Quarterback's Girlfriend?",
+   "channel": "Goofy Woofy",
+   "channel_url": "https://www.youtube.com/channel/UCGn00DQmPRF7edvSXbto-BQ",
+   "views": 4434,
+   "duration_s": 547,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "0TOCHr86PL4",
+   "url": "https://www.youtube.com/watch?v=0TOCHr86PL4",
+   "title": "What If you were stuck in a Infinite Time Loop until you beat Usain Bolt in a 100m?",
+   "channel": "The If Lab",
+   "channel_url": "https://www.youtube.com/channel/UCr5CA7WuzVsswnr_VlDIgLg",
+   "views": 4189,
+   "duration_s": 793,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "G1z5aFNQoX8",
+   "url": "https://www.youtube.com/watch?v=G1z5aFNQoX8",
+   "title": "What If a Crazy Yandere Fell in Love With You?",
+   "channel": "ifstudioalikh",
+   "channel_url": "https://www.youtube.com/channel/UCQTgVoiORLiN6KO0wtXoOiQ",
+   "views": 4086,
+   "duration_s": 322,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "0JMMv7BnE-o",
+   "url": "https://www.youtube.com/watch?v=0JMMv7BnE-o",
+   "title": "What If Everyone Could See Through Your Clothes?",
+   "channel": "Hypotethical stories ",
+   "channel_url": "https://www.youtube.com/channel/UCmYNZCsdU0XMhvcgqWv7Oog",
+   "views": 3684,
+   "duration_s": 237,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q10"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "8vfGlWrVxRo",
+   "url": "https://www.youtube.com/watch?v=8vfGlWrVxRo",
+   "title": "What If You Were Stuck in a Time Loop Until You Beat Prime Usain Bolt?",
+   "channel": "Powerbound",
+   "channel_url": "https://www.youtube.com/channel/UCEQarqKhjYAfsU7s_j0_hOg",
+   "views": 3563,
+   "duration_s": 755,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "nNJdwizoVaM",
+   "url": "https://www.youtube.com/watch?v=nNJdwizoVaM",
+   "title": "What If Humans Never Invented Clothes?",
+   "channel": "The Curious Stickman",
+   "channel_url": "https://www.youtube.com/channel/UCRMcicuOPK-RzsX0T0-ybgQ",
+   "views": 3558,
+   "duration_s": 377,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "o3je-lASRSI",
+   "url": "https://www.youtube.com/watch?v=o3je-lASRSI",
+   "title": "\u091f\u093e\u0907\u092e \u0932\u0942\u092a \u092e\u0947\u0902 \u092b\u0902\u0938\u0915\u0930 \u0909\u0938\u0928\u0947 \u0938\u094c \u092c\u093e\u0930 \u0916\u0941\u0926 \u0915\u0940 \u091c\u093e\u0928 \u0932\u0940 \u092a\u0930 \u0939\u0930 \u0938\u0941\u092c\u0939 6 \u092c\u091c\u0947 \u091c\u093f\u0902\u0926\u093e \u0909\u0920\u093e Movie Explained In Hindi",
+   "channel": "Factifi",
+   "channel_url": "https://www.youtube.com/channel/UCQSJxAvmTzvapPo3EF4LgWg",
+   "views": 3550,
+   "duration_s": 1076,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "s1zopGE6Yc4",
+   "url": "https://www.youtube.com/watch?v=s1zopGE6Yc4",
+   "title": "A Modern Man Gets Trapped in a Deadly Time Loop\u2014And Must Rescue TWO Beautiful Royals!",
+   "channel": "Monogatri Anime",
+   "channel_url": "https://www.youtube.com/channel/UCLLaw76lMLzJ1311jvPfKvQ",
+   "views": 2846,
+   "duration_s": 4358,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "db9_qHF-AyA",
+   "url": "https://www.youtube.com/watch?v=db9_qHF-AyA",
+   "title": "What If Time Looped Until You Beat Magnus Carlsen",
+   "channel": "WhatIf Lab",
+   "channel_url": "https://www.youtube.com/channel/UCPaddOtMdq4BsD5ih9HCGTg",
+   "views": 2433,
+   "duration_s": 553,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "6ozBtjZrSVs",
+   "url": "https://www.youtube.com/watch?v=6ozBtjZrSVs",
+   "title": "What If Humans Never Invented Clothes?",
+   "channel": "Oops you",
+   "channel_url": "https://www.youtube.com/channel/UCs2c73KXkbKT2AB6zv5ytZg",
+   "views": 2180,
+   "duration_s": 647,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "1bNpSVHt-yU",
+   "url": "https://www.youtube.com/watch?v=1bNpSVHt-yU",
+   "title": "What If You Relived One Fight Until You Beat Prime Mike Tyson?",
+   "channel": "Dethrone",
+   "channel_url": "https://www.youtube.com/channel/UCTX5VngXyHXzAlrN1PzFDrQ",
+   "views": 1538,
+   "duration_s": 499,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "month"
+   ]
+  },
+  {
+   "id": "3Inq-Mb0qGk",
+   "url": "https://www.youtube.com/watch?v=3Inq-Mb0qGk",
+   "title": "What IF Humans Never Invented CLOTHES?",
+   "channel": "Nick LO",
+   "channel_url": "https://www.youtube.com/channel/UC64FNImA7Xd0XcFftAbtZYw",
+   "views": 1201,
+   "duration_s": 580,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "18pEDHq9MSo",
+   "url": "https://www.youtube.com/watch?v=18pEDHq9MSo",
+   "title": "What If You Were Stuck in a Time Loop Until You Beat Ayrton Senna?",
+   "channel": "MasterOfAll",
+   "channel_url": "https://www.youtube.com/channel/UChtRKA9ORV3bUYJc4aojf3A",
+   "views": 1166,
+   "duration_s": 401,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "GQZRuz_dzEg",
+   "url": "https://www.youtube.com/watch?v=GQZRuz_dzEg",
+   "title": "Assassins Hunt Him Every Single Morning , Time Loop Movie Recap",
+   "channel": "TheEndingStayed",
+   "channel_url": "https://www.youtube.com/channel/UC4xth18y9Kqfk1IQKigqnPQ",
+   "views": 1041,
+   "duration_s": 640,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "Y89zaQIq45I",
+   "url": "https://www.youtube.com/watch?v=Y89zaQIq45I",
+   "title": "Shiver Full Movie (2027) Keanu Reeves The Ultimate Time Loop Shark Review & Facts",
+   "channel": "Movie Recap Zone",
+   "channel_url": "https://www.youtube.com/channel/UCUWCA6GzLDpbLgertieIGog",
+   "views": 987,
+   "duration_s": 7368,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "CD87WqUJBGQ",
+   "url": "https://www.youtube.com/watch?v=CD87WqUJBGQ",
+   "title": "What If You Were Stuck in a Time Loop With Your Crush? \u2764\ufe0f\u23f3",
+   "channel": "Mr Blaze ",
+   "channel_url": "https://www.youtube.com/channel/UCJnxuqHZFqc-TRhYM9l-QUQ",
+   "views": 965,
+   "duration_s": 676,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "vTYLUgKO1QQ",
+   "url": "https://www.youtube.com/watch?v=vTYLUgKO1QQ",
+   "title": "What If Humans Never Invented Clothes? ",
+   "channel": "ifeclipse",
+   "channel_url": "https://www.youtube.com/channel/UCJPpLnHeRuS5vpnZ_C7sg8A",
+   "views": 775,
+   "duration_s": 596,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "Zm4aUcD5ZgA",
+   "url": "https://www.youtube.com/watch?v=Zm4aUcD5ZgA",
+   "title": "Kazama Can't Escape the Elevator | Liminal Space & Time Loop",
+   "channel": "creakyway",
+   "channel_url": "https://www.youtube.com/channel/UCb0K4POXN7DVC0--Qugw28w",
+   "views": 770,
+   "duration_s": 713,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "w7CD14pwyDU",
+   "url": "https://www.youtube.com/watch?v=w7CD14pwyDU",
+   "title": "Wake-up.Die.Break the loop | Thriller Short Film | Nirdeshak Studio",
+   "channel": "Nirdeshak Studio",
+   "channel_url": "https://www.youtube.com/channel/UCXJmRMpyKdn86TnJsX98TIQ",
+   "views": 718,
+   "duration_s": 796,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "EO07vQbdkfo",
+   "url": "https://www.youtube.com/watch?v=EO07vQbdkfo",
+   "title": "What IF You Were Trapped in a Time Loop Until You Beat PRIME CRISTIANO RONALDO !?",
+   "channel": "The Duck Who Knows",
+   "channel_url": "https://www.youtube.com/channel/UCq4GTuyLg3ZZ_1eWEjVUIMA",
+   "views": 664,
+   "duration_s": 1244,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "QJYm82OUBo4",
+   "url": "https://www.youtube.com/watch?v=QJYm82OUBo4",
+   "title": "What If You Were Stuck in a Time Loop Until You Solved a Rubik's Cube in Under 10 Seconds?",
+   "channel": "Oddly specific ",
+   "channel_url": "https://www.youtube.com/channel/UCdtCY76gXK35BiMjPymnklQ",
+   "views": 608,
+   "duration_s": 665,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "2HBE7LIVjLI",
+   "url": "https://www.youtube.com/watch?v=2HBE7LIVjLI",
+   "title": "THE LOOP \u27b0 Can They Get out  ?  \u2022 MR Cinevibes Presents | #viral #shortfilm #trending ",
+   "channel": "MR CineVibes",
+   "channel_url": "https://www.youtube.com/channel/UC-6rsfgmdkw0TbFMDaOFodA",
+   "views": 590,
+   "duration_s": 496,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q04"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "oEK2qEfvKic",
+   "url": "https://www.youtube.com/watch?v=oEK2qEfvKic",
+   "title": "What If Humans Never Invented Doors?",
+   "channel": "Ifpossible",
+   "channel_url": "https://www.youtube.com/channel/UCslXXjKBoOEzLZMsAH2Og_Q",
+   "views": 559,
+   "duration_s": 603,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "hmyYZiZLlTQ",
+   "url": "https://www.youtube.com/watch?v=hmyYZiZLlTQ",
+   "title": "What If YOU Were the Nerd Dating the Head Cheerleader?",
+   "channel": "Hypotethical stories ",
+   "channel_url": "https://www.youtube.com/channel/UCmYNZCsdU0XMhvcgqWv7Oog",
+   "views": 528,
+   "duration_s": 734,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "K5q2kZzO1hE",
+   "url": "https://www.youtube.com/watch?v=K5q2kZzO1hE",
+   "title": "What If Humans Never Invented Clothes?",
+   "channel": "FightToLive",
+   "channel_url": "https://www.youtube.com/channel/UC4NefFAHhniSlAw3_GMgxUQ",
+   "views": 490,
+   "duration_s": 479,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "sEdf6pYzeQc",
+   "url": "https://www.youtube.com/watch?v=sEdf6pYzeQc",
+   "title": "What If Humans Never Invented Clothes?",
+   "channel": "Hoo Knew",
+   "channel_url": "https://www.youtube.com/channel/UCYvuzW2FtfRc9EKwzq2GMMA",
+   "views": 277,
+   "duration_s": 630,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "Y59DsWSWHNQ",
+   "url": "https://www.youtube.com/watch?v=Y59DsWSWHNQ",
+   "title": "What If the Head Cheerleader Secretly Dated the Nerd?",
+   "channel": "IfStorm",
+   "channel_url": "https://www.youtube.com/channel/UCHYJdmKj16fDh0cHLd3pbNA",
+   "views": 270,
+   "duration_s": 972,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "rumsVCl8Z-c",
+   "url": "https://www.youtube.com/watch?v=rumsVCl8Z-c",
+   "title": "What If Humans Never Invented Clothes?",
+   "channel": "Milox",
+   "channel_url": "https://www.youtube.com/channel/UC4AKjcyxwATI7xk2WfPMytA",
+   "views": 267,
+   "duration_s": 595,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "E1qOhQSSPMs",
+   "url": "https://www.youtube.com/watch?v=E1qOhQSSPMs",
+   "title": "What If Games Were Never Invented? (No GTA 6)",
+   "channel": "Fableform ",
+   "channel_url": "https://www.youtube.com/channel/UClLJYK4EZLn5ciGAEmxWjig",
+   "views": 259,
+   "duration_s": 597,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "FUEjvm7zgU8",
+   "url": "https://www.youtube.com/watch?v=FUEjvm7zgU8",
+   "title": "\u0c2e\u0c28\u0c41\u0c37\u0c41\u0c32\u0c41 \u0c2c\u0c1f\u0c4d\u0c1f\u0c32\u0c41 \u0c15\u0c28\u0c3f\u0c2a\u0c46\u0c1f\u0c4d\u0c1f\u0c15\u0c2a\u0c4b\u0c24\u0c47 \u0c2a\u0c4d\u0c30\u0c2a\u0c02\u0c1a\u0c02 \u0c0e\u0c32\u0c3e \u0c09\u0c02\u0c21\u0c47\u0c26\u0c3f? #telugufacts #factsintelugu #whatif #amazingfacts",
+   "channel": "Maya Vignanam",
+   "channel_url": "https://www.youtube.com/channel/UC5ynInwOc2Mjq4ODy22Felw",
+   "views": 222,
+   "duration_s": 369,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "LKdRC3unBb0",
+   "url": "https://www.youtube.com/watch?v=LKdRC3unBb0",
+   "title": "What If Humans Never Invented Mirrors?",
+   "channel": "What if Verse",
+   "channel_url": "https://www.youtube.com/channel/UC3WgdUA0bPayQAf4ubErtbw",
+   "views": 203,
+   "duration_s": 255,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "X9fgblbhESc",
+   "url": "https://www.youtube.com/watch?v=X9fgblbhESc",
+   "title": "What If Humans Never Discovered Clothes?",
+   "channel": "English stories ",
+   "channel_url": "https://www.youtube.com/channel/UCCvcy5zq6TUAHG9IWkb1bjw",
+   "views": 199,
+   "duration_s": 275,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "ozrubNZDiDM",
+   "url": "https://www.youtube.com/watch?v=ozrubNZDiDM",
+   "title": "What If Humans Had Never Invented Clothes?",
+   "channel": "Almost Human",
+   "channel_url": "https://www.youtube.com/channel/UC8CE0FHMoCULrKtwzUY8VJw",
+   "views": 159,
+   "duration_s": 495,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "w05_Zrd1mQU",
+   "url": "https://www.youtube.com/watch?v=w05_Zrd1mQU",
+   "title": "What If Humans Never Invented Clothes?",
+   "channel": "Stickman Explains",
+   "channel_url": "https://www.youtube.com/channel/UCZG5glk9ye80MnNa0JG_l4A",
+   "views": 153,
+   "duration_s": 573,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "zECMffGjKbg",
+   "url": "https://www.youtube.com/watch?v=zECMffGjKbg",
+   "title": "What If the Nerd Dated the Prettiest Girl in School",
+   "channel": "IFNOMALY",
+   "channel_url": "https://www.youtube.com/channel/UCDK0BLWQPWZzUjBTxJ3Rutg",
+   "views": 120,
+   "duration_s": 383,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "dzSL9dLRTtU",
+   "url": "https://www.youtube.com/watch?v=dzSL9dLRTtU",
+   "title": "What If the Nerd Dated the Most Popular Girl in School?",
+   "channel": "Only You",
+   "channel_url": "https://www.youtube.com/channel/UCtous0_ESKeNrVqJKFpWkvA",
+   "views": 72,
+   "duration_s": 419,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "tEun7WQLm4M",
+   "url": "https://www.youtube.com/watch?v=tEun7WQLm4M",
+   "title": "What If Humans Never Invented Marriage?",
+   "channel": "Ifpossible",
+   "channel_url": "https://www.youtube.com/channel/UCslXXjKBoOEzLZMsAH2Og_Q",
+   "views": 49,
+   "duration_s": 621,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "mZOWQhdLA8Q",
+   "url": "https://www.youtube.com/watch?v=mZOWQhdLA8Q",
+   "title": "What If We Had Never Invented Clothes? The Naked Truth of Evolution",
+   "channel": "\ud835\udd78\ud835\udd97.\ud835\udd73\ud835\udd9a\ud835\udd98\ud835\udd8a\ud835\udd9e \ud83c\udde8\ud83c\udded  and \ud835\udc0c\ud835\udc2b.\ud835\udc07\ud835\udc2e\ud835\udc2c\ud835\udc1e\ud835\udc32\ud835\udc27 Animation \ud83c\udde8\ud83c\udded ",
+   "channel_url": null,
+   "views": 46,
+   "duration_s": 407,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q03"
+   ],
+   "windows": [
+    "week"
+   ]
+  },
+  {
+   "id": "zzeag5-S85Y",
+   "url": "https://www.youtube.com/watch?v=zzeag5-S85Y",
+   "title": "What If the NERD Fake-Dated the Most Popular Girl?",
+   "channel": "Tyler Cole",
+   "channel_url": "https://www.youtube.com/channel/UCq3tYP3zLO5xz1EciGw5p4A",
+   "views": 41,
+   "duration_s": 540,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "octRjM-ds6g",
+   "url": "https://www.youtube.com/watch?v=octRjM-ds6g",
+   "title": "What If Head Cheerleader Fell in Love With the School",
+   "channel": "Jake Mors",
+   "channel_url": "https://www.youtube.com/channel/UCtzDZ7uS9Gu6pJ9HAnJwZ5w",
+   "views": 19,
+   "duration_s": 627,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  },
+  {
+   "id": "C0tIEnH9gxg",
+   "url": "https://www.youtube.com/watch?v=C0tIEnH9gxg",
+   "title": "\u042f \u041c\u0430\u043a\u0442\u0440\u0430\u0445\u0435\u0440 \u0438 \u0432 \u043c\u0435\u043d\u044f \u0432\u043b\u044e\u0431\u0438\u043b\u0430\u0441\u044c \u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0430 \u0448\u043a\u043e\u043b\u044b \u0421\u0442\u0435\u0439\u0441\u0438!",
+   "channel": "\u0410bdik",
+   "channel_url": "https://www.youtube.com/channel/UC7tIA7_yRXSz7Ou5SMzvqYQ",
+   "views": 4,
+   "duration_s": 467,
+   "date": null,
+   "age_days": null,
+   "views_per_day": null,
+   "queries": [
+    "q06"
+   ],
+   "windows": [
+    "month",
+    "week"
+   ]
+  }
+ ]
+}

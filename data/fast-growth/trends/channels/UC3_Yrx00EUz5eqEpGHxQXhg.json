@@ -1,0 +1,74 @@
+{
+ "channel": "Darkmere",
+ "channel_id": "UC3_Yrx00EUz5eqEpGHxQXhg",
+ "channel_url": "https://www.youtube.com/channel/UC3_Yrx00EUz5eqEpGHxQXhg",
+ "subscribers": 811,
+ "description": "What if you could stop time, restart your day, or become the smartest person on Earth?\n\nYou’d totally have it figured out. Right?\n\nWelcome to Darkmere. We turn wild “what ifs” into animated stories with you in the middle. Try the power. Show off a little. Then deal with the part nobody warned you about.\n\nEvery perk has a catch. Still want yours?\n",
+ "tags": [],
+ "tab": "videos",
+ "stats": {
+  "sample_size": 4,
+  "median_views": 38500.0,
+  "mean_views": 57550,
+  "median_duration_s": 881.0,
+  "uploads_per_week": 4.2,
+  "uploads_last_30d": 4,
+  "views_last_30d_uploads": 230200,
+  "days_since_last_upload": 0,
+  "median_views_per_subscriber": 47.472
+ },
+ "videos": [
+  {
+   "id": "6hQj-OXZPuk",
+   "url": "https://www.youtube.com/watch?v=6hQj-OXZPuk",
+   "title": "What if you had infinite IQ as a PIRATE?",
+   "channel": "Darkmere",
+   "channel_url": null,
+   "views": 5200,
+   "duration_s": 866,
+   "date": "2026-11-22",
+   "age_days": 0,
+   "views_per_day": 5200,
+   "x_median": 0.14
+  },
+  {
+   "id": "S_RI9z-7P1w",
+   "url": "https://www.youtube.com/watch?v=S_RI9z-7P1w",
+   "title": "What if you had infinite IQ in ANCIENT EGYPT?",
+   "channel": "Darkmere",
+   "channel_url": null,
+   "views": 38000,
+   "duration_s": 885,
+   "date": "2026-11-21",
+   "age_days": 1,
+   "views_per_day": 38000,
+   "x_median": 0.99
+  },
+  {
+   "id": "Xhlz0babMNs",
+   "url": "https://www.youtube.com/watch?v=Xhlz0babMNs",
+   "title": "What if you had infinite IQ in a ZOMBIE APOCALYPSE?",
+   "channel": "Darkmere",
+   "channel_url": null,
+   "views": 39000,
+   "duration_s": 910,
+   "date": "2026-11-19",
+   "age_days": 3,
+   "views_per_day": 13000,
+   "x_median": 1.01
+  },
+  {
+   "id": "p2JN2nUWFsI",
+   "url": "https://www.youtube.com/watch?v=p2JN2nUWFsI",
+   "title": "What if you had Infinite IQ in the AMAZON RAINFOREST?",
+   "channel": "Darkmere",
+   "channel_url": null,
+   "views": 148000,
+   "duration_s": 877,
+   "date": "2026-11-17",
+   "age_days": 5,
+   "views_per_day": 29600,
+   "x_median": 3.84
+  }
+ ]
+}

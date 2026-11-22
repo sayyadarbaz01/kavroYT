@@ -1,0 +1,90 @@
+{
+ "title": "thumbs",
+ "duration": 14.0,
+ "shots": [
+  {
+   "id": "t1",
+   "start": 0.0,
+   "end": 2.0,
+   "line": "",
+   "scene": "thumbnail art",
+   "set": "",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "t1b",
+   "start": 2.0,
+   "end": 4.0,
+   "line": "",
+   "scene": "thumbnail art",
+   "set": "",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "t2",
+   "start": 4.0,
+   "end": 6.0,
+   "line": "",
+   "scene": "thumbnail art",
+   "set": "",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "t2b",
+   "start": 6.0,
+   "end": 8.0,
+   "line": "",
+   "scene": "thumbnail art",
+   "set": "",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "t3",
+   "start": 8.0,
+   "end": 10.0,
+   "line": "",
+   "scene": "thumbnail art",
+   "set": "",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "t3b",
+   "start": 10.0,
+   "end": 12.0,
+   "line": "",
+   "scene": "thumbnail art",
+   "set": "",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  },
+  {
+   "id": "r1",
+   "start": 12.0,
+   "end": 14.0,
+   "line": "",
+   "scene": "thumbnail art",
+   "set": "",
+   "bars": null,
+   "params": {},
+   "notes": "",
+   "sfx": []
+  }
+ ]
+}

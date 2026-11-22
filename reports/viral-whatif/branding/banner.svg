@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0E1533"/>
+      <stop offset="1" stop-color="#1B2456"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-80%" width="200%" height="260%">
+      <feGaussianBlur stdDeviation="9" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="2"/></filter>
+    <!-- bust: origin at bottom centre, about 250 tall -->
+    <g id="eyes">
+      <ellipse cx="-22" cy="-168" rx="15" ry="21" fill="#fff"/>
+      <ellipse cx="22" cy="-168" rx="15" ry="21" fill="#fff"/>
+    </g>
+<!-- KIP bust, origin = bottom centre, ~250 tall, head centre (0,-165) r=66 -->
+<g id="kip">
+  <path d="M-98 0 C-98 -78 -58 -110 0 -110 C58 -110 98 -78 98 0 Z" fill="#2a2a33" stroke="#474756" stroke-width="3"/>
+  <path d="M-52 -106 C-40 -86 40 -86 52 -106 C40 -118 -40 -118 -52 -106 Z" fill="#1d1d24"/>
+  <path d="M-16 -98 L-20 -55" stroke="#d9d9de" stroke-width="5" stroke-linecap="round"/>
+  <path d="M16 -98 L20 -55" stroke="#d9d9de" stroke-width="5" stroke-linecap="round"/>
+  <path d="M38 -78 L24 -52 L35 -52 L27 -30 L48 -60 L37 -60 L45 -78 Z" fill="#ffd23f"/>
+  <circle cx="0" cy="-165" r="66" fill="#f6f3ec" stroke="#141218" stroke-width="5"/>
+  <ellipse cx="-22" cy="-158" rx="13" ry="18" fill="#141218"/>
+  <ellipse cx="22" cy="-158" rx="13" ry="18" fill="#141218"/>
+  <circle cx="-17" cy="-165" r="5" fill="#fff"/><circle cx="27" cy="-165" r="5" fill="#fff"/>
+  <path d="M-12 -128 Q0 -120 12 -128" stroke="#141218" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M-66 -182 C-66 -232 -36 -244 0 -244 C36 -244 66 -232 66 -182 Z" fill="#1b1b20"/>
+  <path d="M0 -244 L0 -182 M-34 -238 L-22 -182 M34 -238 L22 -182" stroke="#3a3a42" stroke-width="2.5"/>
+  <circle cx="0" cy="-244" r="5" fill="#2c2c33"/>
+  <text x="0" y="-195" text-anchor="middle" font-family="Avenir Next" font-weight="800" font-size="34" fill="#ffffff">K</text>
+  <path d="M-74 -184 C-40 -172 40 -172 78 -184 C60 -164 -50 -162 -74 -184 Z" fill="#4a4a55"/>
+  <path d="M-72 -186 C-40 -176 40 -176 76 -186" stroke="#1b1b20" stroke-width="7" fill="none" stroke-linecap="round"/>
+</g>
+
+  </defs>
+  <rect width="2560" height="1440" fill="url(#bg)"/>
+
+  <!-- faint floating labels outside and around the safe area (visible on TV / wide desktop) -->
+  <g font-family="Avenir Next" font-weight="700" fill="#FFFFFF" opacity="0.10" font-size="44">
+    <text x="90" y="600">#8,000,000,001</text>
+    <text x="230" y="760">LOOP 1,006</text>
+    <text x="60" y="900">ROOM 3 OF 7</text>
+    <text x="2170" y="590">DAY 30</text>
+    <text x="2230" y="740">#412</text>
+    <text x="2120" y="890">LOOP 450</text>
+    <text x="300" y="300">WHAT IF?</text>
+    <text x="1900" y="260">#31,207</text>
+    <text x="700" y="1180">ROOM 7 OF 7</text>
+    <text x="1650" y="1210">#6,914,377,020</text>
+  </g>
+  <g fill="#FFFFFF" opacity="0.35">
+    <circle cx="160" cy="680" r="3"/><circle cx="420" cy="560" r="2"/><circle cx="380" cy="880" r="3"/>
+    <circle cx="2300" cy="660" r="3"/><circle cx="2420" cy="820" r="2"/><circle cx="2140" cy="950" r="2"/>
+    <circle cx="900" cy="250" r="2"/><circle cx="1500" cy="200" r="3"/><circle cx="1200" cy="1250" r="2"/>
+  </g>
+
+  <!-- SAFE AREA 507..2053 x 508..931 -->
+  <!-- Logo and text, left side -->
+  <g font-family="Avenir Next">
+    <text x="560" y="700" font-weight="800" font-size="132" fill="#FFFFFF" letter-spacing="2">IF <tspan fill="#FF8A2B">BLAZE</tspan></text>
+    <text x="566" y="772" font-weight="600" font-size="37" fill="#FFFFFF">One rule changes. Everything else follows.</text>
+    <text x="566" y="840" font-weight="700" font-size="30" fill="#FFD23F" letter-spacing="3">NEW VIDEO EVERY DAY</text>
+  </g>
+
+  <!-- Characters, right side. Ground line y=925 -->
+  <!-- 1. Lead: KIP (white head, black hoodie, K cap, gold bolt), green label -->
+  <g transform="translate(1405,925) scale(0.85)">
+    <use href="#kip"/>
+    <g filter="url(#glow)"><rect x="-80" y="-350" width="160" height="56" rx="14" fill="#22E07A"/><path d="M-14 -295 L14 -295 L0 -278 Z" fill="#22E07A"/></g>
+    <text x="0" y="-311" text-anchor="middle" font-family="Avenir Next" font-weight="800" font-size="36" fill="#0B3D22">#4,201</text>
+  </g>
+  <!-- 2. Co-lead: ponytail, green bomber, loop counter -->
+  <g transform="translate(1570,925) scale(0.85)">
+    <path d="M-92 0 C-92 -80 -52 -110 0 -110 C52 -110 92 -80 92 0 Z" fill="#2F8F4E"/>
+    <path d="M-30 -110 L0 -60 L30 -110 Z" fill="#111"/>
+    <path d="M-92 -10 L92 -10 L92 0 L-92 0 Z" fill="#256F3D"/>
+    <!-- ponytail -->
+    <path d="M10 -246 C70 -262 110 -232 100 -186 C94 -158 84 -140 70 -126 C80 -160 70 -196 30 -208 Z" fill="#111"/>
+    <circle cx="0" cy="-170" r="72" fill="#111"/>
+    <ellipse cx="40" cy="-232" rx="16" ry="12" fill="#FF5DA2"/>
+    <use href="#eyes" transform="translate(0,-2)"/>
+    <g filter="url(#glow)"><rect x="-86" y="-350" width="172" height="56" rx="14" fill="#2EC5FF"/><path d="M-14 -295 L14 -295 L0 -278 Z" fill="#2EC5FF"/></g>
+    <text x="0" y="-311" text-anchor="middle" font-family="Avenir Next" font-weight="800" font-size="32" fill="#06304A">LOOP 37</text>
+  </g>
+  <!-- 3. Rival: grey blazer, red label -->
+  <g transform="translate(1735,925) scale(0.85)">
+    <path d="M-95 0 C-95 -80 -55 -112 0 -112 C55 -112 95 -80 95 0 Z" fill="#8A8F99"/>
+    <path d="M-26 -112 L0 -40 L26 -112 Z" fill="#F2F2F2"/>
+    <path d="M-8 -100 L8 -100 L5 -55 L0 -48 L-5 -55 Z" fill="#C8102E"/>
+    <path d="M-30 -110 L-8 -30 L-48 -80 Z" fill="#6E737C"/>
+    <path d="M30 -110 L8 -30 L48 -80 Z" fill="#6E737C"/>
+    <circle cx="0" cy="-170" r="72" fill="#111"/>
+    <path d="M-60 -205 C-40 -250 40 -255 66 -205 C40 -228 -30 -228 -60 -205 Z" fill="#000"/>
+    <use href="#eyes"/>
+    <path d="M-42 -194 L-8 -186" stroke="#111" stroke-width="8" stroke-linecap="round"/>
+    <path d="M42 -194 L8 -186" stroke="#111" stroke-width="8" stroke-linecap="round"/>
+    <g filter="url(#glow)"><rect x="-56" y="-350" width="112" height="56" rx="14" fill="#FF3B4E"/><path d="M-14 -295 L14 -295 L0 -278 Z" fill="#FF3B4E"/></g>
+    <text x="0" y="-311" text-anchor="middle" font-family="Avenir Next" font-weight="800" font-size="36" fill="#4A0710">#2</text>
+  </g>
+  <!-- 4. Friend: maroon hoodie, holding an empty gold mirror frame, day counter -->
+  <g transform="translate(1900,925) scale(0.85)">
+    <path d="M-95 0 C-95 -80 -55 -112 0 -112 C55 -112 95 -80 95 0 Z" fill="#B23A48"/>
+    <circle cx="0" cy="-170" r="72" fill="#111"/>
+    <path d="M-70 -190 C-60 -250 60 -250 70 -190 C50 -215 -50 -215 -70 -190 Z" fill="#000"/>
+    <use href="#eyes"/>
+    <!-- arms holding frame -->
+    <ellipse cx="0" cy="-62" rx="48" ry="58" fill="none" stroke="#F5C542" stroke-width="13"/>
+    <ellipse cx="0" cy="-62" rx="36" ry="46" fill="#1B2456" opacity="0.65"/>
+    <circle cx="-50" cy="-40" r="14" fill="#111"/><circle cx="50" cy="-40" r="14" fill="#111"/>
+    <g filter="url(#glow)"><rect x="-80" y="-350" width="160" height="56" rx="14" fill="#FFD23F"/><path d="M-14 -295 L14 -295 L0 -278 Z" fill="#FFD23F"/></g>
+    <text x="0" y="-311" text-anchor="middle" font-family="Avenir Next" font-weight="800" font-size="34" fill="#4A3500">DAY 12</text>
+  </g>
+</svg>

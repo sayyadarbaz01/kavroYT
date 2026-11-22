@@ -1,0 +1,27 @@
+{
+  "source": "out/What_If_You_and_Your_Crush_Were_Stuck_in_a_Time_Loop.mp4",
+  "fix": {},
+  "shorts": [
+    {
+      "id": "short1_time_loop",
+      "file": "Short1_Stuck_In_A_Time_Loop.mp4",
+      "hook": "WHAT IF YOU WERE STUCK|IN A *TIME LOOP*?",
+      "segments": [[0.0, 31.79], [74.55, 91.91]],
+      "replace": []
+    },
+    {
+      "id": "short2_she_was_looping",
+      "file": "Short2_She_Was_Looping_Too.mp4",
+      "hook": "SHE WAS IN THE LOOP|*600 LOOPS LONGER*",
+      "segments": [[301.41, 339.41]],
+      "replace": []
+    },
+    {
+      "id": "short3_1158",
+      "file": "Short3_Why_She_Left_At_1158.mp4",
+      "hook": "WHY SHE ALWAYS|LEFT AT *11:58*",
+      "segments": [[416.59, 467.25]],
+      "replace": []
+    }
+  ]
+}

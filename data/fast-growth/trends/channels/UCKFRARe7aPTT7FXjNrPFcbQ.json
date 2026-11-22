@@ -1,0 +1,108 @@
+{
+ "channel": "Hypothtica",
+ "channel_id": "UCKFRARe7aPTT7FXjNrPFcbQ",
+ "channel_url": "https://www.youtube.com/channel/UCKFRARe7aPTT7FXjNrPFcbQ",
+ "subscribers": 837,
+ "description": "",
+ "tags": [
+  "what if",
+  "animation",
+  "what if animation",
+  "what if this happened",
+  "what if stories",
+  "hypothetically",
+  "what would happen"
+ ],
+ "tab": "videos",
+ "stats": {
+  "sample_size": 6,
+  "median_views": 16500.0,
+  "mean_views": 38850,
+  "median_duration_s": 551.5,
+  "uploads_per_week": 3.89,
+  "uploads_last_30d": 6,
+  "views_last_30d_uploads": 233100,
+  "days_since_last_upload": 0,
+  "median_views_per_subscriber": 19.713
+ },
+ "videos": [
+  {
+   "id": "eDYyxcPHccE",
+   "url": "https://www.youtube.com/watch?v=eDYyxcPHccE",
+   "title": "What If Nobody Could Tell the Truth?",
+   "channel": "Hypothtica",
+   "channel_url": null,
+   "views": 4200,
+   "duration_s": 609,
+   "date": "2026-11-22",
+   "age_days": 0,
+   "views_per_day": 4200,
+   "x_median": 0.25
+  },
+  {
+   "id": "aJ9tMiHK0ms",
+   "url": "https://www.youtube.com/watch?v=aJ9tMiHK0ms",
+   "title": "What If You Got Trapped in the Gym With Your Crush for 30 Days?",
+   "channel": "Hypothtica",
+   "channel_url": null,
+   "views": 5900,
+   "duration_s": 565,
+   "date": "2026-11-21",
+   "age_days": 1,
+   "views_per_day": 5900,
+   "x_median": 0.36
+  },
+  {
+   "id": "_3AH3ECmCoA",
+   "url": "https://www.youtube.com/watch?v=_3AH3ECmCoA",
+   "title": "What If You Could See What Would Impress Everyone?",
+   "channel": "Hypothtica",
+   "channel_url": null,
+   "views": 20000,
+   "duration_s": 617,
+   "date": "2026-11-19",
+   "age_days": 3,
+   "views_per_day": 6667,
+   "x_median": 1.21
+  },
+  {
+   "id": "BK7PuYk8nGk",
+   "url": "https://www.youtube.com/watch?v=BK7PuYk8nGk",
+   "title": "What If You Could See Everyones Biggest Trauma?",
+   "channel": "Hypothtica",
+   "channel_url": null,
+   "views": 13000,
+   "duration_s": 424,
+   "date": "2026-11-19",
+   "age_days": 3,
+   "views_per_day": 4333,
+   "x_median": 0.79
+  },
+  {
+   "id": "XYH9MA_49h4",
+   "url": "https://www.youtube.com/watch?v=XYH9MA_49h4",
+   "title": "What If You Could See Everyone for Who They Really Are?",
+   "channel": "Hypothtica",
+   "channel_url": null,
+   "views": 154000,
+   "duration_s": 538,
+   "date": "2026-11-18",
+   "age_days": 4,
+   "views_per_day": 38500,
+   "x_median": 9.33
+  },
+  {
+   "id": "IRZBbbp4Kyw",
+   "url": "https://www.youtube.com/watch?v=IRZBbbp4Kyw",
+   "title": "What If You Could See Everyones Answer to Your Questions?",
+   "channel": "Hypothtica",
+   "channel_url": null,
+   "views": 36000,
+   "duration_s": 482,
+   "date": "2026-11-13",
+   "age_days": 9,
+   "views_per_day": 4000,
+   "x_median": 2.18
+  }
+ ]
+}

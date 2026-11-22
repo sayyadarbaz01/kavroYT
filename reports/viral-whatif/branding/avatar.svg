@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="65%"><stop offset="0" stop-color="#FFA552"/><stop offset="1" stop-color="#F26B1D"/></radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#7A2A00" flood-opacity="0.35"/></filter>
+    <!-- KIP bust, origin = bottom centre, ~250 tall, head centre (0,-165) r=66 -->
+<g id="kip">
+  <path d="M-98 0 C-98 -78 -58 -110 0 -110 C58 -110 98 -78 98 0 Z" fill="#2a2a33" stroke="#474756" stroke-width="3"/>
+  <path d="M-52 -106 C-40 -86 40 -86 52 -106 C40 -118 -40 -118 -52 -106 Z" fill="#1d1d24"/>
+  <path d="M-16 -98 L-20 -55" stroke="#d9d9de" stroke-width="5" stroke-linecap="round"/>
+  <path d="M16 -98 L20 -55" stroke="#d9d9de" stroke-width="5" stroke-linecap="round"/>
+  <path d="M38 -78 L24 -52 L35 -52 L27 -30 L48 -60 L37 -60 L45 -78 Z" fill="#ffd23f"/>
+  <circle cx="0" cy="-165" r="66" fill="#f6f3ec" stroke="#141218" stroke-width="5"/>
+  <ellipse cx="-22" cy="-158" rx="13" ry="18" fill="#141218"/>
+  <ellipse cx="22" cy="-158" rx="13" ry="18" fill="#141218"/>
+  <circle cx="-17" cy="-165" r="5" fill="#fff"/><circle cx="27" cy="-165" r="5" fill="#fff"/>
+  <path d="M-12 -128 Q0 -120 12 -128" stroke="#141218" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M-66 -182 C-66 -232 -36 -244 0 -244 C36 -244 66 -232 66 -182 Z" fill="#1b1b20"/>
+  <path d="M0 -244 L0 -182 M-34 -238 L-22 -182 M34 -238 L22 -182" stroke="#3a3a42" stroke-width="2.5"/>
+  <circle cx="0" cy="-244" r="5" fill="#2c2c33"/>
+  <text x="0" y="-195" text-anchor="middle" font-family="Avenir Next" font-weight="800" font-size="34" fill="#ffffff">K</text>
+  <path d="M-74 -184 C-40 -172 40 -172 78 -184 C60 -164 -50 -162 -74 -184 Z" fill="#4a4a55"/>
+  <path d="M-72 -186 C-40 -176 40 -176 76 -186" stroke="#1b1b20" stroke-width="7" fill="none" stroke-linecap="round"/>
+</g>
+
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <g filter="url(#shadow)" transform="translate(400,820) scale(2.75)"><use href="#kip"/></g>
+</svg>
