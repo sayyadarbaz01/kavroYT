@@ -38,8 +38,11 @@ except Exception:
 ok("Chromium for Playwright", chrom, "", f"cd \"{ROOT}\" && npx playwright install chromium")
 ok("yt-dlp (YouTube research)", bool(shutil.which("yt-dlp")), ver(["yt-dlp", "--version"]) or "",
    {"Windows": "winget install yt-dlp.yt-dlp", "Darwin": "brew install yt-dlp"}.get(OS, f"\"{PY}\" -m pip install yt-dlp"))
+def imports(mod):  # find_spec alone misses a package whose own dependencies are missing (faster-whisper without av)
+    try: return subprocess.run([PY, "-c", f"import {mod}"], capture_output=True, timeout=120).returncode == 0
+    except Exception: return False
 for mod, pipname in [("numpy", "numpy"), ("scipy", "scipy"), ("PIL", "Pillow"), ("faster_whisper", "faster-whisper")]:
-    ok(f"python: {pipname}", importlib.util.find_spec(mod) is not None, "", f"\"{PY}\" -m pip install {pipname}" + (" --break-system-packages" if OS == "Linux" else ""))
+    ok(f"python: {pipname}", importlib.util.find_spec(mod) is not None and imports(mod), "",f"\"{PY}\" -m pip install {pipname}" + (" --break-system-packages" if OS == "Linux" else ""))
 ok(f"python >= 3.9", sys.version_info >= (3, 9), sys.version.split()[0], "install Python 3.10+ from https://python.org")
 
 print("\naiTrends 2D Studio — environment check\n")

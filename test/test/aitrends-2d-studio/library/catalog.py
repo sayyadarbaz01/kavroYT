@@ -81,7 +81,10 @@ def find(words, limit=40):
 
 def sheet(words, out, cols=4):
     from PIL import Image, ImageDraw
-    hits = [e for e in find(words) if e.get('thumb')][:32]
+    hits = [e for e in find(words) if e.get('thumb')]
+    gone = [e for e in hits if not os.path.exists(os.path.join(LIB, e['thumb']))]   # thumbs are .jpg, which .gitignore keeps out of Git
+    hits = [e for e in hits if e not in gone][:32]
+    if gone: print(f'{len(gone)} thumbnail file(s) missing on this machine (not in Git; copy library/thumbs/ by hand)')
     if not hits: print('nothing with thumbnails'); return
     W, H, pad = 480, 270, 34; img = Image.new('RGB', (cols * W, ((len(hits) + cols - 1) // cols) * (H + pad)), (18, 18, 22)); d = ImageDraw.Draw(img)
     for i, e in enumerate(hits):

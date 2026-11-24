@@ -83,7 +83,9 @@ def main():
     cfg = load_json(os.path.join(a.project, "config.json"))
     total = probe_duration(os.path.join(a.project, cfg["voiceover"])) if cfg.get("voiceover") else None
     path = a.script
-    txt = open(path, encoding="utf-8-sig").read()
+    if not os.path.exists(path) and os.path.exists(os.path.join(a.project, path)):
+        path = os.path.join(a.project, path)   # --script input/script.srt is relative to the project
+    txt =open(path, encoding="utf-8-sig").read()
     ext = os.path.splitext(path)[1].lower()
     words = None
     if ext in (".srt", ".vtt"):

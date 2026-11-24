@@ -42,6 +42,7 @@ Run `push` on the laptop where you worked, then `pull` on the other one. `pull` 
 `.gitignore` keeps these out. Copy them by hand (AirDrop, USB drive) if you need them on the other laptop:
 
 - Rendered videos and frames: `projects/*/out/`, `projects/*/build/`
+- Shot-library thumbnails: `library/thumbs/` (`catalog.py find` works without them; `catalog.py sheet` needs them)
 - Thumbnails and AI art: `projects/*/seo/thumbnail.jpg`, `projects/ifblaze-thumbs/ai/art/`, `projects/ifblaze-thumbs/ai/out/`
 - `node_modules/` (rebuilt by `setup.sh`), Python caches, Whisper models (downloaded on first use)
 - Logs (`*.err`, `*.log`), `.env` files, keys and other secrets

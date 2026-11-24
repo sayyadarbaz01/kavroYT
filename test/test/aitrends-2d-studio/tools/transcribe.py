@@ -87,6 +87,10 @@ def main():
         sys.exit("no speech found in the voiceover")
     source = f"whisper:{model_name}"
     script = a.script or (os.path.join(a.project, cfg["script"]) if cfg.get("script") and cfg["script"].endswith((".txt", ".md")) else None)
+    if script and not os.path.exists(script) and os.path.exists(os.path.join(a.project, script)):
+        script = os.path.join(a.project, script)   # --script input/script.txt is relative to the project
+    if a.script and not os.path.exists(script):
+        sys.exit(f"script not found: {a.script} (looked here and in {a.project})")
     if script and os.path.exists(script):
         txt = open(script, encoding="utf-8").read()
         txt = re.sub(r"^\s*#.*$", "", txt, flags=re.M)  # drop markdown headings
